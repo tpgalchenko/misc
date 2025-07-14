@@ -904,7 +904,7 @@ const DATA =
 			{
 				"q": "願",
 				"s": "원",
-				"m": "wish,desire,*petition",
+				"m": "wish, desire, *petition",
 				"d": "A gigantic Wizard-of-Oz <b>head</b> located in the middle of the flowery <b>meadow</b>. Then just picture people kneeling hopefully before it, petitioning for whatever it is they want. (The scarecrow wanted brains, the lion, courage, and the tin man a heart. What about you?)",
 				"e": "所願 소원 wish, desire"
 			},
@@ -1944,6 +1944,137 @@ const DATA =
 				"d": "The first lie-detector machines of the 20th century worked by wiring pieces of metal to the body to measure the amount of sweat produced when questions were asked. It was discovered that nervousness produced more sweat, indicating subconscious reactions when the truth was getting too close for comfort. Nowadays, people can take drugs to tranquillize them to neutralize the effect of the device, which is why other means have had to be developed.",
 				"e": ""
 			}
+		]
+	},
+	{
+		"name" : "L13",
+		"cards" : [
+			{
+				"q": "辶",
+				"s": "착",
+				"m": "to walk rests, *road",
+				"d": "",
+				"e": ""
+			},
+			{
+				"q": "道",
+				"s": "도",
+				"m": "road-way",
+				"d": "A crowded road-way where traffic has come to a  standstill — what we commonly refer to as a “bottleneck.”",
+				"e": "道路 도로 road"
+			},
+			{
+				"q": "導",
+				"s": "도",
+				"m": "guidance",
+				"d": "When we accept someone’s <b>guidance</b>, we permit ourselves to be <b>glued</b> to a certain <b>road or way</b> of doing something, and try to “stick” to it.",
+				"e": "導入 도입 introduction, import"
+			},
+			{
+				"q": "辻",
+				"s": "십",
+				"m": "crossing",
+				"d": "A <b>cross</b> on a <b>road</b> to create a <b>crossing</b>.",
+				"e": ""
+			},
+			{
+				"q": "迅",
+				"s": "신",
+				"m": "swift",
+				"d": "A <b>crossing</b> in the form of a <b>barbed fishhook</b>, suggesting a swifter alternate not only to the old roundabouts but also to the “cloverleaf” design used on superhighways.",
+				"e": "迅速 신속 promptness, swiftness"
+			},
+			{
+				"q": "造",
+				"s": "조",
+				"m": "create",
+				"d": "Creating is like making something out of nothing. Recall how the way of <b>revelation</b> laid out in the Bible begins with the story of how God <b>created</b> the world out of a dark and chaotic nothingness.",
+				"e": "構造 구조 structure, construction"
+			},
+			{
+				"q": "迫",
+				"s": "박",
+				"m": "imminent, *urge",
+				"d": "To <b>urge</b> someone to do something, you make the <b>way</b> as appealing as possible, perhaps even <b>white</b>washing it a bit.",
+				"e": "脅迫 협박 menace, intimidation"
+			},
+			{
+				"q": "逃",
+				"s": "도",
+				"m": "escape",
+				"d": "When <b>escaping</b> from something or someone, one always feels as if one is not going fast enough, like a <b>turtle</b> on an <b>express-way</b>.",
+				"e": "逃亡 도망 escape, flight"
+			},
+			{
+				"q": "辺",
+				"s": "변",
+				"m": "edge, side, *environs",
+				"d": "To keep the <b>environs</b> clean and safe, you could cement <b>daggers</b> in the <b>road</b>, blades pointed upwards, so that no polluting traffic could pass by. You could, if you were an ecologically-minded terrorist.",
+				"e": ""
+			},
+			{
+				"q": "巡",
+				"s": "순",
+				"m": "turn about, *patrol",
+				"d": "A virtual <b>deluge</b> of motorcycle police washing down a <b>road</b> is this kanji’s image for a patrol.",
+				"e": "巡警 순경 patrol(ling), patrolman"
+			},
+			{
+				"q": "車",
+				"s": "차",
+				"m": "car",
+				"d": "Look for the front and back wheels (the first and last horizontal strokes) and the seat in the carriage in the middle.",
+				"e": "馬車 마차 horse-drawn carriage; 洗車 세차 car washing"
+			},
+			{
+				"q": "連",
+				"s": "련",
+				"m": "connected, adhacent, *take along",
+				"d": "What you are meant to <b>take along</b> in this kanji are not things but people. The image of the car on the road should ground your image for picking up your friends to take them along to wherever you are going.",
+				"e": "連結 연결 connection"
+			},
+			{
+				"q": "軌",
+				"s": "궤",
+				"m": "rut",
+				"d": "A baseball team car got its tires caught in a rut to spin without going anywhere.",
+				"e": "軌道 궤도 orbit"
+			},
+			{
+				"q": "輸",
+				"s": "수",
+				"m": "transport",
+				"d": "<b>Flesh, saber</b> = butcher and his trade + <b>vehicle + meeting/b> = trucker's convoy.",
+				"e": "輸出 수출 export"
+			},
+			{
+				"q": "前",
+				"s": "전",
+				"m": "in front",
+				"d": "A butcher hacking away with his knife at a slab of meat on his table with a pair of ram’s horns placed in front of him (or on his head, if you prefer).",
+				"e": "午前 오전 forenoon"
+			},
+			{
+				"q": "",
+				"s": "",
+				"m": "",
+				"d": "",
+				"e": ""
+			},
+			{
+				"q": "",
+				"s": "",
+				"m": "",
+				"d": "",
+				"e": ""
+			},
+			{
+				"q": "",
+				"s": "",
+				"m": "",
+				"d": "",
+				"e": ""
+			},
 		]
 	}
 ];
