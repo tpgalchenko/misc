@@ -1,0 +1,357 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Hanja flash cards</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<script src="chars.js"></script>
+	<script>
+function shuffle(array) {
+	let currentIndex = array.length;
+
+	while (currentIndex != 0) {
+	let randomIndex = Math.floor(Math.random() * currentIndex);
+		currentIndex--;
+
+		let tmp = array[currentIndex];
+		array[currentIndex] = array[randomIndex];
+		array[randomIndex] = tmp;
+	}
+}
+
+let answerCount = 0;
+let questionIndex = -1;
+let currentCard = null;
+let lastCard = [];
+let lessons = DATA.slice();
+let data = null;
+const HISTORY_SIZE = 10;
+
+function showCurrentQuestion() {
+	document.getElementById("answer").style.display = 'none';
+
+	const q = document.getElementById("question");
+	if(document.getElementById("hanja_mode").checked) {
+		q.innerText = currentCard['q'];
+		q.className = 'hanja_question';
+	} else {
+		q.innerText = currentCard['m'];
+		q.className = 'keyword_question';
+	}
+
+	q.style.display = 'inline';
+}
+
+function showNextQuestion() {
+	if(currentCard) {
+		if(lastCard.push(currentCard) > HISTORY_SIZE) {
+			lastCard.splice(0, 1);
+		}
+	}
+
+	questionIndex += 1;
+	if(questionIndex === data.length) {
+		shuffle(data);
+		questionIndex = 0;
+		answerCount = 0;
+		updateStatus();
+	}
+
+	currentCard = data[questionIndex];
+	showCurrentQuestion();
+}
+
+function showLastQuestion() {
+	if(lastCard.length > 0) {
+		currentCard = lastCard.pop();
+		showCurrentQuestion();
+	}
+}
+
+function showAnswer() {
+	document.getElementById("question").style.display = 'none';
+
+	document.getElementById("a_char").innerText = currentCard['q'];
+	document.getElementById("a_spell").innerText = "[ " + currentCard['s'] + " ]";
+	document.getElementById("a_mean").innerText = currentCard['m'];
+	document.getElementById("a_desc").innerHTML = currentCard['d'];
+	document.getElementById("a_example").innerText = currentCard['e'];
+	document.getElementById("answer").style.display = 'block';
+
+	answerCount = (answerCount + 1) % data.length;
+	updateStatus();
+}
+
+function handleClick() {
+	if(document.getElementById("question").style.display === 'inline') {
+		showAnswer();
+	} else {
+		showNextQuestion();
+	}
+}
+
+function updateStatus() {
+	document.getElementById("status-text").innerText = "Total: " + data.length + " chars. Answered: " + answerCount + " chars";
+}
+
+function toggleLessonsDialog(e) {
+	const frame = document.getElementById("lessons-frame");
+	frame.classList.toggle("active");
+}
+
+function toggleLesson() {
+	let checked = 0;
+	for(let k = 0; k < DATA.length; ++k) {
+		const cb = document.getElementById(DATA[k].name);
+		if(cb.checked) checked += 1;
+	}
+
+	const l_all = document.getElementById("l_all");
+	l_all.checked = checked === DATA.length;
+	l_all.indeterminate = checked != DATA.length;
+}
+
+function setupLessonsDialog() {
+	const ul = document.getElementById("lesson-list");
+	while(ul.lastChild.id !== 'li_all') {
+		ul.removeChild(ul.lastChild);
+	}
+
+	document.getElementById("l_all").checked = true;
+
+	for(let k = 0; k < DATA.length; ++k) {
+		const li = document.createElement("li");
+		const inp = document.createElement("input");
+		inp.type = "checkbox";
+		inp.id = DATA[k].name;
+		inp.classList.add("lessons-checkbox");
+		inp.checked = true;
+		inp.addEventListener('change', function() { toggleLesson(inp); }, false);
+		li.appendChild(inp);
+
+		const label = document.createElement("label");
+		label.for = inp.id;
+		label.innerText = inp.id + " (" + DATA[k]["cards"].length + ")";
+		label.classList.add("lesson-cb-label");
+		label.addEventListener('click', function() { inp.checked = !inp.checked; toggleLesson(inp); }, false);
+		li.appendChild(label);
+		ul.appendChild(li);
+	}
+}
+
+function toggleAll() {
+	const l_all = document.getElementById("l_all");
+
+	for(let k = 0; k < DATA.length; ++k) {
+		const cb = document.getElementById(DATA[k].name);
+		cb.checked = l_all.checked;
+	}
+}
+
+function cancelLessonsDialog(e) {
+	toggleLessonsDialog(e);
+}
+
+function indexLessons() {
+	data = []
+	for(let k = 0; k < lessons.length; ++k) {
+		data.push(... lessons[k].cards);
+	}
+	shuffle(data);
+	answerCount = 0;
+}
+
+function okLessonsDialog(e) {
+	let checked = 0;
+	for(let k = 0; k < DATA.length; ++k) {
+		const cb = document.getElementById(DATA[k].name);
+		if(cb.checked) checked += 1;
+	}
+	if(checked === 0) {
+		return;
+	}
+
+	toggleLessonsDialog(e);
+	lessons = []
+	for(let k = 0; k < DATA.length; ++k) {
+		const cb = document.getElementById(DATA[k].name);
+		if(cb.checked) {
+			lessons.push(DATA[k]);
+		}
+	}
+	indexLessons();
+	updateStatus();
+}
+
+function onLoad() {
+	for(let k = 0; k < DATA.length; ++k) {
+		for(let q = 0; q < DATA[k]["cards"].length; ++q) {
+			 DATA[k]["cards"][q]["lesson"] = DATA[k]["name"];
+		}
+	}
+	indexLessons();
+	setupLessonsDialog();
+	updateStatus();
+	showNextQuestion();
+	window.addEventListener("keypress", (ev) => {
+		if(ev.key === " ") {
+			handleClick();
+		}
+	});
+}
+	</script>
+	<style type='text/css'>
+		#card-container {
+			display: flex;
+			justify-content: center;
+		}
+		#card {
+			width: 100%;
+			height: 70vh;
+			text-align: center;
+			border: 1px solid;
+			margin: 1em;
+
+			-webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
+			-moz-box-sizing: border-box;    /* Firefox, other Gecko */
+			box-sizing: border-box;         /* Opera/IE 8+ */
+			
+			display: flex;
+			align-items: center; /* Vertical center alignment */
+			justify-content: center; /* Horizontal center alignment */
+		}
+		#question {
+			vertical-align: middle;
+		}
+		.hanja_question {
+			font-size: 25vh;
+			light-height: 25vh;
+		}
+		.keyword_question {
+			font-size: 8vh;
+			light-height: 8vh;
+		}
+		#answer {
+			width: 100%;
+			height: 100%;
+			display: flex;
+			flex-direction: column;
+			justify-content: center;
+			align-items: center;
+		}
+		#a_line0 {
+			font-size: 5vh;
+		}
+		#a_spell {
+			color: blue;
+		}
+		#a_mean {
+			color: red;
+		}
+		#a_desc, #a_example {
+			font-size: 2.75vh;
+			vertical-align: middle;
+			width:100%;
+		}
+		#a_grid {
+			width: 100%;
+			height: 100%;
+			display: grid;
+			align-items: center;
+		}
+		#toolbar {
+			width: 100%;
+			height: 10vh;
+			display: flex;
+			justify-content: center;
+			align-items: center;
+			column-gap: 2vh;
+			vertical-align: middle;
+			font-size: 2vh;
+		}
+		.lessons-checkbox {
+			margin-right: 30px;
+		}
+		
+		#hanja_mode, #keyword_mode, .lessons-checkbox, .lesson-cb-label {
+			height: 10em;
+			-webkit-transform: scale(2); /* Chrome, Safari, Opera */
+			transform: scale(2);
+			vertical-align: middle;
+		}
+		input[type="button"] {
+			font-size: 2vh;
+			padding: 20px;
+		}
+		#a_line1 {
+			display: table-cell;
+		}
+		#status-line {
+			font-size: 2vh;
+		}
+		.lessons-frame {
+			display: none;
+			position: fixed;
+			width: 100vw;
+			height: 100vh;
+			background: #00000088;
+			top: 0;
+			border: 1px solid;
+		}
+		.active {
+			display: flex;
+			justify-content: center;
+			alight-items: center;
+		}
+		#lessons-dlg {
+			background: #FFFFFF;
+			font-size: 2vh;
+			border: 1px solid;
+			padding: 2vw;
+			margin: 2vw;
+			height: fit-content;
+			max-height: 70vh;
+			width: 40vw;
+			overflow: auto;
+		}
+	</style>
+</head>
+<body onload="onLoad()">
+	<div id="toolbar">
+		<a href="#" onclick="toggleLessonsDialog(this)" title="Lessons">Lessons</a>
+		<a href="#" onclick="showLastQuestion()" title="Show last">&lt;&lt;</a>
+		<input type="radio" id="hanja_mode" name="mode" value="hanja" checked/><label for="hanja_mode">Hanja first</label>
+		<input type="radio" id="keyword_mode" name="mode" value="keyword" /><label for="keyword_mode">Keyword first</label>
+		<a href="#" onclick="showNextQuestion()" title="Show next">&gt;&gt;</a>
+	</div>
+	<div id="card-container">
+		<div id="card" onclick="handleClick()">
+			<span id="question" style="display: none">foo</span>
+			<div id="answer" style="display: none">
+				<div id="a_grid">
+					<div id="a_line0">
+						<span id="a_char"></span>  <span id="a_spell"></span>  <span id="a_mean"></span>
+					</div>
+					<div id="a_line1"><span id="a_desc"></span></div>
+					<div id="a_line2"><span id="a_example"></span></div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div id="status-line">
+		<span id="status-text"></span>
+	</div>
+	<div id="lessons-frame" class="lessons-frame">
+		<div id="lessons-dlg">
+			<ul id="lesson-list">
+				<li id="li_all">
+					<input type="checkbox" id="l_all" class="lessons-checkbox" onchange="toggleAll()"/>
+					<label for="l_all" class="lesson-cb-label">All</label>
+				</li>
+			</ul>
+			<input type="button" value="Cancel" onclick="cancelLessonsDialog(this)"/>
+			<input type="button" value="OK" onclick="okLessonsDialog(this)"/>
+		</div>
+	</div>
+</body>
+</html>

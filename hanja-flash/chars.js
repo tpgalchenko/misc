@@ -1,0 +1,1963 @@
+const DATA = 
+[
+	{
+		"name": "L2",
+		"cards": [
+			{
+				"q": "田",
+				"s": "전",
+				"m": "rice field",
+				"d": "Several plots of a large rice field",
+				"e": "油田 유전 oil land"
+			},
+			{
+				"q": "天",
+				"s": "천",
+				"m": "sky",
+				"d": "Under a ceiling a man with arms spread wide.",
+				"e": "天國 천국 Paradise, 天障 천장 ceiling"
+			},
+			{
+				"q": "古",
+				"s": "고",
+				"m": "old",
+				"d": "A tombstone with a cross",
+				"e": "古典 고전 classics"
+			},
+			{
+				"q": "吾",
+				"s": "오",
+				"m": "I,we",
+				"d": "Five senses/mouths",
+				"e": ""
+			},
+			{
+				"q": "冒",
+				"s": "모",
+				"m": "risk, to bear",
+				"d": "Looking at the sun is risk",
+				"e": "冒險 모험 adventure"
+			},
+			{
+				"q": "昌",
+				"s": "창",
+				"m": "prosperous",
+				"d": "Two suns in the sky - sunny time",
+				"e": "繁昌 번창 prosperity, flourish"
+			},
+			{
+				"q": "朋",
+				"s": "봉",
+				"m": "companion",
+				"d": "Eve is Adam's flesh of flesh",
+				"e": "朋友 붕우 friend, companion"
+			},
+			{
+				"q": "明",
+				"s": "명",
+				"m": "bright",
+				"d": "Sun and moon",
+				"e": "分明 분명 clearness"
+			},
+			{
+				"q": "唱",
+				"s": "창",
+				"m": "chant",
+				"d": "Two mouths wagging tongues and a choirmaster making no noise",
+				"e": "合唱 합창 chorus"
+			},
+			{
+				"q": "晶",
+				"s": "정",
+				"m": "sparkle/clear",
+				"d": "A crystal sparkling on all sides",
+				"e": "結晶 결정 crystal"
+			},
+			{
+				"q": "品",
+				"s": "품",
+				"m": "goods",
+				"d": "Consumers' mouths",
+				"e": "品質 품질 quality"
+			},
+			{
+				"q": "呂",
+				"s": "려",
+				"m": "spine",
+				"d": "Two vertebrae in the spine linked together by a stroke",
+				"e": ""
+			},
+			{
+				"q": "早",
+				"s": "조",
+				"m": "early",
+				"d": "A sunflower - early riser in the garden, the sun favors its namesake",
+				"e": "早期 조기 early stage"
+			},
+			{
+				"q": "旭",
+				"s": "욱",
+				"m": "sunrise",
+				"d": "Sun sitting on a baseball bat for a flagpole",
+				"e": ""
+			},
+			{
+				"q": "目",
+				"s": "목",
+				"m": "eye",
+				"d": "Eyeball",
+				"e": "目標 목표 target"
+			},
+			{
+				"q": "世",
+				"s": "세",
+				"m": "world, life, *generation",
+				"d": "A generation is a period of thirty years - three times ten",
+				"e": "萬世 만세 eternity"
+			},
+			{
+				"q": "胃",
+				"s": "위",
+				"m": "stomach",
+				"d": "Flesh nourishing the brain.",
+				"e": "胃炎 위염 gastritis"
+			},
+			{
+				"q": "旦",
+				"s": "단",
+				"m": "morning, *nightbreak",
+				"d": "Sun rising above the floor",
+				"e": "一旦 일단 first, beforehand"
+			},
+			{
+				"q": "胆",
+				"s": "단/담/달",
+				"m": "gall bladder",
+				"d": "Bible advises: do not let the sun set on your anger(=gall)",
+				"e": ""
+			},
+			{
+				"q": "亘",
+				"s": "긍",
+				"m": "span",
+				"d": "The journey of the sun between its noonday heights and horizon",
+				"e": ""
+			},
+			{
+				"q": "凹",
+				"s": "요",
+				"m": "concave",
+				"d": "-",
+				"e": "凹凸 요철 unevenness, irregularities"
+			},
+			{
+				"q": "凸",
+				"s": "철",
+				"m": "convex",
+				"d": "-",
+				"e": "凹凸 요철 unevenness, irregularities"
+			}
+		]
+	},
+	{
+		"name": "L3",
+		"cards": [
+			{
+				"q": "旧",
+				"s": "구",
+				"m": "olden times",
+				"d": "A _walking stick_ is needed for <b>days</b> of olden times",
+				"e": ""
+			},
+			{
+				"q": "自",
+				"s": "자",
+				"m": "self , *nose/nostrils",
+				"d": "A nose with a drop beween eyes",
+				"e": "自然 자연 nature"
+			},
+			{
+				"q": "丸",
+				"s": "환",
+				"m": "round, *fat man",
+				"d": "A drop added to nine to make up a round number of ten.",
+				"e": "砲丸 포환 cannonball"
+			},
+			{
+				"q": "博",
+				"s": "박",
+				"m": "wide , *Dr.",
+				"d": "Needle speciality = acupuncture = doctor with dot at the end",
+				"e": "博物館 박물관 museum, 博士 박사 doctor"
+			},
+			{
+				"q": "上",
+				"s": "상",
+				"m": "above",
+				"d": "Magic wand above the floor",
+				"e": ""
+			},
+			{
+				"q": "下",
+				"s": "하",
+				"m": "below",
+				"d": "Magic wand hanging below the ceiling",
+				"e": ""
+			},
+			{
+				"q": "朝",
+				"s": "조",
+				"m": "morning",
+				"d": "Morning mist as the moon is fading off into the morning",
+				"e": "朝鮮 조선 Korea, 王朝 왕조 king dinasty"
+			},
+			{
+				"q": "白",
+				"s": "백",
+				"m": "white, *dove/white bird",
+				"d": "A drop of sun",
+				"e": "告白 고백 confession"
+			},
+			{
+				"q": "舌",
+				"s": "설",
+				"m": "tongue",
+				"d": "A thousand of mouths speaking the same language, sharing a common tongue",
+				"e": "口舌 구설 malicious gossip"
+			},
+			{
+				"q": "寸",
+				"s": "촌",
+				"m": "joint, measurement, *glue",
+				"d": "One drop of a ten (with a hook) = one tenth",
+				"e": "四寸 사촌 cousin"
+			},
+			{
+				"q": "卜",
+				"s": "복",
+				"m": "divining rod",
+				"d": "Magic wand",
+				"e": "卜債 복채 fee for having one's fortune told"
+			},
+			{
+				"q": "升",
+				"s": "승",
+				"m": "measurin-glass/arise",
+				"d": "A thousand of needles - a drinker's nightmare",
+				"e": "上升/上昇 상승 rise"
+			},
+			{
+				"q": "昇",
+				"s": "승",
+				"m": "rise up",
+				"d": "The sun rising from a measuring-glass",
+				"e": "昇格 승격 promotion in status"
+			},
+			{
+				"q": "専",
+				"s": "전",
+				"m": "only, *speciality",
+				"d": "Ten... rice fields... glue. Ten rice fields glued together - a man's special field of competence made up of multiple fields",
+				"e": "專門 전문 speciality"
+			},
+			{
+				"q": "占",
+				"s": "점",
+				"m": "fortune-telling",
+				"d": "Divining rod (fortune) + mouth (telling)",
+				"e": "獨占 독점 monopoly"
+			},
+			{
+				"q": "卓",
+				"s": "탁",
+				"m": "high , *eminent",
+				"d": "World's most eminent magician using sunflower for a magic wand, flower-child",
+				"e": "敎卓 교탁 teacher's/teaching desk"
+			}
+		]
+	},
+	{
+		"name": "L4",
+		"cards": [
+			{
+				"q": "几",
+				"s": "궤",
+				"m": "ansok cushion, lean, *wind",
+				"d": "",
+				"e": ""
+			},
+			{
+				"q": "勹",
+				"s": "포",
+				"m": "rice bag, *wrap/bound up",
+				"d": "Tied and gagged tightly",
+				"e": ""
+			},
+			{
+				"q": "只",
+				"s": "지,척",
+				"m": "only",
+				"d": "A strange pac-man like creature with a gigantic mouth and two animal legs - it's the <b>only</b> one of its kind",
+				"e": "只今 지금 now"
+			},
+			{
+				"q": "貝",
+				"s": "패,배",
+				"m": "shellfish",
+				"d": "A freaky shellfish with a single gigantic eye roaming the beaches on its slender little legs",
+				"e": ""
+			},
+			{
+				"q": "貞",
+				"s": "정",
+				"m": "upright",
+				"d": "Oysters/shellfishes cannot walk upright, it would take a magic wand to pull off such a feat",
+				"e": "不貞 부정 filthiness,impurity"
+			},
+			{
+				"q": "員",
+				"s": "원,운",
+				"m": "employee",
+				"d": "New employees should keep their mouth shut and do their job. Shellfish in the mouth to keep it closed",
+				"e": "職員 직원 staff, employee"
+			},
+			{
+				"q": "見",
+				"s": "견,현,간",
+				"m": "see",
+				"d": "An eye on a pair of human legs",
+				"e": "發見 발견 discovery"
+			},
+			{
+				"q": "児",
+				"s": "아",
+				"m": "newborn babe",
+				"d": "an old with a newborn babe crawling around his legs",
+				"e": ""
+			},
+			{
+				"q": "元",
+				"s": "원",
+				"m": "beginning",
+				"d": "In the <b>beginning</b> the Creator came and made <b>two</b> humans - a aman and a woman on human legs",
+				"e": "單元 단원 chapter"
+			},
+			{
+				"q": "頁",
+				"s": "엽, 혈",
+				"m": "page, *head",
+				"d": "A book called '<b>Pearl<b> of Wisdom' of only <b>one<b> page with a radiant <b>drop</b> of wisdom",
+				"e": ""
+			},
+			{
+				"q": "頑",
+				"s": "완",
+				"m": "stubborn",
+				"d": "Stubborn block<b>head</b> persistent to do just the way it was at the <b>beginning</b>",
+				"e": "頑固 완고 stubborness"
+			},
+			{
+				"q": "凡",
+				"s": "범",
+				"m": "mediocre, ordinary",
+				"d": "A drop in the wind is as insignificant",
+				"e": "凡人 범인 ordinary/mediocre man"
+			},
+			{
+				"q": "負",
+				"s": "부",
+				"m": "defeat",
+				"d": "A shellfish bound up with seaweed in a struggle thus defeated",
+				"e": "負擔 부담 burden"
+			},
+			{
+				"q": "万",
+				"s": "만",
+				"m": "10,000",
+				"d": "One comma to bind up thousands in the number 10,000",
+				"e": ""
+			},
+			{
+				"q": "句",
+				"s": "구,귀",
+				"m": "phrase",
+				"d": "Words bound up to fit in the mouth",
+				"e": "慣用句 관용구 idiom"
+			},
+			{
+				"q": "肌",
+				"s": "기",
+				"m": "skin, *texture",
+				"d": "A part of body/flesh exposed to the wind",
+				"e": ""
+			},
+			{
+				"q": "旬",
+				"s": "순,균",
+				"m": "ten days, *decameron 순, uniform 균",
+				"d": "Bocaccio's Decameron is a story of a group of people bound together for the days",
+				"e": "六旬 육순 60 years, 上旬 the first ten days of a month"
+			},
+			{
+				"q": "勺",
+				"s": "작",
+				"m": "ladle (big spoon)",
+				"d": "A ladle is a spoon to scoop drops up of soup, mind the last drop inside the ladle",
+				"e": ""
+			},
+			{
+				"q": "的",
+				"s": "적",
+				"m": "target/goal/bull's-eye",
+				"d": "A laddle with a little <b>white bird</b> painted on it, who lets a little peep every time you hit the target",
+				"e": "目的 목적"
+			},
+			{
+				"q": "首",
+				"s": "수",
+				"m": "head, *neck",
+				"d": "Horns and nose - a head of deer over the fireplace",
+				"e": "首都 수도 capital"
+			}
+		]
+	},
+	{
+		"name": "L5",
+		"cards": [
+			{
+				"q": "乙",
+				"s": "을",
+				"m": "fish guts, *fishhook",
+				"d": "Fishhook.",
+				"e": ""
+			},
+			{
+				"q": "乱",
+				"s": "란,난",
+				"m": "riot/chaos",
+				"d": "Rioting tongue: it gets 'barbed' like a fishhook, and sets to attacking the opposition, to hook them as it were.",
+				"e": ""
+			},
+			{
+				"q": "直",
+				"s": "직,치",
+				"m": "straightaway",
+				"d": "<b>Eye</b> of a <b>needle</b> and a <b>fishhook</b> straightened out so that it can pass through the eye of the needle.",
+				"e": ""
+			},
+			{
+				"q": "具",
+				"s": "구",
+				"m": "tool",
+				"d": "A table full of carpenter tools, each equipped with its own eye to keep watch over what you are doing with it.",
+				"e": "器具 기구 tool, 具體的 구체적 concrete, definite"
+			},
+			{
+				"q": "真",
+				"s": "진",
+				"m": "true",
+				"d": "<b>Eye</b> of a <b>needle</b> with <b>tool</b> to give us measure what is true and what is not.",
+				"e": ""
+			},
+			{
+				"q": "工",
+				"s": "공",
+				"m": "craft",
+				"d": "I-beam used in heavy construction works.",
+				"e": "工夫 공부 study, 工場 공장 factory"
+			},
+			{
+				"q": "左",
+				"s": "좌",
+				"m": "left",
+				"d": "A <b>craft</b> placed <b>by one's side</b>: occult, sinister (left) craft.",
+				"e": "左派 좌파 left-wing party"
+			},
+			{
+				"q": "右",
+				"s": "우",
+				"m": "right",
+				"d": "A <b>mouth</b> placed <b>by your's side</b> telling you the right thing to do.",
+				"e": "右派 우파 right-wing party"
+			},
+			{
+				"q": "有",
+				"s": "유",
+				"m": "possess",
+				"d": "A slab of <b>meat</b> dangling <b>by the side</b>, perhaphs from a belt or rope tied around the waist. This is an amulet to exorcize an evil spirit in <b>possession</b> of one's soul.",
+				"e": "所有 소유 possession, ownership,"
+			},
+			{
+				"q": "賄",
+				"s": "회",
+				"m": "wealth, bribe",
+				"d": "<b>Shells</b> used to be money. Someone who is possessed by shells is likely to abandon any higher principles to acquire more and more wealth.",
+				"e": "賄賂 회뢰 bribe, bribery"
+			},
+			{
+				"q": "貢",
+				"s": "공",
+				"m": "tribute, offer",
+				"d": "A <b>craft</b> of getting money (<b>shells</b>) to bring tribute to a ruler.",
+				"e": "貢物 공물 tribute, 貢獻 공헌 contribution"
+			},
+			{
+				"q": "項",
+				"s": "항",
+				"m": "item, *paragraph",
+				"d": "<b>Craft</b> + <b>head</b> : <i>heading</i> device to break text into parts.",
+				"e": "項目 항목 heading, item, article, 事項 사항 articles, facts"
+			},
+			{
+				"q": "刀",
+				"s": "도",
+				"m": "knife, *sword",
+				"d": "Handle of a sword.",
+				"e": "面刀 면도 shaving"
+			},
+			{
+				"q": "刄",
+				"s": "인,량,양",
+				"m": "blade",
+				"d": "Drop of blood clinging to the blade.",
+				"e": ""
+			},
+			{
+				"q": "切",
+				"s": "절,체",
+				"m": "cut",
+				"d": "Dicing (<b>seven</b>) everything around with a <b>dagger</b> into pieces.",
+				"e": "品切 품절 out of stock; 適切 적절(하다) suitable, proper; 一切 일체 wholly, a whole"
+			},
+			{
+				"q": "召",
+				"s": "소",
+				"m": "call, *seduce",
+				"d": "A <b>sword</b> posed over a <b>mouth</b>.",
+				"e": "召喚 소환 summons"
+			},
+			{
+				"q": "昭",
+				"s": "소",
+				"m": "shining",
+				"d": "Shining one's shoes to seduce the sun down on them for all to see.",
+				"e": "昭詳 소상(하다) detailed, minute"
+			},
+			{
+				"q": "則",
+				"s": "칙",
+				"m": "rule",
+				"d": "Think of digging for <b>clams</b> in an area where there are gaming rules governing how large a find has to be before you can keep it. So you take a <b>dagger</b>, which you notched like a yardstick, crack open a clam and then measure the poor little beastie to see if it is as long as the <b>rules</b> say it has to be.",
+				"e": "法則 법칙 rule; 規則的 규칙적 regular, systematic"
+			},
+			{
+				"q": "畐",
+				"s": "복",
+				"m": "full, *wealth",
+				"d": "The over<b>wealthy</b> is overfed. One <b>mouth</b> is devouring all the harvest of the fields.",
+				"e": ""
+			},
+			{
+				"q": "副",
+				"s": "부",
+				"m": "next, *vice-",
+				"d": "A <b>sabre</b> to divide the <b>wealth</b> and to share with a <b>vice</b>-wealth-holder.",
+				"e": " 副會長 부회장 vice-chairman/president; 副題 부제 subtitle; 副詞 부사 adverb"
+			},
+			{
+				"q": "别",
+				"s": "별",
+				"m": "divide, *separate",
+				"d": "A warrior must not <b>separate</b> with his <b>sabre</b>, a <b>mouth</b> bellowing out for shame and sorrow!",
+				"e": "區別 구별 distinction, classification; 別名 별명 nickname"
+			},
+			{
+				"q": "丁",
+				"s": "정",
+				"m": "nail/spike, *street",
+				"d": "A street sign on a long pole.",
+				"e": "壯丁 장정 a vigorous young man"
+			},
+			{
+				"q": "町",
+				"s": "정",
+				"m": "ridge, *village",
+				"d": "<b>Street signs</b> standing at the corner of the <b>rice fields</b> depict the <b>village</b> limits.",
+				"e": ""
+			},
+			{
+				"q": "可",
+				"s": "가",
+				"m": "right/just, *to can",
+				"d": "Remember the story about the 'Little Engine that <b>Could</b>' : a locomotive puffing up the mountain - 'I think I <b>can</b>, I think I <b>can</b>...' - spitting railroad <b>spikes</b> out of its <b>mouth</b> as it ches up the line to the top.",
+				"e": "可能 가능 possibility; 許可 허가 permission, leave"
+			},
+			{
+				"q": "頂",
+				"s": "정",
+				"m": "the top of the head, *to place on the head",
+				"d": "'To hit the <b>nail</b> on the <b>head</b>' does not mean <b>to place it on your head</b>.",
+				"e": "頂上 정상 summit, peak; 頂수리 the top of the head, cinciput"
+			}
+		]
+	},
+	{
+		"name": "L6",
+		"cards": [
+			{
+				"q": "子",
+				"s": "자",
+				"m": "child",
+				"d": "The first stroke is like a wee head popping out for air; the second shows the body and legs all wrapped up; and the final stroke shows the arms sticking out to cling to the mother’s neck.",
+				"e": "男子 남자 man, 卓子 탁자 table"
+			},
+			{
+				"q": "孔",
+				"s": "공",
+				"m": "cavity",
+				"d": "A child came to dentist. An hole in tooth was found. A hook is needed to pull the tooth away.",
+				"e": "孔子 공자 Confucius; 毛孔 모공 skin pore"
+			},
+			{
+				"q": "了",
+				"s": "료(요)",
+				"m": "complete",
+				"d": "Thus a child with its arms wrapped up into the back-sack is the picture of a job success-fully <b>completed</b>",
+				"e": "終了 종료 end, conclusion, completion"
+			},
+			{
+				"q": "女",
+				"s": "녀(여)",
+				"m": "woman",
+				"d": "woman",
+				"e": "女子 야자 woman"
+			},
+			{
+				"q": "好",
+				"s": "호",
+				"m": "fond",
+				"d": "A woman fondling her child",
+				"e": " 選好 선호"
+			},
+			{
+				"q": "如",
+				"s": "여",
+				"m": "likeness",
+				"d": "A likeness to the opening of the woman from whom you were born.",
+				"e": "如干 여간 ordinarly; 如前히 여전히 as before"
+			},
+			{
+				"q": "母",
+				"s": "모",
+				"m": "mama, *breasts",
+				"d": "Outline of <b>woman</b> character expanded to make space for the two breasts that make her a mama.",
+				"e": "母語 모어 mother language; 母音 모음 vowel"
+			},
+			{
+				"q": "貫",
+				"s": "관",
+				"m": "pierce",
+				"d": "Piercing an ear so that it can hold a <b>mother</b>-of-pearl you have just wrested from an <b>oyster</b>.",
+				"e": "一貫 일관 consistency, coherence; 貫通 관통 piercing, penetration"
+			},
+			{
+				"q": "兄",
+				"s": "형",
+				"m": "elder brother, *teenager",
+				"d": "The large mouth on top and the human legs below almost jump off the page as a caricature of elder brother, the one with the big mouth.",
+				"e": "兄嫂 형수 elder brother's wife"
+			},
+			{
+				"q": "克",
+				"s": "극",
+				"m": "overcome",
+				"d": "A <b>teenager</b> overcoming the drug (<b>needle</b>) addiction.",
+				"e": "克復 극복 conquest, overcome, subjugate"
+			}
+		]
+	},
+	{
+		"name": "L7",
+		"cards": [
+			{
+				"q": "小",
+				"s": "소",
+				"m": "little",
+				"d": "Three little <b>drops</b>: little, little, nothing but little.",
+				"e": " 小說 소설 novel, romance, fiction, tale"
+			},
+			{
+				"q": "少",
+				"s": "소",
+				"m": "few",
+				"d": "The fourth tiny drop indicates a further belittling of what is already <b>little</b> — thus making it a few of something <b>little</b>.",
+				"e": "減少 감소 decrease"
+			},
+			{
+				"q": "大",
+				"s": "대",
+				"m": "large, *St.Bernard dog",
+				"d": "A person with outstretched arms and legs set wide.",
+				"e": "誇大 과대 exaggeration"
+			},
+			{
+				"q": "厂",
+				"s": "엄, 한",
+				"m": "bank, shore, foot, *cliff",
+				"d": "A steep cliff, foot of a mountain or a river.",
+				"e": ""
+			},
+			{
+				"q": "多",
+				"s": "다",
+				"m": "many",
+				"d": "<b>Many</b> moons ago. Final stroke is hidden bihnd the clouds of time. ",
+				"e": " 多層 다층 multilayered"
+			},
+			{
+				"q": "夕",
+				"s": "석",
+				"m": "evening",
+				"d": "A <b>moon</b> in the night sky that has a cloud pass over it",
+				"e": "夕陽 석양 setting sun"
+			},
+			{
+				"q": "汐",
+				"s": "석",
+				"m": "tide, *eventide (evening)",
+				"d": "Drops of water inching their way up the shore in the evening",
+				"e": ""
+			},
+			{
+				"q": "外",
+				"s": "외",
+				"m": "outside",
+				"d": "As every magician knows, bringing your magic wand out into the evening air makes your magic much more powerful than if you were to stay indoors. Hence, evening and magic wand takes you naturally outside.",
+				"e": "外國 외국 foreign country"
+			},
+			{
+				"q": "名",
+				"s": "명",
+				"m": "name",
+				"d": "There's a custom, still preserved in certain African tribes, of a father creeping into the tent or hut of his newborn child on the night of the child’s birth, to whisper into its ear the name he has chosen for it, before making his choice public: <b>evening</b> + <b>mouth</b>",
+				"e": " 有名 유명 famous"
+			},
+			{
+				"q": "石",
+				"s": "석",
+				"m": "stone",
+				"d": "Under a cliff there's an entrance to a Ali Baba's cavern, before which a great stone has been rolled so that none may enter. One needs secret words to push the <b>stone</b> aside.",
+				"e": "石油 석유 oil"
+			},
+			{
+				"q": "肖",
+				"s": "초",
+				"m": "resemblance, *spark/candle",
+				"d": "The word resemblance should suggest, among other things, a son’s resemblance to his father. A “chip off the old block” is the way we often put it, but the character is more simple. It speaks of a little bit of flesh.",
+				"e": "肖像 초상 portrait"
+			},
+			{
+				"q": "硝",
+				"s": "초,소",
+				"m": "gunpowder, *nitrate",
+				"d": "Nitric acid spilt over a <b>stone</b> bores a hole with <b>sparks</b> flying out.",
+				"e": "硝石 초석 potassium nitrate"
+			},
+			{
+				"q": "砕",
+				"s": "쇄",
+				"m": "smash",
+				"d": "<b>Baseball</b> + <b>needle</b> = game of cricket in which a needle is laid across the wicket. A <b>stone</b> for a ball. A <b>smash</b> hit would probably splinter the bat in all directions, and a <b>smashing</b> pitch would do the same with the needle wicket.",
+				"e": ""
+			},
+			{
+				"q": "砂",
+				"s": "사",
+				"m": "sand",
+				"d": "Good sand for beaches has few or no stones in it. That means that all of us whose feet have been spoiled by too much time in shoes don’t have to watch our step as we cavort about.",
+				"e": "砂漠 사막 desert"
+			},
+			{
+				"q": "削",
+				"s": "삭",
+				"m": "cut/clip/shave, *plane",
+				"d": "Cutting <b>flesh</b> with a <b>knife</b> into <b>small</b> pieces.",
+				"e": "削除 삭제 deletion, erasure"
+			},
+			{
+				"q": "光",
+				"s": "광",
+				"m": "light, *ray",
+				"d": "A good man illuminating rays of light.",
+				"e": "觀光 관광 sightseeing, tourism"
+			},
+			{
+				"q": "太",
+				"s": "태",
+				"m": "big, *plump",
+				"d": "An ample-bodied person falling into a sofa like a large drop of oil plopping into a fishbowl.",
+				"e": "太平洋 태평양 the Pacific Ocean; 太陽 태양 the Sun"
+			},
+			{
+				"q": "器",
+				"s": "기",
+				"m": "utensil",
+				"d": "A large dog stretched out on a table. At each corner of the table sits an eager but empty mouth, waiting for the utensils to arrive so the feast can begin.",
+				"e": "器具 기구 tool"
+			},
+			{
+				"q": "臭",
+				"s": "취",
+				"m": "smell, *stinking",
+				"d": "A <b>dog</b> with its <b>nose</b> in the air sniffing for a smell.",
+				"e": "惡臭 악취 bad smell"
+			},
+			{
+				"q": "妙",
+				"s": "묘",
+				"m": "exquisite",
+				"d": "An exquisite <b>woman</b> is but <b>few</b>.",
+				"e": "妙하다 묘하다 curious, odd, singular, exquisite"
+			},
+			{
+				"q": "省",
+				"s": "성,생",
+				"m": "observe, *focus; less",
+				"d": "Focusing means fixing our <b>eye</b> on a <b>few</b> important matters.",
+				"e": "省察 성찰 reflection, introspection; 省略 생략 abridgement, abbreviation"
+			},
+			{
+				"q": "厚",
+				"s": "후",
+				"m": "hearty, *thick",
+				"d": "A child abandoned out on the wild cliffs, exposed to the heat of the sun, and thus doomed to develop a head and skin as thick as the parent who left it there.",
+				"e": "厚하다 후하다 generous, hearty, friendly"
+			},
+			{
+				"q": "奇",
+				"s": "기",
+				"m": "strange",
+				"d": "When we see a man standing on a pickaxe, we cannnot but say that it's strange.",
+				"e": "神奇하다 신기하다 strange"
+			}
+		]
+	},
+	{
+		"name": "L8",
+		"cards": [
+			{
+				"q": "川",
+				"s": "천",
+				"m": "stream, *flood",
+				"d": "Ripples",
+				"e": "河川 하천 rivers"
+			},
+			{
+				"q": "州",
+				"s": "주",
+				"m": "district, *state",
+				"d": "Rivers delimit states - drops of land (little islets)",
+				"e": "濟州道 Jeju island"
+			},
+			{
+				"q": "順",
+				"s": "수",
+				"m": "obey",
+				"d": "Either one obeys the person who is <b>head</b> of an organization or else obeys by following the <b>stream</b> of opinion (<b>“current”</b> practice, we call it).",
+				"e": "順序 순서 order, sequence"
+			},
+			{
+				"q": "水",
+				"s": "수",
+				"m": "water",
+				"d": "A walking stick being dropped vertically into the water, sending droplets out in all four directions",
+				"e": "香水 향수 perfume"
+			},
+			{
+				"q": "氷",
+				"s": "빙",
+				"m": "ice",
+				"d": "If you hold an icicle up to the light, you can usually see little crystallizations of five-pointed stars inside of it.",
+				"e": "氷山 빙산 iceberg"
+			},
+			{
+				"q": "永",
+				"s": "영",
+				"m": "eternity",
+				"d": "William Blake said about seeing “infinity in a grain of sand and eternity in an hour”? Well, reading this character from top to bottom, we see “eternity in a drop of water.”",
+				"e": "永遠 영원 eternity"
+			},
+			{
+				"q": "泉",
+				"s": "천",
+				"m": "(water) spring",
+				"d": "<b>White</b> foam over the bubbling spring of <b>water</b>",
+				"e": "溫泉 온천 hot spring"
+			},
+			{
+				"q": "原",
+				"s": "원",
+				"m": "origin/foundation, *meadow",
+				"d": "<b>Spring</b> gushing out from between rocks.",
+				"e": "復原 복원 restoration"
+			},
+			{
+				"q": "願",
+				"s": "원",
+				"m": "wish,desire,*petition",
+				"d": "A gigantic Wizard-of-Oz <b>head</b> located in the middle of the flowery <b>meadow</b>. Then just picture people kneeling hopefully before it, petitioning for whatever it is they want. (The scarecrow wanted brains, the lion, courage, and the tin man a heart. What about you?)",
+				"e": "所願 소원 wish, desire"
+			},
+			{
+				"q": "泳",
+				"s": "영",
+				"m": "swim",
+				"d": "Children could swim in <b>water</b> just for <b>eternity</b>.",
+				"e": "水泳 수영 swimming, bathing"
+			},
+			{
+				"q": "沼",
+				"s": "소",
+				"m": "marsh",
+				"d": "Why certain land becomes marshy is probably due to the fact that it felt thirsty, and so tried its best to <b>seduce</b> the <b>water</b> over to its side. But, like most inordinate seductions, the last state of the victim is worse than the first. Hence the slushy marsh.",
+				"e": ""
+			},
+			{
+				"q": "沖",
+				"s": "충",
+				"m": "open sea",
+				"d": "In the middle of a great body of water.",
+				"e": ""
+			},
+			{
+				"q": "江",
+				"s": "강",
+				"m": "river, stream, *creek",
+				"d": "Water-craft is about digging a path for water stream.",
+				"e": "江岸 강안 banks of river"
+			},
+			{
+				"q": "汁",
+				"s": "즙",
+				"m": "juice, *soup",
+				"d": "Ten-ingredient soup",
+				"e": "果汁 과즙 fruit juice"
+			},
+			{
+				"q": "潮",
+				"s": "조",
+				"m": "tide",
+				"d": "Morning tide",
+				"e": "潮水 조수 tide, tidewater"
+			},
+			{
+				"q": "源",
+				"s": "원",
+				"m": "source",
+				"d": "A source is the place where the <b>water</b> comes from - under the meadow.",
+				"e": "根源 근원 origin, source"
+			},
+			{
+				"q": "活",
+				"s": "활",
+				"m": "to live, *lively",
+				"d": "A lively person is the one who chatters a lot - his <b>tongue</b> babbles and splashes around like flowing <b>water</b>.",
+				"e": "生活 생활 life, existence"
+			},
+			{
+				"q": "消",
+				"s": "소",
+				"m": "disappear, *extinguish",
+				"d": "<b>Water</b> over <b>sparks</b> to extinguish the fire.",
+				"e": "解消 해소 solution, settlement"
+			},
+			{
+				"q": "況",
+				"s": "황",
+				"m": "circumstances, *but of course",
+				"d": "A <b>teenager</b> is about to leave for the first date. Mother asks 'Did you have a good <b>shower</b>?' He replies: '<b>But of course</b>...'",
+				"e": "狀況 상황 state of affairs"
+			},
+			{
+				"q": "河",
+				"s": "하",
+				"m": "water, *river",
+				"d": "The <b>water</b> to the left tells us what we are dealing with, and the <b>can</b> at the right tells us that our “little engine that could” has now become amphibious and is chugging down the Mighty Mississip’ like a regular riverboat.",
+				"e": "河口 하구 rivermouth"
+			},
+			{
+				"q": "泊",
+				"s": "박",
+				"m": "overnight",
+				"d": "When you stop at an inn for an overnight rest, all you expect is a bit of water for a wash and a set of clean white sheets to wrap your weary bones in.",
+				"e": "外泊 외박 sleeping out (overnight)"
+			},
+			{
+				"q": "湖",
+				"s": "호",
+				"m": "lake",
+				"d": "A man having <b>flesh</b> so <b>old</b> and weary to work, so he's set adrift in the <b>waters</b> of a stormy <b>lake</b>.",
+				"e": "湖水 호수 lake"
+			},
+			{
+				"q": "測",
+				"s": "측",
+				"m": "measure, *fathom",
+				"d": "To fathom water is to measure its depth.",
+				"e": "推測 추측 conjecture, guess"
+			},
+			{
+				"q": "土",
+				"s": "토",
+				"m": "soil",
+				"d": "A mound of soil piled on the ground.",
+				"e": "土壤 토양 soil"
+			},
+			{
+				"q": "吐",
+				"s": "토",
+				"m": "spit",
+				"d": "If you got a <b>mouth</b> full of <b>dirt</b>, you would <b>spit</b> it out as fast",
+				"e": "吐하다 토하다 vomit, spew; 實吐 실토 a true confession"
+			},
+			{
+				"q": "圧",
+				"s": "압",
+				"m": "pressure",
+				"d": "One of the things that causes the erosion of soil is the excessive <b>pressure</b> of the top<b>soil</b> on the lower <b>soil</b>. This can be caused by any number of things from heavy rainfall to heavy buildings to the absence of sufficient deep-rooted vegetation to hold the layers together. Here we see a steep <b>cliff</b> without a tree in sight. The slightest pressure on it will cause a landslide.",
+				"e": ""
+			},
+			{
+				"q": "埼",
+				"s": "기",
+				"m": "cape",
+				"d": "<b>Cape</b> strange is a <b>strange</b> <b>ground</b>.",
+				"e": ""
+			},
+			{
+				"q": "垣",
+				"s": "원",
+				"m": "hedge, fence",
+				"d": "The hedge depicted in this frame is the miraculous hedge of briar roses that completely <b>spanned</b> the castle <b>grounds</b> in which Sleeping Beauty lay for a hundred years, so that none but her predestined beloved could find his way through it.",
+				"e": ""
+			},
+			{
+				"q": "圭",
+				"s": "규",
+				"m": "jade tablet, square jewel, *ivy",
+				"d": "A mammoth precious stone, several feet high, made by piling up large heaps of soil on top of one another. Not something you would want to present your betrothed on your wedding day",
+				"e": ""
+			},
+			{
+				"q": "封",
+				"s": "봉",
+				"m": "to seal",
+				"d": "Think of the key word seal as referring to a letter you have written and are preparing to close. Instead of using the traditional wax seal, you glue a sprig of <b>ivy</b> on the outside. In this way the elements <b>ivy</b> and <b>glue</b> give you a curious and memorable way <b>to seal</b> your secret letters. ",
+				"e": "封套 봉투 envelope"
+			},
+			{
+				"q": "涯",
+				"s": "애",
+				"m": "horizon",
+				"d": "After seeing a constant horizon of water, water everywhere for months at sea, could there be anything more delightful to the eyes than to look astern and see the ivy-clad cliffs of land on a new horizon?",
+				"e": "天涯 천애 horizon, skyline"
+			},
+			{
+				"q": "寺",
+				"s": "사",
+				"m": "Buddhist temple",
+				"d": "Entering a Buddhist sect means <b>glue</b>ing oneself to a precinct <b>ground</b>.",
+				"e": "寺刹 사찰 Buddhist temple"
+			},
+			{
+				"q": "時",
+				"s": "시",
+				"m": "time",
+				"d": "Zen kõan: time is a sun rising over a Buddhist temple.",
+				"e": "時間 시간 time"
+			},
+			{
+				"q": "均",
+				"s": "균",
+				"m": "to level",
+				"d": "<b>Soil</b> being scooped up into a <b>ladle</b> and then made level (apparently because one is measuring soil). The excess <b>drops</b> of soil are brushed off the top, which accounts for the added drop at the ladle’s edge. ",
+				"e": "平均 평균 average"
+			},
+			{
+				"q": "火",
+				"s": "화",
+				"m": "fire",
+				"d": "Fire",
+				"e": "火山 화산 volcano"
+			},
+			{
+				"q": "炎",
+				"s": "염",
+				"m": "inflammation",
+				"d": "A fore belongs in the hearth, not over it. When the fire spreads to the rest of the house, we have an inflamed house.",
+				"e": "胃炎 위염 gastritis"
+			},
+			{
+				"q": "煩",
+				"s": "번",
+				"m": "anxiety",
+				"d": "The head is set afire, causing deep torment of spirit (and a whopper of a headache).",
+				"e": "煩悶 번민 worry, suffering(s), affliction"
+			},
+			{
+				"q": "淡",
+				"s": "담,염",
+				"m": "clear, light, plain, *thin",
+				"d": "A very <b>thin</b> chap passes by and you imagine him suffering from (being <b>inflamed</b> with) de<b>hydra</b>tion (hence the element for <b>water</b>).",
+				"e": "淡水 담수 fresh water"
+			},
+			{
+				"q": "灯",
+				"s": "정,등",
+				"m": "big fire, *lamp",
+				"d": "The fire produces to much light to read, so <b>nail</b>ing it down a bit is just enough to light up the text of evening newspapers and voilà! The lamp.",
+				"e": ""
+			},
+			{
+				"q": "畑",
+				"s": "전",
+				"m": "slash-and-burn field, *farm",
+				"d": "A <b>fireplace</b and a <b>rice field</b> are the essential ingredients for a farm: a warm hearth to sit by at night, and a well-plowed field to grow one’s crops in by day.",
+				"e": ""
+			},
+			{
+				"q": "災",
+				"s": "재",
+				"m": "disaster",
+				"d": "Nature disasters: floods and fires. To recall the disposition of the elements, think of nature’s solution to nature’s own problem: a great flood pouring down over a great forest fire. ",
+				"e": "火災 화재 fire, blaze"
+			},
+			{
+				"q": "灰",
+				"s": "회",
+				"m": "ashes",
+				"d": "The fire, once it has turned to ashes, ends up at the bottom of the cliff.",
+				"e": "灰色 회색 gray color"
+			},
+			{
+				"q": "点",
+				"s": "점",
+				"m": "spot",
+				"d": "Fortune-telling by looking at the spots that show up after looking at the fire for a long time",
+				"e": ""
+			},
+			{
+				"q": "照",
+				"s": "조",
+				"m": "illuminate",
+				"d": "Oven's fire shines to illuminate.",
+				"e": "照明 조명 illumination, lighting up"
+			},
+			{
+				"q": "魚",
+				"s": "어",
+				"m": "fish",
+				"d": "At first a <b>fish</b> is caught and <b>bound up</b> on a line with its unfortunate school-mates; when the fisherman gets home, he cuts off the head and tosses it, with the entrails, out into the <b>rice fields</b> for fertilizer; and the rest he sets in a skillet over a cooking <b>fire</b> for his supper.",
+				"e": "鰱魚 연어 salmon"
+			},
+			{
+				"q": "漁",
+				"s": "어",
+				"m": "fishing",
+				"d": "<b>Water</b> is where the <b>fish</b> was happily at home before being fished, disemboweled, and eaten.",
+				"e": "漁業 어업 fishery, fishing industry"
+			}
+		]
+	},
+	{
+		"name": "L9",
+		"cards": [
+			{
+				"q": "里",
+				"s": "리",
+				"m": "ri, village, *computer",
+				"d": "The <b>land</b> division based on the size of a <b>rice field</b> is called a ri.",
+				"e": "海里 해리 nautical mile/knot, sea village"
+			},
+			{
+				"q": "黑 (黒)",
+				"s": "흑",
+				"m": "black",
+				"d": "Like most things electrical, a computer, too, can overheat. Just imagine flames pouring out of it and charring the keyboard, the monitor, and your desk a sooty black color.",
+				"e": "黑色 흑색 black color"
+			},
+			{
+				"q": "墨",
+				"s": "묵",
+				"m": "black ink",
+				"d": "Black ink to mark off the <b>dirt</b> with <b>black</b> lines for a foot-ball game played on a white <b>field</b>.",
+				"e": "水墨 수묵 water ink"
+			},
+			{
+				"q": "鯉",
+				"s": "리",
+				"m": "carp",
+				"d": "A small home <b>computer</b> or two strung on the line by a father anxious for his son not only to have the courage and determination of a <b>carp</b> swimming upstream, but also the efficiency and memory of a computer.",
+				"e": ""
+			},
+			{
+				"q": "量",
+				"s": "량",
+				"m": "quantity",
+				"d": "A <b>quantity</b> of time in the new day that begins with <b>nightbreak</b>, and a <b>quantity</b> of distance in the rural <b>ri</b>. ",
+				"e": "分量 분량 quantity, amount, dose"
+			},
+			{
+				"q": "厘",
+				"s": "리",
+				"m": "rin (yen/1000)",
+				"d": "The total market value of one home computer that has fallen over rock and bramble for several hundred feet: about one rin!",
+				"e": ""
+			},
+			{
+				"q": "埋",
+				"s": "매",
+				"m": "bury",
+				"d": "We are burying our beloved computer that has served us so well these past years. Behind us a choir chants the “Dies irae, dies illa” and there is much wailing and grief among the bystanders as they pass by to shovel a little <b>soil</b> into what will be its final resting place. R.I.P",
+				"e": "埋藏量 매장량 deposits, reserves"
+			},
+			{
+				"q": "冂",
+				"s": "경",
+				"m": "far, *hood",
+				"d": "",
+				"e": ""
+			},
+			{
+				"q": "同",
+				"s": "동",
+				"m": "same",
+				"d": "A monk's <b>cowl/hood</b> lets us see only <b>one</b> <b>mouth</b>. The monks speak their prayers in common and lead the <b>same</b> monastic life.",
+				"e": "同學 동학 classmate"
+			},
+			{
+				"q": "洞",
+				"s": "동",
+				"m": "den",
+				"d": "A den of wild beasts dressed up in habits and living the common (same) life in a mountain cavern. There is a sacred “puddle” in the center of their den, the focus of all their pious attentions.",
+				"e": "洞窟 동굴 cave"
+			},
+			{
+				"q": "胴",
+				"s": "동",
+				"m": "trunk",
+				"d": "The word trunk refers to the part of the body that is left when you have “truncated” all the limbs. One was lumberjacking corpses and needed to have them all properly pruned and made the <b>same</b> so they could be floated downstream without causing a body-jam.",
+				"e": "胴體 동체 trunk, body"
+			},
+			{
+				"q": "向",
+				"s": "향",
+				"m": "there, *yonder",
+				"d": "An extraterrestrial in a sort of transparent <b>helmet</b> with no eyes or nose, but only a prominent <b>mouth</b> under it, he is jabbering something with his mouth open, point out at a wee <b>drop</b> in the distance.",
+				"e": "趣向 취향 taste, liking"
+			},
+			{
+				"q": "尚",
+				"s": "상",
+				"m": "on the contrary, *esteem",
+				"d": "A glass canopy used to display a family heirloom. The littleness is important, because what is in fact on display is the shrunken, stuffed, and mounted mouth of an esteemed ancestor. We may be used to esteeming the words our forebears leave behind, but here we also esteem the very mouth that spoke them.",
+				"e": ""
+			},
+			{
+				"q": "宀",
+				"s": "면",
+				"m": "house",
+				"d": "A roof of a house with a chimney at the top and the eaves on either side. ",
+				"e": ""
+			},
+			{
+				"q": "字",
+				"s": "자",
+				"m": "character",
+				"d": "A child born to a house is given characters for its name, so it is also stamped with the <b>character</b> of those who raise it from infancy on.",
+				"e": "漢字 한자 hanja"
+			},
+			{
+				"q": "守",
+				"s": "수",
+				"m": "guard",
+				"d": "The whole idea of hiring guards is that they should stick like <b>glue</b> to your <b>house</b> to protect it from unwanted prowlers.",
+				"e": "保守派 보수파 conservative people/party"
+			},
+			{
+				"q": "完",
+				"s": "완",
+				"m": "perfect",
+				"d": "A house that has been made perfectly from its beginnings in the  foundation to the roof on the top.",
+				"e": "完全 완전 perfection"
+			},
+			{
+				"q": "宣",
+				"s": "선",
+				"m": "proclaim",
+				"d": "Proclaiming the good news to all nations. Shouting it from the housetops.",
+				"e": "宣傳 선전 propaganda, publicity"
+			},
+			{
+				"q": "宵",
+				"s": "소,초",
+				"m": "wee hours",
+				"d": "The late evening or early morning hours, well after one should be in bed asleep. The reason is obvious: whoever is living there is “burning the <b>candle</b> at both ends,” and working night after night into the wee hours.",
+				"e": ""
+			},
+			{
+				"q": "安",
+				"s": "안",
+				"m": "easiness, relax",
+				"d": "The scruffy and weary woman of the house slouched asleep in the living room chair, her hair in curlers and a duster lying in her lap.",
+				"e": "便安 편안 safety, easiness, comfort"
+			},
+			{
+				"q": "宴",
+				"s": "연",
+				"m": "banquet",
+				"d": "A woman spent the entire day of work at house in preparing for a dinner banquet, pictorially “interrupting” her relaxation. ",
+				"e": "宴會 연회 party, dinner, banquet"
+			},
+			{
+				"q": "寄",
+				"s": "기",
+				"m": "send, cling to, rely on, *draw near",
+				"d": "A <b>strange house</b> - the enchanted Gingerbread House that lured Hansel and Gretel to draw near.",
+				"e": "寄與 기여 contribution, service"
+			},
+			{
+				"q": "富",
+				"s": "부",
+				"m": "wealth",
+				"d": "All the wealth is kept under the roof of the same house.",
+				"e": "富者 부자 rich/wealthy man"
+			},
+			{
+				"q": "貯",
+				"s": "저",
+				"m": "to pile up, *savings",
+				"d": "The shells, the money of older days, are piled up and hidden inside the house. The nail driven into the rafters shows the hiding place.",
+				"e": "貯金 저금 savings, deposit"
+			}
+		]
+	},
+	{
+	"name": "L10",
+	"cards": [
+			{
+				"q": "木",
+				"s": "목",
+				"m": "tree",
+				"d": "A pictograph of a treee, showing the main trunk in the long vertical stroke and the boughs in the long horizontal stroke. The final two strokes sweep down in both directions to indicate the roots.",
+				"e": "木발 목발 crutch"
+			},
+			{
+				"q": "林",
+				"s": "림",
+				"m": "grove",
+				"d": "A grove is a small cluster of trees. Hence the simple reduplication of the kanji for tree gives us the grove.",
+				"e": "山林 산림 woods/forest"
+			},
+			{
+				"q": "森",
+				"s": "삼",
+				"m": "forest",
+				"d": "A forest is a large expanse of trees, or “trees, trees everywhere.”",
+				"e": "森林 삼림 woods/forest"
+			},
+			{
+				"q": "桂",
+				"s": "계",
+				"m": "cinnamon tree, *Japanese Judas-tree",
+				"d": "A tree with ivy growing down its branches in the shape of a hangman’s rope.",
+				"e": "桂皮 계피 cinnamon"
+			},
+			{
+				"q": "柏",
+				"s": "백",
+				"m": "thuja, *oak",
+				"d": "Think of the myth of the “golden bough.” As you may recall, what made the sacred oak in the forest of Diana the Huntress outside of Rome “golden” were the white berries of the mistletoe that grew in the branches of the tree, presumably appearing yellow when the light of the sun shone through them.",
+				"e": "冬柏 동백 camellia"
+			},
+			{
+				"q": "枠",
+				"s": "화",
+				"m": "cherry tree, *frame",
+				"d": "You might think of the frame this character refers to as the sort of frame we have created by drawing a dark line around this kanji and its explanation. Then think of that line as made of very thin wood; and finally note how each time the line bends it forms a 90° angle, thus giving us the nine and the ten.",
+				"e": ""
+			},
+			{
+				"q": "梢",
+				"s": "초",
+				"m": "treetops",
+				"d": "Climbing high up into the treetops to fix candles on the (Christmas) tree.",
+				"e": "末梢 말초 tip, end, periphery"
+			},
+			{
+				"q": "棚",
+				"s": "붕",
+				"m": "ladder, *shelf",
+				"d": "One often thinks of books as “good companions,” but here it is the shelf we store them on that is the companion. The reasons should be obvious: it is made of the same stuff, wood, and spends a lot more time with them than we do!",
+				"e": ""
+			},
+			{
+				"q": "杏",
+				"s": "행",
+				"m": "apricot",
+				"d": "Since apricots can be eaten just as they fall from the trees, picture this mouth agape at the bottom of a tree (just as the elements have it), waiting for apricots to fall into it.",
+				"e": "銀杏 은행 ginko nut"
+			},
+			{
+				"q": "桐",
+				"s": "동",
+				"m": "paulownia",
+				"d": "Since you probably don’t know what a paulownia tree is, we shall let the key word suggest the phrase “the Little Brothers of St. Paulownia” and it is a short step to associate the tree with the monks to its right. (For the curious, the name of this oriental treereally comes from a Russian princess, Anna Pavlovna.)",
+				"e": "梧桐 오동 paulownia"
+			},
+			{
+				"q": "植",
+				"s": "식",
+				"m": "plant",
+				"d": "You have no doubt seen how people practicing the Japanese art of bonsai take those helpless little saplings and twist them into crippled dwarves before they have a chance to grow up as they should. The more proper way to plant a young tree and give it a fair shake in life is to set it into the earth in such a way that it can grow up straight",
+				"e": "植物 식물 plant, flora"
+			},
+			{
+				"q": "枯",
+				"s": "고",
+				"m": "wither",
+				"d": "A wrinkled old tree, withering away in a retirement center so that the commonsense explanation does not take over.",
+				"e": "枯渴 고갈 drying up, exhaustion"
+			},
+			{
+				"q": "朴",
+				"s": "박",
+				"m": "simple, *crude",
+				"d": "As all magicians know, one makes one’s wand out of a hazel branch and is careful not to alter the natural form of the wood. For the magic of the wand derives its power from its association with the hidden laws of nature, and needs therefore to be kept in its <b>crude</b>, natural state.",
+				"e": "素朴하다 소박하다 simple, unsophisticated"
+			},
+			{
+				"q": "村",
+				"s": "촌",
+				"m": "village, *town",
+				"d": "A town is a step up on the evolutionary path to cities, thus the character shows a circle of trees glued together to measure off the confines of a town. (cf. 町 village)",
+				"e": "山村  산촌 mountain village"
+			},
+			{
+				"q": "相",
+				"s": "상",
+				"m": "inter-",
+				"d": "The prefix inter- stirs up associations of cooperation among people. The elements:<b>tree</b> and <b>eye</b> call to mind the scriptural proverb about first taking the tree out of one’s own eye before helping your neighbors with the splinter in theirs. What a useful rule for <b>inter-</b>human relationships!",
+				"e": "相關 상관 interrelation"
+			},
+			{
+				"q": "机",
+				"s": "궤,기",
+				"m": "desk",
+				"d": "A <b>desk</b> made of wonderful rough <b>wood</b> and the <b>wind</b> that blows across it, sending your papers flying all over the room.",
+				"e": ""
+			},
+			{
+				"q": "本",
+				"s": "본",
+				"m": "basis, root, *book",
+				"d": "Books are made of paper, and paper made of trees, one might think of a book as a slice of a tree. Can you see the “cross-cut” in the trunk of the tree? Picture it as a chain-saw cutting you out a few books with which to start your own private library.",
+				"e": "根本 근본 the root, the basis"
+			},
+			{
+				"q": "札",
+				"s": "찰",
+				"m": "letter, pick, *tag",
+				"d": "The tags you see hanging on trees in public places are helpful to identify what sort of trees they are. Next time you see one, imagine the bit of wire that fixes the tag to the branch as a large fishhook.",
+				"e": "改札 개찰 examination of tickets"
+			},
+			{
+				"q": "暦",
+				"s": "력",
+				"m": "calendar",
+				"d": "Calendar boxes like a grove of trees growing up through the layers of rock and soil.",
+				"e": ""
+			},
+			{
+				"q": "案",
+				"s": "안",
+				"m": "desk, *plan",
+				"d": "A hammock strung between two <b>trees</b> in your backyard, and you stretched out in it, <b>relaxed</b>, hands folded behind your head, planning something or other.",
+				"e": "方案 방안 plan, program"
+			},
+			{
+				"q": "燥",
+				"s": "조",
+				"m": "dry, *parch",
+				"d": "Take a sheet of paper (a “wood-good,”), wet it, and hold it over a hearth in your mind’s eye. Now watch as it parches the paper, leaving it with a strange and bumpy surface resembling parchment",
+				"e": "乾燥 건조 dryness, aridity"
+			},
+			{
+				"q": "未",
+				"s": "미",
+				"m": "not yet",
+				"d": "A tree that is not yet fully grown.",
+				"e": "未來 미래 future, 未婚 미혼 unmarried"
+			},
+			{
+				"q": "末",
+				"s": "말",
+				"m": "extremity",
+				"d": "A tree has reached the extremity of its growth, so that its branches stop spreading and start drooping downwards.",
+				"e": "末技 말기 end, last period, late stage"
+			},
+			{
+				"q": "沫",
+				"s": "말",
+				"m": "bubbles, foam, *splash",
+				"d": "A wave that has run its full course, reached its extremity, namely the seashore, and ended in a splash.",
+				"e": ""
+			},
+			{
+				"q": "味",
+				"s": "미",
+				"m": "flavor",
+				"d": "When a tree has not yet finished growing, it produces fruit with a full flavor. When the official taster (the professional mouth to the left) determines that full flavor has been reached, the tree is pruned back so that it remains permanently not yet grown.",
+				"e": "趣味 취미 hobby, 意味 의미 meaning, sense"
+			},
+			
+			{
+				"q": "妹",
+				"s": "매",
+				"m": "*younger sister",
+				"d": "The younger sister in the family is the woman in the family who, like the newest branch in a tree, is not yet old enough or mature enough to do everything the elder sister can do.",
+				"e": "姊妹 자매 sisters"
+			},
+			{
+				"q": "朱",
+				"s": "주",
+				"m": "vermilion",
+				"d": "That red-orange color we call vermilion is found in nature during the fall when the leaves lose their sugar and begin to change color. This kanji depicts the very last leaf on a tree in the fall (the drop hung in the first stroke), the leaf that has not yet fallen as it one day must. Look at its color—vermilion.",
+				"e": "朱黃 주황 orange color"
+			},
+			{
+				"q": "株",
+				"s": "주",
+				"m": "stocks",
+				"d": "The stocks that a healthy tree has is in the hopes that it will grow and produce more and more trees like itself. Usually good stocks are referred to as “blue chip,” but here it is vermilion because one can assess the value of a tree from the color of its autumn leaves",
+				"e": "株式 주식 stocks, shares"
+			},
+			{
+				"q": "若",
+				"s": "약",
+				"m": "same, equal, *young",
+				"d": "Here we see a <b>flower</b> held in the <b>right</b> hand. You can imagine yourself in a magic garden where flowers picked with the right hand grant eternal <b>youth</b>; and those picked with the left, premature senility. Go ahead, pick one with each hand and watch what happens.",
+				"e": "若干 약간 a few, somewhat"
+			},
+			{
+				"q": "草",
+				"s": "초",
+				"m": "grass",
+				"d": "An early spring crocus flower pops up and blooms as the grass begins to turn green again after winter has passed. A sort of early harbinger of spring.",
+				"e": "乾草 건초 hay, dried grass"
+			},
+			{
+				"q": "苦",
+				"s": "고",
+				"m": "bitter, suffering",
+				"d": "When a flower ages, it pales and dries up, and probably even suffers. If you think that plants are incapable of such feelings, then ask yourself why so many people believe that talking to their flowers helps them bloom better. ",
+				"e": "苦生 고생 hardships"
+			},
+			{
+				"q": "寛",
+				"s": "관",
+				"m": "generous, *tolerant",
+				"d": "The house of flowers or “hothouse” has become a metaphor for a narrow-minded, biased, and intolerant attitude distrustful of change. Tolerance, in contrast, is open-minded and welcomes novelty. The way to encourage tolerance in those who lack it is first to have them see through their own hothouse attitudes.",
+				"e": ""
+			},
+			{
+				"q": "薄",
+				"s": "박",
+				"m": "thin, *dilute",
+				"d": "An acupuncturist performing his task with <b>flowers</b> in place of needles, and using their hollow stems to pipe <b>water</b> into the body of the patient to <b>dilute</b> the vital humors of the body.",
+				"e": "薄하다 stingy, inhuman, scanty"
+			},
+			{
+				"q": "葉",
+				"s": "엽",
+				"m": "leaf",
+				"d": "It is a leaf that feeds the flowers on a tree. The element for generation interposed between the two suggests that the movement of a tree from one generation to the next is like its 'turning over a new leaf'.",
+				"e": "落葉 낙엽 fallen leaves"
+			},
+			{
+				"q": "莫",
+				"s": "막",
+				"m": "not to exist, *graveyard",
+				"d": "Brightly colored flowers placed before the tombstones, the sun shining gloriously overhead, and a cuddly St.Bernard sitting at the gate keeping watch.",
+				"e": "莫強하다 막강하다 enormously mighty"
+			},
+			{
+				"q": "模",
+				"s": "모",
+				"m": "rule, *imitation",
+				"d": "Ah, but haven’t modern graveyards become a parody of their ancestors! The flowers are plastic, the writing on the stones is unimaginative and cold, and the whole thing looks more like a marble orchard than a right and proper graveyard.",
+				"e": "規模 규모 scale"
+			},
+			{
+				"q": "漠",
+				"s": "막",
+				"m": "desert, *vague",
+				"d": "A deserted graveyard seen vaguely through the mist.",
+				"e": "砂漠 사막 desert"
+			},
+			{
+				"q": "墓",
+				"s": "묘",
+				"m": "grave",
+				"d": "The mounds of soil with crude wooden crosses set at their head suggests those boot-hill graves we all know from cowboy lore. Pay attention, the soil comes under the graveyard, rather than to its left, where we might expect. Just think of the bodies as “lying under boot-hill” if you have any trouble.",
+				"e": "墓地 묘지 graveyard, cemetery"
+			},
+			{
+				"q": "暮",
+				"s": "모",
+				"m": "to grow dark, *livelihood",
+				"d": "Imagine that you have chosen the occupation of the keeper of a <b>graveyard</b> and spend your <b>days</b> tending to other’s deadhood in order to make your means of <b>livelihood</b>.",
+				"e": "朝令暮改 조령모개 (early command - late correction) an unsettled course of action"
+			},
+			{
+				"q": "膜",
+				"s": "막",
+				"m": "membrane,film",
+				"d": "The part of the body first affected by a stroll through a haunted graveyard is the skin, which gets goose bumps. But think of being so scared through and through that the goose flesh moves from the outside in, giving you goose membranes.",
+				"e": "膜 막 membrane, film"
+			},
+			{
+				"q": "苗",
+				"s": "묘",
+				"m": "seedling",
+				"d": "In the roman 'Brave New World' they implant “ideas” or “values” into brains like <b>seedlings</b> to insure a harmonious society. Imagine them taking root and breaking out into <b>flower</b> right through the tops of the <b>skulls</b> of people walking around on the streets. ",
+				"e": "苗木 묘목 seedling, a young plant"
+			},
+		]
+	},
+	{
+		"name" : "L11",
+		"cards" : [
+			{
+				"q": "兆",
+				"s": "조",
+				"m": "portent, *turtle",
+				"d": "Back of a turtle used as a way to foretell the future, and in particular things that <b>portend</b> coming evils.",
+				"e": "兆朕 조짐 omen, portent, sign"
+			},
+			{
+				"q": "桃",
+				"s": "도",
+				"m": "peach tree",
+				"d": "Recall the famous Japanese legend of Momotarõ, the Peach Boy: A fisherman and his wife who wanted badly to have a child, but none was born to them. Then one day the old man caught a giant peach, out of which jumped a healthy young lad whom they named Peach Boy. Though the boy was destined to perform heroic deeds, his birth also <b>portended</b> great misfortune. Thus the tree that is associated with a portent of coming evil comes to be the <b>peach tree</b>.",
+				"e": "黃桃 황도 yellow peach"
+			},
+			{
+				"q": "眺",
+				"s": "조",
+				"m": "stare",
+				"d": "An eye that portends evil : to give someone the “evil eye” is to stare at them, wishing them evil.",
+				"e": "眺望 조망 view, prospect"
+			},
+			{
+				"q": "犬",
+				"s": "견",
+				"m": "dog, *chihuahua, *a pack of wild dogs",
+				"d": "A normal-sized dog, which compared to the St. Bernard is no more than a drop in the kennel.",
+				"e": "忠犬 충견 faithful dog"
+			},
+			{
+				"q": "状",
+				"s": "상",
+				"m": "shape, form, *status quo",
+				"d": "A turtle fell madly in love with a chihuahua but could not have her because their two families did not like the idea of their children intermarrying? Like all classic stories of ill-fated love, this one shows how the young upset the status quo with an emotion older and more powerful than anything their elders have devised to counter it: blind love.",
+				"e": ""
+			},
+			{
+				"q": "默/黙",
+				"s": "묵",
+				"m": "silence",
+				"d": "A <b>black chihuahua</b> called Darkness, as from the famous song about <b>silence</b> that begins: “Hello, Darkness, my old friend...”",
+				"e": "沈默 침묵 silence"
+			},
+			{
+				"q": "然",
+				"s": "연",
+				"m": "that sort of",
+				"d": "Reverting to the time when dog was more widely eaten than it is today, we see here a large cauldron boiling over an oven <b>flame</b> with the <b>flesh</b> of a <b>chihuahua</b> being thrown into the whole concoction to make it into a “hot-diggity, dog-diggity” <b>sort of thing<b/>.",
+				"e": "果然 과연 indeed, really"
+			},
+			{
+				"q": "荻",
+				"s": "적",
+				"m": "reed",
+				"d": "You’ve no doubt seen cattails, those swamp reeds with a furry flower to them like the tail of a cat. This might just turn out to be a good way to get rid of a troublesome pack of wild dogs: lure them into a swamp of these reeds with the cattail <b>flowers</b> and then set afire to the swamp.",
+				"e": ""
+			},
+			{
+				"q": "狩",
+				"s": "수",
+				"m": "hunt",
+				"d": "One of the worst problems you have to face when you go <b>hunting</b> is to <b>guard</b> your take from the <b>wild dogs</b>. If you imagine yourself failing at the task, you will probably have a stronger image than if you try to picture yourself succeeding.",
+				"e": "狩獵 수렵 hunting"
+			},
+			{
+				"q": "猫",
+				"s": "묘",
+				"m": "cat",
+				"d": "“Crop of cats”. Knowing how much dogs love to chase cats, picture a <b>pack of wild dogs</b> planting “cat-<b>seedlings</b>,” watering them, and fertilizing them until they can be harvested as a crop of cats for them to chase and torment.",
+				"e": ""
+			},
+			{
+				"q": "牛",
+				"s": "우",
+				"m": "cow",
+				"d": "A cow that has just been run over by a steamroller. The small dot in the first stroke shows its head turned to one side, and the next two strokes, the four legs.",
+				"e": "牛乳 우유 cow's milk"
+			},
+			{
+				"q": "特",
+				"s": "특",
+				"m": "special",
+				"d": "Sacred <b>cows</b> of India are <b>special</b>. They wander freely without fear of being butchered and ground into hamburger. Though the practice is a Hindu one, the Buddha’s refusal to take the life of any sentient being makes it only fitting that the cows should be placed on the sacred grounds of a <b>Buddhist temple</b> in this kanji.",
+				"e": "特性 특성 specificity"
+			},
+			{
+				"q": "告",
+				"s": "고",
+				"m": "announce, *revelation",
+				"d": "A revelation through the mouth of a cow, suggesting oracular utterances about truths hidden to human intelligence.",
+				"e": "告白 고백 confession"
+			},
+			{
+				"q": "先",
+				"s": "선",
+				"m": "first, ahead, *before",
+				"d": "If you have a cow with human legs, as the elements show us here, it can only be because you have two people in a cow-suit. I always thought I’d prefer to be the one standing before, rather than the one that holds up the rear and becomes the “butt” of everyone’s laughter.",
+				"e": "先生 선생 teacher"
+			},
+			{
+				"q": "洗",
+				"s": "세",
+				"m": "wash",
+				"d": "There's ae character from the Peanuts comic strip called “Pig-pen,” who is always preceded by a little cloud of dust and grime. Let's rename him “Wash-Out.” Everywhere he walks, a spray of water goes before him to sanitize everything he touches.",
+				"e": "洗手 세수 face/hand washing"
+			}
+		]
+	},
+	{
+		"name" : "L12",
+		"cards" : [
+			{
+				"q": "介",
+				"s": "개",
+				"m": "insert, put in, *jammed in",
+				"d": "Someone shoves his <b>walking stick</b> into a slot in the umbrella stand at the door, but it gets jammed into an umbrella frame since the slot has been already occupied. Try to imagine the two parties tugging at their respective properties like two kids on a wishbone, creating a scene at the entrance of an elegant restaurant.",
+				"e": " 紹介 소개 introduction"
+			},
+			{
+				"q": "界",
+				"s": "계",
+				"m": "boundary, *world",
+				"d": "The world gets jammed with more and more people. Imagine yourself taking an air flight over a <b>world</b> so densely populated that every bit of it is sectioned off like a gigantic <b>checkerboard (the rice fields)</b>. If you look closely at the character, you should be able to see a kind of movement taking place as still more is being jammed into that already narrow space.",
+				"e": "世界 세계 the world"
+			},
+			{
+				"q": "茶",
+				"s": "다,차",
+				"m": "tea",
+				"d": "A terrace of <b>flowering</b> tea bushes in mind, picture very l-o-n-g <b>wooden poles</b> (木) placed here and there in their midst, with a tiny umbrella at the top to shade the delicate-tasting tea flowers.",
+				"e": "紅茶 홍다/홍차 black tea"
+			},
+			{
+				"q": "亼",
+				"s": "집",
+				"m": "gather together, meeting",
+				"d": "A meeting represented as a massive gathering of people under one umbrella.",
+				"e": ""
+			},
+			{
+				"q": "合",
+				"s": "합",
+				"m": "unite, *fit",
+				"d": "A meeting of mouths — a romantic kiss. We know what happens when there is no meeting of minds and when people’s ideas don’t <b>fit</b>, but try to imagine what would happen to a poor couple whose mouths didn’t <b>fit</b>.",
+				"e": "複合 복합 composition, complex"
+			},
+			{
+				"q": "塔",
+				"s": "탑",
+				"m": "pagoda",
+				"d": "A great <b>pagoda</b> built up of <b>dirt</b> and <b>flowers</b> made to fit together. Flowers by the tens of thousands are fitted together for the roofing of each of the layers.",
+				"e": "塔 탑 tower, pagoda"
+			},
+			{
+				"q": "王",
+				"s": "왕",
+				"m": "king",
+				"d": "King's scepter.",
+				"e": "王 왕 king"
+			},
+			{
+				"q": "玉",
+				"s": "옥",
+				"m": "bead, jade, *jewel, *ball",
+				"d": "Note the <b>drop</b> in the king's <b>scepter</b>. It is a precious jewel handed down from of old as a symbol of his wealth and power.",
+				"e": "玉 옥"
+			},
+			{
+				"q": "宝",
+				"s": "보",
+				"m": "treasure",
+				"d": "A treasure is the jewels kept in one’s house.",
+				"e": ""
+			},
+			{
+				"q": "珠",
+				"s": "주",
+				"m": "bead, *pearl",
+				"d": "The most enormous pearl you have ever seen, a great <b>vermilion</b>-colored <b>ball</b> sitting on your ring and making it extremely difficult to move without falling over from the weight of the thing.",
+				"e": "珍珠 진주 pearl"
+			},
+			{
+				"q": "現",
+				"s": "현",
+				"m": "appear, *present",
+				"d": "A crystal <b>ball</b> in which we see the things going on at the <b>present</b> in faraway places.",
+				"e": "現代 현대 present age/day"
+			},
+			{
+				"q": "狂",
+				"s": "광",
+				"m": "mad, lunatic",
+				"d": "One of these lycanthropes (wolfmen) going mad and setting himself up as king of a pack of wild dogs that roams about and terrorizes innocent suburban communities.",
+				"e": "狂人 광인 madman, lunatic; 熱狂 열광 ethusiasm, frenzy"
+			},
+			{
+				"q": "皇",
+				"s": "황",
+				"m": "emperor",
+				"d": "The white bird perched above the king, elevating him to imperial heights, is the messenger he sends back and forth to the gods to request advice and special favors, something that white birds have long done in folklore through out the world.",
+				"e": "皇國 황국 empire"
+			},
+			{
+				"q": "呈",
+				"s": "정",
+				"m": "give, *display",
+				"d": "The nursery rhyme about 4 and 20 blackbirds baked in a pie: “Wasn’t this a dainty dish to set before the king?” Imagine the following <b>display</b>: the king sits with his head thrown back and his mouth wide open as 4 and 20 blackbirds fly in one after the other.",
+				"e": "露呈 노정 exposure, disclosure"
+			},
+			{
+				"q": "全",
+				"s": "전",
+				"m": "whole",
+				"d": "Wholeness suggests physical and spiritual health, “having your act together.” The kanji-image depicts being “king under your own umbrella,” that is, giving order to your own life.",
+				"e": "全部 전부 whole, total"
+			},
+			{
+				"q": "栓",
+				"s": "전",
+				"m": "plug",
+				"d": "",
+				"e": "Imagine a <b>tree</b> with a faucet in the side out of which tennis <b>balls</b> are flowing, bouncing all over the ground by the hundreds. You fight your way up to it and shove your giant beach <b>umbrella</b> into the tree to <b>plug</b> it up."
+			},
+			{
+				"q": "理",
+				"s": "리",
+				"m": "to govern, *logic",
+				"d": "Logic is something like a central <b>jewel</b> in a <b>computer</b>, like the jewels in old clocks that keep them running smoothly. Try to picture yourself making your way through all the RAMs and ROMs and approaching this shining jewel, a chorus of voices and a blast of trumpets in the background heralding the great seat of all-knowing logic.",
+				"e": "合理的 합리적 rational, reasonable"
+			},
+			{
+				"q": "主",
+				"s": "주",
+				"m": "lord",
+				"d": "Every person is a bit (or drop) of a king in one’s own environment.",
+				"e": "民主 민주 democracy"
+			},
+			{
+				"q": "注",
+				"s": "주",
+				"m": "pour",
+				"d": "Picture pouring water from a lighted candlestick.",
+				"e": "注目 주목 attention, remark"
+			},
+			{
+				"q": "柱",
+				"s": "주",
+				"m": "pillar",
+				"d": "The pillar referred to here is the wooden beam that stands at the entrance to a traditional Japanese house. Carve it in imagination into the shape of a gigantic candlestick and your work is done.",
+				"e": "支柱 지주 prop, support"
+			},
+			{
+				"q": "金",
+				"s": "금",
+				"m": "metal, gold",
+				"d": "We want to depict bars of gold bullion with an umbrella overhead to shade them from the heat (and perhaps to hide them as well). The bullion is made by melting down all the scepters of the kingdom, drop by drop, and shaping them into bars.",
+				"e": "金 금"
+			},
+			{
+				"q": "銑",
+				"s": "선",
+				"m": "pull, draw, *pig iron",
+				"d": "Pig iron refers to iron in the crude form in which it emerges from the smelting furnaces. Of all the various forms metal can take, this one shows us metal before it has been refined. Imagine two photographs labeled “before” and “after” to show the process.",
+				"e": ""
+			},
+			{
+				"q": "鉢",
+				"s": "발",
+				"m": "bowl",
+				"d": "Let bowl suggest a large and heavy golden bowl into which you are throwing all the books you own to mash them into pulp, for some outrageous reason you will have to think up yourself.",
+				"e": "沙鉢 사발 (china) bowl"
+			},
+			{
+				"q": "銅",
+				"s": "동",
+				"m": "cupper",
+				"d": "Picture an order of monks serving as chaplains for the police force. Their special habit, made of protective metal, is distinguished by a row of copper buttons just like the “cops” they serve.",
+				"e": "銅像 동상 bronze statue"
+			},
+			{
+				"q": "釣",
+				"s": "조",
+				"m": "angling",
+				"d": "The angling of this character refers to the sport. The odd thing is that your angling rod is a <b>golden ladle</b> which you are using to scoop <b>gold</b> fish out of a river",
+				"e": ""
+			},
+			{
+				"q": "針",
+				"s": "침",
+				"m": "needle",
+				"d": "A set of solid gold darning needles.",
+				"e": "時針 시침 hour hand"
+			},
+			{
+				"q": "銘",
+				"s": "명",
+				"m": "carve in, inscribe, *inscription",
+				"d": "An inscription of the name you ask the jeweler to carve on a gold bracelet or inside a gold ring to identify its owner or communicate some sentimental message.",
+				"e": "感銘 감명 deep impression"
+			},
+			{
+				"q": "鎮",
+				"s": "진",
+				"m": "tranquillize",
+				"d": "The first lie-detector machines of the 20th century worked by wiring pieces of metal to the body to measure the amount of sweat produced when questions were asked. It was discovered that nervousness produced more sweat, indicating subconscious reactions when the truth was getting too close for comfort. Nowadays, people can take drugs to tranquillize them to neutralize the effect of the device, which is why other means have had to be developed.",
+				"e": ""
+			}
+		]
+	}
+];
+/*
+	{
+		"name" : "L",
+		"cards" : [
+			{
+				"q": "",
+				"s": "",
+				"m": "",
+				"d": "",
+				"e": ""
+			},
+		]
+	}
+*/
