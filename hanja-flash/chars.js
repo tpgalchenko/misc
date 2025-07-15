@@ -2044,7 +2044,7 @@ const DATA =
 				"q": "輸",
 				"s": "수",
 				"m": "transport",
-				"d": "<b>Flesh, saber</b> = butcher and his trade + <b>vehicle + meeting/b> = trucker's convoy.",
+				"d": "<b>Flesh, saber</b> = butcher and his trade + <b>vehicle + meeting</b> = trucker's convoy.",
 				"e": "輸出 수출 export"
 			},
 			{
@@ -2075,8 +2075,6 @@ const DATA =
 				"d": "<i>Suum cuique</i>. Someone walking with his/her mouth between his/her walking legs, giving us an image of “To each his/her own.”",
 				"e": "各自 각자 each"
 			},
-			
-
 			{
 				"q": "略",
 				"s": "략",
@@ -2097,13 +2095,6 @@ const DATA =
 				"m": "forehead",
 				"d": "Out of respect, you do not look straight into the eyes of your guest, but look at the top button of their collar. Here, however, you are told to look above the eyes to the forehead of your guest.",
 				"e": "金額 금액 amount/sum of money"
-			},
-			{
-				"q": "",
-				"s": "",
-				"m": "",
-				"d": "",
-				"e": ""
 			},
 			{
 				"q": "夏",
