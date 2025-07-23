@@ -861,7 +861,7 @@ const DATA =
 			},
 			{
 				"q": "順",
-				"s": "수",
+				"s": "순",
 				"m": "obey",
 				"d": "Either one obeys the person who is <b>head</b> of an organization or else obeys by following the <b>stream</b> of opinion (<b>“current”</b> practice, we call it).",
 				"e": "順序 순서 order, sequence"
@@ -1740,7 +1740,7 @@ const DATA =
 				"q": "洗",
 				"s": "세",
 				"m": "wash",
-				"d": "There's ae character from the Peanuts comic strip called “Pig-pen,” who is always preceded by a little cloud of dust and grime. Let's rename him “Wash-Out.” Everywhere he walks, a spray of water goes before him to sanitize everything he touches.",
+				"d": "There's a character from the Peanuts comic strip called “Pig-pen,” who is always preceded by a little cloud of dust and grime. Let's rename him “Wash-Out.” Everywhere he walks, a spray of water goes before him to sanitize everything he touches.",
 				"e": "洗手 세수 face/hand washing"
 			}
 		]
