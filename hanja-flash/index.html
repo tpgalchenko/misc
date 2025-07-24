@@ -120,7 +120,8 @@ function setupLessonsDialog() {
 	document.getElementById("l_all").checked = true;
 
 	for(let k = 0; k < DATA.length; ++k) {
-		const li = document.createElement("li");
+		const li = document.createElement("div");
+		li.classList.add("lesson-li");
 		const inp = document.createElement("input");
 		inp.type = "checkbox";
 		inp.id = DATA[k].name;
@@ -139,12 +140,13 @@ function setupLessonsDialog() {
 	}
 }
 
-function toggleAll() {
+function toggleAll(explicit) {
+	console.log("toggleAll " + explicit);
 	const l_all = document.getElementById("l_all");
 
 	for(let k = 0; k < DATA.length; ++k) {
 		const cb = document.getElementById(DATA[k].name);
-		cb.checked = l_all.checked;
+		cb.checked =  explicit || l_all.checked;
 	}
 }
 
@@ -181,6 +183,7 @@ function okLessonsDialog(e) {
 	}
 	indexLessons();
 	updateStatus();
+	handleClick();
 }
 
 function onLoad() {
@@ -271,12 +274,10 @@ function onLoad() {
 		}
 		.lessons-checkbox {
 			margin-right: 30px;
+			margin-left: 10px;
 		}
-		
 		#hanja_mode, #keyword_mode, .lessons-checkbox, .lesson-cb-label {
-			height: 10em;
-			-webkit-transform: scale(2); /* Chrome, Safari, Opera */
-			transform: scale(2);
+			height: 6em;
 			vertical-align: middle;
 		}
 		input[type="button"] {
@@ -307,12 +308,29 @@ function onLoad() {
 			background: #FFFFFF;
 			font-size: 2vh;
 			border: 1px solid;
-			padding: 2vw;
-			margin: 2vw;
-			height: fit-content;
 			max-height: 70vh;
-			width: 40vw;
+			width: 80vw;
 			overflow: auto;
+		}
+		#lesson-list {
+			display: flex;
+			flex-flow: column wrap;
+			flex: 1 1 auto;
+			width: 100%;
+			height: 90%;
+		}
+/*
+		.lesson-li {
+			border: 1px solid;
+		}
+*/
+		.lesson-li:nth-child(even) {
+			background-color: #EEEEEE;
+		}
+		.lesson-cb-label {
+			border: 1px solid;
+			border-color: red;
+			padding: 1.25em;
 		}
 	</style>
 </head>
@@ -343,12 +361,12 @@ function onLoad() {
 	</div>
 	<div id="lessons-frame" class="lessons-frame">
 		<div id="lessons-dlg">
-			<ul id="lesson-list">
-				<li id="li_all">
-					<input type="checkbox" id="l_all" class="lessons-checkbox" onchange="toggleAll()"/>
-					<label for="l_all" class="lesson-cb-label">All</label>
-				</li>
-			</ul>
+			<div id="lesson-list">
+				<div id="li_all" class="lesson-li">
+					<input type="checkbox" id="l_all" class="lessons-checkbox" onchange="toggleAll(false)"/>
+					<label for="l_all" class="lesson-cb-label" onclick="toggleAll(true)">All</label>
+				</div>
+			</div>
 			<input type="button" value="Cancel" onclick="cancelLessonsDialog(this)"/>
 			<input type="button" value="OK" onclick="okLessonsDialog(this)"/>
 		</div>
