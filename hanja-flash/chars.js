@@ -2609,7 +2609,7 @@ const DATA =
 				"e": "海賊 해적 sea pirate"
 			},
 			{
-				"q": "",
+				"q": "土 + 戈",
 				"s": "-",
 				"m": "*Thanksgiving",
 				"d": "The word Thanksgiving is only one possible way of making this primitive more concrete. The sense, as its composite primitives make clear, is of a “land fiesta,” or a harvest feast.",
