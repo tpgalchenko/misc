@@ -829,7 +829,7 @@ const DATA =
 			{
 				"q": "厚",
 				"s": "후",
-				"m": "hearty, *thick",
+				"m": "thick",
 				"d": "A child abandoned out on the wild cliffs, exposed to the heat of the sun, and thus doomed to develop a head and skin as thick as the parent who left it there.",
 				"e": "厚하다 후하다 generous, hearty, friendly"
 			},
@@ -1994,7 +1994,7 @@ const DATA =
 			{
 				"q": "迫",
 				"s": "박",
-				"m": "imminent, *urge",
+				"m": "urge, coerce",
 				"d": "To <b>urge</b> someone to do something, you make the <b>way</b> as appealing as possible, perhaps even <b>white</b>washing it a bit.",
 				"e": "脅迫 협박 menace, intimidation"
 			},
@@ -2029,7 +2029,7 @@ const DATA =
 			{
 				"q": "連",
 				"s": "련",
-				"m": "connected, adhacent, *take along",
+				"m": "connected, adjacent, *take along",
 				"d": "What you are meant to <b>take along</b> in this kanji are not things but people. The image of the car on the road should ground your image for picking up your friends to take them along to wherever you are going.",
 				"e": "連結 연결 connection"
 			},
@@ -2256,7 +2256,7 @@ const DATA =
 				"e": "背景 배경 background"
 			},
 			{
-				"q": "鲸",
+				"q": "鲸/鯨",
 				"s": "경",
 				"m": "whale",
 				"d": "The whale swallows a whole school of fish, who turn their new abode into a proper little fish-capital.",
@@ -2270,18 +2270,18 @@ const DATA =
 				"e": ""
 			},
 			{
-				"q": "舎",
+				"q": "舎/舍",
 				"s": "사",
 				"m": "house, *cottage",
 				"d": "A lidded crock with an umbrella overhead gives us a mixture of the modern and the nostalgic in this design for a cottage.",
-				"e": ""
+				"e": "寄宿舍 기숙사 dormitory"
 			},
 			{
-				"q": "周",
+				"q": "周",
 				"s": "주",
 				"m": "circumference, *lap",
 				"d": "There are little ruler marks along its bottom edge of the lidded crock. They are used to measure the circumference of your motorcycle helmet: just begin at a fixed point and turn the lidded crock around and around.",
-				"e": "周圍 주위 circumference, surroundings"
+				"e": "周圍 주위 circumference, surroundings"
 			},
 			{
 				"q": "週",
@@ -2305,25 +2305,25 @@ const DATA =
 				"e": "吉運 길운 good fortune, luck"
 			},
 			{
-				"q": "壮",
+				"q": "壮/壯",
 				"s": "*장",
 				"m": "robust",
 				"d": "Robust is seen as a turtle turned samurai.",
-				"e": ""
+				"e": "宏壯히 굉장히 very, much"
 			},
 			{
-				"q": "荘",
+				"q": "荘/莊",
 				"s": "장",
 				"m": "severe, strict, *villa",
 				"d": "The villa is filled with exotic flowers at every turn, and has a pair of turtle-samurai standing before its gates.",
-				"e": ""
+				"e": "別莊 별장 villa, country house"
 			},
 			{
-				"q": "売",
+				"q": "売/賣",
 				"s": "매",
 				"m": "sell",
 				"d": "A <b>samurai</b>, out of a job, is going door-to-door <b>selling</b> little windup <b>crowns</b> with <b>human legs</b> that run around on the floor looking like headless monarchs.",
-				"e": ""
+				"e": "販賣 판매 sale, selling"
 			}
 		]
 	},
@@ -2331,25 +2331,25 @@ const DATA =
 		"name" : "L15",
 		"cards" : [
 			{
-				"q": "学",
+				"q": "学/學",
 				"s": "학",
 				"m": "study",
 				"d": "The child in the little red schoolhouse is there for one reason only: to study. Anyone who has gone through the schooling system knows well enough that study is one thing and learning quite another again.",
-				"e": ""
+				"e": "學校 학교 school"
 			},
 			{
-				"q": "覚",
+				"q": "覚/覺",
 				"s": "각",
-				"m": "memorize",
+				"m": "wake up, realize, *memorize",
 				"d": "Memorizing involves seeing things that are not really there",
-				"e": ""
+				"e": "視覺 시각 sight; 味覺 미각 taste"
 			},
 			{
-				"q": "栄",
+				"q": "栄/榮",
 				"s": "영",
 				"m": "flourish",
 				"d": "The botanical connotations of the word µourish (to bud and burst into bloom, much as a tree does) are part of the ideal of the schoolhouse as well.",
-				"e": ""
+				"e": "繁榮 번영 prosperity, flourish"
 			},
 			{
 				"q": "聿",
@@ -2373,7 +2373,7 @@ const DATA =
 				"e": "津하다 진핟다 thick, saturated"
 			},
 			{
-				"q": "攵",
+				"q": "攵/攴",
 				"s": "복",
 				"m": "to tap, *taskmaster",
 				"d": "First find the long rod (the 1st stroke), held in the hand of someone seated (the next 3 strokes) -  taskmaster/taskmistress “never to forget.”",
@@ -2396,7 +2396,7 @@ const DATA =
 			{
 				"q": "失",
 				"s": "실",
-				"m": "failure",
+				"m": "lose, *failure",
 				"d": "The taskmaster is acknowledging the failure of a clam to make the grade in some marine school or other.",
 				"e": "失敗 실패 failure"
 			},
@@ -2418,7 +2418,7 @@ const DATA =
 				"q": "敬",
 				"s": "경",
 				"m": "respect, *awe",
-				"d": "Standing in awe of someone, you get self-conscious and may try to speak in µowery phrases out of veneration or fear. The taskmaster at the right is drilling you in the practice of your “honorifics.”",
+				"d": "Standing in awe of someone, you get self-conscious and may try to speak in flowery phrases out of veneration or fear. The taskmaster at the right is drilling you in the practice of your “honorifics.”",
 				"e": "尊敬 존경 respect, reverence"
 			},
 			{
@@ -2432,7 +2432,7 @@ const DATA =
 				"q": "警",
 				"s": "경",
 				"m": "watch, alarm, *admonish",
-				"d": "The idea of being admonished for something already sets up a superior-inferior relationship between you and the person you are supposed to stand in awe of. While you are restricted to answering in honori³cs, the superior can use straightforward and ordinary words.",
+				"d": "The idea of being admonished for something already sets up a superior-inferior relationship between you and the person you are supposed to stand in awe of. While you are restricted to answering in honorifics, the superior can use straightforward and ordinary words.",
 				"e": "警察 경찰 police"
 			},
 			{
@@ -2513,11 +2513,11 @@ const DATA =
 				"e": "國語 국어 national language"
 			},
 			{
-				"q": "読",
+				"q": "読/讀",
 				"s": "독",
 				"m": "read",
 				"d": "In the age of advertising, most words we read are out to <b>sell</b> some product or point of view.",
-				"e": ""
+				"e": "讀書 독서 reading"
 			},
 			{
 				"q": "調",
@@ -2534,11 +2534,11 @@ const DATA =
 				"e": "相談 상담 consultation, counsel; 和談 화담 conversation, conference"
 			},
 			{
-				"q": "諾",
-				"s": "락",
+				"q": "諾",
+				"s": "낙",
 				"m": "consent",
 				"d": "The words of the young do not have legal validity unless backed up by “parental consent.”",
-				"e": "許諾 허락 consent, approval"
+				"e": "許諾 허락 consent, approval"
 			},
 			{
 				"q": "諭",
