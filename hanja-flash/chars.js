@@ -2218,7 +2218,7 @@ const DATA =
 				"s": "숙",
 				"m": "village school, *cram school",
 				"d": "This character depicts those who do not go to the cram schools: the <b>tall children</b> who are out on the school grounds practicing sports, and the <b>fat</b> ones who are out there burning off calories.",
-				"e": ""
+				"e": "私塾 사숙 private class (arch.)"
 			},
 			{
 				"q": "熟",
@@ -2260,7 +2260,7 @@ const DATA =
 				"s": "경",
 				"m": "whale",
 				"d": "The whale swallows a whole school of fish, who turn their new abode into a proper little fish-capital.",
-				"e": ""
+				"e": " 鯨波 경파 raging waves, heavy sea"
 			},
 			{
 				"q": "𠮷",
@@ -2369,7 +2369,7 @@ const DATA =
 				"q": "津",
 				"s": "진",
 				"m": "ferry, ford, saliva, *haven",
-				"d": "Seeing the tiny boats of poor mortals tossed about in a stormy sea like so many corks, the All-Merciful took its brushand drew little inlets of water where the hapless creatures might seek shelter. And so it is that we have havens.",
+				"d": "Seeing the tiny boats of poor mortals tossed about in a stormy sea like so many corks, the All-Merciful took its brush and drew little inlets of water where the hapless creatures might seek shelter. And so it is that we have havens.",
 				"e": "津하다 진핟다 thick, saturated"
 			},
 			{
@@ -2475,7 +2475,7 @@ const DATA =
 				"s": "조,소",
 				"m": "decree, proclaim, *imperial decree",
 				"d": "The imperial edict, spoken with the force of unquestionable law, is made up of words intended to seduce the masses—be it through fear or respect—to follow obediently.",
-				"e": ""
+				"e": "詔書 조서 imperial decree"
 			},
 			{
 				"q": "詰",
@@ -2496,7 +2496,7 @@ const DATA =
 				"s": "영",
 				"m": "sing, chant, *recitation",
 				"d": "Listening to the words of poets reciting their poetry is like being transported for a moment into eternity where the rules of everyday life have been suspended.",
-				"e": ""
+				"e": "詠嘆 (詠歎) 영탄 emotional recital; exclamation, admiration"
 			},
 			{
 				"q": "詩",
@@ -2570,21 +2570,21 @@ const DATA =
 				"q": "試",
 				"s": "시",
 				"m": "test, try",
-				"d": "When a manufacturer produces a new style for the market, the ³rst thing that is done is to run a test on consumers, asking them to speak their opinions frankly about the product.",
+				"d": "When a manufacturer produces a new style for the market, the first thing that is done is to run a test on consumers, asking them to speak their opinions frankly about the product.",
 				"e": "試驗 시험 examination, test"
 			},
 			{
-				"q": "弌",
+				"q": "弌/一",
 				"s": "일",
 				"m": "one, *quiver",
 				"d": "This primitive is easy to remember as depicting something used to bring all one’s arrows together into <b>one</b> handy place: the quiver.",
 				"e": ""
 			},
 			{
-				"q": "弐",
+				"q": "弐/貳",
 				"s": "이",
 				"m": "II (two)",
-				"d": "We use the Roman numeral ii here to stress that this kanji is an older form of the kanji for two. Think of two arrows in a quiver, standing up like the numeral ii.",
+				"d": "We use the Roman numeral II here to stress that this kanji is an older form of the kanji for two. Think of two arrows in a quiver, standing up like the numeral ii.",
 				"e": ""
 			},
 			{
@@ -2592,7 +2592,7 @@ const DATA =
 				"s": "과",
 				"m": "halberd, spear,*fiesta",
 				"d": "The picture in this primitive is what we may call a “tassled arrow.” A decorative tassle is strung on the shaft of an arrow to indicate that it is no longer a weapon but a symbol of a fiesta.",
-				"e": ""
+				"e": "兵戈 병과 spear, bayonet"
 			},
 			{
 				"q": "域",
@@ -2619,7 +2619,7 @@ const DATA =
 				"q": "栽",
 				"s": "재",
 				"m": "cultivate, plant(*ation)",
-				"d": "On a fruit plantation it is the treesthat one is particularly grateful for at the time of <bThanksgiving</b>. Imagine yourself inviting a few representative trees from the fields and orchards to join you around the table to give thanks.",
+				"d": "On a fruit plantation it is the treesthat one is particularly grateful for at the time of <b>Thanksgiving</b>. Imagine yourself inviting a few representative trees from the fields and orchards to join you around the table to give thanks.",
 				"e": "栽培 재배 cultivation, growing"
 			},
 			{
@@ -2640,7 +2640,7 @@ const DATA =
 				"q": "茂",
 				"s": "무",
 				"m": "overgrown",
-				"d": "The sense of the key word overgrown is of something growing luxuriously, though not necessarily in excess — in this case a whole parade of weeds (outcaste flowers). By way of exception, the µowers take their normal place over the enclosure.",
+				"d": "The sense of the key word overgrown is of something growing luxuriously, though not necessarily in excess — in this case a whole parade of weeds (outcast flowers). By way of exception, the flowers take their normal place over the enclosure.",
 				"e": "茂盛하다 무성하다 thick, dense, rampant"
 			},
 			{
@@ -2667,7 +2667,7 @@ const DATA =
 			{
 				"q": "戌",
 				"s": "술",
-				"m": "march",
+				"m": "dog, 11th terrestrial branch; *march",
 				"d": "As distinct from the parade, the march points to a formal demonstration, whose emotions are generally a far cry from the happy spirit of the parade. The inclusion of the one gives the sense of the singlemindedness and unity of the group joined in the march.",
 				"e": ""
 			},
@@ -2693,32 +2693,32 @@ const DATA =
 				"e": "減少 감소 decrease"
 			},
 			{
-				"q": "㦮",
-				"s": "전",
-				"m": "money, *float",
+				"q": "㦮/戔",
+				"s": "잔, 전",
+				"m": "harm, hurt; rest, surplus; little, small, pile up; *float",
 				"d": "The floats that are such an important part of a fiesta are shown here by the addition of the two extra horizontal strokes, which you may take as a quasi-pictographic representation of the platform structure of a float.",
 				"e": ""
 			},
 			{
-				"q": "桟",
-				"s": "잔",
-				"m": "cleat, bolt, shelf, *scaffold",
+				"q": "桟/棧",
+				"s": "잔, 전",
+				"m": "suspension bridge, ladder; *scaffold",
 				"d": "Prior to the use of metal, trees were once cut down and bound together for use as scaffolding material. In the case of this kanji, what is being constructed is not a skyscraper but a simple <b>float</b>.",
-				"e": ""
+				"e": "棧橋 잔교 suspension bridge"
 			},
 			{
-				"q": "銭",
+				"q": "銭/錢",
 				"s": "전",
 				"m": "money, *coin",
 				"d": "Those special gold-colored tokens minted each year for the Mardi Gras and thrown into the crowds from people on the <b>floats</b> give us the kanji for coins. ",
-				"e": ""
+				"e": "換錢 환전 currency exchange"
 			},
 			{
-				"q": "浅",
+				"q": "浅/淺",
 				"s": "천",
 				"m": "shallow",
 				"d": "An entourage of <b>floats</b> going from one town to the next must always seek a shallow place to cross the water. Try to picture what happens if they don’t.",
-				"e": ""
+				"e": "日淺하다 일천하다 recent"
 			}
 		]
 	}
