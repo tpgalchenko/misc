@@ -2772,7 +2772,7 @@ const DATA =
 				"s": "력,역",
 				"m": "take place, past; *curriculum",
 				"d": "Instead of the grove making its way slowly through the surface of the cliff as before, here we see it stopped, much the same as a curriculum vitae calls a halt to the calendar and talks only about the past.",
-				"e": "歷歷하다 역력하다 obvious, cleqr"
+				"e": "歷歷하다 역력하다 obvious, clear"
 			},
 			{
 				"q": "武",
@@ -2921,6 +2921,138 @@ const DATA =
 				"d": "What makes a man a bridegroom is obviously a woman and her dowry, here presented as a small zoo (animals were often used for this purpose in earlier societies) and a month away from it all (the “honeymoon”).",
 				"e": "同壻 동서 the husband of one's wife's sister; the wife of one's husband's brother"
 			}
+		]
+	},
+	{
+		"name" : "L18",
+		"cards" : [
+			{
+				"q": "衣",
+				"s": "의",
+				"m": "clothes, *garment",
+				"d": "At the top we see the top hat, and at the bottom a pictographic representation of the folds of a garment. 衤 cloak, 𧘇 scarf.",
+				"e": "衣類 의류 clothing, clothes, garment"
+			},
+			{
+				"q": "裁",
+				"s": "재",
+				"m": "cut out, *tailor",
+				"d": "You might think here of garment that have been specially tailored for Thanksgiving celebrations to look like traditional Pilgrim garb.",
+				"e": "獨裁 독재 dictatorship"
+			},
+			{
+				"q": "装/裝",
+				"s": "장",
+				"m": "decorate, dress, *attire",
+				"d": "“Turtle-samurai” sweater. At the top we see the turtle-samurai and at the bottom the element for garment.",
+				"e": "裝飾 장식 decoration, ornament"
+			},
+			{
+				"q": "裏",
+				"s": "리",
+				"m": "inside, interior; *back",
+				"d": "An innocent looking top hat and scarf lying there in front of you, turned over, reveal a hidden computer sewn into the back of each—obviously the tools of a master spy. Such experiences teach one always to have a look at the back side of things.",
+				"e": "腦裏 뇌리 brain, mind, memory"
+			},
+			{
+				"q": "壊/壞",
+				"s": "괴",
+				"m": "crumble, collapse, *demolition",
+				"d": "The right half of this character shows a <b>garment</b> woven so fine that it can pass through the eye of a <b>needle</b>, fittingly draped around the slithering, ethereal form of a poltergeist. In this frame, our eerie visitor brushes its robes against a nearby block of apartments and completely <b>demolishes</b> them, razing them to the ground.",
+				"e": "破壞 파괴 destruction, demolition"
+			},
+			{
+				"q": "哀",
+				"s": "애",
+				"m": "sad, mournful, *pathetic",
+				"d": "A drunken sod in a tattered top hat and soiled silk scarf with a giant mouth guzzling something or other gives us a pathetic character role in which W. C. Fields might find himself right at home",
+				"e": "哀痛하다 애통하다 sad and painful, grieve, deplore"
+			},
+			{
+				"q": "遠",
+				"s": "원",
+				"m": "distant, far",
+				"d": "A <b>distant</b> figure on the road is such a blur it looks like a <b>lidded crock</b> wearing a silk <b>scarf</b>.",
+				"e": "永遠 영원 eternity"
+			},
+			{
+				"q": "猿",
+				"s": "원",
+				"m": "ape, *monkey",
+				"d": "This clever little <b>monkey</b> has captured an entire pack of <b>wild dogs</b>, locked them inside a <b>lidded crock</b>, and wrapped the whole thing up in a silk <b>scarf</b> to present to the dogcatcher.",
+				"e": "類人猿 유인원 antropoid ape"
+			},
+			{
+				"q": "初",
+				"s": "초",
+				"m": "initial, *first time",
+				"d": "In order to make clothes (<b>cloak</b>), you must <b>first</b> start <b>cutting</b> cloth.",
+				"e": "初級 초급 primary/elementary grade"
+			},
+			{
+				"q": "巾",
+				"s": "건",
+				"m": "towel, kerchied",
+				"d": "The basic meaning of this primitive is a bolt of cloth, from which we derive the meaning of a towel.",
+				"e": "手巾 수건 towel"
+			},
+			{
+				"q": "布",
+				"s": "포,보",
+				"m": "cotton cloth, *linen; spread out",
+				"d": "The maid, <b>towels by her side</b>, distributes the <b>linen</b>. ",
+				"e": "分布 분포 distribution; 瀑布 폭포 waterfall"
+			},
+			{
+				"q": "帆",
+				"s": "범",
+				"m": "sail",
+				"d": "A <b>sail</b> made of a <b>towel</b> makes a <b>mediocre</b> vessel.",
+				"e": "帆船 범선 sailboat, sailer"
+			},
+			{
+				"q": "幅",
+				"s": "폭",
+				"m": "piece, strip, breadth, *hanging scroll",
+				"d": "A <b>towel<b> owned by the <b>wealthiest<b> tycoon in the world is made into a <b>hanging scroll<b> after his death and auctioned off to the highest bidder. ",
+				"e": ""
+			},
+			{
+				"q": "帽",
+				"s": "모",
+				"m": "cap",
+				"d": "Because of the <b>risk</b> involved (of getting the <b>sun</b> in one’s <b>eyes</b>), one puts together a makeshift <b>cap</b> out of a dirty old <b>towel</b>. ",
+				"e": "帽子 모자 cap"
+			},
+			{
+				"q": "幕",
+				"s": "막",
+				"m": "curtain, screen, tent",
+				"d": "A dirty <b>towel</b> draped over the entrance to the old <b>graveyard</b> is painted to look like the <b>curtai</b>n of death that leads to the other world.",
+				"e": "幕間 막간 intermission; 開幕 개막 raising of the curtain, start of performance"
+			},
+			{
+				"q": "幌",
+				"s": "황",
+				"m": "*canopy",
+				"d": "A large <b>towel</b> stretched overhead with only a few of the <b>sun</b>’s <b>rays</b> breaking through represents a <b>canopy</b> over one’s bed. ",
+				"e": "帳"
+			},
+			{
+				"q": "錦",
+				"s": "금",
+				"m": "brocade",
+				"d": "A strip of <b>white towel</b> and some scraps of metal have the makings of a primitive kind of <b>brocade</b>.",
+				"e": "錦江 금강 Geum River"
+			},
+			{
+				"q": "",
+				"s": "",
+				"m": "",
+				"d": "",
+				"e": ""
+			},
+
 		]
 	}
 
