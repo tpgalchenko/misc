@@ -3046,6 +3046,132 @@ const DATA =
 				"e": "錦江 금강 Geum River"
 			},
 			{
+				"q": "市",
+				"s": "시",
+				"m": "market",
+				"d": "Dressed in nothing but a bath <b>towel</b> and <b>top hat</b>, one sets off to the <b>market</b>place in search of a bargain or two",
+				"e": "市場 시장 market"
+			},
+			{
+				"q": "姉/姊",
+				"s": "자",
+				"m": "elder sister",
+				"d": "Of all the <b>women</b> of the family, it is the <b>elder sister</b> who has the duty to go to <b>market</b> to do the shopping. ",
+				"e": "姊妹 자매 sisters; 姊兄 자형 elder sister's husband"
+			},
+			{
+				"q": "肺",
+				"s": "폐",
+				"m": "lungs",
+				"d": "One is surprised, strolling through the <b>market</b>, to find among the <b>meats</b> hung out for sale a slab marked: <b>lungs</b>.",
+				"e": "肺炎 폐렴 pneumonia, inflammation of the lungs"
+			},
+			{
+				"q": "帀/迊/匝",
+				"s": "잡",
+				"m": "to go/turn round; full circle",
+				"d": "Wrapping around with a towel.",
+				"e": ""
+			},
+			{
+				"q": "帯/带/帶",
+				"s": "대",
+				"m": "belt, band, zone, *sash",
+				"d": "The buckle of the sash is represented pictorially by the first 5 strokes.",
+				"e": "一帶 일대 while area/district; 熱帶 열대 tropics"
+			},
+			{
+				"q": "滞/滯",
+				"s": "체",
+				"m": "block up, obstruct. *stagnant",
+				"d": "People that have been “sashed” to something (whether their mother’s apron strings or a particular job) for too long become like water that has stopped moving: they start to stagnate.",
+				"e": "延滯 연체 delay, procrastination, arrears"
+			},
+			{
+				"q": "刺",
+				"s": "자",
+				"m": "stab, prick, *thorn",
+				"d": "Thorns grow on a bush here that has wrapped itself around a <b>tree</b> like a <b>belt</b>, cutting into the poor <b>tree</b> like little <b>sabers</b>.",
+				"e": "刺戟 자극 stimulus, stimulation, irritation"
+			},
+			{
+				"q": "制",
+				"s": "제",
+				"m": "*system, overpower",
+				"d": "This kanji show a unique <b>system</b> for leading <b>cows</b> to the slaughterer’s <b>saber</b>: one ties a <b>belt</b> about their waist and fixes that <b>belt</b> to an overhead cable, pulling the <b>cow</b> up into the air where it hangs suspended, helpless against the fate that awaits it.",
+				"e": "制度 제도 system, institution; 強制 강제 compulsion, coercion"
+			},
+			{
+				"q": "製",
+				"s": "제",
+				"m": "make, produce, *made in",
+				"d": "A label indicating that a <b>garment</b> was made in U.S.A. or Taiwan or Japan is itself a symbol for the <b>systematization</b> of the <b>garment</b> industry.",
+				"e": "製作 제작 manufacture, production"
+			},
+			{
+				"q": "云",
+				"s": "운",
+				"m": "say, refer, *rising cloud",
+				"d": "This primitive is meant to depict in graphic fashion a cloud of something or other rising upwards, like vapor or smoke or dust.",
+				"e": " 云云 운운 and so on, and the like; 云云하다 운운하다 say such and such"
+			},
+			{
+				"q": "転/轉",
+				"s": "전",
+				"m": "shift, move, *revolve",
+				"d": "As the wheels of the <b>car</b> revolve, they kick up small <b>rising clouds</b> of dust and debris behind them.",
+				"e": "運轉 운전 driving"
+			},
+			{
+				"q": "芸/藝",
+				"s": "예",
+				"m": "art, talent, craft, *technique",
+				"d": "The secret <b>technique</b> of making a <b>rising cloud</b> of smoke turn into a bouquet of <b>flowers</b> is shown here.",
+				"e": "藝術 예술 art"
+			},
+			{
+				"q": "雨",
+				"s": "우",
+				"m": "rain, *weather",
+				"d": "The top line is the sky, the next 3 strokes a pair of clouds, and the final 4 dots the rain collected there and waiting to fall.",
+				"e": "雨傘 우산 umbrella"
+			},
+			{
+				"q": "雲",
+				"s": "운",
+				"m": "cloud",
+				"d": "Here is the full character for cloud from which the primitive for a rising cloud derives. Clouds begin with vapors rising up in small clouds from the surface of the earth, and then gathering to make clouds that eventually dump their rain back on the earth. ",
+				"e": "風雲 풍운 wind and clouds"
+			},
+			{
+				"q": "曇",
+				"s": "담",
+				"m": "become cloudy, overcast; *cloudy weather",
+				"d": "We refer to days when the <b>sun</b> is covered by the <b>clouds</b> as cloudy weather.",
+				"e": ""
+			},
+			{
+				"q": "雷",
+				"s": "뢰/뇌",
+				"m": "thunder",
+				"d": "The full rumble and roar and terror of <b>thunder</b> is best felt not with your head tucked under your pillow safe in bed, but out in an open <b>rice field</b> where you can get the real feel of the <b>weather</b>.",
+				"e": "魚雷 어뢰 torpedo"
+			},
+			{
+				"q": "",
+				"s": "",
+				"m": "",
+				"d": "",
+				"e": ""
+			},
+			{
+				"q": "",
+				"s": "",
+				"m": "",
+				"d": "",
+				"e": ""
+			},
+			{
 				"q": "",
 				"s": "",
 				"m": "",
