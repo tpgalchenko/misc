@@ -11,13 +11,6 @@ const DATA =
 				"e": "油田 유전 oil land"
 			},
 			{
-				"q": "天",
-				"s": "천",
-				"m": "sky",
-				"d": "Under a ceiling a man with arms spread wide.",
-				"e": "天國 천국 Paradise, 天障 천장 ceiling"
-			},
-			{
 				"q": "古",
 				"s": "고",
 				"m": "old",
@@ -3158,6 +3151,48 @@ const DATA =
 				"e": "魚雷 어뢰 torpedo"
 			},
 			{
+				"q": "霜",
+				"s": "상",
+				"m": "*frost, crystallized, candied",
+				"d": "Think of <b>frost</b> as a cooperative venture, an <b>inter</b>-action of the malevolent forces of <b>weather</b> that sit around a conference table and finally decide to allow a very light amount of moisture to fall just before a short and sudden freeze.",
+				"e": "風霜 풍상 wind and frost"
+			},
+			{
+				"q": "冫,⺀",
+				"s": "빙",
+				"m": "ice",
+				"d": "The condensation of the three drops we have been using to mean <b>water</b> into two drops signals the solidifying of <b>water</b> into <b>ice</b>.",
+				"e": ""
+			},
+			{
+				"q": "冬",
+				"s": "동",
+				"m": "winter",
+				"d": "<b>Walking legs</b> slipping on the <b>ice</b> are a sure sign of <b>winter</b>.",
+				"e": "冬服 동복 winter clothes, winter wear;  春夏秋冬 춘하추동 the four seasons"
+			},
+			{
+				"q": "天",
+				"s": "천",
+				"m": "sky, *heavens",
+				"d": "This character is meant to be a pictograph of a great man, said to represent the Lord of the Heavens.",
+				"e": "天國 천국 Paradise, 天障 천장 ceiling"
+			},
+			{
+				"q": "喬",
+				"s": "교",
+				"m": "tall, lofty, proud, *angel",
+				"d": "The sense of the primitive, <b>angel</b>, derives from the primitive for heavens replacing the top hat in the character for <b>tall</b>.",
+				"e": "喬木 교목 tall tree, arbor"
+			},
+			{
+				"q": "",
+				"s": "",
+				"m": "",
+				"d": "",
+				"e": ""
+			},
+			{
 				"q": "",
 				"s": "",
 				"m": "",
@@ -3178,6 +3213,56 @@ const DATA =
 				"d": "",
 				"e": ""
 			},
+			{
+				"q": "",
+				"s": "",
+				"m": "",
+				"d": "",
+				"e": ""
+			},
+			{
+				"q": "",
+				"s": "",
+				"m": "",
+				"d": "",
+				"e": ""
+			},
+			{
+				"q": "",
+				"s": "",
+				"m": "",
+				"d": "",
+				"e": ""
+			},
+			{
+				"q": "",
+				"s": "",
+				"m": "",
+				"d": "",
+				"e": ""
+			},
+			{
+				"q": "",
+				"s": "",
+				"m": "",
+				"d": "",
+				"e": ""
+			},
+			{
+				"q": "",
+				"s": "",
+				"m": "",
+				"d": "",
+				"e": ""
+			},
+			{
+				"q": "",
+				"s": "",
+				"m": "",
+				"d": "",
+				"e": ""
+			},
+
 
 		]
 	}
