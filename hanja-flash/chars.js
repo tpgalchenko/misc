@@ -2625,7 +2625,7 @@ const DATA =
 			{
 				"q": "戊",
 				"s": "무",
-				"m": "*parade",
+				"m": "5th heavenly stem, *parade",
 				"d": "The first stroke, added to fiesta, gives us a full-fledged enclosure, because of which we should always think of this as a parade of something or other, namely whatever is inside the enclosure.",
 				"e": ""
 			},
@@ -2821,13 +2821,13 @@ const DATA =
 				"s": "정",
 				"m": "spindle, tablet; *lock",
 				"d": "Metal of itself doesn’t lock. It needs to be so determined by a locksmith. Now make a concrete image of that.",
-				"e": "糖衣錠 당의정"
+				"e": "糖衣錠 당의정 sugarcoated pill"
 			},
 			{
 				"q": "走",
 				"s": "주",
 				"m": "run",
-				"d": "Running, we are told here, mends the soil. Observe in the following frames how this kanji can embrace other elements from below, much the same way as the element for road does; and how, in order to do this, the ³nal stroke needs to be length-ened.",
+				"d": "Running, we are told here, mends the soil. Observe in the following frames how this kanji can embrace other elements from below, much the same way as the element for road does; and how, in order to do this, the final stroke needs to be length-ened.",
 				"e": "走行 주행 travelling, covering a disctance"
 			},
 			{
@@ -2848,7 +2848,7 @@ const DATA =
 				"q": "越",
 				"s": "월",
 				"m": "go beyond, *surpass",
-				"d": "Here we see two parades in competition, each trying to surpass the other by running at high speed from one town to the next. Note the little “hook” at the end of the forst stroke of the element for parade.",
+				"d": "Here we see two parades in competition, each trying to surpass the other by running at high speed from one town to the next. Note the little “hook” at the end of the first stroke of the element for parade.",
 				"e": "越南 월남 Vietnam; come south over the border"
 			},
 			{
