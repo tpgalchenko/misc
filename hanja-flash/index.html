@@ -4,8 +4,28 @@
 	<title>Hanja flash cards</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-	<script src="chars.js"></script>
+	<script src="l2.js"></script>
+	<script src="l3.js"></script>
+	<script src="l4.js"></script>
+	<script src="l5.js"></script>
+	<script src="l6.js"></script>
+	<script src="l7.js"></script>
+	<script src="l8.js"></script>
+	<script src="l9.js"></script>
+	<script src="l10.js"></script>
+	<script src="l11.js"></script>
+	<script src="l12.js"></script>
+	<script src="l13.js"></script>
+	<script src="l14.js"></script>
+	<script src="l15.js"></script>
+	<script src="l16.js"></script>
+	<script src="l17.js"></script>
+	<script src="l18-1.js"></script>
+	<script src="l18-2.js"></script>
+
 	<script>
+const DATA = [ L2, L3, L4, L5, L6, L7, L8, L9, L10, L11, L12, L13, L14, L15, L16, L17, L18_1, L18_2 ];
+
 function shuffle(array) {
 	let currentIndex = array.length;
 
@@ -189,7 +209,7 @@ function okLessonsDialog(e) {
 function onLoad() {
 	for(let k = 0; k < DATA.length; ++k) {
 		for(let q = 0; q < DATA[k]["cards"].length; ++q) {
-			 DATA[k]["cards"][q]["lesson"] = DATA[k]["name"];
+			DATA[k]["cards"][q]["lesson"] = DATA[k]["name"];
 		}
 	}
 	indexLessons();
