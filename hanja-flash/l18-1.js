@@ -150,7 +150,7 @@ const L18_1 =
 			"e": ""
 		},
 		{
-			"q": "帯/带/帶",
+			"q": "帯/帶",
 			"s": "대",
 			"m": "belt, band, zone, *sash",
 			"d": "The buckle of the sash is represented pictorially by the first 5 strokes.",

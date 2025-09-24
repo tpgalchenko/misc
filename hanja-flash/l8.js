@@ -182,7 +182,7 @@ const L8 =
 			"s": "압",
 			"m": "pressure",
 			"d": "One of the things that causes the erosion of soil is the excessive <b>pressure</b> of the top<b>soil</b> on the lower <b>soil</b>. This can be caused by any number of things from heavy rainfall to heavy buildings to the absence of sufficient deep-rooted vegetation to hold the layers together. Here we see a steep <b>cliff</b> without a tree in sight. The slightest pressure on it will cause a landslide.",
-			"e": ""
+			"e": "壓迫 압박 pressure, compulsion, coercion"
 		},
 		{
 			"q": "埼",
