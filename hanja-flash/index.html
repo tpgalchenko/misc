@@ -27,6 +27,7 @@
 const DATA = [ L2, L3, L4, L5, L6, L7, L8, L9, L10, L11, L12, L13, L14, L15, L16, L17, L18_1, L18_2 ];
 
 function shuffle(array) {
+	console.log("Shuffling");
 	let currentIndex = array.length;
 
 	while (currentIndex != 0) {
@@ -71,7 +72,9 @@ function showNextQuestion() {
 
 	questionIndex += 1;
 	if(questionIndex === data.length) {
-		shuffle(data);
+		if(document.getElementById("shuffle-cb").checked) {
+			shuffle(data);
+		}
 		questionIndex = 0;
 		answerCount = 0;
 		updateStatus();
@@ -173,17 +176,21 @@ function cancelLessonsDialog(e) {
 	toggleLessonsDialog(e);
 }
 
-function indexLessons() {
+function indexLessons(do_shuffle) {
 	data = []
 	for(let k = 0; k < lessons.length; ++k) {
 		data.push(... lessons[k].cards);
 	}
-	shuffle(data);
+	if(do_shuffle) {
+		shuffle(data);
+	}
 	answerCount = 0;
 }
 
 function okLessonsDialog(e) {
 	let checked = 0;
+	const do_shuffle = document.getElementById("shuffle-cb").checked;
+
 	for(let k = 0; k < DATA.length; ++k) {
 		const cb = document.getElementById(DATA[k].name);
 		if(cb.checked) checked += 1;
@@ -200,7 +207,7 @@ function okLessonsDialog(e) {
 			lessons.push(DATA[k]);
 		}
 	}
-	indexLessons();
+	indexLessons(do_shuffle);
 	updateStatus();
 	questionIndex = data.length - 1;
 	showNextQuestion()
@@ -212,7 +219,7 @@ function onLoad() {
 			DATA[k]["cards"][q]["lesson"] = DATA[k]["name"];
 		}
 	}
-	indexLessons();
+	indexLessons(false);
 	setupLessonsDialog();
 	updateStatus();
 	showNextQuestion();
@@ -296,7 +303,7 @@ function onLoad() {
 			margin-right: 30px;
 			margin-left: 10px;
 		}
-		#hanja_mode, #keyword_mode, .lessons-checkbox, .lesson-cb-label {
+		#hanja_mode, #keyword_mode, #shuffle-cb, .lessons-checkbox, .lesson-cb-label {
 			height: 6em;
 			vertical-align: middle;
 		}
@@ -390,6 +397,7 @@ function onLoad() {
 				</div>
 			</div>
 			<div id="lessons-dlg-toolbar">
+				<input type="checkbox" id="shuffle-cb" value="shuffle" checked><label for="shuffle-cb">Shuffle</label>
 				<input type="button" value="Cancel" onclick="cancelLessonsDialog(this)"/>
 				<input type="button" value="OK" onclick="okLessonsDialog(this)"/>
 			</div>
