@@ -90,7 +90,7 @@ const L18_1 =
 			"q": "幅",
 			"s": "폭",
 			"m": "piece, strip, breadth, *hanging scroll",
-			"d": "A <b>towel<b> owned by the <b>wealthiest<b> tycoon in the world is made into a <b>hanging scroll<b> after his death and auctioned off to the highest bidder. ",
+			"d": "A <b>towel</b> owned by the <b>wealthiest</b> tycoon in the world is made into a <b>hanging scroll</b> after his death and auctioned off to the highest bidder. ",
 			"e": ""
 		},
 		{
@@ -104,7 +104,7 @@ const L18_1 =
 			"q": "幕",
 			"s": "막",
 			"m": "curtain, screen, tent",
-			"d": "A dirty <b>towel</b> draped over the entrance to the old <b>graveyard</b> is painted to look like the <b>curtai</b>n of death that leads to the other world.",
+			"d": "A dirty <b>towel</b> draped over the entrance to the old <b>graveyard</b> is painted to look like the <b>curtain</b> of death that leads to the other world.",
 			"e": "幕間 막간 intermission; 開幕 개막 raising of the curtain, start of performance"
 		},
 		{
@@ -112,7 +112,7 @@ const L18_1 =
 			"s": "황",
 			"m": "*canopy",
 			"d": "A large <b>towel</b> stretched overhead with only a few of the <b>sun</b>’s <b>rays</b> breaking through represents a <b>canopy</b> over one’s bed. ",
-			"e": "帳"
+			"e": ""
 		},
 		{
 			"q": "錦",
@@ -143,10 +143,10 @@ const L18_1 =
 			"e": "肺炎 폐렴 pneumonia, inflammation of the lungs"
 		},
 		{
-			"q": "帀/迊/匝",
+			"q": "帀/匝",
 			"s": "잡",
 			"m": "to go/turn round; full circle",
-			"d": "Wrapping around with a towel.",
+			"d": "帀/匝/迊 Wrapping around with a towel.",
 			"e": ""
 		},
 		{
@@ -241,7 +241,7 @@ const L18_1 =
 			"e": "風霜 풍상 wind and frost"
 		},
 		{
-			"q": "冫,⺀",
+			"q": "冫/ ⺀",
 			"s": "빙",
 			"m": "ice",
 			"d": "The condensation of the three drops we have been using to mean <b>water</b> into two drops signals the solidifying of <b>water</b> into <b>ice</b>.",
