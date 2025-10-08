@@ -68,7 +68,7 @@ const L18_1 =
 		{
 			"q": "巾",
 			"s": "건",
-			"m": "towel, kerchied",
+			"m": "towel, kerchief",
 			"d": "The basic meaning of this primitive is a bolt of cloth, from which we derive the meaning of a towel.",
 			"e": "手巾 수건 towel"
 		},

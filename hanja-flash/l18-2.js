@@ -21,7 +21,7 @@ const L18_2 =
 			"s": "장",
 			"m": "composition, chapter, sentence; *badge",
 			"d": "Try to imagine a club <b>badge</b> pinned to your lapel in the form of a mammoth <b>sunflower</b> protruding from a wee little <b>vase</b>.",
-			"e": "文章 문장 writing, composition, sentence"
+			"e": "文章 문장 writing, composition, sentence; 徽章 휘장 badge"
 		},
 		{
 			"q": "競",
@@ -83,7 +83,7 @@ const L18_2 =
 			"q": "嫡",
 			"s": "적",
 			"m": "legitimate wife",
-			"d": "The phrase <b>legitimate wife<b> would have no meaning if there were not such things as “illegitimate wives,” taken because one’s legal <b>woman</b> has turned into an <b>antique</b>. The very offense of the idea should help you remember the kanji.",
+			"d": "The phrase <b>legitimate wife</b> would have no meaning if there were not such things as “illegitimate wives,” taken because one’s legal <b>woman</b> has turned into an <b>antique</b>. The very offense of the idea should help you remember the kanji.",
 			"e": "嫡庶 적서 legitimate and illegitimate children"
 		},
 		{
@@ -138,8 +138,8 @@ const L18_2 =
 		{
 			"q": "皆",
 			"s": "개",
-			"m": "all, everybody;",
-			"d": "Think of the housewives in tv commercials “<b>comparing</b> the <b>whiteness</b>” of their laundry across the fence, a typical advertisement for the popular detergent known as <b>All</b>. (If you don’t know the brand, surely you’ve heard the phrases “all-purposedetergent” or “all-temperature detergent.”",
+			"m": "all, everybody",
+			"d": "Think of the housewives in tv commercials “<b>comparing</b> the <b>whiteness</b>” of their laundry across the fence, a typical advertisement for the popular detergent known as <b>All</b>. (If you don’t know the brand, surely you’ve heard the phrases “all-purposedetergent” or “all-temperature detergent.”)",
 			"e": "擧皆 거개"
 		},
 		{
@@ -265,7 +265,7 @@ const L18_2 =
 			"q": "腹",
 			"s": "복",
 			"m": "stomach, belly, *abdomen",
-			"d": "",
+			"d": "If you double back (fold over) most animals in the middle, the part of the body where the crease comes is the abdomen.",
 			"e": "割腹 할복 disembowelment, self-disembowelment"
 		},
 		{
@@ -327,7 +327,7 @@ const L18_2 =
 		{
 			"q": "資",
 			"s": "자",
-			"m": "property, weatlth, *assets",
+			"m": "property, wealth, *assets",
 			"d": "The first <b>shells</b> (money) you earn, you use to pay your debts. From then on, the <b>next</b> shells you accumulate become your <b>assets.</b>",
 			"e": "資格 자격 capacity, right, qualification, license"
 		},
