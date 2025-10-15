@@ -20,7 +20,7 @@ const L15 =
 			"q": "栄/榮",
 			"s": "영",
 			"m": "flourish",
-			"d": "The botanical connotations of the word µourish (to bud and burst into bloom, much as a tree does) are part of the ideal of the schoolhouse as well.",
+			"d": "The botanical connotations of the word flourish (to bud and burst into bloom, much as a tree does) are part of the ideal of the schoolhouse as well.",
 			"e": "繁榮 번영 prosperity, flourish"
 		},
 		{

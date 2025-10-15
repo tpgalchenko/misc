@@ -69,7 +69,7 @@ const L4 =
 			"q": "頁",
 			"s": "엽, 혈",
 			"m": "page, *head",
-			"d": "A book called '<b>Pearl<b> of Wisdom' of only <b>one<b> page with a radiant <b>drop</b> of wisdom",
+			"d": "A book called '<b>Pearl</b> of Wisdom' of only <b>one</b> page with a radiant <b>drop</b> of wisdom",
 			"e": ""
 		},
 		{
