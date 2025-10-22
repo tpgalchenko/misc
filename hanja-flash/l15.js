@@ -112,7 +112,7 @@ const L15 =
 			"s": "계",
 			"m": "plan, *plot",
 			"d": "Words and a meter’s needle combine to form the sense of plot: to talk over plans and to calculate a course of action.",
-			"e": "計算 계산 calculation"
+			"e": "計劃 계획 plan, project; 計算 계산 calculation"
 		},
 		{
 			"q": "獄",

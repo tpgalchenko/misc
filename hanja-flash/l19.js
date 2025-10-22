@@ -263,7 +263,7 @@ const L19 =
 		},
 		{
 			"q": "廷",
-			"s": "廷",
+			"s": "정",
 			"m": "court",
 			"d": "Those who rule the <b>courts</b>, the <b>porters</b> of justice and order, are often found to <b>stretch</b> the law to suit their own purposes.",
 			"e": "法廷 법정 (law) court, judgement hall"

@@ -129,11 +129,11 @@ const L10 =
 			"e": "改札 개찰 examination of tickets"
 		},
 		{
-			"q": "暦",
+			"q": "暦/曆",
 			"s": "력",
 			"m": "calendar",
 			"d": "Calendar boxes like a grove of trees growing up through the layers of rock and soil.",
-			"e": ""
+			"e": "陰曆 음력 calendar"
 		},
 		{
 			"q": "案",
