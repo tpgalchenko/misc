@@ -139,8 +139,8 @@ const L18_2 =
 			"q": "皆",
 			"s": "개",
 			"m": "all, everybody",
-			"d": "Think of the housewives in tv commercials “<b>comparing</b> the <b>whiteness</b>” of their laundry across the fence, a typical advertisement for the popular detergent known as <b>All</b>. (If you don’t know the brand, surely you’ve heard the phrases “all-purposedetergent” or “all-temperature detergent.”)",
-			"e": "擧皆 거개"
+			"d": "Think of the housewives in TV commercials “<b>comparing</b> the <b>whiteness</b>” of their laundry across the fence, a typical advertisement for the popular detergent known as <b>All</b>. (If you don’t know the brand, surely you’ve heard the phrases “all-purposedetergent” or “all-temperature detergent.”)",
+			"e": "擧皆 거개 most of, a greate part of"
 		},
 		{
 			"q": "混",
@@ -280,7 +280,7 @@ const L18_2 =
 			"s": "흠",
 			"m": "lack, *yawn",
 			"d": "This character depicts someone yawning. The 1st stroke shows the head thrown back; the 2nd, the arm bent at the elbow as the hand reaches up to cover the mouth; and the last two, the legs. Since yawning shows a lack of something (psychologically, interest; physiologically, sleep), the connection is plain to see.",
-			"e": "欠잡다 흡잡다 find fault with, cavil at"
+			"e": "欠잡다 흠잡다 find fault with, cavil at"
 		},
 		{
 			"q": "吹",
