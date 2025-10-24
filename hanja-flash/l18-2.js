@@ -206,7 +206,7 @@ const L18_2 =
 			"e": ""
 		},
 		{
-			"q": "/--",
+			"q": "𠂉",
 			"s": "",
 			"m": "reclining, lying down",
 			"d": "The picture is obvious: the first stroke represents the head, and the second the body of someone reclining. You may also use the synonyms lying or lying down.",
