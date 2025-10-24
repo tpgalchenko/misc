@@ -20,7 +20,7 @@ const L19 =
 			"q": "培",
 			"s": "배",
 			"m": "bank up with dirt, *cultivate",
-			"d": "The barrel hoops used by many Japanese farmers to stretch clear plastic over row of vegetables in a garden patch in the hopes of <b>cultivating</b> bigger and bigger vegetables is a way of <b>muzzling</b> the <b>soil</b>.",
+			"d": "'To muzzle the soil' means to put the soil under a green-house serving it as a respirator, this is a way of <b>cultivating</b> a good amount of vegetables.",
 			"e": "栽培 재배 cultivation, raising, growing"
 		},
 		{

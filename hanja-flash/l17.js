@@ -41,7 +41,7 @@ const L17 =
 			"q": "企",
 			"s": "기",
 			"m": "plan, *undertake",
-			"d": "To undertake a project is to take some idea floating in the air and stop it so that it can be brought down to earth and become a reality. Here we see some undertaking made to stop under a beach umbrella.",
+			"d": "Here the umbrella depicts a man. A man with a big foot under means taking a step forward to start something. The first step of an undertaking.",
 			"e": "企劃 기획 plan, project"
 		},
 		{
@@ -103,8 +103,8 @@ const L17 =
 		{
 			"q": "錠",
 			"s": "정",
-			"m": "spindle, tablet; *lock",
-			"d": "Metal of itself doesn’t lock. It needs to be so determined by a locksmith. Now make a concrete image of that.",
+			"m": "pill, tablet; *lock",
+			"d": "In the Matrix film Neo has to decide which pill to take: the pill that leads to the world of metal robots or the other one that opens a way to the real world. Metal of itself doesn’t lock. It needs to be so determined by a locksmith. Now make a concrete image of that.",
 			"e": "糖衣錠 당의정 sugarcoated pill"
 		},
 		{

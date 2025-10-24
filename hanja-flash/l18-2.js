@@ -68,7 +68,7 @@ const L18_2 =
 		{
 			"q": "啇",
 			"s": "적",
-			"m": "bottom; *antique",
+			"m": "bottom, base; *antique",
 			"d": "The primitive meaning <b>antique</b>, not itself a kanji, depicts a <b>vase</b> kept under a <b>glass hood</b> because it is very, very <b>old</b>. ",
 			"e": ""
 		},
