@@ -133,7 +133,7 @@ const L4 =
 			"s": "적",
 			"m": "target/goal/bull's-eye",
 			"d": "A laddle with a little <b>white bird</b> painted on it, who lets a little peep every time you hit the target",
-			"e": "目的 목적"
+			"e": "目的 목적 purpose, object, goal"
 		},
 		{
 			"q": "首",

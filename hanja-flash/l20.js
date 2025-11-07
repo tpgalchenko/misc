@@ -21,7 +21,7 @@ const L20 =
 			"s": "빈",
 			"m": "guest, visitor; VIP",
 			"d": "To receive important <b>guests</b> the house is decorated with <b>few</b> <b>shells</b> hung under the <b>ceiling</b> so that the guests bump into the shells with their heads.",
-			"e": "貴賓 귀빈 an honored/important guet"
+			"e": "貴賓 귀빈 an honored/important guest"
 		},
 		{
 			"q": "歳/歲",

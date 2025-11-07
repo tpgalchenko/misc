@@ -94,7 +94,7 @@ const L3 =
 			"e": "昇格 승격 promotion in status"
 		},
 		{
-			"q": "専",
+			"q": "専/專",
 			"s": "전",
 			"m": "only, *speciality",
 			"d": "Ten... rice fields... glue. Ten rice fields glued together - a man's special field of competence made up of multiple fields",

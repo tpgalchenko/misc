@@ -210,7 +210,7 @@ const L21_1 =
 			"s": "가",
 			"m": "marry into, give a daughter in marriage",
 			"d": "The kanji in this frame demonstrates the traditional Japanese approach to marriage: it is the woman who leaves her family for another household, thus marrying into a man’s family.",
-			"e": "出嫁 출가 a wonans's being married and leaving home"
+			"e": "出嫁 출가 a womans's being married and leaving home"
 		},
 		{
 			"q": "豪",
