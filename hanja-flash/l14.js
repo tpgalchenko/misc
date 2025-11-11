@@ -10,7 +10,7 @@ const L14 =
 			"e": ""
 		},
 		{
-			"q": "冗/宂/",
+			"q": "冗/宂",
 			"s": "용",
 			"m": "superfluous",
 			"d": "Picture a weather vane beneath a regal crown, spinning round and round. It is not only superfluous but makes a perfect assout of the one who wears it.",
