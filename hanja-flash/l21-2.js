@@ -20,7 +20,7 @@ const L21_2 =
 			"q": "洋",
 			"s": "양",
 			"m": "ocean; overseas, foreign, western",
-			"d": "Ocean is a herd of seas, just like a herd of sheeps.",
+			"d": "Great Britain imported <b>sheep</b> wool from <b>overseas</b> like Australia and New Zeland.",
 			"e": "海洋 해양 ocean; 西洋 서양 the West, Europe and America"
 		},
 		{
@@ -34,7 +34,7 @@ const L21_2 =
 			"q": "鮮",
 			"s": "선",
 			"m": "fresh",
-			"d": "A fresh embryon of sheep looks just like a fish embryon - the sign that life come from the ocean.",
+			"d": "The meat must be fresh, whether is lamb or fish.",
 			"e": "生鮮 생선 fresh/raw fish; 朝鮮 조선 Korea"
 		},
 		{
@@ -52,7 +52,7 @@ const L21_2 =
 			"e": "羨望 선망 envy"
 		},
 		{
-			"q": "羊 + /",
+			"q": "羊 + 丿",
 			"s": "",
 			"m": "*wool",
 			"d": "This rather uncommon primitive is made by pulling the tail of the sheep to one side to create a semienclosure. The meaning of wool is derived from the fact that the shearer is holding the sheep by the tail in order to trim its wool.",
@@ -62,15 +62,15 @@ const L21_2 =
 			"q": "差",
 			"s": "차",
 			"m": "differ, distinction",
-			"d": "The sheep shearer must know well his craft and notice the distinction of various types of wool.",
+			"d": "Special breed of sheeps having different wool on the left and the right sides.",
 			"e": "差異 차이 difference"
 		},
 		{
 			"q": "着",
 			"s": "착",
-			"m": "make move, take action; *to don",
+			"m": "to stick; *to don",
 			"d": "Donning (putting on) one’s clothes is “pulling the wool over one’s eyes.",
-			"e": "到着 도착; 着用 착용 put on, wear"
+			"e": "到着 도착 arrival; 着用 착용 put on, wear"
 		},
 		{
 			"q": "隹",
@@ -129,11 +129,18 @@ const L21_2 =
 			"e": "複雜 복잡 complexity, complication, intricacy"
 		},
 		{
+			"q": "此",
+			"s": "차",
+			"m": "this",
+			"d": "'<b>This</b> place' is the place where one has come, stopped, sat down.",
+			"e": "如此하다 여차하다 such, (like) this; 於此彼 어차피 anyhow, anyway"
+		},
+		{
 			"q": "雌",
 			"s": "자",
 			"m": "feminine",
-			"d": "As soon as woman stops and sits down a flock of birds fly up looking for her kindness.",
-			"e": " 雌雄 자웅 male and female, both sexes"
+			"d": "Spoons marked with turkey's footprint on the handle are for women, they are too feminine.",
+			"e": "雌雄 자웅 male and female, both sexes"
 		},
 		{
 			"q": "準",
@@ -153,7 +160,7 @@ const L21_2 =
 			"q": "奮",
 			"s": "분",
 			"m": "strive; arouse",
-			"d": "St. Bernard dog exerts to guard the turkeys that graze on a rice field.",
+			"d": "Aroused St. Bernard dog runs about to chase the turkeys that graze on a rice field.",
 			"e": "興奮 흥분 excitement, agitation"
 		},
 		{
@@ -178,7 +185,7 @@ const L21_2 =
 			"e": "許諾 허락 consent, approval"
 		},
 		{
-			"q": " 𠂉+一+隹",
+			"q": "/=+隹",
 			"s": "",
 			"m": "Pegasus",
 			"d": "By combining the horse (giving a twist to its final stroke a bit to the left to keep the strokes from overlapping) with the turkey, we get a flying horse or Pegasus. Be sure not to confuse with the turkey house.",
@@ -223,7 +230,7 @@ const L21_2 =
 			"q": "習",
 			"s": "습",
 			"m": "practice, *learn",
-			"d": "A bird flying high above white clouds practices flapping its wings.",
+			"d": "A baby bird learns flying, it flaps its wings but cannot take off until the down of its wings becomes true feathers.",
 			"e": "復習 복습 review, revision; 學習 학습 learning, study"
 		},
 		{
