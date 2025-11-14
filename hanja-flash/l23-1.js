@@ -404,15 +404,281 @@ const L23 = {
       "q": "史",
       "s": "사",
       "m": "history",
-      "d": "True history is a dangerous subject. One has to be careful while telling it. A sure way to do it is to tuck the mouth under the arm and whisper.",
+      "d": "The <b>history</b> tells us about Kant that he walked to the university with a textbook <b>tucked under his arm</b> and that he opened his <b>mouth</b> only at lectures.",
       "e": "歷史 역사 history"
     },
     {
       "q": "吏",
       "s": "리",
       "m": "government official, *officer",
-      "d": "",
+      "d": "Bureaucracy, <b>government officials</b>, is <b>one</b> thing that persists throughout the <b>history</b> no matter what ideology or what kind of political system there is.",
       "e": "官吏 관리 government official"
+    },
+    {
+      "q": "更",
+      "s": "경,갱",
+      "m": "correct, fix; more, again; *grow late",
+      "d": "It's growing late, the last rays of sun colour the ceiling. So it's time to tuck the bag under the arm and head home. It would be nice to correct working schedule to be able to enjoy more of daylight.",
+      "e": "變更 변경 change, amendment"
+    },
+    {
+      "q": "硬",
+      "s": "경",
+      "m": "hard, firm, *stiff",
+      "d": "After weeks of careful deliberation, the Zen master decided that his apprentice’s placement of a single large rock required correction. He spent an hour repositioning the stone garden focal point by just a few inches. The master then sighed, believing the overall energy of the space was now finally balanced.",
+      "e": "強硬 강경 firmness, resoluteness, stubborness"
+    },
+    {
+      "q": "又",
+      "s": "우,유",
+      "m": "and, also, *or again",
+      "d": "Like the several abbreviations in Roman script to indicate “and” (+, &amp;, etc.), this short two-stroke kanji is used for the similar meaning of or again.<br>As a primitive, it will mean crotch, as in the crotch of the arm.",
+      "e": ""
+    },
+    {
+      "q": "双/雙",
+      "s": "쌍",
+      "m": "pair",
+      "d": "The crotch/bird reduplicated gives us a pair.",
+      "e": "無雙하다 무쌍하다 peerless, matchless"
+    },
+    {
+      "q": "桑",
+      "s": "상",
+      "m": "mulberry tree",
+      "d": "Crotches, crotches everywhere and a tree. A group of children playing an original version of “Here We Go ’Round the <b>Mulberry</b> Bush.”",
+      "e": ""
+    },
+    {
+      "q": "隻",
+      "s": "척",
+      "m": "single, lone; *vessel counter",
+      "d": "The lower part of a vessel body looks similar to birds' body, just look at the ducks. Birds do not have crotch, neither do vessels.",
+      "e": ""
+    },
+    {
+      "q": "護",
+      "s": "호",
+      "m": "protect, guard",
+      "d": "Greta Thunberg speaks lots of <b>words</b> from a vessel in order to obtain <b>protection</b> for <b>flowers</b> threatened by war in Gaza.",
+      "e": "保護 보호 protection, safeguard"
+    },
+    {
+      "q": "獲",
+      "s": "획,확",
+      "m": "*seize",
+      "d": "A <b>pack of wild dogs</b> runs through thick <b>grass</b> in order to chase and <b>seize</b> a space <b>vessel</b> that has just landed.",
+      "e": "捕獲 포획 capture, seizure"
+    },
+    {
+      "q": "奴",
+      "s": "노",
+      "m": "slave, servant; *guy",
+      "d": "'Crotch woman' = sexual <b>slave</b>.",
+      "e": "奴婢 노비 male and female servants, slaves; 奴隸 노예 slave"
+    },
+    {
+      "q": "怒",
+      "s": "노",
+      "m": "angry",
+      "d": "Since ancient times patrons have been always <b>angry</b> at their servants for their laziness.",
+      "e": "憤怒 분노 anger, rage, fury; 震怒 진노 wild rage, wrath, fury"
+    },
+    {
+      "q": "友",
+      "s": "우",
+      "m": "friend, companion",
+      "d": "Sense of nearby elbow - sense of another <b>crotch</b> <b>by your side</b> - <b>friend</b>'s support and help.",
+      "e": "朋友 붕우 friend, companion; 學友 학우 schoolmate"
+    },
+    {
+      "q": "抜/拔",
+      "s": "발",
+      "m": "uproot, pull out; *slip out",
+      "d": "Your best <b>friend</b> is trying to steal your girlfriend in front of you. Here they go holding <b>hands</b>. Run and <b>pull out</b> the hand of your girlfriend and put an end to this nightmare before tear <b>drops</b> start falling.",
+      "e": "選拔 선발 selection, choice, picking out"
+    },
+    {
+      "q": "殳",
+      "s": "수",
+      "m": "club, weapon; *missile",
+      "d": "A missile has flown near and you felt a wind passing near your arm crotch.",
+      "e": ""
+    },
+    {
+      "q": "投",
+      "s": "투",
+      "m": "throw",
+      "d": "For a sportsmen throwing javelins the most important limb is his arm.",
+      "e": "投射 투사 projection, throwing"
+    },
+    {
+      "q": "没/沒",
+      "s": "몰",
+      "m": "drown",
+      "d": "German missiles and other weapon that left after the WWII were drowned in the Baltic Sea.",
+      "e": "水沒 수몰 submergence; 沒入 몰입 immersion, absorption"
+    },
+    {
+      "q": "設",
+      "s": "설",
+      "m": "*establish; display",
+      "d": "In Roman tradition, a 'trophy' was a monument or <b>display made</b> from the actual captured <b>arms</b> and armor of a defeated enemy force. Unlike modern trophies which are prizes for competitions, Roman tropaea were powerful symbols equivalent to <b>words</b> glorifying the military victory and imperial power.",
+      "e": "設立 설립 establishment, foundation"
+    },
+    {
+      "q": "撃/擊",
+      "s": "격",
+      "m": "strike, attack, *beat",
+      "d": "An attack of greek chariots carrying heros with spears in theirs hand.",
+      "e": "攻擊 공격 attack, assault"
+    },
+    {
+      "q": "殼",
+      "s": "각",
+      "m": "shell, hull, *husk",
+      "d": "Japan <b>samurais</b> weared a sophisticated <b>armor (shell)</b>, used swords, <b>clubs</b> and spears but they all became <b>superfluous</b> when firearms appeared.",
+      "e": "地殼 지각 earth crust, lithosphere; 甲殼類 갑각류 crustacea"
+    },
+    {
+      "q": "",
+      "s": "",
+      "m": "",
+      "d": "",
+      "e": ""
+    },
+    {
+      "q": "",
+      "s": "",
+      "m": "",
+      "d": "",
+      "e": ""
+    },
+    {
+      "q": "",
+      "s": "",
+      "m": "",
+      "d": "",
+      "e": ""
+    },
+    {
+      "q": "",
+      "s": "",
+      "m": "",
+      "d": "",
+      "e": ""
+    },
+    {
+      "q": "",
+      "s": "",
+      "m": "",
+      "d": "",
+      "e": ""
+    },
+    {
+      "q": "",
+      "s": "",
+      "m": "",
+      "d": "",
+      "e": ""
+    },
+    {
+      "q": "",
+      "s": "",
+      "m": "",
+      "d": "",
+      "e": ""
+    },
+    {
+      "q": "",
+      "s": "",
+      "m": "",
+      "d": "",
+      "e": ""
+    },
+    {
+      "q": "",
+      "s": "",
+      "m": "",
+      "d": "",
+      "e": ""
+    },
+    {
+      "q": "",
+      "s": "",
+      "m": "",
+      "d": "",
+      "e": ""
+    },
+    {
+      "q": "",
+      "s": "",
+      "m": "",
+      "d": "",
+      "e": ""
+    },
+    {
+      "q": "",
+      "s": "",
+      "m": "",
+      "d": "",
+      "e": ""
+    },
+    {
+      "q": "",
+      "s": "",
+      "m": "",
+      "d": "",
+      "e": ""
+    },
+    {
+      "q": "",
+      "s": "",
+      "m": "",
+      "d": "",
+      "e": ""
+    },
+    {
+      "q": "",
+      "s": "",
+      "m": "",
+      "d": "",
+      "e": ""
+    },
+    {
+      "q": "",
+      "s": "",
+      "m": "",
+      "d": "",
+      "e": ""
+    },
+    {
+      "q": "",
+      "s": "",
+      "m": "",
+      "d": "",
+      "e": ""
+    },
+    {
+      "q": "",
+      "s": "",
+      "m": "",
+      "d": "",
+      "e": ""
+    },
+    {
+      "q": "",
+      "s": "",
+      "m": "",
+      "d": "",
+      "e": ""
+    },
+    {
+      "q": "",
+      "s": "",
+      "m": "",
+      "d": "",
+      "e": ""
     },
     {
       "q": "",
