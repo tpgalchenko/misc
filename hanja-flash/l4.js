@@ -55,14 +55,14 @@ const L4 =
 			"q": "児/兒",
 			"s": "아",
 			"m": "newborn babe",
-			"d": "an old with a newborn babe crawling around his legs",
-			"e": ""
+			"d": "An old with a newborn babe crawling around his legs.",
+			"e": "兒童 아동 child, juvenile"
 		},
 		{
 			"q": "元",
 			"s": "원",
 			"m": "beginning",
-			"d": "In the <b>beginning</b> the Creator came and made <b>two</b> humans - a aman and a woman on human legs",
+			"d": "In the <b>beginning</b> the Creator came and made <b>two</b> humans - a man and a woman on human legs",
 			"e": "單元 단원 chapter"
 		},
 		{

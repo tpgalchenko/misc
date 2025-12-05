@@ -94,7 +94,7 @@ const L5 =
 			"e": "面刀 면도 shaving"
 		},
 		{
-			"q": "刄",
+			"q": "刄/刃",
 			"s": "인,량,양",
 			"m": "blade",
 			"d": "Drop of blood clinging to the blade.",

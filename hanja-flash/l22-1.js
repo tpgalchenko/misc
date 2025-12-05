@@ -70,7 +70,7 @@ const L22_1 =
       "s": "인",
       "m": "relatives by marriage, *matrimony",
       "d": "After matrimonial rituals and banquet the fiance got drunk and fell asleep on the bed. His fiancee sits at his bedside and sheds lonely tears.",
-      "e": "婚姻 혼인"
+      "e": "婚姻 혼인 marriage"
     },
     {
       "q": "園",
@@ -112,7 +112,7 @@ const L22_1 =
       "s": "고",
       "m": "armory, treasury, *storehouse",
       "d": "A cave for an expensive car is nothing but a car treasury.",
-      "e": "倉庫 창고"
+      "e": "倉庫 창고 storehouse, warehouse"
     },
     {
       "q": "庭",
@@ -122,7 +122,7 @@ const L22_1 =
       "e": "庭園 정원 garden, park"
     },
     {
-      "q": "德/悳",
+      "q": "悳/德",
       "s": "덕",
       "m": "ethics, morality, virtue",
       "d": "Morality is walking on with a straight (直) heart.",
@@ -147,7 +147,7 @@ const L22_1 =
       "s": "상",
       "m": "bed, couch",
       "d": "The most important wooden thing in a house is certainly the bed, the place to have rest.",
-      "e": "冊床 책상 des, writing table"
+      "e": "冊床 책상 des, writing table; 平床/平牀 평상 flat bench"
     },
     {
       "q": "麻",
@@ -181,7 +181,7 @@ const L22_1 =
       "q": "忍",
       "s": "인",
       "m": "endure",
-      "d": "Blades of pain stab the heart but it endures.",
+      "d": "Blades of pain stab the heart, it bleeds drops of blood but endures.",
       "e": "忍苦 인고 endurance, stoicism"
     },
     {

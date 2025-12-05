@@ -208,8 +208,8 @@ const L22_2 =
     {
       "q": "添",
       "s": "첨",
-      "m": "append, increase; *annexed",
-      "d": "In the Korean fable about 직녀 and 경우 the lovers are separated by the heavens (Milk Way) and the tears of 직녀 become the rain.",
+      "m": "append, add; *annexed",
+      "d": "In the Korean fable about 직녀 and 경우 the lovers are separated by the heavens (Milk Way), and 직녀 sheds tears, tear-drops <b>add</b> up to become the rain.",
       "e": "添附 첨부 appending, annexing"
     },
     {

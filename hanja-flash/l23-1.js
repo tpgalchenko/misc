@@ -541,74 +541,74 @@ const L23 = {
       "e": "地殼 지각 earth crust, lithosphere; 甲殼類 갑각류 crustacea"
     },
     {
-      "q": "",
-      "s": "",
-      "m": "",
-      "d": "",
+      "q": "支",
+      "s": "지",
+      "m": "pay; support; *branch",
+      "d": "Believers to prove their repentance wore hair shirts. The followers of a special <b>branch</b> of the church wore sackcloth pants whose <b>hairs</b> like <b>needles</b> and hurt the <b>crotch</b>.",
+      "e": "支撑 지탱 support; 支拂 지불 payment"
+    },
+    {
+      "q": "技",
+      "s": "기",
+      "m": "skill",
+      "d": "Monkey's skill to grasp and to hop over the branches is excellent.",
+      "e": "技術 기술 art, skill"
+    },
+    {
+      "q": "枝",
+      "s": "지",
+      "m": "branches, limbs, *bough",
+      "d": "Branch of a tree",
+      "e": "枝葉 지엽 branches and leaves, minor details"
+    },
+    {
+      "q": "肢",
+      "s": "지",
+      "m": "limb",
+      "d": "Limb is a 'branch' of the body.",
+      "e": "四肢 사지 limbs"
+    },
+    {
+      "q": "圣",
+      "s": "골,성",
+      "m": "*spool",
+      "d": "Here we see a simplified drawing of a spool (the element for earth at the bottom) with threads being wound about it tightly (the crotch at the top). You may remember it either pictographically or by way of the primitives.",
       "e": ""
     },
     {
-      "q": "",
-      "s": "",
-      "m": "",
-      "d": "",
+      "q": "巠",
+      "s": "경",
+      "m": "underground stream",
+      "d": "Stream of water running underground does its job",
       "e": ""
     },
     {
-      "q": "",
-      "s": "",
-      "m": "",
-      "d": "",
-      "e": ""
+      "q": "茎/莖",
+      "s": "경",
+      "m": "stem, *stalk",
+      "d": "The plant convolvulus has a winding stalk that appears as if if was winded on a spool.",
+      "e": "陰莖 음경 penis"
     },
     {
-      "q": "",
-      "s": "",
-      "m": "",
-      "d": "",
-      "e": ""
+      "q": "怪",
+      "s": "괴",
+      "m": "strange, unusual, *suspicious",
+      "d": "A suspicious kitty did not want to play with a spool of threads, perhaps, its state of mind was not playful enough.",
+      "e": "怪物 괴물 monster, mysterious man"
     },
     {
-      "q": "",
-      "s": "",
-      "m": "",
-      "d": "",
-      "e": ""
+      "q": "軽/輕",
+      "s": "경",
+      "m": "light",
+      "d": "Shuttle flying lightly between the threads of a weaving machine.",
+      "e": "輕하다 경하다 light, not heavy, trivial, not serious"
     },
     {
-      "q": "",
-      "s": "",
-      "m": "",
-      "d": "",
-      "e": ""
-    },
-    {
-      "q": "",
-      "s": "",
-      "m": "",
-      "d": "",
-      "e": ""
-    },
-    {
-      "q": "",
-      "s": "",
-      "m": "",
-      "d": "",
-      "e": ""
-    },
-    {
-      "q": "",
-      "s": "",
-      "m": "",
-      "d": "",
-      "e": ""
-    },
-    {
-      "q": "",
-      "s": "",
-      "m": "",
-      "d": "",
-      "e": ""
+      "q": "叔",
+      "s": "숙",
+      "m": "father's young brother, *uncle",
+      "d": "An <b>uncle</b> has built a <b>little</b> birdhouse from milk can and fixed it a <b>above</b> the trunk <b>crotch</b> of a tree.",
+      "e": "外叔 외숙 a brother of one's mother, uncle"
     },
     {
       "q": "",
