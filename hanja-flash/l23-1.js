@@ -607,169 +607,239 @@ const L23 = {
       "q": "叔",
       "s": "숙",
       "m": "father's young brother, *uncle",
-      "d": "An <b>uncle</b> has built a <b>little</b> birdhouse from milk can and fixed it a <b>above</b> the trunk <b>crotch</b> of a tree.",
+      "d": "An <b>uncle</b> Tom has built a <b>little</b> birdhouse from milk can and fixed it a <b>above</b> the trunk <b>crotch</b> of a tree.",
       "e": "外叔 외숙 a brother of one's mother, uncle"
     },
     {
-      "q": "",
+      "q": "寂",
+      "s": "적",
+      "m": "still, quiet, *loneliness",
+      "d": "Uncle's Tom lonely house.",
+      "e": "寂寂하다 적적하다 lonely, forlornm deserted"
+    },
+    {
+      "q": "淑",
+      "s": "숙",
+      "m": "pure, virtuous; *graceful",
+      "d": "Uncle Tom is pure and virtuous as water.",
+      "e": "淑女 숙녀 lady, gentlewoman"
+    },
+    {
+      "q": "督",
+      "s": "독",
+      "m": "supervise, direct, *coach",
+      "d": "Uncle Tom scrutinizing eye.",
+      "e": "基督敎 기독교 Christinanity, Christian religion; 監督 감독 supervision, direction"
+    },
+    {
+      "q": "反",
+      "s": "반",
+      "m": "reverse, opposite, anti-",
+      "d": "A cliff crotch is the abyss between two opposite cliffs.",
+      "e": "反對 반대 the reverse, the opposite, the contrary"
+    },
+    {
+      "q": "坂",
+      "s": "판",
+      "m": "hillside, *slope",
+      "d": "Normal ground is usually flat, but hillside is the opposite though is also ground.",
+      "e": "九折坂 구절판 a korean dish; 山坂 산판 forest resrve"
+    },
+    {
+      "q": "板",
+      "s": "판",
+      "m": "plank, board",
+      "d": "A wooden board with inscriptions 'Open' and 'Closed' on the reverse sides.",
+      "e": "看板 간판 signboard, billboard"
+    },
+    {
+      "q": "返",
+      "s": "반",
+      "m": "return, revert",
+      "d": "Going the road-way in the opposite direction means returning back.",
+      "e": "返品 반품 returned goods"
+    },
+    {
+      "q": "販",
+      "s": "판",
+      "m": "marketing",
+      "d": "Marketing means buying cheap and then reselling dear, it's all about money.",
+      "e": "販賣 판매 sale, selling, marketing"
+    },
+    {
+      "q": "爪",
+      "s": "조",
+      "m": "claw, nail",
+      "d": "This character is a pictograph of a bird’s claw, and from there comes to mean animal claws in general (including human fingernails). As a primitive, we shall use the graphic image of a vulture, a bird known for its powerful claws. It generally appears above another primitive relative primitive, where it is squeezed into the form 爫,爫.",
+      "e": ""
+    },
+    {
+      "q": "妥",
+      "s": "타",
+      "m": "satisfactory, appropriate; *gentle",
+      "d": "A comb made of vulture's claws was a satisfactory solution for stone age women.",
+      "e": "妥結 타결 compromise settlement, agreement"
+    },
+    {
+      "q": "孚",
+      "s": "부",
+      "m": "*fledgling, brood over eggs",
+      "d": "The vulture and child combine to create the image of an aerie (nest) full of fledglings.",
+      "e": ""
+    },
+    {
+      "q": "乳",
+      "s": "유",
+      "m": "*milk, suckle, breast",
+      "d": "Fledglings are hooked by mother's milk like addicts.",
+      "e": "牛乳 우유 milk"
+    },
+    {
+      "q": "浮",
+      "s": "부",
+      "m": "float",
+      "d": "Ducklings floating around in the water.",
+      "e": "浮標 부표 buoy"
+    },
+    {
+      "q": "将/將",
+      "s": "장",
+      "m": "going to, future. general, *leader",
+      "d": "The leading tragedian Aeschylus died from a turtle dropped by a vulture fell on his bald head. glue. No glue would have helped to mend the cracked head.",
+      "e": "將來 장래 future; 將校 장교 officer"
+    },
+    {
+      "q": "奨/奬",
+      "s": "장",
+      "m": "prize, reward; *exhort",
+      "d": "The great punic general Hannibal encourages, exhorts his soldiers to hunt like dogs the Romans.",
+      "e": "奬學金 장학금 scholarship; 奬勵 장려 encouragement, stimulation"
+    },
+    {
+      "q": "採",
+      "s": "채",
+      "m": "pick, gather, collect",
+      "d": "Picking fruits from tree may become quite an exploit if a vulture sits on the tree and bites the fingers stretching out to pick a fruit.",
+      "e": "採取 채취 picking, gathering"
+    },
+    {
+      "q": "菜",
+      "s": "채",
+      "m": "vegetable",
+      "d": "Even a vulture may need vegetables if it is sick. In this case it digs out the healing roots and picks the healing grass.",
+      "e": "菜食 채식 vegetable"
+    },
+    {
+      "q": "爫+冖",
       "s": "",
-      "m": "",
+      "m": "birdhouse",
+      "d": "The claw and crown of the roof of a house (whose chimney is displaced by the claw) combine to give us a birdhouse.",
+      "e": ""
+    },
+    {
+      "q": "受",
+      "s": "수",
+      "m": "receive, *accept",
+      "d": "The owl's house is not a simple birdhouse, but a hollow in an big oak's crotch. This is where it received Winnie-the-Pooh.",
+      "e": "受動 수동 passivity"
+    },
+    {
+      "q": "授",
+      "s": "수",
+      "m": "give to; *impart",
+      "d": "A giving hand that hands over something to the receiving one.",
+      "e": ""
+    },
+    {
+      "q": "愛",
+      "s": "애",
+      "m": "love",
+      "d": "Love is not only walking about cinemas and cafes but also hiding in a birdhouse to feel the warmth of your lovers' heart",
+      "e": "愛人 애인 lover"
+    },
+    {
+      "q": "厶",
+      "s": "사,모",
+      "m": "private, secret; *elbow",
+      "d": "‘Private’ means something extremely personal. The character depicts an arm bent inward. Bending an arm inward means pulling something in and owning it.",
+      "e": ""
+    },
+    {
+      "q": "弗",
+      "s": "불",
+      "m": "not, negative",
+      "d": "A log tied up tightly.",
+      "e": "弗 dollar"
+    },
+    {
+      "q": "払/拂",
+      "s": "불",
+      "m": "shake off, brush away; *pay",
+      "d": "Shaking off something that binds - paying off debts. One uses its fingers to untie the bound log. If an arm becomes numb, one shakes it, unfolds the elbow and shakes, waves the fingers.",
+      "e": "支拂 지불 payment, payoff"
+    },
+    {
+      "q": "黃",
+      "s": "황",
+      "m": "yellow",
+      "d": "The character depicts a person wearing a round ornament called a 패옥 (佩玉) around their waist. The meaning of the golden paeok expanded, it came to mean ‘yellow’ or ‘turning yellow’, and since gold is the color of the emperor, it also came to mean ‘emperor’.",
+      "e": "朱黃 주황 orange color"
+    },
+    {
+      "q": "広/廣",
+      "s": "광",
+      "m": "wide, broad",
+      "d": "The emperor's house is a wide and comfortable cave, no one hurts another with elbows in a crowded house.",
+      "e": "廣場 광장 open space, public square"
+    },
+    {
+      "q": "拡/擴",
+      "s": "확",
+      "m": "broaden, expand",
+      "d": "Zooming in an image on a screen with fingers makes the image expand and enlarge.",
+      "e": "擴張 확장 extension, expansion, enlargement"
+    },
+    {
+      "q": "鉱/鑛",
+      "s": "광",
+      "m": "mineral, ore",
+      "d": "Iron is one of the most wide spread minerals in the Earth's crust.",
+      "e": "鑛物 광물 mineral"
+    },
+    {
+      "q": "弁/瓣",
+      "s": "변,반,판",
+      "m": "*valve, petal",
+      "d": "Two quasi-`sheeps` in top-hats and a seesaw in between. Antique manual fire seesaw pump is operated by two persons (two arms). It's construction requires a check valve to prevent the water from flowing back and ensure one-way flow towards the discharge.",
+      "e": "瓣膜 판막 (heart) valve"
+    },
+    {
+      "q": "雄",
+      "s": "웅",
+      "m": "masculine, male; hero",
+      "d": "The role of a male is hunting, so here is a hero coming home with a turkey shot and hang by his side, he treads victoriously and bends his elbow to show a mighty biceps.",
+      "e": "英雄 영웅 hero, great man"
+    },
+    {
+      "q": "𠫔",
+      "s": "굉",
+      "m": "forearm",
       "d": "",
       "e": ""
     },
     {
-      "q": "",
-      "s": "",
-      "m": "",
-      "d": "",
-      "e": ""
+      "q": "至",
+      "s": "지,질",
+      "m": "reach, arrive; extremely, very",
+      "d": "It is hard to reach the ground with fingertips standing upright and bending downwards. And it is extremely hard to reach it with elbows or forearms (𠫔).",
+      "e": "至高 지고 sublimity, supremacy"
     },
     {
-      "q": "",
-      "s": "",
-      "m": "",
-      "d": "",
-      "e": ""
-    },
-    {
-      "q": "",
-      "s": "",
-      "m": "",
-      "d": "",
-      "e": ""
-    },
-    {
-      "q": "",
-      "s": "",
-      "m": "",
-      "d": "",
-      "e": ""
-    },
-    {
-      "q": "",
-      "s": "",
-      "m": "",
-      "d": "",
-      "e": ""
-    },
-    {
-      "q": "",
-      "s": "",
-      "m": "",
-      "d": "",
-      "e": ""
-    },
-    {
-      "q": "",
-      "s": "",
-      "m": "",
-      "d": "",
-      "e": ""
-    },
-    {
-      "q": "",
-      "s": "",
-      "m": "",
-      "d": "",
-      "e": ""
-    },
-    {
-      "q": "",
-      "s": "",
-      "m": "",
-      "d": "",
-      "e": ""
-    },
-    {
-      "q": "",
-      "s": "",
-      "m": "",
-      "d": "",
-      "e": ""
-    },
-    {
-      "q": "",
-      "s": "",
-      "m": "",
-      "d": "",
-      "e": ""
-    },
-    {
-      "q": "",
-      "s": "",
-      "m": "",
-      "d": "",
-      "e": ""
-    },
-    {
-      "q": "",
-      "s": "",
-      "m": "",
-      "d": "",
-      "e": ""
-    },
-    {
-      "q": "",
-      "s": "",
-      "m": "",
-      "d": "",
-      "e": ""
-    },
-    {
-      "q": "",
-      "s": "",
-      "m": "",
-      "d": "",
-      "e": ""
-    },
-    {
-      "q": "",
-      "s": "",
-      "m": "",
-      "d": "",
-      "e": ""
-    },
-    {
-      "q": "",
-      "s": "",
-      "m": "",
-      "d": "",
-      "e": ""
-    },
-    {
-      "q": "",
-      "s": "",
-      "m": "",
-      "d": "",
-      "e": ""
-    },
-    {
-      "q": "",
-      "s": "",
-      "m": "",
-      "d": "",
-      "e": ""
-    },
-    {
-      "q": "",
-      "s": "",
-      "m": "",
-      "d": "",
-      "e": ""
-    },
-    {
-      "q": "",
-      "s": "",
-      "m": "",
-      "d": "",
-      "e": ""
-    },
-    {
-      "q": "",
-      "s": "",
-      "m": "",
-      "d": "",
-      "e": ""
+      "q": "台/臺",
+      "s": "태/대",
+      "m": "platform, *pedestal",
+      "d": "A platform for wrestling. The character 臺 was originally created to mean a watchtower or a high platform for observing the surroundings. It was combines the character 高 (tall building), and the character 至 (‘to reach a high place’). The stage for ninjas is typically a rooftop where ordinary soldiers cannot reach for they are clumsy as lidded crocks because of the armor.",
+      "e": "舞臺 무대 stage"
     },
     {
       "q": "",
