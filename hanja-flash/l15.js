@@ -188,7 +188,7 @@ const L15 =
       "q": "調",
       "s": "조",
       "m": "transfer, change, *tune",
-      "d": "A complete tune is composed not only of a succession of notes but also of one <b>lap</b> of the words that go with it.",
+      "d": "When searching for a radio emission to listen you tune the device turning the knob round and round while trying to grasp the words and to find something interesting.",
       "e": "腔調 강조 stress, emphasis; 調節 조절 regulation, tuning"
     },
     {

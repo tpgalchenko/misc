@@ -415,46 +415,46 @@ const L25_1 = {
   		"e": "冷藏庫 냉장고 refrigerator"
   	},
   	{
-  		"q": "",
-  		"s": "",
-  		"m": "",
-  		"d": "",
-  		"e": ""
+  		"q": "臓/臟",
+  		"s": "장",
+  		"m": "entrails",
+  		"d": "Your body is like a storehouse for your entrails.",
+  		"e": "內臟 내장 internals, entrails, intestines"
   	},
   	{
-  		"q": "",
-  		"s": "",
-  		"m": "",
-  		"d": "",
-  		"e": ""
+  		"q": "賢",
+  		"s": "현",
+  		"m": "virtuous, good; *intelligent",
+  		"d": "An intelligent man is neither slave to his crotch nor to money. But an intelligent slave will know how to use his/her crotch to make money.",
+  		"e": "賢人 현인 wise man, sage"
   	},
   	{
-  		"q": "",
-  		"s": "",
-  		"m": "",
-  		"d": "",
-  		"e": ""
+  		"q": "堅",
+  		"s": "견",
+  		"m": "hard, stong; *strict",
+  		"d": "While a princess would offer her crotch only in a canopy bed, the slave offers his/hers on solid and hard ground. Because this is were slaves sleep and rest.",
+  		"e": "堅果 견과 nut"
   	},
   	{
-  		"q": "",
-  		"s": "",
-  		"m": "",
-  		"d": "",
-  		"e": ""
+  		"q": "臨",
+  		"s": "임",
+  		"m": "approach; *look to",
+  		"d": "An master in ancient Rome has a feast while being reclined and a slave looks hungerly to the master devouring all the goods he brings.",
+  		"e": "臨하다 임하다 deal with; attend; meet, be confronted; look out on"
   	},
   	{
-  		"q": "",
-  		"s": "",
-  		"m": "",
-  		"d": "",
-  		"e": ""
+  		"q": "覧/覽",
+  		"s": "람",
+  		"m": "look at, inspect, *perusal",
+  		"d": "small slave recline on the floorboards, thru the crack he gets a good view in the mistress's bedroom for his perusal.",
+  		"e": "觀覽 관람 inspection, viewing"
   	},
   	{
-  		"q": "",
-  		"s": "",
-  		"m": "",
-  		"d": "",
-  		"e": ""
+  		"q": "巨",
+  		"s": "거",
+  		"m": "gigantic",
+  		"d": "Gigantic... nay, 巨normous!",
+  		"e": "巨大하다 거대하다 huge, gigantic"
   	},
   	{
   		"q": "",
