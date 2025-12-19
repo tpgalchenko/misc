@@ -275,6 +275,293 @@ const L25_1 = {
   		"e": "購買 구매 purchase, buying"
   	},
   	{
+  		"q": "置",
+  		"s": "치",
+  		"m": "placement",
+  		"d": "Working in retail you learn the <b>placement</b> of any item should be at <b>eye</b> level so it's seen <b>straightaway</b>.",
+  		"e": "位置 위치 place, position"
+  	},
+  	{
+  		"q": "罰",
+  		"s": "벌",
+  		"m": "penalty",
+  		"d": "For Japanese, when the mind's eye (the sideways eye) feels guilty for something bad that the body has done, there are two penaltys to choose from. One, you can say I'm sorry. Two, you can commit suicide by sabre.",
+  		"e": "罰金 벌금 fine, monetary penalty"
+  	},
+  	{
+  		"q": "寧",
+  		"s": "녕",
+  		"m": "peaceful, comfortable; *rather",
+  		"d": "I'd <b>rather</b> die <b>peacefully</b> in my <b>house</b> from a <b>heart</b> attack than from a <b>spike</b> in my <b>eye</b> in a <b>street</b>.",
+  		"e": "安寧 안녕 peace, tranquility"
+  	},
+  	{
+  		"q": "濁",
+  		"s": "탁",
+  		"m": "muddy, turbid; *voiced",
+  		"d": "The key word for this kanji connotes the “muddying” effect on a soft consonant brought about by vibrating the vocal chords, e.g. in English a “j” is voiced while a “sh” is unvoiced. Water is so muddy that one sees with his own eyes a pack of insects bound up in a globe living in it.",
+  		"e": "混濁하다 혼탁하다 turbid, muddy"
+  	},
+  	{
+  		"q": "環",
+  		"s": "환",
+  		"m": "ring, bracelet",
+  		"d": "The <b>ring</b> of the Lord of the rings decorated with a <b>jewel</b>. The great <b>eye</b> of Sauron searching for the fellowship hiding under the many <b>ceilings</b> during their journey. The fourth and fifth primitives are the <b>mouth</b> of Gollum always mumbling “My preciousss”; and Pippin's <b>scarf</b>! Placement: the eye appears at the top similarly to how the Great Eye of Sauron is perched atop the Dark Tower.",
+  		"e": "環境 환경 environment, surroundings"
+  	},
+  	{
+  		"q": "還",
+  		"s": "환,선",
+  		"m": "still, yet, also, besides; *send back",
+  		"d": "This is the road that Sam and Frodo take to send back the ring to Mount Doom!",
+  		"e": "還拂 환불 refundment, refund"
+  	},
+  	{
+  		"q": "夫",
+  		"s": "부",
+  		"m": "husband, man",
+  		"d": "The character 夫 is a combination of the characters 大 (big) and 一 (one). If you look at the character 夫 in oracle bone script, you can see a single stroke drawn on the head of a person. This depicts a hairpin that men used to hold their hair in place. In ancient China, men also wore hairpins in their hair to indicate that they had become adults.",
+  		"e": "工夫 공부 study, learning"
+  	},
+  	{
+  		"q": "扶",
+  		"s": "부",
+  		"m": "aid",
+  		"d": "When a woman can't open a jar, her <b>husband</b> comes to her aid with his strong <b>fingers</b>.",
+  		"e": "扶助 부조 aid, help, gift"
+  	},
+  	{
+  		"q": "渓/溪",
+  		"s": "계",
+  		"m": "mountain stream",
+  		"d": "A <b>husband</b> says there were <b>vultures</b> circling above him for miles, hoping he'd die soon, and were probably disappointed when he finally found <b>water</b> at the <b>mountain stream</b>.",
+  		"e": ""
+  	},
+  	{
+  		"q": "規",
+  		"s": "규",
+  		"m": "rules, law; *standard",
+  		"d": "In the male-dominated world of yesterday, the husband's way of seeing things was considered the standard point of view. Women who dared to disagree were frowned upon.",
+  		"e": "規模 규모 rule, patter; scale, scope"
+  	},
+  	{
+  		"q": "替",
+  		"s": "체",
+  		"m": "exchange, replace",
+  		"d": "The reality TV show where two families exchange the two husbands for a day to see how they manage in another family.",
+  		"e": "代替 대체 substitution, replacement"
+  	},
+  	{
+  		"q": "賛/贊",
+  		"s": "찬",
+  		"m": "help, support; *approve",
+  		"d": "Out of two potential husbands, which would you approve of? Well, the one with shells (money) of course!!!",
+  		"e": "贊同 찬동 approval, support"
+  	},
+  	{
+  		"q": "潜/潛",
+  		"s": "잠",
+  		"m": "hide; *submerge",
+  		"d": "To <b>submerge</b>, a submarine <b>exchange</b> the content of ballast tanks with either water or air.",
+  		"e": "潛水 잠수 diving, submerging"
+  	},
+	{
+		"q": "失",
+		"s": "실",
+		"m": "lose",
+		"d": "A husband is going to lose his hair, one drop at a time.",
+		"e": "失敗 실패 failure"
+	},
+  	{
+  		"q": "哉",
+  		"s": "재",
+  		"m": "final exclamatory particle",
+  		"d": "Final exclamation at the thanksgiving party.",
+  		"e": "快哉 쾌재 shout for delight, 'bravo!'"
+  	},
+  	{
+  		"q": "鉄/鐵",
+  		"s": "철",
+  		"m": "iron",
+  		"d": "Iron is a metal that gradually becomes lost due to oxidation and rust<b>Iron is a metal that became a jewel and extorted jubilation exclamations at the end of the stone age.",
+  		"e": "鐵道 철도 railway"
+  	},
+  	{
+  		"q": "迭",
+  		"s": "질",
+  		"m": "repeatedly, frequently; *alternate",
+  		"d": "When you get lost, you just take an alternate road to get back on track.",
+  		"e": "更迭 경질 change, switch"
+  	},
+  	{
+  		"q": "臣",
+  		"s": "신",
+  		"m": "minister, statesman, *slave",
+  		"d": "The character 臣 depicts the eyes of a person with their head bowed. A servant, a slave cannot look into the eyes of the master.",
+  		"e": "臣下 신하 subject, retainer, vassal"
+  	},
+  	{
+  		"q": "姫/姬",
+  		"s": "희",
+  		"m": "beauty; imperial concubine; *princess",
+  		"d": "Cinderella is a slave who became a princess.",
+  		"e": "舞姬 무희 danseuse; "
+  	},
+  	{
+  		"q": "蔵/藏",
+  		"s": "장",
+  		"m": "hide; store up; *storehouse",
+  		"d": "The Romans wearing <b>flower</b> garlands had a victory <b>parade</b> in which the captured <b>slaves</b> were moved to a <b>storehouse</b>.",
+  		"e": "冷藏庫 냉장고 refrigerator"
+  	},
+  	{
+  		"q": "",
+  		"s": "",
+  		"m": "",
+  		"d": "",
+  		"e": ""
+  	},
+  	{
+  		"q": "",
+  		"s": "",
+  		"m": "",
+  		"d": "",
+  		"e": ""
+  	},
+  	{
+  		"q": "",
+  		"s": "",
+  		"m": "",
+  		"d": "",
+  		"e": ""
+  	},
+  	{
+  		"q": "",
+  		"s": "",
+  		"m": "",
+  		"d": "",
+  		"e": ""
+  	},
+  	{
+  		"q": "",
+  		"s": "",
+  		"m": "",
+  		"d": "",
+  		"e": ""
+  	},
+  	{
+  		"q": "",
+  		"s": "",
+  		"m": "",
+  		"d": "",
+  		"e": ""
+  	},
+  	{
+  		"q": "",
+  		"s": "",
+  		"m": "",
+  		"d": "",
+  		"e": ""
+  	},
+  	{
+  		"q": "",
+  		"s": "",
+  		"m": "",
+  		"d": "",
+  		"e": ""
+  	},
+  	{
+  		"q": "",
+  		"s": "",
+  		"m": "",
+  		"d": "",
+  		"e": ""
+  	},
+  	{
+  		"q": "",
+  		"s": "",
+  		"m": "",
+  		"d": "",
+  		"e": ""
+  	},
+  	{
+  		"q": "",
+  		"s": "",
+  		"m": "",
+  		"d": "",
+  		"e": ""
+  	},
+  	{
+  		"q": "",
+  		"s": "",
+  		"m": "",
+  		"d": "",
+  		"e": ""
+  	},
+  	{
+  		"q": "",
+  		"s": "",
+  		"m": "",
+  		"d": "",
+  		"e": ""
+  	},
+  	{
+  		"q": "",
+  		"s": "",
+  		"m": "",
+  		"d": "",
+  		"e": ""
+  	},
+  	{
+  		"q": "",
+  		"s": "",
+  		"m": "",
+  		"d": "",
+  		"e": ""
+  	},
+  	{
+  		"q": "",
+  		"s": "",
+  		"m": "",
+  		"d": "",
+  		"e": ""
+  	},
+  	{
+  		"q": "",
+  		"s": "",
+  		"m": "",
+  		"d": "",
+  		"e": ""
+  	},
+  	{
+  		"q": "",
+  		"s": "",
+  		"m": "",
+  		"d": "",
+  		"e": ""
+  	},
+  	{
+  		"q": "",
+  		"s": "",
+  		"m": "",
+  		"d": "",
+  		"e": ""
+  	},
+  	{
+  		"q": "",
+  		"s": "",
+  		"m": "",
+  		"d": "",
+  		"e": ""
+  	},
+  	{
+  		"q": "",
+  		"s": "",
+  		"m": "",
+  		"d": "",
+  		"e": ""
+  	},
+  	{
   		"q": "",
   		"s": "",
   		"m": "",
