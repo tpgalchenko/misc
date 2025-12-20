@@ -5,7 +5,7 @@ const L23_2 = {
       "q": "开",
       "s": "개,견",
       "m": "open, begin; flat; *two hands",
-      "d": "",
+      "d": "Two hands 开 pushing, open the gate 門.",
       "e": ""
     },
     {
@@ -26,14 +26,14 @@ const L23_2 = {
       "q": "械",
       "s": "계",
       "m": "instruments, *contraption",
-      "d": "In order to carve commandments in a tree one needs an instrument, a contraption, for example, a spear will do.",
+      "d": "The ten commandments were heavy. So to help carry them, Moses made a wooden contraption; the ark of the covenant.",
       "e": "機械 기계 instrument, apparatus, appliance"
     },
     {
       "q": "鼻",
       "s": "비",
       "m": "nose",
-      "d": "Imagine taking your two hands and reaching up into someone’s nostrils. Once inside you grab hold of the brain and yank it out. At the end, you would have a picture something like that of this character, the full kanji for nose.",
+      "d": "An Egyptian embalmer reaching both hands into the dead pharaoh's nose and yanking out handfuls of brain.",
       "e": "鼻炎 비염 nasal inflammation, rhinitis"
     },
     {
@@ -47,7 +47,7 @@ const L23_2 = {
       "q": "型",
       "s": "형",
       "m": "pattern, model, *mould",
-      "d": "'Cement shoes' is a mafia's way of punishment. The victim's feet are placed into a mould like bucket and then the concrete is poured into the mould. After hardening the person is thrown into water.",
+      "d": "The punishment that was assigned to a prisoner was forced work of making mud bricks using a mould.",
       "e": "模型 모형 model, pattern"
     },
     {
@@ -61,14 +61,14 @@ const L23_2 = {
       "q": "財",
       "s": "재",
       "m": "property",
-      "d": "Genie fulfills your wishes. Typical wish is to have money (shells).",
+      "d": "If you're a money genius, you can afford a lot of property.",
       "e": "財產 재산 property, possessions"
     },
     {
       "q": "材",
       "s": "재",
       "m": "material; *lumber",
-      "d": "Lumbersexual genie",
+      "d": "It doesn't take a genius to know that lumber comes from trees. A lumbersexual genie.",
       "e": "木材 목재 wood, timber, lumber"
     },
     {
@@ -145,42 +145,42 @@ const L23_2 = {
       "q": "吏",
       "s": "리",
       "m": "government official, *officer",
-      "d": "Bureaucracy, <b>government officials</b>, is <b>one</b> thing that persists throughout the <b>history</b> no matter what ideology or what kind of political system there is.",
+      "d": "One officer, namely Napoleon, changed the course of history. ",
       "e": "官吏 관리 government official"
     },
     {
       "q": "更",
       "s": "경,갱",
       "m": "correct, fix; more, again; *grow late",
-      "d": "It's growing late, the last rays of sun colour the ceiling. So it's time to tuck the bag under the arm and head home. It would be nice to correct working schedule to be able to enjoy more of daylight.",
+      "d": "It's starting to <b>grow late</b>, so God will take the <b>sun</b>, and <b>tuck it under his arm</b>, and walk away. In the morning, he'll bring it back, so don't worry.",
       "e": "變更 변경 change, amendment"
     },
     {
       "q": "硬",
       "s": "경",
       "m": "hard, firm, *stiff",
-      "d": "After weeks of careful deliberation, the Zen master decided that his apprentice’s placement of a single large rock required correction. He spent an hour repositioning the stone garden focal point by just a few inches. The master then sighed, believing the overall energy of the space was now finally balanced.",
+      "d": "Your joints become <b>stiff</b> like <b>stone</b>, when your days are <b>growing late</b>.",
       "e": "強硬 강경 firmness, resoluteness, stubborness"
     },
     {
       "q": "又",
       "s": "우,유",
       "m": "and, also, *or again",
-      "d": "Like the several abbreviations in Roman script to indicate “and” (+, &amp;, etc.), this short two-stroke kanji is used for the similar meaning of or again.<br>As a primitive, it will mean crotch, as in the crotch of the arm.",
+      "d": "Like the several abbreviations in Roman script to indicate “and” (+, &amp;, etc.), this short two-stroke kanji is used for the similar meaning of or again.<br>As a primitive, it will mean crotch, as in the crotch of the arm.<b>Cross you legs, or again I'll see your crotch.",
       "e": ""
     },
     {
       "q": "双/雙",
       "s": "쌍",
       "m": "pair",
-      "d": "The crotch/bird reduplicated gives us a pair.",
+      "d": "The animals boarding Noah's Ark all came in <b>pairs</b> – but Noah had to carefully check the two crotches in each pair to ensure that the animals were of different sexes and thus able to further their species after the flood.",
       "e": "無雙하다 무쌍하다 peerless, matchless"
     },
     {
       "q": "桑",
       "s": "상",
       "m": "mulberry tree",
-      "d": "Crotches, crotches everywhere and a tree. A group of children playing an original version of “Here We Go ’Round the <b>Mulberry</b> Bush.”",
+      "d": "Do you see the three students sitting cross-legged on the tree eating mulberry?”",
       "e": ""
     },
     {
@@ -194,14 +194,14 @@ const L23_2 = {
       "q": "護",
       "s": "호",
       "m": "protect, guard",
-      "d": "Greta Thunberg speaks lots of <b>words</b> from a vessel in order to obtain <b>protection</b> for <b>flowers</b> threatened by war in Gaza.",
+      "d": "Words and Flowers are exchanged between sailors and their wives before they board the vessel to safeguard the world.",
       "e": "保護 보호 protection, safeguard"
     },
     {
       "q": "獲",
       "s": "획,확",
       "m": "*seize",
-      "d": "A <b>pack of wild dogs</b> runs through thick <b>grass</b> in order to chase and <b>seize</b> a space <b>vessel</b> that has just landed.",
+      "d": "A group of police dogs are used to sniff out some opium flowers on a cargo vessel. The drugs are then seized by the authorities.",
       "e": "捕獲 포획 capture, seizure"
     },
     {
@@ -215,21 +215,21 @@ const L23_2 = {
       "q": "怒",
       "s": "노",
       "m": "angry",
-      "d": "Since ancient times patrons have been always <b>angry</b> at their servants for their laziness.",
+      "d": "This woman is angry because of the guys in the previous frame who pay more attention to her crotch than her heart.",
       "e": "憤怒 분노 anger, rage, fury; 震怒 진노 wild rage, wrath, fury"
     },
     {
       "q": "友",
       "s": "우",
       "m": "friend, companion",
-      "d": "Sense of nearby elbow - sense of another <b>crotch</b> <b>by your side</b> - <b>friend</b>'s support and help.",
+      "d": "A friend is always on your side - again and again and again.",
       "e": "朋友 붕우 friend, companion; 學友 학우 schoolmate"
     },
     {
       "q": "抜/拔",
       "s": "발",
       "m": "uproot, pull out; *slip out",
-      "d": "Your best <b>friend</b> is trying to steal your girlfriend in front of you. Here they go holding <b>hands</b>. Run and <b>pull out</b> the hand of your girlfriend and put an end to this nightmare before tear <b>drops</b> start falling.",
+      "d": "Don't let good friends slip out between your fingers or enemies to pull them out.",
       "e": "選拔 선발 selection, choice, picking out"
     }
   ]

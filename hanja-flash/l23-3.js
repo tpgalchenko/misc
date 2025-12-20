@@ -12,14 +12,14 @@ const L23_3 = {
       "q": "投",
       "s": "투",
       "m": "throw",
-      "d": "For a sportsmen throwing javelins the most important limb is his arm.",
+      "d": "A slingshot - it's a crotch (originally a tree branch) that sends missile projectiles flying into/like the wind",
       "e": "投射 투사 projection, throwing"
     },
     {
       "q": "没/沒",
       "s": "몰",
       "m": "drown",
-      "d": "German missiles and other weapon that left after the WWII were drowned in the Baltic Sea.",
+      "d": "A water missile? A torpedo! And when it hits it's target? The ship collapses then sinks and everyone drowns!",
       "e": "水沒 수몰 submergence; 沒入 몰입 immersion, absorption"
     },
     {
@@ -40,14 +40,14 @@ const L23_3 = {
       "q": "殼",
       "s": "각",
       "m": "shell, hull, *husk",
-      "d": "Japan <b>samurais</b> weared a sophisticated <b>armor (shell)</b>, used swords, <b>clubs</b> and spears but they all became <b>superfluous</b> when firearms appeared.",
+      "d": "husk or shell. Japan's recent history in a nutshell: first the samurai became superfluous and then the Eurpeans started to use fireguns and to launch missiles.",
       "e": "地殼 지각 earth crust, lithosphere; 甲殼類 갑각류 crustacea"
     },
     {
       "q": "支",
       "s": "지",
       "m": "pay; support; *branch",
-      "d": "Believers to prove their repentance wore hair shirts. The followers of a special <b>branch</b> of the church wore sackcloth pants whose <b>hairs</b> like <b>needles</b> and hurt the <b>crotch</b>.",
+      "d": "Checking my balance at the bank <b>branch</b> always feels like a <b>needle</b> to the <b>crotch</b>. Where will I find money to <b>pay</b> my bills and <b>support</b> my family?",
       "e": "支撑 지탱 support; 支拂 지불 payment"
     },
     {
@@ -61,7 +61,7 @@ const L23_3 = {
       "q": "枝",
       "s": "지",
       "m": "branches, limbs, *bough",
-      "d": "Branch of a tree",
+      "d": "The tree's primary branch is known as the bough.",
       "e": "枝葉 지엽 branches and leaves, minor details"
     },
     {
@@ -82,27 +82,27 @@ const L23_3 = {
       "q": "巠",
       "s": "경",
       "m": "underground stream",
-      "d": "Stream of water running underground does its job",
+      "d": "Sewers are the craft of allowing a flood of water to flow underground.",
       "e": ""
     },
     {
       "q": "茎/莖",
       "s": "경",
       "m": "stem, *stalk",
-      "d": "The plant convolvulus has a winding stalk that appears as if if was winded on a spool.",
+      "d": "A flower's stalk can be seen as connecting the flower to the soil, or again the soil to the flower. It depends on how you look at it.<br>A flower's stem is a channel for its juices, hidden 'undeground' streams.",
       "e": "陰莖 음경 penis"
     },
     {
       "q": "怪",
       "s": "괴",
       "m": "strange, unusual, *suspicious",
-      "d": "A suspicious kitty did not want to play with a spool of threads, perhaps, its state of mind was not playful enough.",
+      "d": "Sherlock Holmes as state of mind - Sherlock holds up a thread and tells Watson: 'My, this thread obviously comes from the same spool as this suspect's shirt! What a suspicious fact...'",
       "e": "怪物 괴물 monster, mysterious man"
     },
     {
       "q": "軽/輕",
       "s": "경",
-      "m": "light",
+      "m": "lightly",
       "d": "Shuttle flying lightly between the threads of a weaving machine.",
       "e": "輕하다 경하다 light, not heavy, trivial, not serious"
     },
@@ -110,49 +110,49 @@ const L23_3 = {
       "q": "叔",
       "s": "숙",
       "m": "father's young brother, *uncle",
-      "d": "An <b>uncle</b> Tom has built a <b>little</b> birdhouse from milk can and fixed it a <b>above</b> the trunk <b>crotch</b> of a tree.",
+      "d": "Now read the character as a set of instructions to locate the younger siblings of your parents in your family tree, starting from yourself: If you go up to the row (generation) <b>above</b>, to your parents, then the younger siblings of your parents are the <b>littler</b> ones as that sprang from the same <b>crotch</b>.",
       "e": "外叔 외숙 a brother of one's mother, uncle"
     },
     {
       "q": "寂",
       "s": "적",
       "m": "still, quiet, *loneliness",
-      "d": "Uncle's Tom lonely house.",
-      "e": "寂寂하다 적적하다 lonely, forlornm deserted"
+      "d": "This obviously refers to <b>uncle</b> Scrooge. Remember before he started to hang out with his nephews, he lived all alone in a huge <b>house</b>, old and broken because of the <b>loneliness</b>.",
+      "e": "寂寂하다 적적하다 lonely, forlorn deserted"
     },
     {
       "q": "淑",
       "s": "숙",
       "m": "pure, virtuous; *graceful",
-      "d": "Uncle Tom is pure and virtuous as water.",
+      "d": "Your uncle’s bellyflop into the water is far from graceful.",
       "e": "淑女 숙녀 lady, gentlewoman"
     },
     {
       "q": "督",
       "s": "독",
       "m": "supervise, direct, *coach",
-      "d": "Uncle Tom scrutinizing eye.",
+      "d": "A good coach is like an uncle who keeps an eye out for you, a Sauron's eye that sees everything.",
       "e": "基督敎 기독교 Christinanity, Christian religion; 監督 감독 supervision, direction"
     },
     {
       "q": "反",
       "s": "반",
       "m": "reverse, opposite, anti-",
-      "d": "A cliff crotch is the abyss between two opposite cliffs.",
+      "d": "Despite their stunning similarity, this is not a 友 (friend), but the opposite: An anti-friend! Instead of always being at your side he throws you off a <b>cliff</b>.",
       "e": "反對 반대 the reverse, the opposite, the contrary"
     },
     {
       "q": "坂",
       "s": "판",
       "m": "hillside, *slope",
-      "d": "Normal ground is usually flat, but hillside is the opposite though is also ground.",
+      "d": "A slope is anti-flat soil.",
       "e": "九折坂 구절판 a korean dish; 山坂 산판 forest resrve"
     },
     {
       "q": "板",
       "s": "판",
       "m": "plank, board",
-      "d": "A wooden board with inscriptions 'Open' and 'Closed' on the reverse sides.",
+      "d": "Trees are definitely anti-plank. They're even having a protest. Ironically the signs are still made of paper.",
       "e": "看板 간판 signboard, billboard"
     },
     {
@@ -166,7 +166,7 @@ const L23_3 = {
       "q": "販",
       "s": "판",
       "m": "marketing",
-      "d": "Marketing means buying cheap and then reselling dear, it's all about money.",
+      "d": "The goal of marketing is to get people who are naturally anti-buying to spend their shells (money).",
       "e": "販賣 판매 sale, selling, marketing"
     },
     {
@@ -204,11 +204,18 @@ const L23_3 = {
       "d": "Ducklings floating around in the water.",
       "e": "浮標 부표 buoy"
     },
+	{
+		"q" : "淫",
+		"s" : "음",
+		"m" : "obscene, licentious, lewd",
+		"d" : "The <b>porter</b> is <b>lewd</b> like hell. If a female guest tries to enter the hotel, he throws himself on her like a <b>vulture</b>. Therefore it is highly recommended for the ladies to bring some cold <b>water</b> and pour it over him to cool him down.",
+		"e" : "姦淫 간음 adultery, fornication; 賣淫 매음 prostitution"
+	},
     {
       "q": "将/將",
       "s": "장",
       "m": "going to, future. general, *leader",
-      "d": "The leading tragedian Aeschylus died from a turtle dropped by a vulture fell on his bald head. glue. No glue would have helped to mend the cracked head.",
+      "d": "The leader in this race is the turtle! It appears he has covered the vulture’s feet in glue, so that the vulture cannot get off the starting block.",
       "e": "將來 장래 future; 將校 장교 officer"
     },
     {
@@ -217,6 +224,13 @@ const L23_3 = {
       "m": "prize, reward; *exhort",
       "d": "The great punic general Hannibal encourages, exhorts his soldiers to hunt like dogs the Romans.",
       "e": "奬學金 장학금 scholarship; 奬勵 장려 encouragement, stimulation"
+    },
+    {
+      "q": "采",
+      "s": "채",
+      "m": "pick, collect, *grab",
+      "d": "The swooping vulture grabs his prey from the tree.",
+      "e": "喝采 갈채 applause, cheers, ovation; 風采 풍채 one's appearance, air"
     },
     {
       "q": "採",
@@ -243,22 +257,29 @@ const L23_3 = {
       "q": "受",
       "s": "수",
       "m": "receive, *accept",
-      "d": "The owl's house is not a simple birdhouse, but a hollow in an big oak's crotch. This is where it received Winnie-the-Pooh.",
+      "d": "A birdhouse is a whorehouse that will accept any crotch.",
       "e": "受動 수동 passivity"
     },
     {
       "q": "授",
       "s": "수",
       "m": "give to; *impart",
-      "d": "A giving hand that hands over something to the receiving one.",
-      "e": ""
+      "d": "'Please accept this finger' - you say, imparting it to your yakuza boss.",
+      "e": "授業 수업 teaching, class, lessons"
     },
     {
       "q": "愛",
       "s": "애",
       "m": "love",
-      "d": "Love is not only walking about cinemas and cafes but also hiding in a birdhouse to feel the warmth of your lovers' heart",
+      "d": "Love is not only walking about cinemas and cafes but also hiding in a birdhouse to feel the warmth of your lovers' heart.",
       "e": "愛人 애인 lover"
+    },
+    {
+      "q": "曖",
+      "s": "애",
+      "m": "obscure, dim, ambiguous, unclear",
+      "d": "Love can outshine the sun and blind your vision to make it unclear and obscure your judgement.",
+      "e": "曖昧 애매 vagueness, ambiguity, obscurity"
     }
   ]
 };

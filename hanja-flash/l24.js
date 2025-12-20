@@ -117,35 +117,35 @@ const L24 = {
       "q": "頒",
       "s": "반",
       "m": "confer, bestow; publish; *partition",
-      "d": "Promulgation of important information is bringing it to the attention of everyone, that is sharing it with every 'head'.",
+      "d": "What the <b>head</b> <b>promulgates</b>, other <b>parts</b> of the body execute.",
       "e": "頒布 반포 proclamation, promulgation"
     },
     {
       "q": "公",
       "s": "공",
       "m": "fair; *public",
-      "d": "A public politician comes into a hall with his elbows bent, shaking his arms to greet the crowd.",
+      "d": "I always <b>enter</b> the <b>public</b> restrooms opening the doors with my <b>elbows</b> because I don't want to touch the door with my hands.",
       "e": "公式 공식 formula, formality, official ceremony; 公平 공평 fairness, equitability"
     },
     {
       "q": "松",
       "s": "송",
       "m": "pine tree",
-      "d": "Pine tree forests were once an important source of wood for ship building, so these forests were made public, state property.",
+      "d": "Following up with the 'entering public restrooms' story for the right-hand primitive: public restrooms always reek of pine tree scented disinfectant.",
       "e": "松津 송진 resin"
     },
     {
       "q": "翁",
       "s": "옹",
       "m": "venerable old man",
-      "d": "While young citizens can serve the public affairs (res publica) with their muscles, the only thing venerable old men can do is to use their brain and to write clever laws with pen (feather).",
+      "d": "The venerable old man is using the public restroom in the park where he feeds the pigeons. But, alas, there is no toilet paper! So, he's caught a pigeon and is using it to wipe his bottom.",
       "e": "老翁 노옹 an elderly gentlemen, an old man"
     },
     {
       "q": "訟",
       "s": "송",
       "m": "accuse, dispute, *sue",
-      "d": "Public accusation is suject to a lawsuit.",
+      "d": "Take care what words you say in public lest you be sued.",
       "e": "訴訟 소송 lawsuit, litigation"
     },
     {
@@ -180,14 +180,14 @@ const L24 = {
       "q": "欲/慾",
       "s": "욕",
       "m": "longing",
-      "d": "A person with an open mouth (yawning) is longing to drink all the water of a valley.",
+      "d": "The valley has something my life is lacking.... something I've been longing for... peace and quiet to fill my aching heart.",
       "e": "意欲 의욕 will, volition, desire"
     },
     {
       "q": "裕",
       "s": "유",
       "m": "abundant",
-      "d": "This character shows the typical cloak of valley folk, which, unlike the tailor-made, high-fashion overcoats of city folk, is loose-fitting and free-form. Hence the key word’s meaning of abundant.",
+      "d": "She used a cloak to hide her abundant cleavage, so called valley of the chest, from prying eyes.",
       "e": "富裕 부유 wealth, opulence"
     },
     {
@@ -201,7 +201,7 @@ const L24 = {
       "q": "鉛",
       "s": "연",
       "m": "lead (metal)",
-      "d": "Lead is a heavy metal, but it is flexible and easy to work with. Here the character 㕣 which means heavy and flexible mud of a swamp expresses the same property of lead.",
+      "d": "Lead is a very poisonous metal, and should not enter your mouth.",
       "e": ""
     },
     {

@@ -19,7 +19,7 @@ const L23_4 = {
       "q": "払/拂",
       "s": "불",
       "m": "shake off, brush away; *pay",
-      "d": "Shaking off something that binds - paying off debts. One uses its fingers to untie the bound log. If an arm becomes numb, one shakes it, unfolds the elbow and shakes, waves the fingers.",
+      "d": "Shaking off something that binds - paying off debts. One uses its fingers to untie the bound log.<br>You're at a restaurant and raise your finger to indicate to the waiter that you want to pay. Your friend elbows you in the ribs -- it's his shout, and he insists on taking care of the bill.",
       "e": "支拂 지불 payment, payoff"
     },
     {
@@ -33,8 +33,15 @@ const L23_4 = {
       "q": "広/廣",
       "s": "광",
       "m": "wide, broad",
-      "d": "The emperor's house is a wide and comfortable cave, no one hurts another with elbows in a crowded house.",
+      "d": "The emperor's house is a wide and comfortable cave, no one hurts another with elbows in a crowded house. There is enough of 'elbow room'.",
       "e": "廣場 광장 open space, public square"
+    },
+    {
+      "q": "勾",
+      "s": "구",
+      "m": "hook, join",
+      "d": "Peter Pan tried to escape, but Hook hooked him by the elbow and bound him up.",
+      "e": "勾配 구배 grade, gradient, incline"
     },
     {
       "q": "拡/擴",
@@ -47,7 +54,7 @@ const L23_4 = {
       "q": "鉱/鑛",
       "s": "광",
       "m": "mineral, ore",
-      "d": "Iron is one of the most wide spread minerals in the Earth's crust.",
+      "d": "<b>Metal</b> is a general term for a <b>wide</b> range of <b>minerals</b>.",
       "e": "鑛物 광물 mineral"
     },
     {
@@ -75,15 +82,22 @@ const L23_4 = {
       "q": "怠",
       "s": "태",
       "m": "idle, remiss. *neglect",
-      "d": "Putting someone on a pedestal and being negligent towards oneself is a direct way to the broken heart.",
+      "d": "Putting someone on a pedestal and being negligent towards oneself is a direct way to the broken heart for if you neglect yourself, another one will also do so.",
       "e": "懶怠 나태 idleness, laziness"
     },
     {
       "q": "治",
       "s": "치",
       "m": "reign, govern, administrate",
-      "d": "The statues of the soviet rulers on high pedestals were everywhere even besides the rivers and canals.",
+      "d": "Reign is literally what Poseidon does from his water pedestal.",
       "e": "政治 정치 politics"
+    },
+    {
+      "q": "冶",
+      "s": "야",
+      "m": "fuse metals, *metallurgy",
+      "d": "The secrets of metallurgy and smithing: get your redhot metal and bang it against the pedestal as an anvil. Then cool it quickly with lots of ice.",
+      "e": "陶冶 도야 training, cultivation; 冶하다 야하다 gaudy, showy"
     },
     {
       "q": "始",
@@ -103,21 +117,21 @@ const L23_4 = {
       "q": "窓",
       "s": "창",
       "m": "window",
-      "d": "Prague defenestrations: crowd with hearts full of anger entered the town hall and threw several members of the city council out of the window, the members opposed wtih their legs but the elbows helped to push them through the window.",
+      "d": "When i looked through my girlfriends window... I saw her legs and elbows wrapped around another man... it broke my heart.",
       "e": "窓門 창문 window"
     },
     {
       "q": "去",
       "s": "거",
       "m": "go away, depart",
-      "d": "Terminator went away sinking into the soil while showing his farewell with an elbow above the surface.",
+      "d": "This is a pictograph of an ancient guy, buried beneath the soil. His body is all but gone. A lone elbow is all that remains!",
       "e": "過去 과거 the past"
     },
     {
       "q": "法",
       "s": "법",
       "m": "method, rule, law",
-      "d": "One cannot step twice into the same water for it is fast gone, that is the inflexible law of time and nature.",
+      "d": "French government have an efficient repressive method : they throw high pressure <b>water</b>(氵) on the protestors until they're all <b>gone</b> (去).",
       "e": "方法 방법 way, method"
     },
     {
@@ -138,35 +152,35 @@ const L23_4 = {
       "q": "至",
       "s": "지,질",
       "m": "reach, arrive; extremely, *climax",
-      "d": "It is hard to reach the ground with fingertips standing upright and bending downwards. And it is extremely hard to reach it with elbows or forearms (𠫔).",
+      "d": "It is hard to reach the ground with fingertips standing upright and bending downwards. And it is extremely hard to reach it with elbows or forearms (𠫔).<br>The climax of the Berlin Wall affair was the tearing of it to ground.",
       "e": "至高 지고 sublimity, supremacy"
     },
     {
       "q": "室",
       "s": "실",
       "m": "room",
-      "d": "The essence of a house is its bedroom. The bedroom is the place where its owner wants to arrive, that is the place where the climax of its desires arrives.",
+      "d": "You book a room in a love hotel called 'Climax House'.",
       "e": "敎室 교실 classroom"
     },
     {
       "q": "到",
       "s": "도",
       "m": "arrive",
-      "d": "When one arrives home, he can finally put off the saber and rest.",
+      "d": "Just as we were about to climax her father arrived with a sword.",
       "e": "到着 도착 arrival"
     },
     {
       "q": "致",
       "s": "치",
-      "m": "send, deliver. cause. *doth",
-      "d": "Zen taskmaster has already achieved the mental climax and helps his disciples to reach the englightment.",
+      "m": "reach. *doth",
+      "d": "To reach climax I doth the bidding of my dominatrix taskmaster.",
       "e": "景致 경치 scenery, view, landscape"
     },
     {
       "q": "互",
       "s": "호",
       "m": "mutually",
-      "d": "When you draw this character think of linking two walls together, one right side up and the other upside down.",
+      "d": "The 69 position allows both parties to mutually give themselves pleasure.",
       "e": "相互 상호 reciprocity, mutuality"
     },
     {
@@ -180,49 +194,49 @@ const L23_4 = {
       "q": "棄",
       "s": "기",
       "m": "reject, abandon",
-      "d": "Chinese buckled a dead child in a wooden basket and carried him to throw away, to abandon.",
+      "d": "A terrible image of an abandoned infant. Here he is in his little car seat buckled to a tree.",
       "e": "暴棄 포기 giving up, abandonment, renouncement"
     },
     {
       "q": "育",
       "s": "육",
       "m": "bring up, educate",
-      "d": "Raising <b>infants</b> to be strong both in mind and body: corpore sana (<b>flesh</b>), anima sana.",
+      "d": "Bringing up an infant requires months of hard work about his soul and body.",
       "e": "敎育 교육 education, schooling"
     },
     {
       "q": "撤",
       "s": "철",
       "m": "remove, withdraw",
-      "d": "Taskmaster that brings up school pupils and teaches how to use a lathe, tells to an unobedient child to remove his fingers far from the lathe to avoid injure.",
+      "d": "A taskmaster brings up his infant by threatening to remove a finger as punishment.",
       "e": "撤收 철수 withdrawal, removal, evacuation"
     },
     {
       "q": "充",
       "s": "충",
       "m": "fill, be full, supply, *allot",
-      "d": "A worker infant runs all day on his emaciated legs to earn his family living and to fill his empty stomach.",
+      "d": "Each infant gets its very own pair of human legs, allotted by God.",
       "e": "充分하다 충분하다 enough, sufficient"
     },
     {
       "q": "銃",
       "s": "총",
       "m": "gun",
-      "d": "A gun is of no use if it is not filled up with deadly metal bullets. Think of a soldier charging his gun with a ramrod.",
+      "d": "What is a gun but a device for allotting pieces of metal? One for you - BANG!...One for you - BANG!...One for you - BANG!...One for you - BANG!...etc.",
       "e": "銃彈 총탄 ball, bullet"
     },
     {
       "q": "硫",
       "s": "류,유",
       "m": "sulfur",
-      "d": "Italian children working in the sulfur mines on the slopes of Etna volcano. They dig the rocks to get the sulfur that flooded from the insides of the Earth.",
+      "d": "Sulphur is like a rock, but it can stink like a stream of infant doodie.",
       "e": "硫黃 유황 sulfur"
     },
     {
       "q": "流",
       "s": "류",
       "m": "flow, drift, *current",
-      "d": "An infant fell into a water stream and drifts away from his parents and homeland. Yet it is thanks to the stream that he finds a new home. Hence the stream plays a role twice in his life and it is shown twice in the character.",
+      "d": "The best way to deal with a stream of infant doodie is watery current.",
       "e": "本流 본류 mainstream"
     },
     {
@@ -236,7 +250,7 @@ const L23_4 = {
       "q": "唆",
       "s": "사",
       "m": "incite, instigate, *tempt",
-      "d": "Malicious instigators walk around and instill poisonous words from their mouths drop by drop to obtain one's consent to realize their nefarious plans.",
+      "d": "Prostitutes in Amsterdam have a <b>license</b> to show off their <b>walking legs</b> and <b>tempt</b> customers with their <b>mouths</b>.",
       "e": "示唆 시사 suggestion, hint"
     }
   ]
