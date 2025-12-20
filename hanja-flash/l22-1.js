@@ -27,7 +27,7 @@ const L22_1 =
       "q": "固",
       "s": "고",
       "m": "become solid, harden",
-      "d": "Solid walls must encircle old tombs of our grand-fathers to make the story go on.",
+      "d": "An old hardened criminal who is dying pent up in a prison cell.",
       "e": "固定 고정 fixation, fixing"
     },
     {
@@ -237,7 +237,7 @@ const L22_1 =
       "q": "思",
       "s": "사",
       "m": "think",
-      "d": "To think is to revolve the ideas between the brains and the heart.",
+      "d": "There are two ways to think for women - with their brains and with their hearts. Men have a third way of thinking but I won't mention that here...",
       "e": "意思 의사 mind, intent, idea"
     },
     {

@@ -12,7 +12,7 @@ const L23_1 = {
       "q": "看",
       "s": "간",
       "m": "*watch over, examine",
-      "d": "Eyes to watching over a sick person, hands to fix his/her pillows.",
+      "d": "Picture a lifeguard standing in his tower with his hand over his eyes, watching over the swimmers below.",
       "e": "看護 간호 nursing, care of the sick"
     },
     {
@@ -33,14 +33,14 @@ const L23_1 = {
       "q": "義",
       "s": "의",
       "m": "righteousness",
-      "d": "<b>Righteousness</b> means obedience to the rules and laws. So do behave the <b>sheeps</b>, which abandon their <b>ego</b> and follow dumbly the leader.",
+      "d": "Righteous Christians are sheeps with egos",
       "e": "義務 의무 duty, obligation"
     },
     {
-      "q": "議/犧",
+      "q": "議",
       "s": "의",
       "m": "consult, discuss, *deliberation",
-      "d": "The members of the Roman senate spoke a lot of <b>words</b> so that the <b>discussion</b> should lead to the <b>right</b> conclusion.",
+      "d": "The members of the Roman senate spoke a lot of <b>words</b> so that the <b>discussion</b> should lead to the <b>righteous</b> conclusion.",
       "e": "會議 회의 meeting, conference, council"
     },
     {
@@ -54,9 +54,23 @@ const L23_1 = {
       "q": "抹",
       "s": "말",
       "m": "wipe off, erase, *rub",
-      "d": "A student has come to the blackboard and solved a task writing the solution with a piece of chalk. He turns around, looks at the fellows smiling and licks the <b>extremities</b> of his <b>fingers</b> to <b>wipe off</b> the chalk.",
+      "d": "When you're cold, your <b>rub</b> your <b>fingers</b> over your <b>extremities</b> vigorously to warm up a bit.",
       "e": "抹消 말소 erasure, obliteration, cancel"
     },
+	{
+	   "q": "拭",
+	   "s" : "식",
+	   "m" : "wipe away",
+	   "d" : "Why carry a handkerchief? I wipe my nose finger-style.",
+	   "e" : "拂拭 불식 wipe away, sweep off, eradicate"
+	},
+	{
+	   "q" : "拉",
+	   "s" : "랍,납",
+	   "m" : "pull, drag, *yank",
+	   "d" : "He quickly yanked his fingers out of the vase. Maybe no one noticed the attempt to steal the cookies...",
+	   "e" : " 拉致 납치 kidnapping, abduction"
+	},
     {
       "q": "抱",
       "s": "포",
@@ -68,7 +82,7 @@ const L23_1 = {
       "q": "搭",
       "s": "탑",
       "m": "to board",
-      "d": "Lots of people <b>united</b> to see a person off while he/she is <b>boarding</b> on a ship - <b>hand</b>shakes, embraces, <b>flowers</b>.",
+      "d": "Welcome aboard the pagoda tour. Attention! Make sure there is NO DIRT ON YOUR FINGERS when you board! The pagoda was recently cleaned.",
       "e": "搭乘 탑승 boarding, getting on board"
     },
     {
@@ -82,7 +96,7 @@ const L23_1 = {
       "q": "抗",
       "s": "항",
       "m": "resist, oppose, *confront",
-      "d": "Tp resist a whirlwind use your fingers to clasp anything fixed.",
+      "d": "To resist a whirlwind use your fingers to clasp anything fixed and to keep your top hat on.",
       "e": "抗議 항의 protest; 對抗 대항 opposition, confrontation"
     },
     {
@@ -117,7 +131,7 @@ const L23_1 = {
       "q": "打",
       "s": "타",
       "m": "strike, hit",
-      "d": "In order to drive a <b>nail</b> or a spike in one has to hold it first with his <b>fingers</b> upright and then <b>strike</b> with a hammer.",
+      "d": "In order to drive a <b>nail</b> or a spike in one has to hold it first with his <b>fingers</b> upright and then <b>strike</b> with a hammer. Take care not to strike your fingers!",
       "e": "打字 타자 typing on a keyboard/typewriter"
     },
     {
@@ -138,21 +152,21 @@ const L23_1 = {
       "q": "拐",
       "s": "괴",
       "m": "kidnap",
-      "d": "The opera 'Il trovatore' contains it all: Manrico was first <b>kidnapped</b> by a gypsy, then sung songs (<b>mouth</b>) to Leonora, and at the end got his head <b>cut</b> off.",
+      "d": "Kidnapping goes like this, after you kidnap somebody, you hold a dagger before the mouth of the victim and have him talk so that people know he's still alive. Then you send one of his fingers to let 'em know your serious intentions.",
       "e": "誘拐 유괴 kidnapping, abduction"
     },
     {
       "q": "摘",
       "s": "적",
       "m": "pick, *pinch",
-      "d": "Use your fingers to pull out an interesting antique from a pile of miscellaneous stuff on a flea-market.",
+      "d": "My grandma used to pinch my cheeks with her antique fingers.",
       "e": "指摘 지적 indication"
     },
     {
       "q": "挑",
       "s": "도",
       "m": "challenge",
-      "d": "Oedipus has ignored the portents and challenged the destiny but the hands of the destiny still reached him.",
+      "d": "The rabbit pointed his <b>finger</b> at the <b>turtle</b> and said: 'I <b>challenge</b> you for a race!' The rest is history...",
       "e": "挑戰 도전 challenge"
     },
     {
@@ -166,28 +180,28 @@ const L23_1 = {
       "q": "持",
       "s": "지",
       "m": "*hold, sustain",
-      "d": "A monk in a Buddhist temple holds nothing in his own, but holds continuously only religious services.",
+      "d": "At Buddhist temples monks pray holding and fingering prayer beads.",
       "e": "持續 지속 continuation"
     },
     {
       "q": "括",
       "s": "괄",
       "m": "include, embrace; *fasten",
-      "d": "French kiss - <i>embrasser</i> - includes both tongues and arms.",
+      "d": "Teacher was always telling us to fasten our lips by pulling a zipper shut with our fingers. It always frightened me because I imagined getting my tongue stuck in the zipper.",
       "e": "括弧 괄호 parentheses, brackets"
     },
     {
       "q": "揮",
       "s": "휘",
       "m": "brandish",
-      "d": "Brandishing arms before the army, this is what commanding is. Drang nach Osten.",
+      "d": "A military leader in his chariot is brandishing his finger at the enemy, crying 'chaaaaaaaaarrrgggeeee!'",
       "e": "發揮 발휘 demonstration, manifestation, display"
     },
     {
       "q": "推",
       "s": "추, 퇴",
       "m": "push; *conjecture",
-      "d": "Hedgehog is an arrogant bird, one has to push it to make it fly.",
+      "d": "In mathematics, a conjecture is a mathematical statement which has been proposed as a true statement, but which no one has yet been able to prove or disprove. Have you heard of the Finger-Turkey conjecture ? It states that if turkeys had fingers, they would be able to count.",
       "e": "推測 추측 conjecture; 推敲 퇴고 polish, elaboration"
     },
     {
@@ -222,28 +236,28 @@ const L23_1 = {
       "q": "担/擔",
       "s": "담",
       "m": "carry, undertake, *shouldering",
-      "d": "A <b>man</b> under a cliff used many <b>words</b> to persuade another one to <b>carry</b> him up the rock using <b>hands</b> and <b>binding</b>.",
+      "d": "One of Hercules' labors was to hold the world in his fingers for Atlas and not move until nightbreak, shouldering the considerable burden.<br>A <b>man</b> under a cliff used many <b>words</b> to persuade another one to <b>carry</b> him up the rock using <b>hands</b> and <b>binding</b>.",
       "e": "負擔 부담 burden, charge, load"
     },
     {
       "q": "拠/據",
       "s": "거",
       "m": "occupy, *foothold",
-      "d": "A rock climber hangs on his <b>fingers</b> over a precipice, where <b>seven</b> wild <b>boars</b> run about. Only magic wand can save him.",
+      "d": "If you lose your foothold you will have to hold on for dear life with your fingers as your legs are left dangling in the wind.<br>A rock climber hangs on his <b>fingers</b> over a precipice, where <b>seven</b> wild <b>boars</b> run about. Only magic wand can save him.",
       "e": "根據 근거 ground, basis"
     },
     {
       "q": "描",
       "s": "묘",
       "m": "sketch",
-      "d": "On this sketch grass seedlings look like fingers.",
+      "d": "A sketch of grass seedlings made with fingers on the sand.",
       "e": "描寫 묘사 description, representation"
     },
     {
       "q": "操",
       "s": "조",
       "m": "conduct, manage, *manoeuvre",
-      "d": "One has to manoeuvre cautiously to decorate New Year tree with the goods like glass balls.",
+      "d": "One has to manoeuvre with fingers cautiously to decorate New Year tree with the goods like glass balls.",
       "e": "操心 조심 care, caution"
     },
     {
@@ -264,7 +278,7 @@ const L23_1 = {
       "q": "掛",
       "s": "괘",
       "m": "hang, suspend",
-      "d": "Magic wand is a precious thing, so it has a security belt made of ivy to hang the wand on hand.",
+      "d": "Naked Tarzan is swinging through the jungle, gripping the ivy with his fingers, his wand hanging out.",
       "e": "掛鐘 괘종 wall clock"
     }
   ]

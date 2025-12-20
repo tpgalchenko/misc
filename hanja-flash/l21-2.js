@@ -62,7 +62,7 @@ const L21_2 =
 			"q": "差",
 			"s": "차",
 			"m": "differ, distinction",
-			"d": "Special breed of sheeps having different wool on the left and the right sides.",
+			"d": "There is a huge distinction between WoolCraft and WarCraft.",
 			"e": "差異 차이 difference"
 		},
 		{
@@ -131,7 +131,7 @@ const L21_2 =
 		{
 			"q": "此",
 			"s": "차",
-			"m": "this",
+			"m": "this here",
 			"d": "'<b>This</b> place' is the place where one has come, stopped, sat down.",
 			"e": "如此하다 여차하다 such, (like) this; 於此彼 어차피 anyhow, anyway"
 		},
@@ -139,7 +139,7 @@ const L21_2 =
 			"q": "雌",
 			"s": "자",
 			"m": "feminine",
-			"d": "Spoons marked with turkey's footprint on the handle are for women, they are too feminine.",
+			"d": "Traditional asian ideal of femininity: She has a footprint 止 as small as a spoon 匕 and is as tiny and delicate as a little bird 隹.",
 			"e": "雌雄 자웅 male and female, both sexes"
 		},
 		{
@@ -230,7 +230,7 @@ const L21_2 =
 			"q": "習",
 			"s": "습",
 			"m": "practice, *learn",
-			"d": "A baby bird learns flying, it flaps its wings but cannot take off until the down of its wings becomes true feathers.",
+			"d": "By the time you're old and all your feathers have turned white, you should have learned a thing or two.",
 			"e": "復習 복습 review, revision; 學習 학습 learning, study"
 		},
 		{

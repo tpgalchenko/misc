@@ -62,7 +62,7 @@ const L22_2 =
       "q": "惑",
       "s": "혹",
       "m": "confuse, baffle; doubt; *beguile",
-      "d": "Warriors defending the castle (或) observe carefully everyone who comes in and out with doubtful mind.",
+      "d": "She was beguiled/mislead by his charm: at the party he kissed her on the mouth, they did it on the floor and thus he stole her heart. Poor girl!",
       "e": "魅惑 매혹 charm, bewitchment"
     },
     {
@@ -118,7 +118,7 @@ const L22_2 =
       "q": "悼",
       "s": "도",
       "m": "grief, *lament",
-      "d": "Think of the Prophet Jeremiah whose poetry gave an <b>eminence</b> to <b>the state of mind</b>, we call it lamentation.",
+      "d": "Think of the current state of the environment symbolized by the sunflower and use the divining rod to see the possible future - pollution, global warming, overpopulation - we have a lot to lament.",
       "e": "哀悼 애도 condolence, grief, sorrow, lamentation"
     },
     {
@@ -174,14 +174,14 @@ const L22_2 =
       "q": "惰",
       "s": "타",
       "m": "indolent, *lazy",
-      "d": "The <b>state of mind</b> of <b>lazy</b> Oblomov. He spends his time lying on a sofa, eating, growing his <b>flesh</b>. He chose not to go into the right, creative activity (like Stolz), but dedicates his time to abnormal, “sinister”, idleness.",
+      "d": "Anyone could be ambidextrous, and work with both hands... but the general state of mind of people ("right-handed") leaves the left side of the body lazy.",
       "e": "惰性 타성 inertia, force of habit"
     },
     {
       "q": "慎/愼",
       "s": "신",
       "m": "act with care, be cautious; *humility",
-      "d": "When one prepares food to be offered to a god, he has to prepare it with <b>care</b>, <b>humility</b>, <b>true</b> (眞) heart.",
+      "d": "Humility is the state of mind of accepting the truth about yourself - both favorable and unfavorable.",
       "e": "愼重 신중 prudence, discretion, care"
     },
     {
@@ -216,7 +216,7 @@ const L22_2 =
       "q": "必",
       "s": "필",
       "m": "surely, must; *invariably",
-      "d": "First note the stroke order of this character, which did not really evolve from the heart, even though we take it that way. If one takes it as a pictograph “dividing” the heart in half, then one has one of those invariably true bits of human anatomy: the fact that each heart is divided into two halves.",
+      "d": "You swear you'll be in love forever, but invariably there comes a time when your heart is divided.",
       "e": "必要 필요 necessity, need"
     },
     {
