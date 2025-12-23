@@ -457,109 +457,109 @@ const L25_1 = {
   		"e": "巨大하다 거대하다 huge, gigantic"
   	},
   	{
-  		"q": "",
-  		"s": "",
-  		"m": "",
-  		"d": "",
-  		"e": ""
+  		"q": "拒",
+  		"s": "거,구",
+  		"m": "ward off with hand, *repel",
+  		"d": "Having gigantic fingers is useful to repel insects. You can swat them away a lot easier!",
+  		"e": "拒否 거부 refusal, rejection; 拒絕 거절 refusal, rejection"
   	},
   	{
-  		"q": "",
-  		"s": "",
-  		"m": "",
-  		"d": "",
-  		"e": ""
+  		"q": "力",
+  		"s": "력,역",
+  		"m": "power",
+  		"d": "The primitive depicts a farming tool for plowing a field.",
+  		"e": "努力 노력 endeavor, exertion"
   	},
   	{
-  		"q": "",
-  		"s": "",
-  		"m": "",
-  		"d": "",
-  		"e": ""
+  		"q": "男",
+  		"s": "남",
+  		"m": "man, male",
+  		"d": "The character reflects means a ‘man,’ a person who worked hard to farm on rice fields.",
+  		"e": "男子 남자 man, male"
   	},
   	{
-  		"q": "",
-  		"s": "",
-  		"m": "",
-  		"d": "",
-  		"e": ""
+  		"q": "労/勞",
+  		"s": "로,노",
+  		"m": "labor, toil",
+  		"d": "Stay in school, kids, if you want the power to avoid a life of hard labor.",
+  		"e": "勞動 노동 labor, toil, manual work"
   	},
   	{
-  		"q": "",
-  		"s": "",
-  		"m": "",
-  		"d": "",
-  		"e": ""
+  		"q": "募",
+  		"s": "모",
+  		"m": "levy, recruit",
+  		"d": "The army starts heavily recruiting a lot of manpower and muscle to replace the many who have been killed and sent to the graveyard.",
+  		"e": "募集 모집 levy, enlistment, recruitment"
   	},
   	{
-  		"q": "",
-  		"s": "",
-  		"m": "",
-  		"d": "",
-  		"e": ""
+  		"q": "劣",
+  		"s": "렬,열",
+  		"m": "bad, inferior",
+  		"d": "Inferiority is felt by those with few muscles.",
+  		"e": "劣等 열등 inferiority, low grade/class"
   	},
   	{
-  		"q": "",
-  		"s": "",
-  		"m": "",
-  		"d": "",
-  		"e": ""
+  		"q": "功",
+  		"s": "공",
+  		"m": "*achievement, merit",
+  		"d": "All of Arnold Schwarzenegger's achievements started with him <b>craft</b>ing his <b>muscles</b>.",
+  		"e": "攻擊 공격 attack, assault"
   	},
   	{
-  		"q": "",
-  		"s": "",
-  		"m": "",
-  		"d": "",
-  		"e": ""
+  		"q": "勧/勸",
+  		"s": "권",
+  		"m": "recommend, urge, *persuade",
+  		"d": "Only the powerful like Hercules can persuade Pegasus to let them ride her.",
+  		"e": "勸하다 권하다 exhort, advie, recommend, persuade; offer"
   	},
   	{
-  		"q": "",
-  		"s": "",
-  		"m": "",
-  		"d": "",
-  		"e": ""
+  		"q": "努",
+  		"s": "노",
+  		"m": "*toil, exert, strive",
+  		"d": "Toiling hard like a slave 奴 with all the power.",
+  		"e": "努力 노력 endeavor, exertion"
   	},
   	{
-  		"q": "",
-  		"s": "",
-  		"m": "",
-  		"d": "",
-  		"e": ""
+  		"q": "勃",
+  		"s": "발",
+  		"m": "suddenly, sudden, quick, *uprising",
+  		"d": "Joan of Arc was just a <b>child</b> under the influence of the <b>chapel (= needle + crown)</b> when she was inspired with the power to lead the French <b>uprising</b>.",
+  		"e": "勃發 발발 outbreak, outburst, sudden occurence"
   	},
   	{
-  		"q": "",
-  		"s": "",
-  		"m": "",
-  		"d": "",
-  		"e": ""
+  		"q": "励/勵",
+  		"s": "려,여",
+  		"m": "strive, *encourage",
+  		"d": "<b>10,000</b> Persians are at the base of the <b>cliff</b>, but the leader of the 300 Spartans just flexes his huge <b>muscles</b> and <b>encourages</b> his men by shouting that they have the <b>power</b> to fight them all.",
+  		"e": "奬勵 장려 encouragement, stimulation"
   	},
   	{
-  		"q": "",
-  		"s": "",
-  		"m": "",
-  		"d": "",
-  		"e": ""
+  		"q": "加",
+  		"s": "가",
+  		"m": "add",
+  		"d": "To add muscle mass it's important to put protein in your mouth after working out.",
+  		"e": "增加 증가 increase, addition"
   	},
   	{
-  		"q": "",
-  		"s": "",
-  		"m": "",
-  		"d": "",
-  		"e": ""
+  		"q": "賀",
+  		"s": "하",
+  		"m": "congratulate, give present",
+  		"d": "Congratulations are so much better when you add money to them.",
+  		"e": "祝賀 축하 congratulations, felicitations"
   	},
   	{
-  		"q": "",
-  		"s": "",
-  		"m": "",
-  		"d": "",
-  		"e": ""
+  		"q": "架",
+  		"s": "가",
+  		"m": "rack, stand, prop; *erect",
+  		"d": "To erect a framework for a bridge or cross, just add some trees.",
+  		"e": " 架橋 가교 bridge-building"
   	},
   	{
-  		"q": "",
-  		"s": "",
-  		"m": "",
+  		"q": "脇/脅",
+  		"s": "협",
+  		"m": "armpits, ribs; flank",
   		"d": "",
-  		"e": ""
+  		"e": "威脅 위협 menace, threat"
   	},
   	{
   		"q": "",
