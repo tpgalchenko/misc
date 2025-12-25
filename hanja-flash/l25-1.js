@@ -555,81 +555,81 @@ const L25_1 = {
   		"e": " 架橋 가교 bridge-building"
   	},
   	{
-  		"q": "脇/脅",
+  		"q": "脇",
   		"s": "협",
   		"m": "armpits, ribs; flank",
-  		"d": "",
+  		"d": "The part of the body on your flank, where the triceps is attached, is the armpit.",
+  		"e": ""
+  	},
+  	{
+  		"q": "脅",
+  		"s": "협",
+  		"m": "armpits, ribs; flank; *threaten",
+  		"d": "A towering mass of muscles on top of muscles is looming over you, threatening to beat you into a bloody pile of meat.",
   		"e": "威脅 위협 menace, threat"
   	},
   	{
-  		"q": "",
-  		"s": "",
-  		"m": "",
-  		"d": "",
-  		"e": ""
+  		"q": "協",
+  		"s": "협",
+  		"m": "be united. cooperate. *co-",
+  		"d": "3 persons can have the <b>power</b> of <b>ten</b> if they co-operate.",
+  		"e": "協力 협력 cooperation, collaboration"
   	},
   	{
-  		"q": "",
-  		"s": "",
-  		"m": "",
-  		"d": "",
-  		"e": ""
+  		"q": "行",
+  		"s": "행,항",
+  		"m": "going",
+  		"d": "*Reduced to the left side only, 彳 it can mean a column going, or a line of something or other. When the middle is opened up to make room for other elements, it means a boulevard.",
+  		"e": "行動 행동 action, operation; 行列 항렬 generations of a clan"
   	},
   	{
-  		"q": "",
-  		"s": "",
-  		"m": "",
-  		"d": "",
-  		"e": ""
+  		"q": "律",
+  		"s": "률(율)",
+  		"m": "statute, principle, regulation. *rythm",
+  		"d": "The calligrapher's <b>brush</b> is moving down a <b>column</b> of a script, in <b>rhythm</b> with his meditation.",
+  		"e": "法律 법률 law, legislation; 韻律 운율 meter, rhythm"
   	},
   	{
-  		"q": "",
-  		"s": "",
-  		"m": "",
-  		"d": "",
-  		"e": ""
+  		"q": "復",
+  		"s": "복,부",
+  		"m": "return, repeat, *restore",
+  		"d": "The column of soldiers has to double back to restore the peace in the village they just left.",
+  		"e": "反復 반복 repetition; 復活 부활 revival, resurrection"
   	},
   	{
-  		"q": "",
-  		"s": "",
-  		"m": "",
-  		"d": "",
-  		"e": ""
+  		"q": "得",
+  		"s": "득,덕",
+  		"m": "obtain, gain",
+  		"d": "To gain more knowledge of what's goin on in the world I'm reading column after column of articles in the newspapers, and it takes so much time I'm glued to it till nightbreak.",
+  		"e": "說得 설득 persuasion; 所得 소득 income, earnings, profits"
   	},
   	{
-  		"q": "",
-  		"s": "",
-  		"m": "",
-  		"d": "",
-  		"e": ""
+  		"q": "従/從",
+  		"s": "종",
+  		"m": "from, by, since, whence, through; *accompany",
+  		"d": "I'm going to accompany the horny girl to her room so I can 'mend' her.",
+  		"e": "主從 주종 master and servant, employer and employee, principal and subordinate; 順從 순종 obedience, submission"
   	},
   	{
-  		"q": "",
-  		"s": "",
-  		"m": "",
-  		"d": "",
-  		"e": ""
+  		"q": "徒",
+  		"s": "도",
+  		"m": "disciple, follower, *junior",
+  		"d": "Wherever you are going your junior runs after you...",
+  		"e": "信徒 신도 believer, devotee"
   	},
   	{
-  		"q": "",
-  		"s": "",
-  		"m": "",
-  		"d": "",
-  		"e": ""
+  		"q": "待",
+  		"s": "대",
+  		"m": "wait",
+  		"d": "A line queued up outside the Buddhist temple, waiting to see the shrine on New Year's Day.",
+  		"e": "待接 대접 treatment, reception, hospitality; 期待 기대 expectation, hope"
   	},
   	{
-  		"q": "",
-  		"s": "",
-  		"m": "",
-  		"d": "",
-  		"e": ""
-  	},
-  	{
-  		"q": "",
-  		"s": "",
-  		"m": "",
-  		"d": "",
-  		"e": ""
+  		"q": "往",
+  		"s": "왕",
+  		"m": "go, depart; *journey; past",
+  		"d": "Famous <b>journey</b>, the three kings, sheperds, and all, <b>going</b> to see their new <b>lord</b>.",
+  		"e": " 往復 왕복 going and returning; 已往 이왕 already, now that"
   	},
   	{
   		"q": "",
