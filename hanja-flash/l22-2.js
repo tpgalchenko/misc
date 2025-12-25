@@ -174,7 +174,7 @@ const L22_2 =
       "q": "惰",
       "s": "타",
       "m": "indolent, *lazy",
-      "d": "Anyone could be ambidextrous, and work with both hands... but the general state of mind of people ("right-handed") leaves the left side of the body lazy.",
+      "d": "Anyone could be ambidextrous, and work with both hands... but the general state of mind of people ('right-handed') leaves the left side of the body lazy.",
       "e": "惰性 타성 inertia, force of habit"
     },
     {
