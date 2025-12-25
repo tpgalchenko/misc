@@ -628,22 +628,85 @@ const L25_1 = {
   		"q": "往",
   		"s": "왕",
   		"m": "go, depart; *journey; past",
-  		"d": "Famous <b>journey</b>, the three kings, sheperds, and all, <b>going</b> to see their new <b>lord</b>.",
+  		"d": "Famous <b>journey</b>, the three kings, sheperds, and all, <b>going</b> to see their new <b>lord</b> by <b>cancelsticks</b>.",
   		"e": " 往復 왕복 going and returning; 已往 이왕 already, now that"
   	},
   	{
-  		"q": "",
-  		"s": "",
-  		"m": "",
-  		"d": "",
-  		"e": ""
+  		"q": "征",
+  		"s": "정",
+  		"m": "invade, conquer, *subjugate",
+  		"d": "America seeks to <b>go</b> and <b>correct</b> other nations. But really what they do is <b>subjugate</b> them...",
+  		"e": " 征服 정복 conquest, subjugation"
   	},
   	{
-  		"q": "",
-  		"s": "",
-  		"m": "",
-  		"d": "",
-  		"e": ""
+  		"q": "径/徑",
+  		"s": "경",
+  		"m": "diameter, direct",
+  		"d": "Undeground stream finds a shorter way whenever possible directed to the lowest place. If it were possible it would pass by Earth diameter directly to the center of the Earth.",
+  		"e": "捷徑 첩경 shortcut, shorter way"
   	},
+  	{
+  		"q": "彼",
+  		"s": "피",
+  		"m": "that, there, those; *he",
+  		"d": "Look at yourself! You are not properly dressed. Go <b>there</b> and put on a pelt!",
+  		"e": "於此彼 어차피 anyhow, one way or the other"
+  	},
+  	{
+  		"q": "役",
+  		"s": "역",
+  		"m": "service, *duty",
+  		"d": "Soldier's duty is to <b>go</b> in <b>columns</b> holding <b>weapons</b>.",
+  		"e": "役割 역할 duty, office, function, job"
+  	},
+  	{
+  		"q": "徳/德",
+  		"s": "덕",
+  		"m": "virtue, morality, *benevolence",
+  		"d": "A benevolent person goes a step beyond merely listening 聽 to your troubles, but goes and does something about it.",
+  		"e": "德澤 덕택 grace, favor, assistance"
+  	},
+  	{
+  		"q": "徹",
+  		"s": "철",
+  		"m": "penetrate",
+  		"d": "The taskmistress in a moment of weakness allowed the man's column to penetrate her. As punishment he was made to bring up their infant.",
+  		"e": "貫徹 관철 accomplishment, fulfillment"
+  	},
+  	{
+  		"q": "徴/徵",
+  		"s": "징",
+  		"m": "summon, *indications",
+  		"d": "If you see a column of kings march up the mountain under a taskmaster's whip... this is a symbol, indications that there has been a coup.",
+  		"e": "特徵 특징 distinctive feature; 象徵 상징 symbol"
+  	},
+  	{
+  		"q": "懲",
+  		"s": "징",
+  		"m": "punish, reprimand, *penal",
+  		"d": "<b>Penal servitude</b> is served until <b>indications</b> show that one has had a change of <b>heart</b> (learned one's lesson). ",
+  		"e": "懲役 징역 penal servitude, imprisonment with hard labor"
+  	},
+  	{
+  		"q": "微",
+  		"s": "미",
+  		"m": "small, prefix micro-, *delicate",
+  		"d": "We're going up the mountain announces the taskmaster. Anyone with legs too delicate must stay behind.",
+  		"e": "微微하다 미미하다 slight, meager; 微細 미세 minuteness, details"
+  	},
+  	{
+  		"q": "街",
+  		"s": "가",
+  		"m": "street, road, *boulevard",
+  		"d": "The boulevard of boulevards, the Champs Elysées, with the Arc de Triomphe covered in ivy to give the champions a heroes' welcome.",
+  		"e": "商街 상가 commercial quarter, downtown"
+  	},
+  	{
+  		"q": "衡",
+  		"s": "형,횡",
+  		"m": "measure, weigh, *equilibrium",
+  		"d": "A half <b>fish</b> half <b>St. Bernard dog</b> monstrosity walking/flopping its way down the <b>boulevard</b>, struggling to maintain its <b>equilibrium</b> on its fish fins and dog legs.",
+  		"e": "均衡 균형 balance, equilibrium"
+  	}
   ]
 }
