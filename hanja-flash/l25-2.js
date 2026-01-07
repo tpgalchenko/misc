@@ -67,7 +67,7 @@ const L25_2 = {
     {
       "q": "堅",
       "s": "견",
-      "m": "hard, stong; *strict",
+      "m": "hard, strong; *strict",
       "d": "While a princess would offer her crotch only in a canopy bed, the slave offers his/hers on solid and hard ground. Because this is were slaves sleep and rest.",
       "e": "堅果 견과 nut"
     },

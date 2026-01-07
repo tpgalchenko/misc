@@ -19,7 +19,7 @@ const L24 = {
       "q": "拙",
       "s": "졸",
       "m": "stupid, clumsy; *bungling",
-      "d": "A studpi tailor made a pair of poor gloves such as fingers exit out of the gloves. Really, a bungle.",
+      "d": "A stupid tailor made a pair of poor gloves such as fingers exit out of the gloves. Really, a bungle.",
       "e": "拙速 졸속 headlong, hasty"
     },
     {

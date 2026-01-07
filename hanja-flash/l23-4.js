@@ -103,7 +103,7 @@ const L23_4 = {
       "q": "始",
       "s": "시",
       "m": "commence",
-      "d": "Pygmalion started with a simple woman statue on a pedetal, but how did it end?",
+      "d": "Pygmalion started with a simple woman statue on a pedestal, but how did it end?",
       "e": "始作 시작 beginning, start"
     },
     {
@@ -135,7 +135,7 @@ const L23_4 = {
       "e": "方法 방법 way, method"
     },
     {
-      "q": "𠫔",
+      "q": "-+厶",
       "s": "굉",
       "m": "forearm, *wall",
       "d": "The elbow hanging under a ceiling will become our element for a wall.",

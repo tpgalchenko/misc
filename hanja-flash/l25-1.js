@@ -2,7 +2,7 @@ const L25_1 = {
   "name" : "L25-1",
   "cards" : [
     {
-      "q": "龸+口/尙",
+      "q": "龸+口",
       "s": "",
       "m": "*outhouse",
       "d": "尙 - house with a window. The combination of the element for <b>little</b>, the basic <b>roof</b> structure here (in which the chimney was overwritten, as it was in the element for vulture), combined with the <b>window</b> (<b>mouth</b>) below, gives this element its meaning of <b>outhouse</b>.",
@@ -242,7 +242,7 @@ const L25_1 = {
     {
       "q": "懐/懷",
       "s": "회",
-      "m": "bossom; carray in bossom; *pocket",
+      "m": "bossom; carry in bossom; *pocket",
       "d": "'New York State of Mind': you need ten eyes to make sure no one will go through your garments and pick your pockets.<br>She had me in her pocket - it was a state of mind that would eventually demolish me..",
       "e": ""
     },
@@ -250,7 +250,7 @@ const L25_1 = {
       "q": "曼",
       "s": "만",
       "m": "long, vast; beautiful; *mandala",
-      "d": "A mandala is a graphic representation of the universe, here split in 3 planes of existance, the sun representing the cosmos, the eye represents the human observer, the crotch represents the animal instincts.",
+      "d": "A mandala is a graphic representation of the universe, here split in 3 planes of existence, the sun representing the cosmos, the eye represents the human observer, the crotch represents the animal instincts.",
       "e": ""
     },
     {
@@ -285,7 +285,7 @@ const L25_1 = {
       "q": "罰",
       "s": "벌",
       "m": "penalty",
-      "d": "For Japanese, when the mind's eye (the sideways eye) feels guilty for something bad that the body has done, there are two penaltys to choose from. One, you can say I'm sorry. Two, you can commit suicide by sabre.",
+      "d": "For Japanese, when the mind's eye (the sideways eye) feels guilty for something bad that the body has done, there are two penalties to choose from. One, you can say I'm sorry. Two, you can commit suicide by sabre.",
       "e": "罰金 벌금 fine, monetary penalty"
     },
     {
@@ -312,7 +312,7 @@ const L25_1 = {
     {
       "q": "還",
       "s": "환,선",
-      "m": "still, yet, also, besides; *send back",
+      "m": "return, *send back",
       "d": "This is the road that Sam and Frodo take to send back the ring to Mount Doom!",
       "e": "還拂 환불 refundment, refund"
     },

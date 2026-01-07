@@ -116,7 +116,7 @@ const L23_2 = {
     {
       "q": "扱",
       "s": "급",
-      "m": "collect; receive; *handle",
+      "m": "*handle, treat",
       "d": "How do we handle a disgusting, stinky bag of trash? We take it by fingertips and carry out with hands streched out as far as possible.",
       "e": "取扱 취급 treatment, reception, handling"
     },
@@ -200,7 +200,7 @@ const L23_2 = {
     {
       "q": "獲",
       "s": "획,확",
-      "m": "*seize",
+      "m": "*seize, capture",
       "d": "A group of police dogs are used to sniff out some opium flowers on a cargo vessel. The drugs are then seized by the authorities.",
       "e": "捕獲 포획 capture, seizure"
     },
