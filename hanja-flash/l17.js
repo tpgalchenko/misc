@@ -104,7 +104,7 @@ const L17 =
 			"q": "錠",
 			"s": "정",
 			"m": "pill, tablet; *lock",
-			"d": "In the Matrix film Neo has to decide which pill to take: the pill that leads to the world of metal robots or the other one that opens a way to the real world. Metal of itself doesn’t lock. It needs to be so determined by a locksmith. Now make a concrete image of that.",
+			"d": "Even if you lock up your GOLD, a DETERMINED thief will get it in the end.",
 			"e": "糖衣錠 당의정 sugarcoated pill"
 		},
 		{

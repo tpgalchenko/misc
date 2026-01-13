@@ -215,7 +215,7 @@ const L25_1 = {
       "q": "恥",
       "s": "치",
       "m": "shame, humiliation",
-      "d": "He was so ashamed he felt as if his heart was beating in his red ears.",
+      "d": "She says: 'Shame on you, doctor!' Nowadays you don't check the heart beat by pressing your ear next to my heart (breast!) anymore...",
       "e": "國恥 국치 national humiliation, disgrace"
     },
     {
@@ -342,7 +342,7 @@ const L25_1 = {
       "s": "규",
       "m": "rules, law; *standard",
       "d": "In the male-dominated world of yesterday, the husband's way of seeing things was considered the standard point of view. Women who dared to disagree were frowned upon.",
-      "e": "規模 규모 rule, patter; scale, scope"
+      "e": "規模 규모 rule, pattern; scale, scope"
     },
     {
       "q": "替",

@@ -19,7 +19,7 @@ const L25_2 = {
       "q": "鉄/鐵",
       "s": "철",
       "m": "iron",
-      "d": "Iron is a metal that gradually becomes lost due to oxidation and rust<b>Iron is a metal that became a jewel and extorted jubilation exclamations at the end of the stone age.",
+      "d": "Iron is a metal that gradually becomes lost due to oxidation and rust.<br>Iron is a metal that became a jewel and extorted jubilation exclamations at the end of the stone age.",
       "e": "鐵道 철도 railway"
     },
     {
