@@ -12,12 +12,12 @@ const L26_1 = {
       "q": "稿",
       "s": "고",
       "m": "*draft, manuscript",
-      "d": "Aliens often draft their plans for invasion by cutting designs among the tall wheat.",
+      "d": "The writer hid himself in the middle of tall wheat so he would not be disturbed while writing the draft.",
       "e": "原稿 원고 manuscript, draft, notes"
     },
     {
       "q": "稼",
-      "s": "동",
+      "s": "가",
       "m": "sow grains; *earnings",
       "d": "Your earnings allow you to bring home your daily bread (made of wheat, naturally).",
       "e": "稼動 가동 operation, work"
@@ -61,14 +61,14 @@ const L26_1 = {
       "q": "秒",
       "s": "초",
       "m": "second",
-      "d": "Wheat can be cooked in a few seconds.",
+      "d": "<b>Few wheat</b> can be cooked in a <b>few seconds</b>.",
       "e": "秒針 초침 second hand of a clock"
     },
     {
       "q": "秋",
       "s": "추",
       "m": "autumn",
-      "d": "In autumn, the wheat looks the color of FIRE, meaning it's time to harvest it.",
+      "d": "In autumn, the wheat looks the color of <b>fire</b>, meaning it's time to harvest it.",
       "e": "秋夕 추석 Ch'usok"
     },
     {
@@ -130,8 +130,8 @@ const L26_1 = {
     {
       "q": "穂/穗",
       "s": "수",
-      "m": "*ear of grain",
-      "d": "Wheat is so favourable to farmers because the eat of plant/grain has so many grains. ",
+      "m": "ear of grain",
+      "d": "So the three need a favor. Courage of ten men for the lion, brain for the scare crow, heart for the tin man and... ear of wheat/corn for the hungry girl.",
       "e": ""
     },
     {
@@ -203,6 +203,13 @@ const L26_1 = {
       "m": "mushroom, microbe, *germ",
       "d": "Keep your wheat pent in an airtight container or it may catch germs and sprout flowers.",
       "e": "病菌 병균 dicease-causing germs/bacteria"
+    },
+    {
+      "q": "萎",
+      "s": "위",
+      "m": "wither, *numb",
+      "d": "As the flower committee meeting went on and on, my mind went numb and withered away.",
+      "e": "萎縮 위축 withering, atrophy, shrinkage"
     }
   ]
 };
