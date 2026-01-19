@@ -47,7 +47,7 @@ const L22_1 =
     {
       "q": "專",
       "s": "전,단",
-      "m": "monopolize, take sole possession; gather",
+      "m": "monopolize; gather; speciality",
       "d": "Spindle winds a thread into a single, glued-up lump.",
       "e": "專攻 전공 one's speciality/special study"
     },

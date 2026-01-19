@@ -103,7 +103,7 @@ const L26_2 = {
       "q": "漆",
       "s": "칠",
       "m": "lacquer",
-      "d": "Wooden lacquered umbrella covers rice grains from falling water.",
+      "d": "Laquer is a special tree juice that serves as an umbrella to protect objects from falling water.",
       "e": "漆板 칠판 blackboard"
     },
     {
@@ -117,14 +117,14 @@ const L26_2 = {
       "q": "様/樣",
       "s": "양",
       "m": "shape, form, pattern, style; *Esq.",
-      "d": "Here we have the requirements to be counted among the ranks of the noble Esq. You must posses a forested estate, herds of sheep, and granary full of grains of rice.<br>A wicked sheep must carry a tree on its back for eternity for being too vain and only caring about its appearance.",
+      "d": "Here we have the requirements to be counted among the ranks of the noble Esq. You must posses a forested estate, herds of sheep, and reservoirs of water.<br>A wicked sheep must carry a tree on its back for eternity for being too vain and only caring about its appearance.",
       "e": ""
     },
     {
       "q": "求",
       "s": "구",
       "m": "request",
-      "d": "Robin Hood holds his rich victim at <b>arrowpoint</b> and kindly <b>requests</b> that he hands over his <b>grains of rice</b>",
+      "d": "Request if only a single drop of water.",
       "e": "要求 요구 demand, request, claim"
     },
     {
@@ -251,7 +251,7 @@ const L26_2 = {
       "s": "롱,농",
       "m": "cage, *basket",
       "d": "The only cage that can keep a dragon is made of bamboo.",
-      "e": ""
+      "e": "籠球 농구 basketball"
     }
   ]
 };

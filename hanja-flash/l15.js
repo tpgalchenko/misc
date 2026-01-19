@@ -42,7 +42,7 @@ const L15 =
       "s": "진",
       "m": "ferry, ford, saliva, *haven",
       "d": "Seeing the tiny boats of poor mortals tossed about in a stormy sea like so many corks, the All-Merciful took its brush and drew little inlets of water where the hapless creatures might seek shelter. And so it is that we have havens.",
-      "e": "津하다 진핟다 thick, saturated"
+      "e": "津하다 진하다 thick, saturated"
     },
     {
       "q": "攵/攴",

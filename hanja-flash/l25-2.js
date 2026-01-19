@@ -242,7 +242,7 @@ const L25_2 = {
     {
       "q": "従/從",
       "s": "종",
-      "m": "from, by, since, whence, through; *accompany",
+      "m": "*accompany, follow",
       "d": "I'm going to accompany the horny girl to her room so I can 'mend' her.",
       "e": "主從 주종 master and servant, employer and employee, principal and subordinate; 順從 순종 obedience, submission"
     },
