@@ -282,6 +282,13 @@ const L27_2 = {
       "e": "腐敗 부패 decomposition, rot, decay; 豆腐 두부 bean curd 'tofu'"
     },
     {
+      "q" : "从",
+      "s" : "종"
+      "m" : "*assembly line",
+      "d" : "The duplication of the kanji for person gives us this primitive for assembly line in a factory.",
+      "e" : ""
+    },
+    {
       "q": "座",
       "s": "좌",
       "m": "to sit, seat",
