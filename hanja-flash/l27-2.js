@@ -283,7 +283,7 @@ const L27_2 = {
     },
     {
       "q" : "从",
-      "s" : "종"
+      "s" : "종",
       "m" : "*assembly line",
       "d" : "The duplication of the kanji for person gives us this primitive for assembly line in a factory.",
       "e" : ""
