@@ -96,7 +96,7 @@ const L28 = {
       "q": "夜",
       "s": "야",
       "m": "night",
-      "d": "At <b>night</b>, <b>Chuck Norris</b> dons his top hat, takes a stroll with his <b>walking legs</b> and is back before he drips a single <b>drop</b> of sweat.",
+      "d": "At <b>night</b>, <b>Chuck Norris</b> dons his <b>top hat</b>, takes a stroll with his <b>walking legs</b> and is back before he drips a single <b>drop</b> of sweat.",
       "e": "夜景 야경 nocturnal view"
     },
     {
@@ -107,7 +107,7 @@ const L28 = {
       "e": "液體 액체 liquid, fluid"
     },
     {
-      "q": "塚",
+      "q": "塚/冢",
       "s": "총",
       "m": "cemetry, tomb; *hillock",
       "d": "The crowned sow is standing atop her little mound of earth - hillock - the undisputed champion of all the pigsty.",
@@ -117,7 +117,7 @@ const L28 = {
       "q": "敝",
       "s": "폐",
       "m": "break, destroy; tattered, *shredder",
-      "d": "A little 小 belt 冂 was a little 小 bit worn out, so the taskmaster 攵 threw it in the shredder.",
+      "d": "A worn out towel 巾 shows up already four holes all over, so the taskmaster 攵 threw it in the shredder.",
       "e": "敝邑 폐읍 corrupt town"
     },
     {

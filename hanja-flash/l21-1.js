@@ -24,11 +24,11 @@ const L21_1 =
 			"e": "貯水池 저수지 water resevoir"
 		},
 		{
-			"q": "虫",
-			"s": "훼,충",
+			"q": "虫/蟲",
+			"s": "충",
 			"m": "insect",
 			"d": "A larva with big head and a poisonous tail.",
-			"e": ""
+			"e": "昆蟲 곤충 insect"
 		},
 		{
 			"q": "蛍/螢",
