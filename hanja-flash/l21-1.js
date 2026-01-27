@@ -220,13 +220,6 @@ const L21_1 =
 			"e": "豪傑 호걸 hero, great man"
 		},
 		{
-			"q": "勿",
-			"s": "물,몰",
-			"m": "must not, do not, never",
-			"d": "A sword in a sheath is enough to deter from hazardous actions.",
-			"e": "勿論 물론 of course, undoubtedly"
-		},
-		{
 			"q": "-+勿",
 			"s": "",
 			"m": "piglets",

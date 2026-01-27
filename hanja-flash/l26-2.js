@@ -95,7 +95,7 @@ const L26_2 = {
     {
       "q": "類",
       "s": "유",
-      "m": "category, kind, *sort",
+      "m": "category, *sort",
       "d": "Food can be sorted under two headings: The rice-like food (plants) and the dog-like food (animals). These are the two sorts of food.",
       "e": "種類 종류 kind, sort, class"
     },

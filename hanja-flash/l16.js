@@ -69,7 +69,7 @@ const L16 =
 			"q": "栽",
 			"s": "재",
 			"m": "cultivate, plant(*ation)",
-			"d": "On a fruit plantation it is the treesthat one is particularly grateful for at the time of <b>Thanksgiving</b>. Imagine yourself inviting a few representative trees from the fields and orchards to join you around the table to give thanks.",
+			"d": "Ten trees of the plantation are used to make spears.",
 			"e": "栽培 재배 cultivation, growing"
 		},
 		{

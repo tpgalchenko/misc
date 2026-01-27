@@ -102,7 +102,7 @@ const L27_2 = {
     {
       "q": "傑",
       "s": "걸",
-      "m": "greatness, outstanding",
+      "m": "outstanding, *greatness",
       "d": "Chuck Norris proves his greatness by unrooting a tree with his bare hands just wearing a pair of sunglasses.",
       "e": "豪傑 호걸 hero; 傑作 걸작 masterpiece, great work"
     },

@@ -145,14 +145,14 @@ const L23_4 = {
       "q": "会/會",
       "s": "회",
       "m": "gather, meet",
-      "d": "This is a full version of the character 亼. 会: The official meetings like international summits often start or end with a common photo session by a wall. 會: Gathering of minds to use their mouths either to talk or to eat together.",
+      "d": "This is a full version of the character 亼.<br>会: We had ourmeetings under such a small <b>umbrella</b> that we poked our elbows in one another's flanks.<br>會: <b>Formerly</b> we held our meetings under the <b>umbrella</b> on the child playground.",
       "e": "會談 회담 conversation, talk, conference"
     },
     {
       "q": "至",
       "s": "지,질",
       "m": "reach, arrive; extremely, *climax",
-      "d": "It is hard to reach the ground with fingertips standing upright and bending downwards. And it is extremely hard to reach it with elbows or forearms (𠫔).<br>The climax of the Berlin Wall affair was the tearing of it to ground.",
+      "d": "Sexual climaxes don't always happen on the bed; they sometimes happen against a wall or on the ground!.",
       "e": "至高 지고 sublimity, supremacy"
     },
     {

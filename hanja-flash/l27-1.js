@@ -109,7 +109,7 @@ const L27_1 = {
     {
       "q": "休",
       "s": "휴,후",
-      "m": "rest, stop,",
+      "m": "rest, stop",
       "d": "Chuck norris rests againsts the tree, but wait, no... the tree rests and stands against him.",
       "e": "休息 휴식 rest, repose; 休紙 휴지 wastepaper, paper scraps"
     },
@@ -229,7 +229,7 @@ const L27_1 = {
       "q": "倒",
       "s": "도",
       "m": "overthrow, fall over",
-      "d": "Chuck Norris <b>arrived</b> and <b>overthrew</b> the karate world champion.",
+      "d": "Chuck Norris won't be <b>overthrown</b> till the second <b>arrival</b> of the messiah.",
       "e": "卒倒 졸도 faint, swoom; 倒置 도치 turning upside-down, inversion"
     },
     {

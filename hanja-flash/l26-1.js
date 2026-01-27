@@ -18,8 +18,8 @@ const L26_1 = {
     {
       "q": "稼",
       "s": "가",
-      "m": "sow grains; *earnings",
-      "d": "Your earnings allow you to bring home your daily bread (made of wheat, naturally).",
+      "m": "to sow; *earnings",
+      "d": "You earn what you have sown.",
       "e": "稼動 가동 operation, work"
     },
     {
@@ -131,7 +131,7 @@ const L26_1 = {
       "q": "穂/穗",
       "s": "수",
       "m": "ear of grain",
-      "d": "So the three need a favor. Courage of ten men for the lion, brain for the scare crow, heart for the tin man and... ear of wheat/corn for the hungry girl.",
+      "d": "Adapted from Shakespeare's Julius Caesar: 'Friends, Romans, <b>corn</b>, do me a <b>favour</b> and lend me your <b>ears</b>.",
       "e": ""
     },
     {
