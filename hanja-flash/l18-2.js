@@ -33,8 +33,8 @@ const L18_2 =
 		{
 			"q": "帝",
 			"s": "제",
-			"m": "sovereign",
-			"d": "An uncommon, but not altogether unlikely picture of a reigning <b>sovereign</b> has him <b>standing up</b> in his <b>apron</b>, presumably at the behest of HIS <b>sovereign</b> (she who is to be obeyed), who needs help with washing the dishes.",
+			"m": "supreme ruler, *sovereign",
+			"d": "The crazy sovereign stands up from his throne, wearing nothing but a crown and a towel. That's why they try to keep him locked up in the castle away from the public.",
 			"e": "帝國 제국 empire; 皇帝 황제 emperor"
 		},
 		{
@@ -61,8 +61,8 @@ const L18_2 =
 		{
 			"q": "商",
 			"s": "상",
-			"m": "commerce, business, trade, *make a deal",
-			"d": "See the peddlar <b>standing</b> atop his motorcycle <b>helmet</b> as if it were a soapbox, hawking his wares to passersby. The <b>legs</b> and <b>mouth</b> represent the tools of the trade of <b>making a deal</b> any way you can.",
+			"m": "commerce, *make a deal",
+			"d": "The commerce of vases. Here is a counter desk where four rare vases are exhibited and the seller's mouth that praises the qualities of the ancient vases.",
 			"e": "商業 상업 commerce, trade"
 		},
 		{

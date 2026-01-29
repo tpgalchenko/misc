@@ -100,39 +100,39 @@ const L29_2 = {
       "e": "暖爐 (煖爐) 난로 stove, heater, fireplace; 火爐 화로 brazier, fire pot/box"
     },
     {
-      "q": "戻",
-      "s": "태,대,제",
-      "m": "re-",
-      "d": "The St. Bernard dog whining at the door of his master’s house in order to re-enter / re-turn inside.",
-      "e": ""
+      "q": "戻/戾",
+      "s": "태/려",
+      "m": "perverse, recalcitrant; *re-",
+      "d": "The St. Bernard dog whining at the door of his master’s house in order to re-enter / re-turn inside, but the perverse master enjoys the dog's pain.",
+      "e": "返戾하다 반려하다 to return/reject a document without approval"
     },
     {
-      "q": "涙",
-      "s": "",
+      "q": "涙/淚",
+      "s": "루",
       "m": "tears",
       "d": "The story of Hachiko: the faithfull dog who still waited for his master to return long after he had died. Brings a tear to the eye.",
-      "e": ""
+      "e": "催淚彈 최루탄 tear bomb/shell"
     },
     {
       "q": "雇",
-      "s": "",
+      "s": "고",
       "m": "employ",
       "d": "Our company has no standards. We'll employ any turkey who walks in the door.",
-      "e": ""
+      "e": "雇傭 고용 employment, engagement"
     },
     {
       "q": "顧",
-      "s": "",
+      "s": "고",
       "m": "look back",
       "d": "The people we employ are always turning their heads to look back. They don't want to be caught playing solitare on company time.",
-      "e": ""
+      "e": "顧客 고객 customer, client; 回顧 회고 recollection, restrospection"
     },
     {
       "q": "啓",
-      "s": "",
-      "m": "disclose",
+      "s": "계",
+      "m": "open, *disclose",
       "d": "It's best not to disclose what you were forced to do with your mouth behind closed doors for your taskmaster.",
-      "e": ""
+      "e": "啓發 계발 enlightment, illumination, edification, education, development; 啓示 계시 revelation (religious)"
     }
   ]
 };

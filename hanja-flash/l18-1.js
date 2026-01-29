@@ -90,7 +90,7 @@ const L18_1 =
 			"q": "幅",
 			"s": "폭",
 			"m": "piece, strip, breadth, *hanging scroll",
-			"d": "A <b>towel</b> owned by the <b>wealthiest</b> tycoon in the world is made into a <b>hanging scroll</b> after his death and auctioned off to the highest bidder. ",
+			"d": "A hanging scroll is one of the many traditional ways to display and exhibit Chinese painting and calligraphy. The painting surface of the paper or silk can be mounted with decorative brocade silk borders. Hanging scrolls are art, they are NOT towels of the wealthy. You may find a hanging scroll hanging like a towel in a wealthy persons bathroom but don't dry yourself with it.",
 			"e": ""
 		},
 		{
@@ -202,7 +202,7 @@ const L18_1 =
 			"q": "芸/藝",
 			"s": "예",
 			"m": "art, talent, craft, *technique",
-			"d": "The secret <b>technique</b> of making a <b>rising cloud</b> of smoke turn into a bouquet of <b>flowers</b> is shown here.",
+			"d": "I've mastered a technique for making my farts (the cloud) smell like roses (the flower).<br>The contemporary art is very strange, it can call a ordinary object to be a object of art. So is it here: a fat and round 丸 clod of earth 坴 with mushrooms 圥 and grass that emits clouds of fresh soil scent. What does it mean? Mother nature?",
 			"e": "藝術 예술 art"
 		},
 		{

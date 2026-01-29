@@ -31,10 +31,17 @@ const L20 =
 			"e": "歲拜 세배 New Year's bow; 歲月 세월 time, times, conditions"
 		},
 		{
+			"q" : "系",
+			"s" : "계",
+			"m" : "system, link, *lineage",
+			"d" : "(Primitive: DNA, a drop of looong spiraled thread that is the key to your lineage.",
+			"e" : "體系 체계 system, organization"
+		},
+		{
 			"q": "県/縣",
 			"s": "현",
 			"m": "county, district, *prefecture",
-			"d": "In every <b>prefecture</b> of Japan there are poor fishermen who possess as <b>little</b> as mere <b>fishhooks</b>.",
+			"d": "The all-seeing eye 目 of the prefecture has got all the little 小 people down below hooked 乚 into obeying the laws.<br>The modern character for prefecture traces its lineage back to this the old one 県.",
 			"e": ""
 		},
 		{
