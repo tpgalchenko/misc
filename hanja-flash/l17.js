@@ -146,7 +146,7 @@ const L17 =
 			"q": "題",
 			"s": "제",
 			"m": "forehead; title; *topic",
-			"d": "In many kinds of research, one can find information on a given topic only if the headings are prepared just so. ",
+			"d": "The <b>topic</b> of the day's newspaper must be placed <b>just so</b> at the top of the <b>page</b> to attract attention. The <b>heading</b> must be click-bait.",
 			"e": "主題 주제 subject"
 		},
 		{
