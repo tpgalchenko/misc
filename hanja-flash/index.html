@@ -126,6 +126,7 @@ function showAnswer() {
 	document.getElementById("a_desc").innerHTML = currentCard['d'];
 	document.getElementById("a_example").innerText = currentCard['e'];
 	document.getElementById("answer").style.display = 'block';
+	document.getElementById("a_lesson").innerText = currentCard['lesson'];
 
 	answerCount = (answerCount + 1) % data.length;
 	updateStatus();
@@ -355,7 +356,7 @@ function onLoad() {
 		.active {
 			display: flex;
 			justify-content: center;
-			alight-items: center;
+			align-items: center;
 		}
 		#lessons-dlg {
 			background: #FFFFFF;
@@ -387,6 +388,12 @@ function onLoad() {
 		#lessons-dlg-toolbar {
 			margin: 10px;
 		}
+		#a_lesson {
+			font-size: 1.5vh;
+			position: relative;
+			text-align: right;
+			padding: 1em;
+		}
 	</style>
 </head>
 <body onload="onLoad()">
@@ -401,6 +408,7 @@ function onLoad() {
 		<div id="card" onclick="handleClick()">
 			<span id="question" style="display: none">foo</span>
 			<div id="answer" style="display: none">
+				<div id="a_lesson"></div>
 				<div id="a_grid">
 					<div id="a_line0">
 						<span id="a_char"></span>  <span id="a_spell"></span>  <span id="a_mean"></span>

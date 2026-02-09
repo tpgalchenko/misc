@@ -40,8 +40,9 @@ const L17 =
 		{
 			"q": "企",
 			"s": "기",
-			"m": "plan, *undertake",
-			"d": "Here the umbrella depicts a man. A man with a big foot under means taking a step forward to start something. The first step of an undertaking.",
+			"k" : "꾀할",
+			"m": "plan a project, *undertake",
+			"d": "Before you undertake any outdoor project in bad weather ask yourself two things:<br>1. Can this be done whilst holding an umbrella?<br>2. Can this wait until it stops raining? Then decide whether to get your umbrella and undertake the task, or stop.",
 			"e": "企劃 기획 plan, project"
 		},
 		{
@@ -117,22 +118,25 @@ const L17 =
 		{
 			"q": "超",
 			"s": "초",
+			"k" : "뛰어넘을",
 			"m": "surpass, *transcend",
-			"d": "When one is running after something, the goal that <b>seduces</b> one is said to <b>transcend</b> the seeker. ",
+			"d": "A successful marathon runner needs to be able to transcend seductions, such as the possibility of rest, shelter from the rain, or a cold beer.",
 			"e": "超人 초인 superman"
 		},
 		{
 			"q": "赴",
 			"s": "부",
-			"m": "proceed",
-			"d": "In proceeding to a new city or a new job, something in you <b>runs</b> ahead with excitement, and something else holds you back, like a <b>divining rod</b> built into your psyche warning you to check things out carefully before rushing in too wildly. ",
+			"k": "다다를",
+			"m": "come to, arrive at; *proceed",
+			"d": "I've got to run and take a piss before proceeding.",
 			"e": "赴任 부임 proceed to one's new post"
 		},
 		{
 			"q": "越",
 			"s": "월",
+			"k": "넘을",
 			"m": "go beyond, *surpass",
-			"d": "Here we see two parades in competition, each trying to surpass the other by running at high speed from one town to the next. Note the little “hook” at the end of the first stroke of the element for parade.",
+			"d": "The parade of runners are all trying to <b>surpass</b> each other - and they end up running all the way to Vietnam.",
 			"e": "越南 월남 Vietnam; come south over the border"
 		},
 		{

@@ -88,8 +88,9 @@ const L23_2 = {
     {
       "q": "乃",
       "s": "내",
+	  "k" : "이에",
       "m": "then, after all; *from",
-      "d": "Try to think of drawing a clenched fist (the primitive meaning) “from” this character to give yourself a connotation for the otherwise abstract key word.",
+      "d": "<b>FROM</b> a pictograph of a fist with a thumb up. ",
       "e": "終乃 종내 finally, at last"
     },
     {

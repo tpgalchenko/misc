@@ -95,6 +95,7 @@ const L29_2 = {
     {
       "q": "炉/爐",
       "s": "로",
+	  "k": "화로",
       "m": "*hearth, fireplace",
       "d": "- Honey? Do we have any wood left for the hearth?<br>- Aagh, just use the frickin' door!",
       "e": "暖爐 (煖爐) 난로 stove, heater, fireplace; 火爐 화로 brazier, fire pot/box"
@@ -102,6 +103,7 @@ const L29_2 = {
     {
       "q": "戻/戾",
       "s": "태/려",
+	  "k": "어그러질",
       "m": "perverse, recalcitrant; *re-",
       "d": "The St. Bernard dog whining at the door of his master’s house in order to re-enter / re-turn inside, but the perverse master enjoys the dog's pain.",
       "e": "返戾하다 반려하다 to return/reject a document without approval"

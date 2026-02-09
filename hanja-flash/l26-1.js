@@ -18,8 +18,9 @@ const L26_1 = {
     {
       "q": "稼",
       "s": "가",
+	  "k": "심을",
       "m": "to sow; *earnings",
-      "d": "You earn what you have sown.",
+      "d": "Your <b>earnings</b> allow you to bring <b>home</b> your daily bread (made of <b>wheat</b>, naturally).",
       "e": "稼動 가동 operation, work"
     },
     {

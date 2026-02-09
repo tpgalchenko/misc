@@ -152,9 +152,10 @@ const L21_1 =
 		{
 			"q": "电/電",
 			"s": "전",
+			"k": "번개",
 			"m": "lightning, *electricity",
 			"d": "A lightning spreading in the rain (like an eel 电).",
-			"e": ""
+			"e": "電子 전자 electron"
 		},
 		{
 			"q": "竜/龍",

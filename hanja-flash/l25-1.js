@@ -285,7 +285,7 @@ const L25_1 = {
       "q": "罰",
       "s": "벌",
       "m": "penalty",
-      "d": "For Japanese, when the mind's eye (the sideways eye) feels guilty for something bad that the body has done, there are two penalties to choose from. One, you can say I'm sorry. Two, you can commit suicide by sabre.",
+      "d": "He missed a penalty in the World Cup final, so he closed his <b>eyes</b>, said a few <b>words</b> to himself and stabbed himself with a <b>sabre</b>.",
       "e": "罰金 벌금 fine, monetary penalty"
     },
     {

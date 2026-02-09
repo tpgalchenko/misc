@@ -250,6 +250,7 @@ const L18_2 =
 		{
 			"q": "乾",
 			"s": "건",
+			"k" : "마를",
 			"m": "dry, drought",
 			"d": "In times of <b>drought</b> anything at all will do. Here we see the victims <b>begging</b> for just a little <b>mist</b> for relief.",
 			"e": "乾燥 건조 dryness, drying, aridity"

@@ -17,10 +17,10 @@ const L20 =
 			"e": "燃料 연료 fuel"
 		},
 		{
-			"q": "賓",
+			"q": "賓/賓",
 			"s": "빈",
 			"m": "guest, visitor; VIP",
-			"d": "To receive important <b>guests</b> the house is decorated with <b>few</b> <b>shells</b> hung under the <b>ceiling</b> so that the guests bump into the shells with their heads.",
+			"d": "The V.I.P. area, located in the <b>ceiling</b> of the <b>house</b>, is reserved to but a <b>few</b> people; those who have enough <b>shells</b>.",
 			"e": "貴賓 귀빈 an honored/important guest"
 		},
 		{

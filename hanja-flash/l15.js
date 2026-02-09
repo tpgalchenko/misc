@@ -208,7 +208,8 @@ const L15 =
     {
       "q": "諭",
       "s": "유",
-      "m": "proclaim, instruct, *rebuke",
+	  "k": "깨우칠",
+      "m": "proclaim; *rebuke",
       "d": "The stern tone of a rebuke is seen here in the image of words spoken at a meeting of butchers waving their choppers at one another and “cutting one another down” as only butchers can.",
       "e": ""
     }
