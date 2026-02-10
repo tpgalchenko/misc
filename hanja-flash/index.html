@@ -127,6 +127,8 @@ function showAnswer() {
 	document.getElementById("a_example").innerText = currentCard['e'];
 	document.getElementById("answer").style.display = 'block';
 	document.getElementById("a_lesson").innerText = currentCard['lesson'];
+	if(currentCard['k'])
+		document.getElementById("a_ko").innerText = currentCard['k'];
 
 	answerCount = (answerCount + 1) % data.length;
 	updateStatus();
@@ -302,6 +304,12 @@ function onLoad() {
 		#a_spell {
 			color: blue;
 		}
+		#a_char {
+			color: brown;
+		}
+		#a_ko {
+			color: green;
+		}
 		#a_mean {
 			color: red;
 		}
@@ -411,7 +419,7 @@ function onLoad() {
 				<div id="a_lesson"></div>
 				<div id="a_grid">
 					<div id="a_line0">
-						<span id="a_char"></span>  <span id="a_spell"></span>  <span id="a_mean"></span>
+						<span id="a_char"></span>  <span id="a_spell"></span>  <span id="a_mean"></span>  <span id="a_ko"></span>
 					</div>
 					<div id="a_line1"><span id="a_desc"></span></div>
 					<div id="a_line2"><span id="a_example"></span></div>

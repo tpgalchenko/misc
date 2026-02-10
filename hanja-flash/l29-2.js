@@ -39,9 +39,9 @@ const L29_2 = {
     {
       "q": "沢/澤",
       "s": "택",
-      "m": "swamp",
+      "m": "*swamp; grace, brillance",
       "d": "You're hiding from the enemy underwater in a swamp. To breathe, you have your shakuhachi flute poking up through the surface of the water.<br>A spy does not hesitate to hide in water, even in a swamp to be able to spy on.",
-      "e": "惠澤 혜택 benefit, boon, favor, grace; 德澤 덕택 indebtness, favor, grace, help"
+      "e": "惠澤 혜택 benefit, boon, favor, grace; 德澤 덕택 indebtness, favor, grace, help; 潤澤 윤택 gloss, luster"
     },
     {
       "q": "訳/譯",
