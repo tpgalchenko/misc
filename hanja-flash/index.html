@@ -128,8 +128,7 @@ function showAnswer() {
 	document.getElementById("a_example").innerText = currentCard['e'];
 	document.getElementById("answer").style.display = 'block';
 	document.getElementById("a_lesson").innerText = currentCard['lesson'];
-	if(currentCard['k'])
-		document.getElementById("a_ko").innerText = currentCard['k'];
+	document.getElementById("a_ko").innerText = currentCard['k'] ? currentCard['k'] : "";
 
 	answerCount = (answerCount + 1) % data.length;
 	updateStatus();
@@ -300,7 +299,7 @@ function onLoad() {
 			align-items: center;
 		}
 		#a_line0 {
-			font-size: 5vh;
+			font-size: 4.5vh;
 		}
 		#a_spell {
 			color: blue;
@@ -324,6 +323,7 @@ function onLoad() {
 			height: 100%;
 			display: grid;
 			align-items: center;
+			padding: 0;
 		}
 		#toolbar {
 			width: 100%;
@@ -399,7 +399,7 @@ function onLoad() {
 		}
 		#a_lesson {
 			font-size: 1.5vh;
-			position: relative;
+			position: absolute;
 			text-align: right;
 			padding: 1em;
 		}

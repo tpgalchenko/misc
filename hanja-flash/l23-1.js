@@ -172,8 +172,9 @@ const L23_1 = {
     {
       "q": "指",
       "s": "지",
-      "m": "*finger, indicate",
-      "d": "Something so delicious that you want to lick your fingers.",
+	  "k": "가리킬",
+      "m": "indicate, point, *to finger",
+      "d": "Look over there, I'm pointing out something so delicious that you want to lick your fingers.",
       "e": "半指 반지 (finger)ring; 指摘 지적 indication"
     },
     {
@@ -228,6 +229,7 @@ const L23_1 = {
     {
       "q": "拾",
       "s": "습",
+	  "k": "주울",
       "m": "pick up, collect",
       "d": "Fingers put together - a gesture to pick something up.",
       "e": "拾得하다 습득하다 pick up"
@@ -235,6 +237,7 @@ const L23_1 = {
     {
       "q": "担/擔",
       "s": "담",
+	  "k": "멜",
       "m": "carry, undertake, *shouldering",
       "d": "One of Hercules' labors was to hold the world in his fingers for Atlas and not move until nightbreak, shouldering the considerable burden.<br>A <b>man</b> under a cliff used many <b>words</b> to persuade another one to <b>carry</b> him up the rock using <b>hands</b> and <b>binding</b>.",
       "e": "負擔 부담 burden, charge, load"
@@ -242,7 +245,8 @@ const L23_1 = {
     {
       "q": "拠/據",
       "s": "거",
-      "m": "occupy, *foothold",
+	  "k": "의거할",
+      "m": "to base upon, *foothold",
       "d": "If you lose your foothold you will have to hold on for dear life with your fingers as your legs are left dangling in the wind.<br>A rock climber hangs on his <b>fingers</b> over a precipice, where <b>seven</b> wild <b>boars</b> run about. Only magic wand can save him.",
       "e": "根據 근거 ground, basis"
     },

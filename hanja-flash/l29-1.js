@@ -11,7 +11,8 @@ const L29_1 = {
     {
       "q": "施",
       "s": "시",
-      "m": "grant, bestow, *alms",
+	  "k": "베풀",
+      "m": "give, bestow, *alms",
       "d": "Under their banner, volunteers are requesting alms for scorpion sting victims.",
       "e": "布施 보시 almsgiving, charity; 施設 시설 institution, establishment, equipment, facilities; 實施 실시 enforcement, implementation"
     },

@@ -60,7 +60,8 @@ const L23_3 = {
     {
       "q": "枝",
       "s": "지",
-      "m": "branches, limbs, *bough",
+	  "k": "가지",
+      "m": "branch, *bough",
       "d": "The tree's primary branch is known as the bough.",
       "e": "枝葉 지엽 branches and leaves, minor details"
     },
@@ -214,28 +215,32 @@ const L23_3 = {
     {
       "q": "将/將",
       "s": "장",
+	  "k": "장차",
       "m": "going to, future. general, *leader",
-      "d": "The leader in this race is the turtle! It appears he has covered the vulture’s feet in glue, so that the vulture cannot get off the starting block.",
+      "d": "A great <b>leader</b> must have three things: the robustness of a <b>turtles shell</b>. The shrewdness of a <b>vulture</b>. People that will stick to him like <b>glue</b> and follow him anywhere.",
       "e": "將來 장래 future; 將校 장교 officer"
     },
     {
       "q": "奨/奬",
       "s": "장",
-      "m": "prize, reward; *exhort",
-      "d": "The great punic general Hannibal encourages, exhorts his soldiers to hunt like dogs the Romans.",
+	  "k": "장려할",
+      "m": "encourage, *exhort",
+      "d": "A great <b>leader</b> will always exhort his followers to go forth and do <b>great and big</b> things.",
       "e": "奬學金 장학금 scholarship; 奬勵 장려 encouragement, stimulation"
     },
     {
       "q": "采",
       "s": "채",
-      "m": "pick, collect, *grab",
+	  "k": "캘/풍채",
+      "m": "dig up, *grab",
       "d": "The swooping vulture grabs his prey from the tree.",
       "e": "喝采 갈채 applause, cheers, ovation; 風采 풍채 one's appearance, air"
     },
     {
       "q": "採",
       "s": "채",
-      "m": "pick, gather, collect",
+	  "k": "캘",
+      "m": "dig up, *pick",
       "d": "Picking fruits from tree may become quite an exploit if a vulture sits on the tree and bites the fingers stretching out to pick a fruit.",
       "e": "採取 채취 picking, gathering"
     },
