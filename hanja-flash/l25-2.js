@@ -116,8 +116,9 @@ const L25_2 = {
     {
       "q": "労/勞",
       "s": "로,노",
+	  "k": "일할",
       "m": "labor, toil",
-      "d": "Stay in school, kids, if you want the power to avoid a life of hard labor.",
+      "d": "Being a fire-fighter and putting out a fire requires a serious amount of hard labor. that's why there are no female fire-men - the job requires serious strength and power.",
       "e": "勞動 노동 labor, toil, manual work"
     },
     {
@@ -151,9 +152,10 @@ const L25_2 = {
     {
       "q": "努",
       "s": "노",
-      "m": "*toil, exert, strive",
+	  "k": "힘쓸",
+      "m": "effort",
       "d": "Toiling hard like a slave 奴 with all the power.",
-      "e": "努力 노력 endeavor, exertion"
+      "e": "努力 노력 effort, endeavor, exertion"
     },
     {
       "q": "勃",

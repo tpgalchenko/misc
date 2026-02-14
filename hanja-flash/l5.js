@@ -19,7 +19,8 @@ const L5 =
 		{
 			"q": "直",
 			"s": "직,치",
-			"m": "straightaway",
+			"k": "곧을",
+			"m": "straight, direct",
 			"d": "<b>Eye</b> of a <b>needle</b> and a <b>fishhook</b> straightened out so that it can pass through the eye of the needle.",
 			"e": ""
 		},
@@ -82,8 +83,9 @@ const L5 =
 		{
 			"q": "項",
 			"s": "항",
+			"k": "항목",
 			"m": "item, *paragraph",
-			"d": "<b>Craft</b> + <b>head</b> : <i>heading</i> device to break text into parts.",
+			"d": "Page and craft = pacraft -> paracraft; said properly as paragraph.",
 			"e": "項目 항목 heading, item, article, 事項 사항 articles, facts"
 		},
 		{

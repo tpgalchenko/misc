@@ -152,7 +152,8 @@ const L9 =
 		{
 			"q": "寄",
 			"s": "기",
-			"m": "send, cling to, rely on, *draw near",
+			"k": "부칠",
+			"m": "send; *draw near",
 			"d": "A <b>strange house</b> - the enchanted Gingerbread House that lured Hansel and Gretel to draw near.",
 			"e": "寄與 기여 contribution, service"
 		},

@@ -142,6 +142,7 @@ const L17 =
 		{
 			"q": "是",
 			"s": "시",
+			"k": "이/옳을",
 			"m": "yes, indeed, *just so",
 			"d": "Someone spending an entire day at mending one stocking, because they want the job done <b>“just so.”</b> Be sure to make a clear image of a finicky old fusspot to make the abstract idea as concrete as possible.",
 			"e": "亦是 역시 too, also, as well; 或是 혹시 possibly"

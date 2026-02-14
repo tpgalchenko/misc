@@ -51,7 +51,7 @@ const L32 = {
     },
     {
       "q": "散",
-      "s": "산,
+      "s": "산",
       "k": "흩을",
       "m": "scatter",
       "d": "The taskmaster is dissatisfied with the meal she's served, and scatters the salad and meat across the floor for the servants to clean up.",
@@ -178,116 +178,164 @@ const L32 = {
       "e": "通曉 통효 conversance, mastery"
     },
     {
-      "q": "",
-      "s": "",
-      "k": "",
-      "m": "",
-      "d": "",
+      "q": "半",
+      "s": "반",
+      "k": "반",
+      "m": "half",
+      "d": "三 broken in half by a walking stick plunged through the middle.",
+      "e": "半島 반도 peninsula"
+    },
+    {
+      "q": "伴",
+      "s": "반",
+      "k": "짝",
+      "m": "companion, *consort",
+      "d": "The person who is your consort is most commonly 'your other half'.",
+      "e": "伴侶 반려 companion, associate, comrade, mate"
+    },
+    {
+      "q": "畔",
+      "s": "반",
+      "k": "밭두둑/배반할",
+      "m": "*paddy ridge, boundary path dividing fields",
+      "d": "A paddy ridge divides the rice field in halves.",
+      "e": "湖畔 호반 shores of a lake, lakeside;"
+    },
+    {
+      "q": "判",
+      "s": "판",
+      "k": "판단할",
+      "m": "judgement",
+      "d": "King solomon was famous for his <b>judgement</b>. Two mothers who came before him to resolve a quarrel about which was the true mother of a baby. when Solomon suggests dividing the living child in two <b>halves</b> with a <b>saber</b>, the true mother is revealed to him because she is willing to give up her child to the lying woman rather than have the child killed.",
+      "e": "判斷 판단 judgement, decision, discretion; 裁判 재판 justice, trial, hearing"
+    },
+    {
+      "q": "龹/𠔉",
+      "s": "권",
+      "k": "밥 뭉칠",
+      "m": "*quarter",
+      "d": "This character simply splits the vertical stroke of a half in half once again, to get a quarter. In so doing, it spreads the split stroke out to form a sort of enclosure under which its main relative primitive will be placed. It can be used either in its substantive or verbal meaning.",
       "e": ""
     },
     {
-      "q": "",
-      "s": "",
-      "k": "",
-      "m": "",
-      "d": "",
-      "e": ""
+      "q": "拳",
+      "s": "권",
+      "k": "주먹",
+      "m": "fist",
+      "d": "及 fist* His fist is a <b>quarter</b> the size of his open <b>hand</b>.",
+      "e": "跆拳道 태권도 taekwondo"
     },
     {
-      "q": "",
-      "s": "",
-      "k": "",
-      "m": "",
-      "d": "",
-      "e": ""
+      "q": "券",
+      "s": "권",
+      "k": "문서",
+      "m": "ticket",
+      "d": "Entering the movie, the dude asks for your ticket, so he can tear it in half. He looks at you funny when you hand him a ticket already torn in half. He quietly tears the stub into quarters after you show him your dagger with a smile.",
+      "e": "旅券 여권 passport"
     },
     {
-      "q": "",
-      "s": "",
-      "k": "",
-      "m": "",
-      "d": "",
-      "e": ""
+      "q": "巻/卷",
+      "s": "권",
+      "k": "책",
+      "m": "scroll",
+      "d": "How to make snake maki: Take a snake. Roll it up in rice and nori (seaweed paper) like a scroll. Cut into quarters and serve on a wooden geta with ginger and wasabi.",
+      "e": "卷 권 volume (unit)"
     },
     {
-      "q": "",
-      "s": "",
-      "k": "",
-      "m": "",
-      "d": "",
-      "e": ""
+      "q": "圏/圈",
+      "s": "권",
+      "k": "우리",
+      "m": "circle; *sphere",
+      "d": "The entire <b>sphere</b> of human knowledge used to be <b>pent into</b> the library of Alexandria on <b>scrolls</b>. (oops, but then it all burned).",
+      "e": "首都圈 수도권 the national capital/metropolitan area"
     },
     {
-      "q": "",
-      "s": "",
-      "k": "",
-      "m": "",
-      "d": "",
-      "e": ""
+      "q": "勝",
+      "s": "승",
+      "k": "이길",
+      "m": "victory",
+      "d": "On the moon it only takes a quarter of your power to accomplish the same victory (because of the low gravity).",
+      "e": "勝利 승리 victory"
     },
     {
-      "q": "",
-      "s": "",
-      "k": "",
-      "m": "",
-      "d": "",
-      "e": ""
+      "q": "藤",
+      "s": "등",
+      "k": "등나무",
+      "m": "wisteria",
+      "d": "The wisteria is a type of hanging vine covered with flowers. By the light of the quarter moon, the flowers look like clusters of rice grains.",
+      "e": "葛藤 갈등 conflict"
     },
     {
-      "q": "",
-      "s": "",
-      "k": "",
-      "m": "",
-      "d": "",
-      "e": ""
+      "q": "謄",
+      "s": "등",
+      "k": "베낄",
+      "m": "copy, *facsimile",
+      "d": "Sending a facsimile to the moon can be problematic only a quarter of the words actually get there.",
+      "e": "謄本 등본 a copy, a transcript, a duplicate"
     },
     {
-      "q": "",
-      "s": "",
-      "k": "",
-      "m": "",
-      "d": "",
-      "e": ""
+      "q": "片",
+      "s": "편",
+      "k": "조각",
+      "m": "splice, splinter; *one sided",
+      "d": "A one-sided romance - he proposes and she says no. In the end what remains are just fragments of the heart.",
+      "e": "破片 파편 fragment, chip, splinter; 片紙/便紙 편지 letter"
     },
     {
-      "q": "",
-      "s": "",
-      "k": "",
-      "m": "",
-      "d": "",
-      "e": ""
+      "q": "版",
+      "s": "판",
+      "k": "판목",
+      "m": "printing block",
+      "d": "Printing block has a one-sided anti-image of what's being printed.",
+      "e": "出版 출판 publication, publishing"
     },
     {
-      "q": "",
-      "s": "",
-      "k": "",
-      "m": "",
-      "d": "",
-      "e": ""
+      "q": "之",
+      "s": "지",
+      "k": "갈",
+      "m": "*of; go",
+      "d": "Of all the kanji, this is the only one 之orro can write.",
+      "e": "感之德之 감지덕지 very thankfully, with deep gratitude"
     },
     {
-      "q": "",
-      "s": "",
-      "k": "",
-      "m": "",
-      "d": "",
-      "e": ""
+      "q": "乏",
+      "s": "핍",
+      "k": "모자랄",
+      "m": "lack, poor, *destitution",
+      "d": "Just one drop (of alcohol) and he starts walking in zig-zags – no wonder Zorro's living in destitution.",
+      "e": "窮乏 궁핍 destitution, want, distress, poverty"
     },
     {
-      "q": "",
-      "s": "",
-      "k": "",
-      "m": "",
-      "d": "",
-      "e": ""
+      "q": "芝",
+      "s": "지",
+      "k": "지초",
+      "m": "*turf",
+      "d": "Zorro, with a flower between his teeth for the ladies, defends his turf against evildoers. 'This is my turf! And this...is for the lady.'",
+      "e": "靈芝 영지 a bracket fungus of the genus Fomes"
     },
     {
-      "q": "",
-      "s": "",
-      "k": "",
-      "m": "",
-      "d": "",
-      "e": ""
+      "q": "不",
+      "s": "불,부,비",
+      "k": "아닐",
+      "m": "negative",
+      "d": "One below zero is a negative number.",
+      "e": "不可 불가 wrong, unfairness, impropriety"
     },
+    {
+      "q": "否",
+      "s": "부",
+      "k": "아닐",
+      "m": "negate",
+      "d": "Negative mouths negate everything.",
+      "e": "否定 부정 denial, negation; 安否 안부 safety, how a person is"
+    },
+    {
+      "q": "杯",
+      "s": "배",
+      "k": "잔",
+      "m": "cup, *cupfuls",
+      "d": "The maple tree is very negative about it, but the farmer still collects cupfuls of maple syrup from it.",
+      "e": "乾杯 건배 toast"
+    }
   ]
 };

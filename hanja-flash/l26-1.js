@@ -103,6 +103,7 @@ const L26_1 = {
     {
       "q": "称/稱",
       "s": "칭",
+	  "k": "일컬을",
       "m": "*appellation, call, name",
       "d": "<b>Wheat</b> that is <b>reclining</b> and that is <b>little</b> (small) can't get the <b>appleation</b> of 'quality wheat'.",
       "e": "別稱 별칭 nickname, byname"

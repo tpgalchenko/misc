@@ -180,7 +180,8 @@ const L19 =
 		{
 			"q": "兑/兌",
 			"s": "태",
-			"m": "cash, exchange, *devil",
+			"k": "바꿀",
+			"m": "cash, exchange; *devil",
 			"d": "The two horns on the head of the <b>teenager</b> are enough to suggest to most parents of adolescents a good image of a <b>devil</b>.",
 			"e": "兌換 태환 conversion"
 		},
