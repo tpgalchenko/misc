@@ -32,6 +32,7 @@ const L29_2 = {
     {
       "q": "睪",
       "s": "역,택",
+	  "k": "엿볼 역, 못 택",
       "m": "spy on",
       "d": "The eyes of James Bond spy on the happinness of the criminals and enemies just to put an end to their luck and bliss.",
       "e": ""
@@ -39,6 +40,7 @@ const L29_2 = {
     {
       "q": "沢/澤",
       "s": "택",
+	  "k": "못",
       "m": "*swamp; grace, brillance",
       "d": "You're hiding from the enemy underwater in a swamp. To breathe, you have your shakuhachi flute poking up through the surface of the water.<br>A spy does not hesitate to hide in water, even in a swamp to be able to spy on.",
       "e": "惠澤 혜택 benefit, boon, favor, grace; 德澤 덕택 indebtness, favor, grace, help; 潤澤 윤택 gloss, luster"
@@ -53,6 +55,7 @@ const L29_2 = {
     {
       "q": "択/擇",
       "s": "택",
+	  "k": "가릴",
       "m": "choose",
       "d": "The fingers on the Shakuhachi 'choose' the notes.<br>The fingers of the spy scan over the walls to find the secret niches where the important documents are hidden.",
       "e": "選擇 선택 choice, selection"

@@ -11,7 +11,7 @@ const L23_4 = {
     {
       "q": "弗",
       "s": "불",
-      "m": "not, negative",
+      "m": "not, negative; *dollar",
       "d": "A log tied up tightly.",
       "e": "弗 dollar"
     },

@@ -144,8 +144,9 @@ const L23_1 = {
     {
       "q": "捨",
       "s": "사",
-      "m": "discard, give up willingly",
-      "d": "After his quest Frodo <b>abandonned</b> his <b>cottage</b> in Shire the wounds from his quest were too deep for him to ever find true peace in Middle-earth. This was the price for putting the ring on his <b>fingers</b>.",
+	  "k": "버릴",
+      "m": "discard",
+      "d": "The wicked witch from Hansel and Gretel only likes the meaty parts of kids. Outside her candy <b>cottage</b>, you can see a pile of <b>discarded</b> <b>fingers</b>.",
       "e": "取捨 취사 selection, election"
     },
     {

@@ -97,6 +97,7 @@ const L17 =
 		{
 			"q": "定",
 			"s": "정",
+			"k": "정할",
 			"m": "decide, fix, *determine",
 			"d": "Determination, in the sense of settling on a certain course of action, is likened here to mending one’s house.",
 			"e": "定義 정의 defition"
@@ -104,8 +105,9 @@ const L17 =
 		{
 			"q": "錠",
 			"s": "정",
+			"k": "제기(祭器)의 이름",
 			"m": "pill, tablet; *lock",
-			"d": "Even if you lock up your GOLD, a DETERMINED thief will get it in the end.",
+			"d": "Even if you lock up your <b>gold</b>, a <b>determined</b> thief will get it in the end.",
 			"e": "糖衣錠 당의정 sugarcoated pill"
 		},
 		{

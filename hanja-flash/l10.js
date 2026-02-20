@@ -201,6 +201,7 @@ const L10 =
 		{
 			"q": "若",
 			"s": "약",
+			"k": "같을",
 			"m": "same, equal, *young",
 			"d": "Here we see a <b>flower</b> held in the <b>right</b> hand. You can imagine yourself in a magic garden where flowers picked with the right hand grant eternal <b>youth</b>; and those picked with the left, premature senility. Go ahead, pick one with each hand and watch what happens.",
 			"e": "若干 약간 a few, somewhat"
