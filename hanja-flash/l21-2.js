@@ -129,8 +129,17 @@ const L21_2 =
 			"e": "複雜 복잡 complexity, complication, intricacy"
 		},
 		{
+			"q": "堆",
+			"s": "퇴",
+			"k": "흙무더기/쌓을",
+			"m": "pile up, store up",
+			"d": "After Thanksgiving, the dismembered half-eaten turkey carcasses are piled high in a mass grave and buried under soil.",
+			"e": "堆積 퇴적 accumulation, pile, heap"
+		},
+		{
 			"q": "此",
 			"s": "차",
+			"k": "이",
 			"m": "this here",
 			"d": "'<b>This</b> place' is the place where one has come, stopped, sat down.",
 			"e": "如此하다 여차하다 such, (like) this; 於此彼 어차피 anyhow, anyway"
