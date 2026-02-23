@@ -31,13 +31,6 @@ const L20 =
 			"e": "歲拜 세배 New Year's bow; 歲月 세월 time, times, conditions"
 		},
 		{
-			"q" : "系",
-			"s" : "계",
-			"m" : "system, link, *lineage",
-			"d" : "(Primitive: DNA, a drop of looong spiraled thread that is the key to your lineage.",
-			"e" : "體系 체계 system, organization"
-		},
-		{
 			"q": "県/縣",
 			"s": "현",
 			"m": "county, district, *prefecture",

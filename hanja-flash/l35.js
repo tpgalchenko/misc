@@ -342,7 +342,7 @@ const L35 = {
       "s": "병",
       "k": "갯고랑",
       "m": "seacost",
-      "d": "Seacoast -> Coast Guard -> "water soldiers" lined up on the seacoast defending our shores.",
+      "d": "Seacoast -> Coast Guard -> 'water soldiers' lined up on the seacoast defending our shores.",
       "e": ""
     }
   ]
