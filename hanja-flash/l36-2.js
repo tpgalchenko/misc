@@ -270,6 +270,14 @@ const L36_2 = {
       "m": "suspend",
       "d": "The prefecture has suspended all research into inheritable (DNA/lineage) heart disease.",
       "e": "懸案 현안 pending problem, question"
-    }
+    },
+    {
+      "q": "遜",
+      "s": "손",
+      "k": "겸손할",
+      "m": "modest",
+      "d": "My parents aren't at all modest about their grandchildren, at every opportunity they take them on the road showing them off to their friends!",
+      "e": "謙遜/謙巽 겸손 humble, modest"
+    },
   ]
 };
