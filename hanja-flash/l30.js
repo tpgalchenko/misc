@@ -18,22 +18,6 @@ const L30 = {
       "e": "曲線 곡선 curved line, curve; 作曲 작곡 musical composition"
     },
     {
-      "q": "豆",
-      "s": "두",
-	  "k": "콩",
-      "m": "beans",
-      "d": "If I eat beans, after one mouthful I fart like some kind of horned animal.",
-      "e": "豆腐 두부 tofu"
-    },
-    {
-      "q": "豊/豐",
-      "s": "풍",
-	  "k": "풍년 (豐年)",
-      "m": "abundant, *bountiful",
-      "d": "The <b>bountiful</b> feast was so abundant that the weight of all kinds of <b>beans</b> <b>bent</b> the table!<br>We go camping on a <b>mountain</b> and get hungry. Luckily the <b>mountain</b> is covered with <b>bushes</b> bearing berries! The supply of berry is so <b>plentiful</b> that there's no need eating the baked <b>beans</b> we've brought.",
-      "e": "豐饒 풍요 richness, abundance"
-    },
-    {
       "q": "礼/禮",
       "s": "례",
 	  "k": "예도",
