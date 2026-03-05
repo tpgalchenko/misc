@@ -6,7 +6,7 @@ const L31_2 = {
       "s": "윤",
 	  "k": "다스릴",
       "m": "govern, oversee; *rake, *mop",
-      "d": "A single vertical stroke transforms broom into a rake. When an element comes above the rake, the vertical stroke is shortened, as we have seen before with other similar primitives such a ssheep and cow.<br>The only thing distinguiinges a mop from a rake is the bent handle that does not cut through the top horizontal stroke. It depicts the swish-swash motion of a mop.",
+      "d": "A single vertical stroke transforms broom into a rake. When an element comes above the rake, the vertical stroke is shortened, as we have seen before with other similar primitives such a sheep and cow.<br>The only thing distinguiinges a mop from a rake is the bent handle that does not cut through the top horizontal stroke. It depicts the swish-swash motion of a mop.",
       "e": ""
     },
     {

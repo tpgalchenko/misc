@@ -23,13 +23,6 @@ const L29_2 = {
       "e": "辛辣 신랄 sharp, bitter, severe, harsh; 艱辛히 간신히 barely, hardly, labouriously"
     },
     {
-      "q": "幸",
-      "s": "행",
-      "m": "luck(ily), *happiness",
-      "d": "Happiness is the <b>one</b> bite of <b>spicy</b> curry.",
-      "e": "幸福 행복 happiness; 多幸 다행 luck, good fortune"
-    },
-    {
       "q": "睪",
       "s": "역,택",
 	  "k": "엿볼 역, 못 택",
