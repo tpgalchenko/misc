@@ -174,7 +174,7 @@ const L33 = {
       "s": "비",
       "k": "끓을",
       "m": "*seethe, boil",
-      "d": "",
+      "d": "Boiling water is so dear that one can buy it only for dollars.",
       "e": "沸騰 비등 boiling, seething, ebulition"
     },
     {

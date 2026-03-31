@@ -245,7 +245,7 @@ const L25_1 = {
 	  "k": "품을",
       "m": "bossom; carry in bossom; *pocket",
       "d": "'New York State of Mind': you need ten eyes to make sure no one will go through your garments and pick your pockets.<br>She had me in her pocket - it was a state of mind that would eventually demolish me..",
-      "e": ""
+      "e": "懷疑 회의 doubt, incredulity"
     },
     {
       "q": "曼",

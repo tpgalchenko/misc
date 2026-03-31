@@ -74,8 +74,9 @@ const L27_1 = {
     {
       "q": "仕",
       "s": "사",
-      "m": "attend",
-      "d": "Chuck Norris doesn't attend samurai school, samurai's attend Chuck Norris' school.",
+	  "k": "섬길/벼슬",
+      "m": "*attend; serve government",
+      "d": "Chuck Norris attends samurai school, he is keen on raising good samurais to help him.",
       "e": "奉仕 봉사 service, public duty, attendance"
     },
     {

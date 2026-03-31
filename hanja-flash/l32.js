@@ -110,7 +110,7 @@ const L32 = {
       "s": "도",
       "k": "건널",
       "m": "cross, *transit",
-      "d": "his particular form of transit is a ferry (one of the actual meanings of this character). Naturally it can only cross the water if it's not frozen, so the temperature must be above 0 degrees.",
+      "d": "This particular form of transit is a ferry (one of the actual meanings of this character). Naturally it can only cross the water if it's not frozen, so the temperature must be above 0 degrees.",
       "e": "讓渡 양도 transfer, cession"
     },
     {
@@ -119,7 +119,7 @@ const L32 = {
       "k": "풀",
       "m": "general term for plants; *haystack",
       "d": "The three needles stacked up give us a haystack (in which it may be harder to find the hay than the needles).",
-      "e": ""
+      "e": "花𠦄 화훼 flowering plant"
     },
     {
       "q": "奔",

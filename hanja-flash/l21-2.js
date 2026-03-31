@@ -108,6 +108,22 @@ const L21_2 =
 			"e": "集團 집단 group, mass"
 		},
 		{
+			"q": "椎",
+			"s": "추",
+			"k": "쇠몽치",
+			"m": "sweet oak; vertebra",
+			"d": "This is the kanji for the shii tree, on which shiitake (椎茸) mushrooms grow. Picture a turkey dropping by the shii tree to gobble down some of those sweet oaky (shiitake) mushrooms.",
+			"e": "脊椎 척추 backbone, spine"
+		},
+		{
+			"q": "誰",
+			"s": "수",
+			"k": "누구",
+			"m": "who?",
+			"d": "Do you remember that song where they say 'Who let the turkeys out!? Gobble.. gobble.. gobble'?",
+			"e": "誰何 수하 who, anyone"
+		},
+		{
 			"q": "准",
 			"s": "준",
 			"m": "approve, ratify; *quasi-",

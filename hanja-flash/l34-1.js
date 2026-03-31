@@ -189,8 +189,8 @@ const L34_1 = {
       "q": "𠂤/堆",
       "s": "퇴",
       "k": "흙무더기/쌓을",
-      "m": "to store up, to pile up; *maestro",
-      "d": "Picture a tuxedo-clad maestro waving his baton about wildly. The baton is seen in the drop at the top. And the two boxes attached to the long vertical stroke may represent his tuxedo tails, if you wish.",
+      "m": "*maestro/*pile high",
+      "d": "Picture a tuxedo-clad maestro waving his baton about wildly. The baton is seen in the drop at the top. And the two boxes attached to the long vertical stroke may represent his tuxedo tails, if you wish.<br>After our pre-Thanksgiving massacre, we piled high all the turkey corpses atop the soil of the farmyard.",
       "e": ""
     },
     {
