@@ -31,7 +31,7 @@ const L35 = {
       "k": "이음새/사이",
       "m": "boundary, juncture; *occasion",
       "d": "On occasian, rituals are held at the very tip of The Pinnacle.",
-      "e": "國際 국제 international intercourse; 實際 실제 truth, fact, reality"
+      "e": "此際 차제 occasion; 國際 국제 international intercourse; 實際 실제 truth, fact, reality"
     },
     {
       "q": "障",
@@ -166,7 +166,7 @@ const L35 = {
       "s": "격",
       "k": "사이 뜰",
       "m": "separate, *isolate",
-      "d": "he city at the pinnacle is so isolated, that they still use the ancient chinese three legged kettle 鬲 for heating water.",
+      "d": "The city at the pinnacle is so isolated, that they still use the ancient chinese three legged kettle 鬲 for heating water.",
       "e": "間隔 간격 space, spacing, interval;  隔日 격일 every other day"
     },
     {
@@ -174,7 +174,7 @@ const L35 = {
       "s": "은",
       "k": "숨을",
       "m": "conceal",
-      "d": "The wheat farmer's heart is calm 穏 about the eagle not stealing his crops because of the broom scarecrow. But he still conceals all his wheat at The Pinnacle in case anyone else trys to steal it.",
+      "d": "The wheat farmer's heart is calm 穏 about the eagle not stealing his crops because of the broom scarecrow. But he still conceals all his wheat at The Pinnacle in case anyone else tries to steal it.",
       "e": "隱蔽 은폐 concealment, hiding"
     },
     {
