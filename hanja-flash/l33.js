@@ -286,7 +286,7 @@ const L33 = {
       "s": "사",
       "k": "베낄",
       "m": "copy",
-      "d": "A crown was bestowed to the British royalty museum, but it was only a copy.",
+      "d": "A <b>crown</b> was <b>bestowed</b> (与) to the British royalty museum, but it was only a <b>copy</b>.",
       "e": "描寫 묘사 describe; 寫眞 사진 a photograph"
     }
   ]

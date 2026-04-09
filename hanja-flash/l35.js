@@ -183,7 +183,7 @@ const L35 = {
       "k": "떨어질",
       "m": "fall, *degenerate",
       "d": "The Pinnacle of the Roman Empire (as with many other empires since) degenerated as they just tried to possess more & more land.",
-      "e": ""
+      "e": "墮落 타락 (moral) depravity, corruption, degradation, fall"
     },
     {
       "q": "陥/陷",
