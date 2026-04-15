@@ -38,7 +38,7 @@ const L36_1 = {
       "s": "번",
       "k": "번성할",
       "m": "luxuriant",
-      "d": "Through <b>cleverness</b>, <b>Spider-pig</b> has managed to establish his hideout in a <b>luxuriant</b> garden, where he will have plenty to munch on when he's not out fighting crime.",
+      "d": "<b>Spiderman</b> showed up huge <b>cleverness</b> and skillfullness in weaving a big tapestry picturing a <b>luxuriant</b> garden. Every taskmaster of the spiderman is very proud of his achievement.",
       "e": "繁盛 번성 prosperity, thrift, luxuriance of growth"
     },
     {
@@ -53,8 +53,8 @@ const L36_1 = {
       "q": "緻",
       "s": "치",
       "k": "빽빽할",
-      "m": "This kanji shows Spiderman giving a dress of the finest thread to his girlfriend. Of course, the real purpose of the gift is to get his girlfriend to doth him.",
-      "d": "*fine; dense",
+      "m": "*fine; dense",
+      "d": "The fibers that Spiderman ejects are so strong and <b>fine</b> that he can <b>reach</b> (致) to the top of any building without stairs and without being detected.",
       "e": "緻密 치밀 minuteness, fineness, delicacy"
     },
     {
@@ -78,7 +78,7 @@ const L36_1 = {
       "s": "체",
       "k": "맺을",
       "m": "tie, join; *tighten",
-      "d": "<b>Spiderman</b> managed to get behind the odious <b>sovereign</b>. Spidey has <b>tightend</b> a web around the sovereing's throat. As long as the sovereign says what spidey whispers, he will be fine. Sovereign yelping : ' we will draw are troops back! and we will spend more money on healthcare, schools and less on wars!' Spidey whispering: ' If you continue at this pace, you might be doing good things AND the people will like you.'",
+      "d": "<b>Spiderman</b> managed to get behind the odious <b>sovereign</b>. Spidey has <b>tightend</b> a web around the sovereing's throat. As long as the sovereign says what spidey whispers, he will be fine. Sovereign yelping : 'We will draw our troops back! and we will spend more money on healthcare, schools and less on wars!' Spidey whispering: ' If you continue at this pace, you might be doing good things AND the people will like you.'",
       "e": "締結 체결 conclusion (of a contract)"
     },
     {
@@ -110,7 +110,7 @@ const L36_1 = {
       "s": "서",
       "k": "실마리",
       "m": "end of thread, *thong/lash",
-      "d": "A thong is no more than a <b>thread</b> used by <b>someone</b> as underwear!",
+      "d": "One end of a <b>straps/thread/string</b> attached to the <b>puppet</b> but who hides on the other end of the thread? I have no clue.",
       "e": "情緖 정서 emotion, feeling, sentiment; 端緖 단서 clue, key"
     },
     {
@@ -141,7 +141,7 @@ const L36_1 = {
       "q": "絞",
       "s": "교",
       "k": "목맬",
-      "m": "twist, wring; *strangle",
+      "m": "*strangle",
       "d": "Spiderman hates going to parties and having to <b>mingle</b>. He wants to strangle someone after just a little small talk.",
       "e": "絞殺 교살 stangulation"
     },
@@ -182,7 +182,7 @@ const L36_1 = {
       "s": "급",
       "k": "등급",
       "m": "rank, *class",
-      "d": "Spider-Man <b>reaches out</b> to every class, rich and poor.",
+      "d": "If you are part of a <b>class</b> system you will always <b>reach out</b> for any <b>thread</b> of hope to pull yourself to a higher <b>class</b>.",
       "e": "階級 계급 class, estate, rank, grade"
     },
     {
@@ -190,7 +190,7 @@ const L36_1 = {
       "s": "기",
       "k": "벼리",
       "m": "record, annal, *chonicle",
-      "d": "In a <b>chronicle</b> the <b>thread</b> of the story can twist and turn like a SNAKE.",
+      "d": "While <b>記</b> takes just notes, 紀 <b>chronicles</b> the <b>thread</b> of history.",
       "e": "紀綱 기강 discipline, public order; 世紀 세기 century"
     },
     {
@@ -206,7 +206,7 @@ const L36_1 = {
       "s": "납",
       "k": "들일",
       "m": "admit, accept; *settlement",
-      "d": "Spider-Man was working as a surgeon's assistant. By accident, he threw his spider webs inside the patient, causing his death. Fortunately, the hospital reached an out-of-court settlement with the victim's family.",
+      "d": "Spiderman is encouraged by his lawyers to make a settlement after he accidentally traps the wrong person inside his spiderweb for days.",
       "e": "歸納 귀납 induction, generalization; 納期 납기 time for payment"
     },
     {
