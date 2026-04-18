@@ -37,8 +37,8 @@ const L36_2 = {
       "q": "絹",
       "s": "견",
       "k": "비단",
-      "m": "Spider-man loves to run his mouth all over Mary Jane's silky flesh.",
-      "d": "silk",
+      "m": "silk",
+      "d": "Spider-man loves to run his mouth all over Mary Jane's silky flesh.",
       "e": "絹織物 견직물 silk fabrics"
     },
     {
@@ -142,7 +142,7 @@ const L36_2 = {
       "s": "유",
       "k": "그윽할",
       "m": "quiet, dark, *faint",
-      "d": "IN secluded mountain ravines, firefly cocoons glow faintly in the dark like ghosts.",
+      "d": "In secluded mountain ravines, firefly cocoons glow faintly in the dark like ghosts.",
       "e": "幽靈 유령 ghost, apparition; 幽谷 유곡 deep ravine"
     },
     {
@@ -182,7 +182,7 @@ const L36_2 = {
       "s": "축",
       "k": "짐승",
       "m": "livestock",
-      "d": "",
+      "d": "This mysterious rice field grows not only rice, but livestock too! Picture little pigs and chickens growing right out of the ground, among the rice plants. How bizarre!",
       "e": "牧畜 목축 stock-farming, cattle breeding; 畜產 축산 stock raising/breeding"
     },
     {

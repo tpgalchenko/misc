@@ -78,7 +78,7 @@ const L36_1 = {
       "s": "체",
       "k": "맺을",
       "m": "tie, join; *tighten",
-      "d": "<b>Spiderman</b> managed to get behind the odious <b>sovereign</b>. Spidey has <b>tightend</b> a web around the sovereing's throat. As long as the sovereign says what spidey whispers, he will be fine. Sovereign yelping : 'We will draw our troops back! and we will spend more money on healthcare, schools and less on wars!' Spidey whispering: ' If you continue at this pace, you might be doing good things AND the people will like you.'",
+      "d": "<b>Spiderman</b> managed to get behind the odious <b>sovereign</b>. Spidey has <b>tightend</b> a web around the sovereing's throat. As long as the sovereign says what spidey whispers, he will be fine. Sovereign yelping : 'We will draw our troops back! and we will spend more money on healthcare, schools and less on wars!' Spidey whispering: ' If you continue at this pace, you might be doing good things and the people will like you.'",
       "e": "締結 체결 conclusion (of a contract)"
     },
     {
@@ -229,7 +229,7 @@ const L36_1 = {
       "q": "紹",
       "s": "소",
       "k": "이을",
-      "m": "continue, carry on; *introduce",
+      "m": "*introduce",
       "d": "Spiderman seduces all the girls he's introduced to.",
       "e": "紹介 소개 introduction, presentation"
     },
@@ -245,9 +245,9 @@ const L36_1 = {
       "q": "紳",
       "s": "신",
       "k": "큰 띠",
-      "m": "girdle, tie, bind; gentry, *sire",
+      "m": "gentry, *sire",
       "d": "Monkeys are very adept at swinging around trees. But when they met Spiderman, who could swing around even better than they could, they all quickly addressed him as <b>sire</b>.",
-      "e": " 紳士 신사 gentlemen"
+      "e": "紳士 신사 gentlemen"
     },
     {
       "q": "約",
