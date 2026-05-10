@@ -131,6 +131,7 @@ function showNextQuestion() {
 function showLastQuestion() {
 	if(lastCard.length > 0) {
 		currentCard = lastCard.pop();
+		questionIndex -= 1;
 		showCurrentQuestion();
 	}
 }
@@ -164,7 +165,18 @@ function updateStatus() {
 }
 
 function toggleLessonsDialog(e) {
-	const frame = document.getElementById("lessons-frame");
+	const frame = document.getElementById("dlg-frame");
+	frame.classList.toggle("active");
+}
+
+function toggleSearchDialog() {
+	const list = document.getElementById("search-results");
+	list.replaceChildren();
+
+	document.getElementById("search-result-count").innerHTML = "";
+	document.getElementById("search-pattern").select();
+
+	const frame = document.getElementById("search-frame");
 	frame.classList.toggle("active");
 }
 
@@ -220,6 +232,53 @@ function toggleAll(explicit) {
 
 function cancelLessonsDialog(e) {
 	toggleLessonsDialog(e);
+}
+
+function cancelSearchDialog(e) {
+	toggleSearchDialog();
+}
+
+function search(e) {
+	const text = document.getElementById("search-pattern").value;
+	let results = [];
+
+	for(let k = 0; k < DATA.length; ++k) {
+		const lesson = DATA[k];
+		for(let q = 0; q < lesson.cards.length; ++q) {
+			if(lesson.cards[q]['q'].indexOf(text) != -1) {
+				results.push({ 'lesson' : k, 'card' : q, 'type' : 'q' });
+			}
+			else if(lesson.cards[q]['m'].indexOf(text) != -1) {
+				results.push({ 'lesson' : k, 'card' : q, 'type' : 'm' });
+			}
+			else if(lesson.cards[q]['d'].indexOf(text) != -1) {
+				results.push({ 'lesson' : k, 'card' : q, 'type' : 'd' });
+			}
+			else if(lesson.cards[q]['e'].indexOf(text) != -1) {
+				results.push({ 'lesson' : k, 'card' : q, 'type' : 'e' });
+			}
+		}
+	}
+	document.getElementById("search-result-count").innerHTML = "Records found: " + results.length;
+
+	const list = document.getElementById("search-results");
+	for(const e of results) {
+		const lesson = DATA[e['lesson']];
+		const card = lesson.cards[e['card']];
+		const item = document.createElement("div");
+		item.innerHTML = "<a href='#' onclick='openSearchCard(" + e['lesson'] +"," + e['card'] + ")'>"
+			+ lesson['name']
+			+ "<span class='a_char'>" + card['q'] + "</span> <span class='a_spell'>" + card['s'] + "</span> "
+			+ "<span class='a_mean'>" + card['m'] + "</span> <span class='a_ko'>" + (card['k'] ? card['k'] : "") + "</span>"
+			+ "</a>";
+			list.appendChild(item);
+	}
+}
+
+function openSearchCard(lessonIdx, cardIdx) {
+	currentCard = DATA[lessonIdx]['cards'][cardIdx];
+	showAnswer();
+	toggleSearchDialog();
 }
 
 function indexLessons(do_shuffle) {
@@ -321,16 +380,16 @@ function onLoad() {
 		#a_spell {
 			color: blue;
 		}
-		#a_char {
+		.a_char {
 			color: brown;
 		}
-		#a_ko {
+		.a_ko {
 			color: green;
 		}
-		#a_mean {
+		.a_mean {
 			color: red;
 		}
-		#a_desc, #a_example {
+		.a_desc, .a_example {
 			font-size: 2.75vh;
 			vertical-align: middle;
 			width:100%;
@@ -370,7 +429,7 @@ function onLoad() {
 		#status-line {
 			font-size: 2vh;
 		}
-		.lessons-frame {
+		.dlg-frame {
 			display: none;
 			position: fixed;
 			width: 100vw;
@@ -414,11 +473,32 @@ function onLoad() {
 		#lessons-dlg-toolbar {
 			margin: 10px;
 		}
-		#a_lesson {
-			font-size: 1.5vh;
-			position: absolute;
-			text-align: right;
-			padding: 1em;
+		.search-frame {
+			display: none;
+			position: fixed;
+			width: 100vw;
+			height: 30vh;
+			background: #00000088;
+			top: 0;
+			border: 1px solid;
+		}
+		#search-dlg {
+			background: #FFFFFF;
+			font-size: 2vh;
+			border: 1px solid;
+			max-height: 70vh;
+			padding: 10px;
+			width: 80vw;
+			height: 90vh;
+			display: flex;
+			flex-direction: column;
+			align-items: center;
+		}
+		#search-results{
+			display: grid;
+			grid-template-columns: repeat(2, 1fr);
+			width: 100%;
+			overflow: auto;
 		}
 	</style>
 </head>
@@ -429,6 +509,7 @@ function onLoad() {
 		<input type="radio" id="hanja_mode" name="mode" value="hanja" checked/><label for="hanja_mode">Hanja first</label>
 		<input type="radio" id="keyword_mode" name="mode" value="keyword" /><label for="keyword_mode">Keyword first</label>
 		<a href="#" onclick="showNextQuestion()" title="Show next">&gt;&gt;</a>
+		<a href="#" onclick="toggleSearchDialog()" title="Search">Search</a>
 	</div>
 	<div id="card-container">
 		<div id="card" onclick="handleClick()">
@@ -437,7 +518,7 @@ function onLoad() {
 				<div id="a_lesson"></div>
 				<div id="a_grid">
 					<div id="a_line0">
-						<span id="a_char"></span>  <span id="a_spell"></span>  <span id="a_mean"></span>  <span id="a_ko"></span>
+						<span id="a_char" class="a_char"></span>  <span id="a_spell" class="a_spell"></span>  <span id="a_mean" class="a_mean"></span>  <span id="a_ko" class="a_ko"></span>
 					</div>
 					<div id="a_line1"><span id="a_desc"></span></div>
 					<div id="a_line2"><span id="a_example"></span></div>
@@ -448,7 +529,7 @@ function onLoad() {
 	<div id="status-line">
 		<span id="status-text"></span>
 	</div>
-	<div id="lessons-frame" class="lessons-frame">
+	<div id="dlg-frame" class="dlg-frame">
 		<div id="lessons-dlg">
 			<div id="lesson-list">
 				<div id="li_all" class="lesson-li">
@@ -461,6 +542,18 @@ function onLoad() {
 				<input type="button" value="Cancel" onclick="cancelLessonsDialog(this)"/>
 				<input type="button" value="OK" onclick="okLessonsDialog(this)"/>
 			</div>
+		</div>
+	</div>
+	<div id="search-frame" class="dlg-frame">
+		<div id="search-dlg">
+			<div>
+				<input type="text" id="search-pattern"/>
+				<input type="button" value="Search" onclick="search(this)"/>
+				<input type="button" value="Cancel" onclick="cancelSearchDialog(this)"/>
+			</div>
+			<div id="search-result-count"></div>
+			<ul id="search-results">
+			</ul>
 		</div>
 	</div>
 </body>
