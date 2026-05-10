@@ -150,7 +150,7 @@ const L38_1 = {
       "s": "주",
       "k": "악기 이름",
       "m": "*drum",
-      "d": "The element meaning drum shows a samurai over a table. The top stroke of the table is appears to be missing, but actually it has simply doubled up with the ³nal stroke of the element for samurai.",
+      "d": "The element meaning drum shows a samurai over a table. The top stroke of the table is appears to be missing, but actually it has simply doubled up with the final stroke of the element for samurai.",
       "e": ""
     },
     {
@@ -246,7 +246,7 @@ const L38_1 = {
       "s": "람/남",
       "k": "넘칠",
       "m": "overflow",
-      "d": "",
+      "d": "The <b>oversee</b>r isn't doing his job and he lets the <b>slaves</b> <b>recline</b> on the floor instead of washing <b>dishes</b> and finally <b>overflow</b> the sink!",
       "e": "汎濫/氾濫 범람 inundation, flooding, overflow; 濫用 남용 abuse, misuse"
     },
     {

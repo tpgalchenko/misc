@@ -6,7 +6,7 @@ const L38_2 = {
       "s": "간/은",
       "k": "괘 이름/그칠/은",
       "m": "*silver",
-      "d": "When this element appears on the left, the penultimate stroke is omitted, giving us simply 𠁣",
+      "d": "When this element appears on the left, the penultimate stroke is omitted.",
       "e": ""
     },
     {
@@ -134,7 +134,7 @@ const L38_2 = {
       "s": "음",
       "k": "마실",
       "m": "drink",
-      "d": "",
+      "d": "When you <b>lack</b> <b>food</b>, just <b>drink</b> something to fill you up.",
       "e": "飮料水 음료수 driking water; 飮食 음식 food, meal"
     },
     {
@@ -222,7 +222,7 @@ const L38_2 = {
       "s": "개",
       "k": "대개",
       "m": "generally, approximately, *outline",
-      "d": "A murder has been commited. A corpse was found under a <b>tree</b>. The police chalks the <b>outline</b> of the victim, an old <b>silvered</b>-haired <b>waitress/b> working at a restaurant nearby.",
+      "d": "A murder has been commited. A corpse was found under a <b>tree</b>. The police chalks the <b>outline</b> of the victim, an old <b>silvered</b>-haired <b>waitress</b> working at a restaurant nearby.",
       "e": "槪念 개념 notion, general idea, concept; 大槪 대개 most, majority, generally"
     },
     {

@@ -54,7 +54,7 @@ const L39_1 = {
       "s": "찰",
       "k": "절",
       "m": "temple, shrine; *moment",
-      "d": "",
+      "d": "Standing in front of a temple, a samurai hones his skills while waiting for the test to begin. Throwing some sheaves in the air in front of a tree (From his perspective the sheaves are above the tree) he waits for the precise moment to cut both of them in half at the exact same time (Or moment).",
       "e": "刹那 찰나 moment, instant; 寺刹 사찰 Buddhist temple"
     },
     {
@@ -75,8 +75,8 @@ const L39_1 = {
     },
     {
       "q": "胸",
-      "s": "",
-      "k": "가슴 흉",
+      "s": "흉",
+      "k": "가슴",
       "m": "bosom",
       "d": "Bosom is a Flesh part that should be bound up lest it provoke villian thoughts.",
       "e": "胸襟 흉금 bosom, heart, inner mind; 胸像 흉상 bust (sculpture)"

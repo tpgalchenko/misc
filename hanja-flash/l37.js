@@ -258,7 +258,7 @@ const L37 = {
       "e": "怨望 원망 resentment, grudge, spite, complaint"
     },
     {
-      "q": "𠂎",
+      "q": "9",
       "s": "",
       "k": "",
       "m": "receipt",
@@ -318,7 +318,7 @@ const L37 = {
       "s": "인",
       "k": "도장",
       "m": "print, seal, *stamp",
-      "d": "This is how a stapler works: you stamp on it and a staple is being driven into a paper and then folder up.",
+      "d": "This is how a stapler works: you stamp on it and a staple is being driven into a paper and then it is folded up.",
       "e": "印象 인상 impression; 印刷 인쇄 print, printing, press"
     },
     {
