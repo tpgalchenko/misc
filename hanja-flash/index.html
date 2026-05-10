@@ -238,7 +238,7 @@ function cancelSearchDialog(e) {
 	toggleSearchDialog();
 }
 
-function search(e) {
+function search() {
 	const text = document.getElementById("search-pattern").value;
 	let results = [];
 
@@ -497,9 +497,10 @@ function onLoad() {
 		#search-results{
 			width: 100%;
 			overflow: auto;
+			font-size: 4vh;
 		}
 		#search-pattern {
-			width: 2vw;
+			width: 6vw;
 		}
 	</style>
 </head>
@@ -548,8 +549,8 @@ function onLoad() {
 	<div id="search-frame" class="dlg-frame">
 		<div id="search-dlg">
 			<div>
-				<input type="text" id="search-pattern"/>
-				<input type="button" value="Search" onclick="search(this)"/>
+				<input type="text" id="search-pattern" keydown="search()"/>
+				<input type="button" value="Search" onclick="search()"/>
 				<input type="button" value="Cancel" onclick="cancelSearchDialog(this)"/>
 			</div>
 			<div id="search-result-count"></div>
