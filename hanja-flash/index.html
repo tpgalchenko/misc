@@ -239,6 +239,9 @@ function cancelSearchDialog(e) {
 }
 
 function search() {
+	const list = document.getElementById("search-results");
+	list.replaceChildren();
+
 	const text = document.getElementById("search-pattern").value;
 	let results = [];
 
@@ -261,11 +264,11 @@ function search() {
 	}
 	document.getElementById("search-result-count").innerHTML = "Records found: " + results.length;
 
-	const list = document.getElementById("search-results");
 	for(const e of results) {
 		const lesson = DATA[e['lesson']];
 		const card = lesson.cards[e['card']];
 		const item = document.createElement("div");
+		item.classList.add('search-item');
 		item.innerHTML = "<a href='#' onclick='openSearchCard(" + e['lesson'] +"," + e['card'] + ")'>"
 			+ lesson['name']
 			+ "<span class='a_char'>" + card['q'] + "</span> <span class='a_spell'>" + card['s'] + "</span> "
@@ -487,7 +490,7 @@ function onLoad() {
 			font-size: 2vh;
 			border: 1px solid;
 			max-height: 70vh;
-			padding: 10px;
+			padding: 5px;
 			width: 80vw;
 			height: 90vh;
 			display: flex;
@@ -496,11 +499,13 @@ function onLoad() {
 		}
 		#search-results{
 			width: 100%;
+			height: 100%;
 			overflow: auto;
 			font-size: 4vh;
+			padding: 10px;
 		}
 		#search-pattern {
-			width: 6vw;
+			width: 10vw;
 		}
 	</style>
 </head>
@@ -554,8 +559,8 @@ function onLoad() {
 				<input type="button" value="Cancel" onclick="cancelSearchDialog(this)"/>
 			</div>
 			<div id="search-result-count"></div>
-			<ul id="search-results">
-			</ul>
+			<div id="search-results">
+			</div>
 		</div>
 	</div>
 </body>
