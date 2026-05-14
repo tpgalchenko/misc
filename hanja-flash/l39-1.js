@@ -14,7 +14,7 @@ const L39_1 = {
       "s": "호",
       "k": "부를",
       "m": "breathe sigh, exhale; *call",
-      "d": "I just follow the <b>calls</b> from the frogs' <b>mouths</b> on the <b>lily pads</b> to <b>hook</b> them.",
+      "d": "There is a frog sitting on a <b>lily pad</b>. It opens its <b>mouth</b> and <b>calls</b> out its friends.",
       "e": "呼吸 호흡 breath, respiration; 呼稱 호칭 name, title, appelation"
     },
     {
@@ -85,8 +85,8 @@ const L39_1 = {
       "q": "離",
       "s": "리/이",
       "k": "떠날",
-      "m": "leave, depart; *detach",
-      "d": "The <b>top hat</b> wearing <b>villain</b> has a <b>belt</b> around his <b>elbow</b> to inject a drug. He needs extra forces to attack a farm and to <b>detach</b> a <b>turkey</b> he desires.",
+      "m": "separate, *detach",
+      "d": "The dastardly <b>villain</b> in the <b>top hat</b> tried to <b>detach</b> his <b>elbow</b> from the <b>belt</b> holding him tight, so he could flee like a <b>turkey</b> without losing his top hat.",
       "e": "離別 이별 separation, farewell; 距離 거리 distance"
     },
     {
@@ -117,8 +117,8 @@ const L39_1 = {
       "q": "屯",
       "s": "둔",
       "k": "진 칠",
-      "m": "village, camp; *earthworm",
-      "d": "In the military camps the soldiers are referred to as 'worms'. They receive an order: drop your shovels and put them neatly on the hooks!",
+      "m": "camp, *barracks",
+      "d": "The superiors of the military camps call the soldiers living in barracks as 'earthworms'.",
       "e": "駐屯 주둔 stationing, posting, staying"
     },
     {
@@ -133,8 +133,8 @@ const L39_1 = {
       "q": "頓",
       "s": "돈",
       "k": "조아릴",
-      "m": "pause, stop; *immediate",
-      "d": "Ever chopped the head off an earthworm? Notice how it will grow back immediately! Beware the killer earthworms...",
+      "m": "bow; pause, stop; arrange; *immediate",
+      "d": "In the barracks you have to respond immediately when the head of your unit calls. Surely, you're going to clean andarrange the barracks",
       "e": "整頓 정돈 deadlock, standstill; 斗頓 두둔 back, shield, support"
     },
     {
@@ -165,7 +165,7 @@ const L39_1 = {
       "q": "宰",
       "s": "재",
       "k": "재상",
-      "m": "to slaughter, to rule; *superintend",
+      "m": "superintend",
       "d": "The superintendent of an old-age house has to make sure the food is never too spicy.",
       "e": "主宰 주재 superintendence, supervision; 宰相 재상 prime minister"
     },
