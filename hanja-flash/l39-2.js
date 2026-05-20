@@ -22,7 +22,7 @@ const L39_2 = {
       "s": "규",
       "k": "꼴",
       "m": "investigate, *twist",
-      "d": "Stories full of <b>twists</b> are difficult to write, because of the <b>cornucopia</b> of <b>threads the author has to manage.",
+      "d": "The suspect didn't give us any <b>threads</b> 糸 to <b>connect</b> 丩 him to the crime, even after we <b>twisted</b> him for four hours",
       "e": "糾明 규명 close examination, searching; 糾合 규합 rally, muster"
     },
     {
@@ -90,11 +90,19 @@ const L39_2 = {
       "e": "熱氣 열기 heat, hot air; 熱情 열정 ardor, pasion, fervor"
     },
     {
+      "q": "夌",
+      "s": "릉/능",
+      "k": "언덕",
+      "m": "to dawdle; the name of the father of the Emperor Yao.",
+      "d": "",
+      "e": ""
+    },
+    {
       "q": "菱",
       "s": "릉/능",
       "k": "마름",
       "m": "water-caltrop; *diamond(-shaped)",
-      "d": "Some girls want diamonds, but others will be satisfied with just flowers. However if you think you can win her over with rice seedlings, expect her to get up on her walking legs and walk on out!",
+      "d": "Some girls want diamonds or flowers, but they all want a mushroom between their walkin legs.",
       "e": ""
     },
     {
@@ -102,7 +110,7 @@ const L39_2 = {
       "s": "릉/능",
       "k": "언덕",
       "m": "hill, *mausoleum",
-      "d": "On top of The Pinnacle is a masoleum for rice seedling farmers. They make an annual walking pilgrimage there.",
+      "d": "On top of The Pinnacle is a masoleum for the father of the Emperor Yao.",
       "e": "陵 능 royal mausoleum/tomb"
     },
     {
@@ -166,7 +174,7 @@ const L39_2 = {
       "s": "술",
       "k": "펼",
       "m": "narrate, state, *mention",
-      "d": "If a <b>road</b> is freshly <b>resin</b>ed, it must be clearly mentioned and stated to avoid unpleasant incidents.<b>Predicates are the resin that glues up the narration on the road.",
+      "d": "If a <b>road</b> is freshly <b>resin</b>ed, it must be clearly <b>mentioned and stated</b> to avoid unpleasant incidents. <b>Predicates</b> are the resin that glues up the narration on the road.",
       "e": "陳述 진술 statement, deposition; 敍述 서술 description, narration"
     },
     {
@@ -178,7 +186,7 @@ const L39_2 = {
       "e": "技術 기술 art, technique, technology; 美術 미술 (fine) art(s)"
     },
     {
-      "q": "𠀎",
+      "q": "#+_",
       "s": "",
       "k": "",
       "m": "celery",
@@ -222,7 +230,7 @@ const L39_2 = {
       "s": "양",
       "k": "사양할",
       "m": "allow, yield, concede; *defer",
-      "d": "he female employees <b>deferred (submitted; yielded)</b> to the bosses wishes to wear <b>grass skirts</b> and could not say a single <b>word</b> about it, since he threatened to fire them if they did.",
+      "d": "'I will <b>defer/yield</b> to whatever you desire, just say the <b>word</b>', said the pretty girl in the <b>grass skirt</b> - on my fantasy island.",
       "e": "讓步 양보 concession, compromise; 辭讓 사양 declining in favor of another, concession, deference"
     },
     {
