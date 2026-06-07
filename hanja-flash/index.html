@@ -300,6 +300,16 @@ function indexLessons(do_shuffle) {
 	answerCount = 0;
 }
 
+function pasteSearchPattern() {
+	navigator.clipboard.readText().then(text => {
+		if(text) {
+			document.getElementById("search-pattern").value = text;
+			search();
+		}
+	})
+	.catch(err => console.log(err));
+}
+
 function okLessonsDialog(e) {
 	let checked = 0;
 	const do_shuffle = document.getElementById("shuffle-cb").checked;
@@ -561,6 +571,7 @@ function onLoad() {
 			<div>
 				<input type="text" id="search-pattern" keydown="search()"/>
 				<input type="button" value="Search" onclick="search()"/>
+				<input type="button" value="Paste" onclick="pasteSearchPattern()"/>
 				<input type="button" value="Cancel" onclick="cancelSearchDialog(this)"/>
 			</div>
 			<div id="search-result-count"></div>
