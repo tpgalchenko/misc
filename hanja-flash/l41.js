@@ -66,10 +66,10 @@ const L41 = {
       "e": "陰陽 음양 Um and Yang, the positive and negative, the male and female; 陰曆 음력 lunar calendar"
     },
     {
-      "q": "予",
+      "q": "予/豫",
       "s": "여/예",
       "k": "나/줄/미리",
-      "m": "*beforehand, I, me, to give",
+      "m": "*beforehand",
       "d": "Beforehand, this was a halberd but I cut it short so it could be for hand to hand combat.",
       "e": ""
     },

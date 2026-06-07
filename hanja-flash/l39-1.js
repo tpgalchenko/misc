@@ -134,7 +134,7 @@ const L39_1 = {
       "s": "돈",
       "k": "조아릴",
       "m": "bow; pause, stop; arrange; *immediate",
-      "d": "In the barracks you have to respond immediately when the head of your unit calls. Surely, you're going to clean andarrange the barracks",
+      "d": "In the barracks you have to respond immediately when the head of your unit calls. Surely, you're going to clean and arrange the barracks",
       "e": "整頓 정돈 deadlock, standstill; 斗頓 두둔 back, shield, support"
     },
     {

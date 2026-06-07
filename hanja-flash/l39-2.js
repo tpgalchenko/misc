@@ -70,7 +70,7 @@ const L39_2 = {
       "s": "목",
       "k": "화목할",
       "m": "friendly, amiable, *intimate",
-      "d": "Make eye contact with the sexy girl planting rice seedlings and you can get intimate with her on the ground.",
+      "d": "I keep an intimate relationship with my rice seedlings -- I never take my eye from the soil.",
       "e": "和睦 화목 harmony, concord, peace; 親睦 친목 friendship, intimacy, amity"
     },
     {
@@ -94,7 +94,7 @@ const L39_2 = {
       "s": "릉/능",
       "k": "언덕",
       "m": "to dawdle; the name of the father of the Emperor Yao.",
-      "d": "",
+      "d": "A leisurely walk in the woods on a lazy Sunday afternoon, a time to dawdle, pick the occasional mushroom 圥 here and there, and give one's walking legs a bit of light exercise.",
       "e": ""
     },
     {

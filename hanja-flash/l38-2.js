@@ -148,7 +148,7 @@ const L38_2 = {
     {
       "q": "餓",
       "s": "기",
-      "k": "주릴",
+      "k": "(굶)주릴",
       "m": "starve",
       "d": "He was <b>starving</b> for <b>food</b>, but he had too much <b>ego</b> and was too proud to ask for food.",
       "e": "飢餓/饑餓 기아 hunger, starvation; 飢饉/饑饉 기근 famine, dearth, shortage"

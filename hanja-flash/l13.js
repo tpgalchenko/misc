@@ -157,11 +157,12 @@ const L13 =
 			"e": "夏季 하계 summer time"
 		},
 		{
-			"q": "処",
+			"q": "処/處",
 			"s": "처",
+			"k": "곳",
 			"m": "place, *dispose",
 			"d": "Both the stretching out of the walking legs and the little bit of wind tucked in on the right suggest using one’s legs to kick something out of the way, or dispose of it.",
-			"e": ""
+			"e": "處하다 처하다 be placed in, be faced with; 近處 근처 neighborhood, vicinity"
 		},
 		{
 			"q": "条",

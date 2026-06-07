@@ -46,7 +46,7 @@ const L40_2 = {
       "s": "수",
       "k": "목숨",
       "m": "*longevity, old age, lifespan",
-      "d": "In an attempt to increase a <b>bush</b>'s <b>longevity</b>, an incompitent gardener <b>glues</b> all the leaves back on that have fallen off. Maybe he should have tried watering it instead.",
+      "d": "In an attempt to increase a <b>bush</b>'s <b>longevity</b>, an incompetent gardener <b>glues</b> all the leaves back on that have fallen off. Maybe he should have tried watering it instead.",
       "e": "長壽 장수 long life, longevity"
     },
     {
@@ -78,7 +78,7 @@ const L40_2 = {
       "s": "",
       "k": "",
       "m": "*bonsai",
-      "d": "The element for bushes has an extra stroke added (drawn from the point where the second and fifth strokes intersect when it “encloses” something beneath, otherwise from the point where the fourth and ³fth strokes intersect) to give the image of the crutches Japanese gardeners use to hold up a tree that is being bent into shape. From there it is but a short leap to the small bonsai plants that imitate this art in miniature.",
+      "d": "The element for bushes has an extra stroke added (drawn from the point where the second and fifth strokes intersect when it “encloses” something beneath, otherwise from the point where the 4th and 5th strokes intersect) to give the image of the crutches Japanese gardeners use to hold up a tree that is being bent into shape. From there it is but a short leap to the small bonsai plants that imitate this art in miniature.",
       "e": ""
     },
     {
@@ -122,7 +122,7 @@ const L40_2 = {
       "e": "誠實 성실 sincerity, honesty, integrity; 實踐 실천 practice; 事實 사실 fact"
     },
     {
-      "q": "𠀆",
+      "q": "十+丿",
       "s": "",
       "k": "",
       "m": "*cornstalk",
@@ -142,7 +142,7 @@ const L40_2 = {
       "s": "봉",
       "k": "녹",
       "m": "*stipend, wages, salary",
-      "d": "Chuck Norris receives a stipend to dedicate himself to the Bowflex. Oh, how the mighty have fallen.",
+      "d": "<b>Chuck Norris</b> receives a <b>stipend</b> to <b>dedicate</b> 奉 himself to the Bowflex. Oh, how the mighty have fallen!",
       "e": "俸給 봉급 salary, pay, wages"
     },
     {
@@ -205,7 +205,7 @@ const L40_2 = {
       "q": "嘆",
       "s": "탄",
       "k": "탄식할",
-      "m": "sign",
+      "m": "sigh",
       "d": "A sigh escapes the mouth of the scarecrow, who laments: '...if I only had a brain, I could learn kanji'.",
       "e": "嘆息/歎息 탄식 sigh, lamentation"
     },
@@ -254,7 +254,7 @@ const L40_2 = {
       "s": "수",
       "k": "졸음",
       "m": "*drowsy, sleep, doze",
-      "d": "",
+      "d": "Our <b>eyes</b> <b>droop</b> 垂 when we are <b>drowsy</b>.",
       "e": "睡眠 수면 sleep, slumber"
     },
     {
