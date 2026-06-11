@@ -198,7 +198,7 @@ const L40_2 = {
       "s": "한",
       "k": "한수/한나라",
       "m": "Sino-, chinese",
-      "d": "Kanji came from across the water, on the Sino- side of things.",
+      "d": "In the water between Japan and China, the Sino- side has put scarecrows in the water to try and keep the Japanese away.",
       "e": "漢字 한자 Chinese character"
     },
     {
