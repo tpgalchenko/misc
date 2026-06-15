@@ -68,10 +68,10 @@ const L41 = {
     {
       "q": "予/豫",
       "s": "여/예",
-      "k": "나/줄/미리",
+      "k": "미리",
       "m": "*beforehand",
-      "d": "Beforehand, this was a halberd but I cut it short so it could be for hand to hand combat.",
-      "e": ""
+      "d": "Be sure to check your <b>halberd</b> 矛 <b>beforehand</b> to make sure it's not missing its final stroke.",
+      "e": "豫算 예산 estimate, budget"
     },
     {
       "q": "序",

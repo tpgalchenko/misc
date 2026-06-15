@@ -47,8 +47,9 @@ const L3 =
 		{
 			"q": "朝",
 			"s": "조",
+			"k": "아침",
 			"m": "morning",
-			"d": "Morning mist as the moon is fading off into the morning",
+			"d": "This <b>morning</b> the <b>sun</b> has come up <b>ten</b> hours 'early'! The <b>moon</b> is still in the sky!",
 			"e": "朝鮮 조선 Korea, 王朝 왕조 king dinasty"
 		},
 		{

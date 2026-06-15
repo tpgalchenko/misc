@@ -104,7 +104,8 @@ const L5 =
 		},
 		{
 			"q": "切",
-			"s": "절,체",
+			"s": "절/체",
+			"k": "끊을/온통",
 			"m": "cut",
 			"d": "Dicing (<b>seven</b>) everything around with a <b>dagger</b> into pieces.",
 			"e": "品切 품절 out of stock; 適切 적절(하다) suitable, proper; 一切 일체 wholly, a whole"
