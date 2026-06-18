@@ -110,7 +110,7 @@ const L42 = {
       "s": "란/난",
       "k": "난간",
       "m": "railing, balustrade, *column",
-      "d": "",
+      "d": "A king haunted by insomnia gets off his bed. He walks in his empty palace built of wood among the columns, then leans on the railing watching thru' the gates the sun rise behind the forest at the East.",
       "e": "欄干/欄杆 난간 handrail, railing, balustrade; 空欄 공란 blank column, space, margin"
     },
     {
@@ -254,7 +254,7 @@ const L42 = {
       "s": "위",
       "k": "가죽",
       "m": "tanned leather; *locket",
-      "d": "The vertical stroke added here (the third stroke) turns the primitive element for a key into a locket. Below that, we find a square container (the mouth) and sunglasses with one of the lenses popped out. Note that in the primitive element for locketthe ³nal vertical stroke of sunglasses reaches all the way through to touch the mouth.",
+      "d": "The vertical stroke added here (the third stroke) turns the primitive element for a key into a locket. Below that, we find a square container (the mouth) and sunglasses with one of the lenses popped out. Note that in the primitive element for locket the final vertical stroke of sunglasses reaches all the way through to touch the mouth.",
       "e": ""
     },
     {
@@ -270,7 +270,7 @@ const L42 = {
       "s": "위",
       "k": "어긋날",
       "m": "disobey, *difference",
-      "d": "Disobeying the rules on the road makes great difference for your life.",
+      "d": "A gang controls this part of town, they wear leather jackets and golden lockets to indicate their community. They control the roads and punish every one who disobey their claims.",
       "e": "違反 위반 violation, breach"
     },
     {
