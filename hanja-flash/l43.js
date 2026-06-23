@@ -3,11 +3,11 @@ const L43 = {
   "cards" : [
     {
       "q": "干",
-      "s": "건,안,한",
+      "s": "건",
       "k": "방패/줄기,마를,들개,일꾼",
-      "m": "oppose, offend, invade; *dry",
-      "d": "Dry one item in ten minutes on the clothesline.",
-      "e": "若干 약간 a few, a bit; 干涉 간섭 interference; 干拓 간척 land reclamation by drainage.<br>* The primitive meaning is (revolving circular) clothesline (viewed rom aside)."
+      "m": "*dry",
+      "d": "Dry one item in ten minutes on the clothesline.<br>* The primitive meaning is (revolving circular) clothesline (viewed rom aside).",
+      "e": "若干 약간 a few, a bit; 干涉 간섭 interference; 干拓 간척 land reclamation by drainage."
     },
     {
       "q": "肝",
@@ -39,7 +39,7 @@ const L43 = {
       "k": "집",
       "m": "*flats",
       "d": "A counter for houses. Two most important things to ask before renting flats. is their carparking space and colthlines for drying.",
-      "e": ""
+      "e": "軒軒丈夫 헌헌장부 a manly man"
     },
     {
       "q": "岸",
@@ -109,7 +109,7 @@ const L43 = {
       "q": "叙/敍",
       "s": "서",
       "k": "차례",
-      "m": "express,state,*confer",
+      "m": "express, state, *confer",
       "d": "At parent-teacher <b>confer</b>ence the teacher <b>states</b>: 'Your son thinks <b>too much</b> with his <b>crotch</b>.'",
       "e": "敍述 서술 description, narration; 敍事 서사 narration, description"
     },
@@ -123,7 +123,7 @@ const L43 = {
     },
     {
       "q": "斜",
-      "s": "비낄 사",
+      "s": "사",
       "k": "비낄",
       "m": "slanting, sloping, *diagonal",
       "d": "The scale tilts diagonally when a measuring cup filled with too much is set on one end.",
@@ -173,8 +173,8 @@ const L43 = {
       "q": "疎/疏",
       "s": "소",
       "k": "소통할",
-      "m": "neglect; careless; *alienate/transcription",
-      "d": "Ma マ + stop 止 => zoo 疋. Aliens went astray on Earth, so they were bundled up and alienated in a zoo.<br>The zoo needed a transcription of the accident report involving the infant caught in the flood.",
+      "m": "neglect; careless; lax",
+      "d": "A family came to a zoo 疋. The infant's intestines were lax so the doodie flowed out easily without any check or stop. Oh, the careless parents! They have to renew the infant's bundle.",
       "e": "疏通 소통 mutal understanind, communication; 疏外 소외 estrangement, alienation, neglect"
     },
     {
@@ -199,7 +199,7 @@ const L43 = {
       "k": "가지런할",
       "m": "neat, organize",
       "d": "Recycling in Japan, you have to make sure all your bundles are organized correctly otherwise the taskmasters won't accept them.",
-      "e": "整理 정리 arrangementm, order, adjustment; 調整 조정 regulation, adjustment"
+      "e": "整理 정리 arrangement, order, adjustment; 調整 조정 regulation, adjustment"
     },
     {
       "q": "㑒",
@@ -207,6 +207,14 @@ const L43 = {
       "k": "여러",
       "m": "*awl",
       "d": "One cannot hide an awl in a bag. At a <b>meeting</b> some <b>person</b> will open his <b>mouth</b> and tell the sharp truth.",
+      "e": ""
+    },
+    {
+      "q": "僉",
+      "s": "첨",
+      "k": "모두",
+      "m": "all, together, unanimous",
+      "d": "All",
       "e": ""
     },
     {

@@ -116,9 +116,10 @@ const L26_2 = {
     {
       "q": "様/樣",
       "s": "양",
+	  "k": "모양",
       "m": "shape, form, pattern, style; *Esq.",
-      "d": "Here we have the requirements to be counted among the ranks of the noble Esq. You must posses a forested estate, herds of sheep, and reservoirs of water.<br>A wicked sheep must carry a tree on its back for eternity for being too vain and only caring about its appearance.",
-      "e": ""
+      "d": "A wicked sheep must carry a tree on its back for eternity for being too vain and only caring about its appearance.",
+      "e": "模樣 모양 shape, form, appearance; 多樣性 다양성 variety, diversity"
     },
     {
       "q": "求",

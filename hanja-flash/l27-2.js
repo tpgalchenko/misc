@@ -166,12 +166,13 @@ const L27_2 = {
       "q": "化",
       "s": "화,와",
       "m": "change",
-      "d": "You'd be a changed man if Chuck Norris spooned you!",
+      "d": "Chuck Norris changes position from standing upright to being seated down.",
       "e": "化石 화석 fossil"
     },
     {
       "q": "花",
       "s": "화",
+      "k": "될",
       "m": "flower",
       "d": "The flowers change with the seasons.",
       "e": "花壇 화단 flower bed, parterre"

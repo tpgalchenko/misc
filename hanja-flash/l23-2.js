@@ -117,6 +117,7 @@ const L23_2 = {
     {
       "q": "扱",
       "s": "급",
+      "k": "미칠",
       "m": "*handle, treat",
       "d": "How do we handle a disgusting, stinky bag of trash? We take it by fingertips and carry out with hands streched out as far as possible.",
       "e": "取扱 취급 treatment, reception, handling"
