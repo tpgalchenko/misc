@@ -103,7 +103,7 @@ const L44 = {
       "k": "전염병",
       "m": "epidemic",
       "d": "Sickness-missiles are being engineered by bio-terrorists to spread epidemics all over the world. Imagine seeing footage of a place where those sickness-missiles are built : rows after rows of missiles, and if you look closely on each is inscribed in tiny letters the name of different sickness such as 'flu', 'plague', etc.",
-      "e": "免疫 면역 immunity from a disease; 疫病 역병 an epidemic, pesitlence, plague"
+      "e": "免疫 면역 immunity from a disease; 疫病 역병 an epidemic, pesitlence, plague"
     },
     {
       "q": "痛",
@@ -254,7 +254,7 @@ const L44 = {
       "s": "발",
       "k": "필",
       "m": "emit, dispatch, *discharge",
-      "d": "The Indians <b>sent</b> a messenger to look for help. All he had wa his <b>teepee</b> on his shoulders and <b>two legs</b>.<br>In the the old days, bows discharged missiles (arrows) from teepees.",
+      "d": "The Indians <b>dispatched</b> a messenger to look for help. All he had wa his <b>teepee</b> on his shoulders and <b>two legs</b>.<br>In the the old days, bows discharged missiles (arrows) from teepees.",
       "e": "發射 발사 discharge, firing, shooting; 開發 개발 development, exploitation"
     },
     {

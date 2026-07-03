@@ -258,12 +258,12 @@ const L31_1 = {
       "e": "淸掃 청소 cleaning, sweeping"
     },
     {
-      "q": "当",
+      "q": "当/當",
       "s": "당",
 	  "k": "마땅",
-      "m": "bear, accept, undertake; *hit",
+      "m": "bear, accept, undertake; *hit; this, that",
       "d": "Some mothers use a small broom to hit their children when they misbehave.",
-      "e": ""
+      "e": "當時 당시 at that time, then; 擔當 담당 charge, undertaking"
     },
     {
       "q": "彙",

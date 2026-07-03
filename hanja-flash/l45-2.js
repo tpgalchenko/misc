@@ -50,12 +50,12 @@ const L45_2 = {
       "e": "變하다 변하다 undergo a change, alter, become different;"
     },
     {
-      "q": "跡/迹",
+      "q": "跡/迹/蹟",
       "s": "적",
       "k": "발자취",
       "m": "search, trace, *tracks",
       "d": "Pirate pokes the tip of his <b>wooden leg</b> into an <b>apple</b> to disguise his tracks.<br>The apple on the road was the only indication for the detective that could help trace the criminal...",
-      "e": "奇跡/奇迹 기적 miracle, marvel; 追跡 추적 chase, pursuit, tracking"
+      "e": "奇跡/奇迹 기적 miracle, marvel; 追跡 추적 chase, pursuit, tracking; 古跡/古蹟 고적 relics, ruins"
     },
     {
       "q": "蛮/蠻",

@@ -236,6 +236,7 @@ const L36_2 = {
 	{
 		"q" : "系",
 		"s" : "계",
+		"k" : "맬",
 		"m" : "system, link, *lineage, *DNA",
 		"d" : "The single stroke added to the beginning of the primitive for thread gives the image of threads woven into a single cord. Hence the meaning, lineage.<br><b>*</b>As a primitive, we shall give this kanji the meaning of <b>yarn</b>, as the uniting of many threads into a single strand is most obvious with yarn.",
 		"e" : "體系 체계 system, organization"
