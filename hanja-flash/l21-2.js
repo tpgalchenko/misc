@@ -210,6 +210,14 @@ const L21_2 =
 			"e": "許諾 허락 consent, approval"
 		},
 		{
+			"q": "隺",
+			"s": "각",
+			"k": "고상할",
+			"m": "a bird flying high ambition; *coop, turkey house",
+			"d": "turkey house",
+			"e": ""
+		},
+		{
 			"q": "/=+隹",
 			"s": "",
 			"m": "Pegasus",
