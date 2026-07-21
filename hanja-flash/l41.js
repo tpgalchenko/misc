@@ -46,7 +46,7 @@ const L41 = {
       "s": "념염",
       "k": "비틀",
       "m": "*wrench, to twist or nip with the fingers",
-      "d": "'I wish you would accept our friendly offer', the mob guy said, as he started wrenching my fingers one by one.",
+      "d": "'I <b>wish</b> 念 you would <b>think of</b> 念 our friendly offer', the mob guy said, as he started wrenching my fingers one by one.",
       "e": "捻挫 염좌 sprain, wrench"
     },
     {

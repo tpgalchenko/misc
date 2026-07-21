@@ -39,7 +39,7 @@ const L45_2 = {
       "k": "용서할",
       "m": "pardon",
       "d": "The student blushed until his face was red, so the schoolmaster decided to pardon him.",
-      "e": "赦하다 사하다 forgive, pardon, excuse; 赦免 사면 pardon, amnesty"
+      "e": "赦하다 사하다 forgive, pardon, excuse; 赦免 사면 pardon, amnesty"
     },
     {
       "q": "変/變",

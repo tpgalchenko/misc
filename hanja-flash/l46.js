@@ -31,7 +31,7 @@ const L46 = {
       "k": "꾀",
       "m": "plan, scheme, *conspire",
       "d": "Talking about <b>so-and-so</b> behind their back - this is a conspiracy.",
-      "e": "謀反 모반 trason, rebellion, revolt, conspiracy; 共謀 공모 conspiracy"
+      "e": "謀反 모반 treason, rebellion, revolt, conspiracy; 共謀 공모 conspiracy"
     },
     {
       "q": "媒",
@@ -39,7 +39,7 @@ const L46 = {
       "k": "중매",
       "m": "go-between, matchmaker, medium, *mediator",
       "d": "The little girls <b>conspired</b> against their schoolmate and now are having a fight. An adult woman (teacher) has to come between them an serve as a mediator.",
-      "e": "媒體 매체 a medium; 仲媒 중매 mathmaking"
+      "e": "媒體 매체 a medium; 仲媒 중매 matchmaking"
     },
     {
       "q": "其",
@@ -122,7 +122,7 @@ const L46 = {
       "e": "堪當하다 감당하다 be equal to, be capable of carrying out, be up to, be fit for"
     },
     {
-      "q": "𠀐",
+      "q": "_ + 中",
       "s": "",
       "k": "",
       "m": "purse",
