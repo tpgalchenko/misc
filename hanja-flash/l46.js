@@ -102,7 +102,7 @@ const L46 = {
       "s": "심",
       "k": "심할",
       "m": "great extent, considerably, *tremendously",
-      "d": "It's a <b>tremendous</b> match between the two <b>chess</b>-players. They are clearly eachother's <b>equal</b>.",
+      "d": "It's a <b>tremendous</b> match between the two <b>chess</b>-players. They are clearly eachother's <b>equal</b> 匹.",
       "e": "甚하다 심하다 extreme, excessive, heavy, intense; 甚至於 심지어 what is worse, worst of all"
     },
     {
