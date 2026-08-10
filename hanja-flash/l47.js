@@ -207,7 +207,7 @@ const L47 = {
       "s": "대",
       "k": "일",
       "m": "wear on top, support; *accept humbly",
-      "d": "",
+      "d": "On Thanksgiving there is an uncommon custom: they bake a cake with a cherry pit. He who finds the pit in his part wears a crown and becomes the holiday king.",
       "e": "戴冠式 대관식 coronation; 推戴하다 추대하다 have a person as head/president/director"
     },
 

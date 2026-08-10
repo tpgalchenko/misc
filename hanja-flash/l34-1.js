@@ -50,12 +50,12 @@ const L34_1 = {
       "e": "孝道 효도 filial piety"
     },
     {
-      "q": "教",
+      "q": "教/敎",
       "s": "교",
       "k": "가르칠",
       "m": "teach",
       "d": "In early Japan, filial piety was the cornerstone of education, and harsh taskmasters were employed to teach it.",
-      "e": ""
+      "e": "敎師 교사 teacher, instructor, master"
     },
     {
       "q": "拷",

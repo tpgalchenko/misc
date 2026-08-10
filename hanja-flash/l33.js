@@ -286,7 +286,7 @@ const L33 = {
       "s": "사",
       "k": "베낄",
       "m": "copy",
-      "d": "A <b>crown</b> was <b>bestowed</b> (与) to the British royalty museum, but it was only a <b>copy</b>.",
+      "d": "A <b>crown</b> was <b>bestowed</b> (与) to the British royalty museum, but it was only a <b>copy</b>.<br>In the old days, in order to copy something, you'd have to go to a house where they would grind up the original item in a mortar, set fire to it then make a 'near-perfect' copy from the bound up remains. Unfortunately, it wasn't much use as the original item would get destroyed, which is why we switched to photocopiers.",
       "e": "描寫 묘사 describe; 寫眞 사진 a photograph"
     }
   ]

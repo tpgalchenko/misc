@@ -302,7 +302,7 @@ const L25_2 = {
       "s": "왕",
 	  "k": "갈",
       "m": "go, depart; *journey; past",
-      "d": "Famous <b>journey</b>, the three kings, sheperds, and all, <b>going</b> to see their new <b>lord</b> by <b>cancelsticks</b>.",
+      "d": "Famous <b>journey</b>, the three kings, sheperds, and all, <b>going</b> to see their new <b>lord</b> by <b>candle sticks</b>.",
       "e": " 往復 왕복 going and returning; 已往 이왕 already, now that"
     },
     {
