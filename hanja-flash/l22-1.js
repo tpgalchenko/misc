@@ -5,6 +5,7 @@ const L22_1 =
     {
       "q": "囗",
       "s": "국,위",
+	  "k": "나라",
       "m": "enclose, *pent in (위)",
       "d": "This primitive depicts a corral or pen surrounding something, which is thus pent in.",
       "e": ""
@@ -12,6 +13,7 @@ const L22_1 =
     {
       "q": "曰",
       "s": "왈",
+	  "k": "가로되",
       "m": "sayeth",
       "d": "The key word refers to famous sayings of famous people, and is the origin for the primitive meaning of a tongue wagging in the mouth. The size of this kanji, a relatively rare one, is what distinguishes it from day.",
       "e": "子曰 자왈 Confucius says"
@@ -19,13 +21,15 @@ const L22_1 =
     {
       "q": "困",
       "s": "곤",
-      "m": "quandary",
+	  "k": "곤할",
+      "m": "surround, beseige, difficult, *quandary",
       "d": "A tree suffering in a quandry is a tree put in a prison.",
       "e": "疲困 피곤 fatigue, weariness"
     },
     {
       "q": "固",
       "s": "고",
+	  "k": "굳을",
       "m": "become solid, harden",
       "d": "An old hardened criminal who is dying pent up in a prison cell.",
       "e": "固定 고정 fixation, fixing"
@@ -33,6 +37,7 @@ const L22_1 =
     {
       "q": "或",
       "s": "혹,역",
+	  "k": "혹",
       "m": "perhaps, maybe",
       "d": "Warriors hold a fiesta and kiss the native ground for having deterred a <b>possible</b> enemy invasion into their castle 囗.",
       "e": "或是 혹시 possibly, by chance, if"
@@ -40,13 +45,15 @@ const L22_1 =
     {
       "q": "国/國",
       "s": "국",
+	  "k": "나라",
       "m": "country",
       "d": "The walls encircle the country's lands/treasures and warriors that defend it from possible enemy invasions.",
       "e": "韓國 한국 Korea"
     },
     {
       "q": "專",
-      "s": "전,단",
+      "s": "전",
+	  "k": "오로지",
       "m": "monopolize; gather; speciality",
       "d": "Spindle winds a thread into a single, glued-up lump.",
       "e": "專攻 전공 one's speciality/special study"
@@ -54,6 +61,7 @@ const L22_1 =
     {
       "q": "団/團",
       "s": "단",
+	  "k": "둥글",
       "m": "ball, mass, lump, *group",
       "d": "People gather within the city walls to make up a group of defenders.",
       "e": "集團 집단 group, mass"
@@ -61,6 +69,7 @@ const L22_1 =
     {
       "q": "因",
       "s": "인",
+	  "k": "인할",
       "m": "cause",
       "d": "A man in a bed because of an illness.",
       "e": "要因 요인 primary factor, cause"
@@ -68,6 +77,7 @@ const L22_1 =
     {
       "q": "姻",
       "s": "인",
+	  "k": "혼인",
       "m": "relatives by marriage, *matrimony",
       "d": "After matrimonial rituals and banquet the fiance got drunk and fell asleep on the bed. His fiancee sits at his bedside and sheds lonely tears.",
       "e": "婚姻 혼인 marriage"
@@ -75,6 +85,7 @@ const L22_1 =
     {
       "q": "園",
       "s": "원",
+	  "k": "동산",
       "m": "*park, garden, orhard",
       "d": "An encircled park where lidded crocks with scarfs are disseminated here and there like antique sculptures.",
       "e": "公園 공원"
@@ -82,6 +93,7 @@ const L22_1 =
     {
       "q": "回",
       "s": "회",
+	  "k": "돌아올",
       "m": "a time, turn around",
       "d": "A walk around Kaaba stone.",
       "e": "回敎 회교 islam"
@@ -89,6 +101,7 @@ const L22_1 =
     {
       "q": "壇",
       "s": "단",
+	  "k": "단(壇), 제단(祭壇)",
       "m": "*podium, altar, arena",
       "d": "A ritual is held at the altar placed on a large empty ground. A priest in a top hat (jewish kippah) walks round and round the altar as the night breaks and the sun rises up.",
       "e": "校壇 교단 the teacher's platform"
@@ -96,6 +109,7 @@ const L22_1 =
     {
       "q": "广",
       "s": "엄,광,암",
+	  "k": "집",
       "m": "wide, extensive; *cave, cliff house",
       "d": "A house carved inside a cliff like a cave of eremites, only chimney points out above the cliff.",
       "e": ""
@@ -103,6 +117,7 @@ const L22_1 =
     {
       "q": "店",
       "s": "점",
+	  "k": "가게",
       "m": "shop, store",
       "d": "The shop of Cumaean Sibyl, fortune-teller is the cave at the Phlegraean Fields.",
       "e": "書店 서점 bookshop"
@@ -110,6 +125,7 @@ const L22_1 =
     {
       "q": "庫",
       "s": "고",
+	  "k": "곳집",
       "m": "armory, treasury, *storehouse",
       "d": "A cave for an expensive car is nothing but a car treasury.",
       "e": "倉庫 창고 storehouse, warehouse"
@@ -117,6 +133,7 @@ const L22_1 =
     {
       "q": "庭",
       "s": "정",
+	  "k": "뜰",
       "m": "courtyard",
       "d": "An atrium of a court building - a courtyard.",
       "e": "庭園 정원 garden, park"
@@ -124,6 +141,7 @@ const L22_1 =
     {
       "q": "悳/德",
       "s": "덕",
+	  "k": "클/덕",
       "m": "ethics, morality, virtue",
       "d": "Morality is walking on with a straight (直) heart.",
       "e": "德分 덕분 favor, grace, help"
@@ -131,6 +149,7 @@ const L22_1 =
     {
       "q": "聽",
       "s": "청",
+	  "k": "들을",
       "m": "hear, listen",
       "d": "A porter 壬 lends his ear 耳 in order to listen virtuously 德.",
       "e": "聽取者 청취자 radio listener"
@@ -138,6 +157,7 @@ const L22_1 =
     {
       "q": "庁/廳",
       "s": "청",
+	  "k": "관청",
       "m": "hall, central room; *government office",
       "d": "A government office is where they listen to your complaints. The office nails fast the policies adopted.",
       "e": "市廳 시청 municipal/city office/hall"
@@ -145,6 +165,7 @@ const L22_1 =
     {
       "q": "床",
       "s": "상",
+	  "k": "평상",
       "m": "bed, couch",
       "d": "The most important wooden thing in a house is certainly the bed, the place to have rest.",
       "e": "冊床 책상 des, writing table; 平床/平牀 평상 flat bench"
@@ -152,6 +173,7 @@ const L22_1 =
     {
       "q": "麻",
       "s": "마",
+	  "k": "삼",
       "m": "hemp",
       "d": "A secret plantation of hemp in a cave to produce marijuana.",
       "e": "麻袋 마대 jute bag; 大麻草 대마초 hemp, marijuana"
@@ -159,6 +181,7 @@ const L22_1 =
     {
       "q": "磨",
       "s": "마",
+	  "k": "갈",
       "m": "grind, polish, rub",
       "d": "A stone is used to grind the hemp to make the powder to smoke.",
       "e": "磨滅 마멸 wear, defacement, abrasion"
@@ -166,6 +189,7 @@ const L22_1 =
     {
       "q": "心",
       "s": "심",
+	  "k": "마음",
       "m": "heart",
       "d": "In its kanji-form, it appears beneath or to the right of its relative primitive and means the physical organ of the heart. To the left, it is abbreviated to three strokes 忄, and means a wildly emotional state of mind. And finally, at the very bottom, it can take the form 㣺, in which case we give it the meaning of a valentine.",
       "e": "決心 결심 determination, resolution"
@@ -173,6 +197,7 @@ const L22_1 =
     {
       "q": "忘",
       "s": "망",
+	  "k": "잊을",
       "m": "forget",
       "d": "To forget is to perish a state of your heart.",
       "e": "忘年會 망년회 year-end party"
@@ -180,6 +205,7 @@ const L22_1 =
     {
       "q": "忍",
       "s": "인",
+	  "k": "참을",
       "m": "endure",
       "d": "Blades of pain stab the heart, it bleeds drops of blood but endures.",
       "e": "忍苦 인고 endurance, stoicism"
@@ -187,6 +213,7 @@ const L22_1 =
     {
       "q": "認",
       "s": "인",
+	  "k": "알",
       "m": "recognize, *acknowledge",
       "d": "To endure the words is to acknowledge their truth however hard they are.",
       "e": "認識 인식 awareness, recognition, perception"
@@ -194,6 +221,7 @@ const L22_1 =
     {
       "q": "忌",
       "s": "기",
+	  "k": "꺼릴",
       "m": "jealous, envious; *mourning",
       "d": "Jealousy is a snake at one's heart that bites oneself.",
       "e": "猜忌心 시기심 jealousy; 忌避 기피 evasion, avoidance; 週忌 주기 anniversary of a persons's death"
@@ -201,6 +229,7 @@ const L22_1 =
     {
       "q": "志",
       "s": "지",
+	  "k": "뜻",
       "m": "purpose, will, *intention",
       "d": "What is in the samurai's heart is in his mind - his intention.",
       "e": "意志 의지 will, volition"
@@ -208,6 +237,7 @@ const L22_1 =
     {
       "q": "誌",
       "s": "지",
+	  "k": "기록할",
       "m": "write down, magazine, *document",
       "d": "The magazine 'Men's health' - words intended for samurais.",
       "e": "雜誌 잡지 magazine"
@@ -215,6 +245,7 @@ const L22_1 =
     {
       "q": "忠",
       "s": "충",
+	  "k": "충성",
       "m": "loyalty",
       "d": "Loyalty is keeping someone in the middle of the heart.",
       "e": "忠誠 충성 loyalty"
@@ -222,6 +253,7 @@ const L22_1 =
     {
       "q": "串",
       "s": "곶",
+	  "k": "곶",
       "m": "cape; string; relatives; shish kebab",
       "d": "This pictograph of two pieces of meat on a skewer, a shish kebab",
       "e": "串 곶 cape, headland"
@@ -229,6 +261,7 @@ const L22_1 =
     {
       "q": "患",
       "s": "환",
+	  "k": "근심",
       "m": "suffer, worry, *afflicted",
       "d": "If a man is afflicted by a worry or a disease, he feels like his heart is pierced with a skewer like shish kebab.",
       "e": "患者 환자 patient, sufferer"
@@ -236,6 +269,7 @@ const L22_1 =
     {
       "q": "思",
       "s": "사",
+	  "k": "생각",
       "m": "think",
       "d": "There are two ways to think for women - with their brains and with their hearts. Men have a third way of thinking but I won't mention that here...",
       "e": "意思 의사 mind, intent, idea"
@@ -243,6 +277,7 @@ const L22_1 =
     {
       "q": "恩",
       "s": "은",
+	  "k": "은혜",
       "m": "kindness, mercy, charity, *grace",
       "d": "The <b>grace</b>, the charity is only true when it is <b>caused</b> by the free movement of the sincere <b>heart</b>.",
       "e": "恩惠 은혜 favor, benefit, blessing"

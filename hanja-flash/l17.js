@@ -5,6 +5,7 @@ const L17 =
 		{
 			"q": "止",
 			"s": "지",
+			"k": "그칠",
 			"m": "stop, *footprint",
 			"d": "A rather crude drawing of a footprint: the first 3 strokes represent the front of the foot and the last the heel. The big toe (stroke 2 sticking out to the right) on the right indicates that this is a left foot.",
 			"e": "停止 정지 stop, halt, standstill"
@@ -12,6 +13,7 @@ const L17 =
 		{
 			"q": "步/歩",
 			"s": "보",
+			"k": "걸음",
 			"m": "walk",
 			"d": "Footprints that follow one another a <b>few</b> at a time indicate walking.",
 			"e": "散步 산보 walk, stroll"
@@ -19,6 +21,7 @@ const L17 =
 		{
 			"q": "涉",
 			"s": "섭",
+			"k": "건널",
 			"m": "to ford a stream, to wade across",
 			"d": "To ford a body of water means to walk across it.",
 			"e": "干涉 간섭 interference, intervention"
@@ -26,6 +29,7 @@ const L17 =
 		{
 			"q": "頻",
 			"s": "빈",
+			"k": "자주",
 			"m": "repeatedly",
 			"d": "The image of something occurring repeatedly, over and over again, is of having one’s <b>head</b> walked on.",
 			"e": "頻度 빈도 frequency"
@@ -33,6 +37,7 @@ const L17 =
 		{
 			"q": "肯",
 			"s": "긍",
+			"k": "즐길",
 			"m": "consent, *agreement",
 			"d": "Seeing footprints on someone’s flesh indicates a rather brutal way of having secured that person’s agreement.",
 			"e": "首肯 수긍 assent, consent"
@@ -48,6 +53,7 @@ const L17 =
 		{
 			"q": "歴/歷",
 			"s": "력,역",
+			"k": "지날",
 			"m": "take place, past; *curriculum",
 			"d": "Instead of the grove making its way slowly through the surface of the cliff as before, here we see it stopped, much the same as a curriculum vitae calls a halt to the calendar and talks only about the past.",
 			"e": "歷歷하다 역력하다 obvious, clear"
@@ -55,6 +61,7 @@ const L17 =
 		{
 			"q": "武",
 			"s": "무",
+			"k": "호반",
 			"m": "warrior",
 			"d": "With a quiver of arrows set on one’s back, the goal of the warrior depicted here is not to attack but merely to stop the attack of others: the oldest excuse in history!",
 			"e": "武器 무기 weapon, arms"
@@ -62,6 +69,7 @@ const L17 =
 		{
 			"q": "賦",
 			"s": "부",
+			"k": "부세",
 			"m": "tax, *levy; give",
 			"d": "A certain portion of shells (money) is collected by the warrior from the local villages as he passes through to defray the costs of keeping the land safe, and this is called a levy.",
 			"e": "割賦 할부 allotment, quota"
@@ -69,27 +77,31 @@ const L17 =
 		{
 			"q": "正",
 			"s": "정",
+			"k": "바를",
 			"m": "right, proper, correct",
 			"d": "“A journey of a thousand miles begins with a single step,” says the Chinese proverb. Here we see <b>one footprint</b>, complementing that proverb with the sound advice that if the first step is not made correctly, the whole point of the journey will be forfeited. This is the ideal that teachers are supposed to have in <b>correcting</b> their students, and parents in <b>correcting</b> their children.",
 			"e": "正答 정답 corrent answer"
 		},
 		{
-			"q": "証",
-			"s": "정, 증",
+			"q": "証/證",
+			"s": "증",
+			"k": "증거",
 			"m": "prove, confirm, *evidence",
-			"d": "Words that testify to the correctness of some fact are classified as evidence.",
-			"e": ""
+			"d": "Words that testify to the correctness of some fact are classified as evidence.<br>You <b>ascend</b> to the witness stand to testify against the defendant.",
+			"e": "證據 증거 proof, evidence, witness, testimony"
 		},
 		{
 			"q": "政",
 			"s": "정",
+			"k": "정사",
 			"m": "politics",
 			"d": "Politics = correct taskmastering. On the one hand, we see the pessimistic wisdom that politics has to do with <b>taskmastering</b>, maneuvering people with or without their will. And on the other, we see the campaign assurances that this duty can be performed <b>correctly</b> if only the right candidate is given a chance.",
 			"e": "政治 정치 politics"
 		},
 		{
 			"q": "疋",
-			"s": "필,소,아",
+			"s": "필/소/아",
+			"k": "짝/발/바를",
 			"m": "roll of cloth; foot; *mending; *zoo",
 			"d": "This primitive differs from the kanji for correct only by the movement added to the last two strokes, the “-ing” of mending if you will. But take a more concrete sense, like mending holes in socks.",
 			"e": "疋 필 a roll of cloth"
@@ -113,6 +125,7 @@ const L17 =
 		{
 			"q": "走",
 			"s": "주",
+			"k": "달릴",
 			"m": "run",
 			"d": "Running, we are told here, mends the soil. Observe in the following frames how this kanji can embrace other elements from below, much the same way as the element for road does; and how, in order to do this, the final stroke needs to be length-ened.",
 			"e": "走行 주행 travelling, covering a disctance"
@@ -152,6 +165,7 @@ const L17 =
 		{
 			"q": "題",
 			"s": "제",
+			"k": "제목 ",
 			"m": "forehead; title; *topic",
 			"d": "The <b>topic</b> of the day's newspaper must be placed <b>just so</b> at the top of the <b>page</b> to attract attention. The <b>heading</b> must be click-bait.",
 			"e": "主題 주제 subject"
@@ -159,6 +173,7 @@ const L17 =
 		{
 			"q": "堤",
 			"s": "제",
+			"k": "둑",
 			"m": "dike",
 			"d": "A dike is a successful bit of engineering only if the amount of <b>earth</b> piled up is measured <b>just so</b> for the height and pressure of the water it is meant to contain",
 			"e": "防波堤 방파제 breakwater"
@@ -166,6 +181,7 @@ const L17 =
 		{
 			"q": "廴",
 			"s": "인",
+			"k": "길게 걸을",
 			"m": "to walk a long way, go; *stretch",
 			"d": "The primitive meaning to stretch might at first seem similar to that for road. Take a moment to study it more carefully and you will see the difference. Like road, this character holds other primitives above its sweeping final stroke.",
 			"e": ""
@@ -173,6 +189,7 @@ const L17 =
 		{
 			"q": "建",
 			"s": "건",
+			"k": "세울",
 			"m": "*build, erect, establish",
 			"d": "To construct a building, you first draw a set of plans (the <b>writing brush</b>) and then <b>s-t-r-e-t-c-h</b> your drawing out to scale in reality.",
 			"e": "建設 건설 construction, building"
@@ -180,6 +197,7 @@ const L17 =
 		{
 			"q": "延",
 			"s": "연",
+			"k": "늘일",
 			"m": "delay, defer, *prolong",
 			"d": "This character is a kind of pictographic image of how prolonging is a clever way of stopping things by trying to stretch them out a little bit at a time (the extra drop at the top of stop). Besure to get a concrete image of this process, by imagining yourself prolonging something you can really, physically, stretch.",
 			"e": "延長 연장 extension, lengthening"
@@ -187,6 +205,7 @@ const L17 =
 		{
 			"q": "誕",
 			"s": "탄",
+			"k": "낳을",
 			"m": "bear children, birth, *nativity",
 			"d": "Think of the feast of Christmas. As the famous poem at the start of St. John’s gospel tells us, the nativity we celebrate at Christmas had its origins at the very start of time and governs all of human history: it represents the <b>prolongation</b> of the eternal <b>Word</b> in time and space.",
 			"e": "誕生 탄생 birth, nativity"
@@ -194,6 +213,7 @@ const L17 =
 		{
 			"q": "礎",
 			"s": "초",
+			"k": "주춧돌",
 			"m": "cornerstone",
 			"d": "A cornerstone as a stone set at the end of a wildlife preserve (the “zoo in the grove”).",
 			"e": "基礎 기초 foundation, basis; 礎石 초석 cornerstone, foundation stone"
@@ -201,6 +221,7 @@ const L17 =
 		{
 			"q": "婿/壻",
 			"s": "서",
+			"k": "사위",
 			"m": "son-in-law, husband; *bridegroom",
 			"d": "What makes a man a bridegroom is obviously a woman and her dowry, here presented as a small zoo (animals were often used for this purpose in earlier societies) and a month away from it all (the “honeymoon”).",
 			"e": "同壻 동서 the husband of one's wife's sister; the wife of one's husband's brother"
