@@ -11,6 +11,7 @@ const L25_1 = {
     {
       "q": "賞",
       "s": "상",
+	  "k": "상줄",
       "m": "prize",
       "d": "The prize received is so huge that it is stored in an outhouse, where McDuck can swim in the mountains of money.",
       "e": "賞金 상금 prize money, award"
@@ -18,6 +19,7 @@ const L25_1 = {
     {
       "q": "党/黨",
       "s": "당",
+	  "k": "무리",
       "m": "party, gang",
       "d": "A <b>party</b> of conspirators gathered in an <b>outhouse</b around an improvisory <b>black</b> furnace.",
       "e": "政黨 정당 political party"
@@ -25,6 +27,7 @@ const L25_1 = {
     {
       "q": "堂",
       "s": "당",
+	  "k": "집",
       "m": "hall, government office/chamber",
       "d": "Roman public offices on the Capitolium land, lots of outhouses for various purposes.",
       "e": "食堂 식당 dining room, buffet"
@@ -32,6 +35,7 @@ const L25_1 = {
     {
       "q": "常",
       "s": "상",
+	  "k": "떳떳할/항상",
       "m": "usual, common, regular",
       "d": "In Russia the bath-houses are common, they are built as outhouses. There people wear towels instead of usual clothes.",
       "e": "日常 일상 daily, every day, usually"
@@ -39,6 +43,7 @@ const L25_1 = {
     {
       "q": "裳",
       "s": "상",
+	  "k": "치마",
       "m": "skirt; clothes",
       "d": "In many cultures women often live in separate rooms. Here we see a special outhouse for woman garment - skirts.",
       "e": "衣裳 의상 clothes, dress"
@@ -46,6 +51,7 @@ const L25_1 = {
     {
       "q": "掌",
       "s": "장",
+	  "k": "손바닥",
       "m": "palm of hand, sole of foot; *manipulate",
       "d": "WC-outhouses are often scary places where one does not want to dirty his hands and must manipulate everything with fingertips against disgust.",
       "e": "掌匣 장갑 gloves"
@@ -53,6 +59,7 @@ const L25_1 = {
     {
       "q": "皮",
       "s": "피",
+	  "k": "가죽",
       "m": "skin, *pelt",
       "d": "The simplest way to remember this character is to see it as built up from that for branch 支. The first stroke can then stand for something “hanging” down from the branch, namely its bark or pelt.",
       "e": "皮膚 피부 skin"
@@ -60,6 +67,7 @@ const L25_1 = {
     {
       "q": "波",
       "s": "파",
+	  "k": "물결",
       "m": "waves",
       "d": "If one keeps its hand under the water for a long time, the skin becomes wrinkled, wavy.",
       "e": "波濤 파도 waves, billows, surges"
@@ -67,6 +75,7 @@ const L25_1 = {
     {
       "q": "婆",
       "s": "파",
+	  "k": "할머니",
       "m": "old woman",
       "d": "Old woman's skin is all wrinkled, like water surface at windy day.",
       "e": "老婆 노파 old woman"
@@ -74,6 +83,7 @@ const L25_1 = {
     {
       "q": "披",
       "s": "피",
+	  "k": "헤칠",
       "m": "wear; *expose, reveal",
       "d": "A stone-age woman looks at her reflection in the water and adjusts the pelt she wears with light pinches of fingers.",
       "e": "猖披 창피 shame, disgrace"
@@ -81,6 +91,7 @@ const L25_1 = {
     {
       "q": "破",
       "s": "파",
+	  "k": "깨뜨릴",
       "m": "break, ruin, *rend",
       "d": "To peel a stone (to rend its pelt) = to break, to ruin.",
       "e": "破壞 파괴 destruction, demolition"
@@ -88,13 +99,15 @@ const L25_1 = {
     {
       "q": "被",
       "s": "피",
+	  "k": "입을",
       "m": "passive indicator, *incur; put on",
       "d": "One has torn its pelt garment into stripes, sewed them together to make a quilt, then put on and fell asleep.",
       "e": "被害 피해 damage, injury, harm"
     },
     {
       "q": "歹",
-      "s": "알,대",
+      "s": "알",
+	  "k": "살 바른 뼈",
       "m": "bad, wicked; *bone",
       "d": "This character is meant to be a pictograph of a bone attached to a piece of flesh (or vice versa.) The first stroke serves to keep it distinct from the character for evening.",
       "e": ""
@@ -102,6 +115,7 @@ const L25_1 = {
     {
       "q": "残/殘",
       "s": "잔",
+	  "k": "잔인할/남을",
       "m": "*remainder; injure, spoil, cruel",
       "d": "The character 戔 composed of the overlapping characters 戈 (spear) means ‘harm.’ The character 殘 expresses the appearance of poking a bone fragment with a spear. It is extremely cruel to poke a spear again into the bones of an already dead person, that is the reaminder of a person.",
       "e": "殘額 잔액 money left over, the remainder"
@@ -109,6 +123,7 @@ const L25_1 = {
     {
       "q": "殉",
       "s": "순",
+	  "k": "따라 죽을",
       "m": "martyrdom",
       "d": "The martyrdom of the man who withstood his beatings for 10 days until all that remained of him was bones.",
       "e": "殉敎者 순교자 (religious) martyr"
@@ -116,13 +131,15 @@ const L25_1 = {
     {
       "q": "殊",
       "s": "수",
-      "m": "particularly",
+	  "k": "죽일",
+      "m": "different, special, unusual, *particularly",
       "d": "Bone 歹 is normally white; so a bone that's vermilion 朱 is particularly unusual.",
       "e": "特殊 특수 special, peculiar, particular"
     },
     {
       "q": "殖",
       "s": "식",
+	  "k": "불릴",
       "m": "breed, spawn; increase, augment",
       "d": "Advertisement for Breast Implants -- Tired of nights all alone? Want to get <b>boned</b> <b>straightaway</b>? <b>AUGMENT</b> your breasts and all your troubles will be solved!",
       "e": "增殖 증식 increase, multiplication"
@@ -130,6 +147,7 @@ const L25_1 = {
     {
       "q": "列",
       "s": "렬(열)",
+	  "k": "벌일",
       "m": "a line, a file; to arange in order",
       "d": "A line of skeletal warriors, all armed with sabers.",
       "e": "列車 열차 (railway) train"
@@ -137,6 +155,7 @@ const L25_1 = {
     {
       "q": "裂",
       "s": "렬(열)",
+	  "k": "찢을",
       "m": "split, crack",
       "d": "They tried issuing the skeleton warriors with proper garments to wear, but they kept getting split by the sharp bones or by their sabres. In the end, it was decided they look scarier naked anyway.",
       "e": "分裂 분열 division, disunion, split"
@@ -144,6 +163,7 @@ const L25_1 = {
     {
       "q": "烈",
       "s": "렬(열)",
+	  "k": "세찰",
       "m": "violent, vehement, *ardent",
       "d": "A long line, in single file, of ardent admirers, their passion burning like flames for their beloved.",
       "e": "烈風 열풍 a heavy/severe wind, a gale"
@@ -151,6 +171,7 @@ const L25_1 = {
     {
       "q": "死",
       "s": "사",
+	  "k": "죽을",
       "m": "death",
       "d": "One evening he choked to death on a spoon.",
       "e": "死亡 사망 death, decease"
@@ -158,6 +179,7 @@ const L25_1 = {
     {
       "q": "葬",
       "s": "장",
+	  "k": "장사지낼",
       "m": "interment",
       "d": "There's an open casket at a funeral. The dead body (death) is holding flowers with both of its hands.",
       "e": "葬禮 장례 funeral"
@@ -165,6 +187,7 @@ const L25_1 = {
     {
       "q": "舛",
       "s": "천",
+	  "k": "어그러질",
       "m": "oppose, deviate; *sunglasses",
       "d": "The feet crossed in a way to express the meaning of ‘to be crooked’ or ‘to be disorganized.",
       "e": ""
@@ -172,6 +195,7 @@ const L25_1 = {
     {
       "q": "瞬",
       "s": "순",
+	  "k": "깜짝일",
       "m": "wink",
       "d": "An owl opened his <b>eye</b> and <b>winked</b> at me from inside his <b>birdhouse</b> - I was so surprised that I <b>blinked</b> behind my <b>sunglasses</b>.",
       "e": "瞬間 순간 moment, instant"
@@ -179,6 +203,7 @@ const L25_1 = {
     {
       "q": "耳",
       "s": "이",
+	  "k": "귀",
       "m": "ear",
       "d": "",
       "e": "耳目口鼻 이목구비 ear, eye, mouth and nose; features"
@@ -186,6 +211,7 @@ const L25_1 = {
     {
       "q": "取",
       "s": "취",
+	  "k": "가질",
       "m": "take, obtain",
       "d": "Taking temperature in a crotch and in an ear.",
       "e": "採取 채취 picking, gathering, extraction"
@@ -193,6 +219,7 @@ const L25_1 = {
     {
       "q": "趣",
       "s": "취",
+	  "k": "뜻",
       "m": "*gist, what attracts one's attention",
       "d": "The <b>gist</b> of it is this: We <b>take</b> the money and <b>run</b>!",
       "e": "趣味 취미 interest, liking, hobby"
@@ -200,6 +227,7 @@ const L25_1 = {
     {
       "q": "最",
       "s": "최",
+	  "k": "가장",
       "m": "utmost",
       "d": "If you were to pick the <b>utmost</b> celestial body from the sky, it's the <b>sun</b> you'd <b>take</b>.",
       "e": "最善 최선 the best"
@@ -207,6 +235,7 @@ const L25_1 = {
     {
       "q": "撮",
       "s": "촬",
+	  "k": "모을/사진 찍",
       "m": "*snapshot; little bit, pinch",
       "d": "Take the <b>utmost</b> care that you don't have your <b>finger</b> in the way when you take a <b>snapshot</b>.",
       "e": "撮影 촬영 photographing, filming"
@@ -214,6 +243,7 @@ const L25_1 = {
     {
       "q": "恥",
       "s": "치",
+	  "k": "부끄러울",
       "m": "shame, humiliation",
       "d": "She says: 'Shame on you, doctor!' Nowadays you don't check the heart beat by pressing your ear next to my heart (breast!) anymore...",
       "e": "國恥 국치 national humiliation, disgrace"
@@ -221,6 +251,7 @@ const L25_1 = {
     {
       "q": "職",
       "s": "직",
+	  "k": "직분",
       "m": "post, profession, duty",
       "d": "Buckingham Palace guards are famous for staying at their post no matter what, even if you blow a kazoo in their ear!",
       "e": "職業 직업 occupation, vocation, profession"
@@ -228,6 +259,7 @@ const L25_1 = {
     {
       "q": "聖",
       "s": "성",
+	  "k": "성인",
       "m": "holy",
       "d": "A true holy man uses his ear to listen (i.e., to God or his supplicant) before he opens his mouth to speak, unlike a charlatan who just makes something up. Of course, kings are often true holy men and prophets (e.g., King David in the bible).",
       "e": "聖人 성인 saint, holy man"
@@ -235,6 +267,7 @@ const L25_1 = {
     {
       "q": "敢",
       "s": "감",
+	  "k": "감히",
       "m": "daring",
       "d": "The daring girl in Catholic school who used a nail 丁 to pierce her ears 耳 was attacked by her taskmaster 攵 of a teacher.",
       "e": "敢히 감히 boldly, daringly"
@@ -250,6 +283,7 @@ const L25_1 = {
     {
       "q": "曼",
       "s": "만",
+	  "k": "길게 끌",
       "m": "long, vast; beautiful; *mandala",
       "d": "A mandala is a graphic representation of the universe, here split in 3 planes of existence, the sun representing the cosmos, the eye represents the human observer, the crotch represents the animal instincts.",
       "e": ""
@@ -257,6 +291,7 @@ const L25_1 = {
     {
       "q": "慢",
       "s": "만",
+	  "k": "거만할",
       "m": "lazy; arrogant; *ridicule",
       "d": "You may ridicule others because you are so <b>conceited</b> that in your state of mind you are at the center of the mandala.",
       "e": "倨慢 거만 arrogance, insolence"
@@ -264,6 +299,7 @@ const L25_1 = {
     {
       "q": "漫",
       "s": "만",
+	  "k": "질펀할",
       "m": "overflow of water; spreading; *loose",
       "d": "In 만화 comics, boys have their eyes on loose girls' wet crotches all day.",
       "e": "漫畫 만화 comics"
@@ -271,6 +307,7 @@ const L25_1 = {
     {
       "q": "買",
       "s": "매",
+	  "k": "살",
       "m": "buy",
       "d": "When something catches my eye, I take out a few clams and buy before anybody else does.",
       "e": "購買 구매 purchase, buying"
@@ -278,6 +315,7 @@ const L25_1 = {
     {
       "q": "置",
       "s": "치",
+	  "k": "둘",
       "m": "placement",
       "d": "Working in retail you learn the <b>placement</b> of any item should be at <b>eye</b> level so it's seen <b>straightaway</b>.",
       "e": "位置 위치 place, position"
@@ -285,6 +323,7 @@ const L25_1 = {
     {
       "q": "罰",
       "s": "벌",
+	  "k": "죄",
       "m": "penalty",
       "d": "He missed a penalty in the World Cup final, so he closed his <b>eyes</b>, said a few <b>words</b> to himself and stabbed himself with a <b>sabre</b>.",
       "e": "罰金 벌금 fine, monetary penalty"
@@ -292,6 +331,7 @@ const L25_1 = {
     {
       "q": "寧",
       "s": "녕",
+	  "k": "편안할",
       "m": "peaceful, comfortable; *rather",
       "d": "I'd <b>rather</b> die <b>peacefully</b> in my <b>house</b> from a <b>heart</b> attack than from a <b>spike</b> in my <b>eye</b> in a <b>street</b>.",
       "e": "安寧 안녕 peace, tranquility"
@@ -299,6 +339,7 @@ const L25_1 = {
     {
       "q": "濁",
       "s": "탁",
+	  "k": "흐릴",
       "m": "muddy, turbid; *voiced",
       "d": "The key word for this kanji connotes the “muddying” effect on a soft consonant brought about by vibrating the vocal chords, e.g. in English a “j” is voiced while a “sh” is unvoiced. Water is so muddy that one sees with his own eyes a pack of insects bound up in a globe living in it.",
       "e": "混濁하다 혼탁하다 turbid, muddy"
@@ -306,6 +347,7 @@ const L25_1 = {
     {
       "q": "環",
       "s": "환",
+	  "k": "고리",
       "m": "ring, bracelet",
       "d": "The <b>ring</b> of the Lord of the rings decorated with a <b>jewel</b>. The great <b>eye</b> of Sauron searching for the fellowship hiding under the many <b>ceilings</b> during their journey. The fourth and fifth primitives are the <b>mouth</b> of Gollum always mumbling “My preciousss”; and Pippin's <b>scarf</b>! Placement: the eye appears at the top similarly to how the Great Eye of Sauron is perched atop the Dark Tower.",
       "e": "環境 환경 environment, surroundings"
@@ -313,6 +355,7 @@ const L25_1 = {
     {
       "q": "還",
       "s": "환,선",
+	  "k": "돌아올",
       "m": "return, *send back",
       "d": "This is the road that Sam and Frodo take to send back the ring to Mount Doom!",
       "e": "還拂 환불 refundment, refund"
@@ -320,6 +363,7 @@ const L25_1 = {
     {
       "q": "夫",
       "s": "부",
+	  "k": "지아비",
       "m": "husband, man",
       "d": "The character 夫 is a combination of the characters 大 (big) and 一 (one). If you look at the character 夫 in oracle bone script, you can see a single stroke drawn on the head of a person. This depicts a hairpin that men used to hold their hair in place. In ancient China, men also wore hairpins in their hair to indicate that they had become adults.",
       "e": "工夫 공부 study, learning"
@@ -327,6 +371,7 @@ const L25_1 = {
     {
       "q": "扶",
       "s": "부",
+	  "k": "도울",
       "m": "aid",
       "d": "When a woman can't open a jar, her <b>husband</b> comes to her aid with his strong <b>fingers</b>.",
       "e": "扶助 부조 aid, help, gift"
@@ -334,6 +379,7 @@ const L25_1 = {
     {
       "q": "渓/溪",
       "s": "계",
+	  "k": "시내",
       "m": "mountain stream",
       "d": "A <b>husband</b> says there were <b>vultures</b> circling above him for miles, hoping he'd die soon, and were probably disappointed when he finally found <b>water</b> at the <b>mountain stream</b>.",
       "e": ""
@@ -341,6 +387,7 @@ const L25_1 = {
     {
       "q": "規",
       "s": "규",
+	  "k": "법",
       "m": "rules, law; *standard",
       "d": "In the male-dominated world of yesterday, the husband's way of seeing things was considered the standard point of view. Women who dared to disagree were frowned upon.",
       "e": "規模 규모 rule, pattern; scale, scope"
@@ -348,6 +395,7 @@ const L25_1 = {
     {
       "q": "替",
       "s": "체",
+	  "k": "바꿀",
       "m": "exchange, replace",
       "d": "The reality TV show where two families exchange the two husbands for a day to see how they manage in another family.",
       "e": "代替 대체 substitution, replacement"
@@ -355,6 +403,7 @@ const L25_1 = {
     {
       "q": "賛/贊",
       "s": "찬",
+	  "k": "도울",
       "m": "help, support; *approve",
       "d": "Out of two potential husbands, which would you approve of? Well, the one with shells (money) of course!!!",
       "e": "贊同 찬동 approval, support"
@@ -362,6 +411,7 @@ const L25_1 = {
     {
       "q": "潜/潛",
       "s": "잠",
+	  "k": "무자맥질할",
       "m": "hide; *submerge",
       "d": "To <b>submerge</b>, a submarine <b>exchange</b> the content of ballast tanks with either water or air.",
       "e": "潛水 잠수 diving, submerging"
