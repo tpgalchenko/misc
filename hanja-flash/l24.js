@@ -4,6 +4,7 @@ const L24 = {
     {
       "q": "出",
       "s": "출",
+	  "k": "날",
       "m": "go out, *exit",
       "d": "The kanji for exit pictures a series of mountain peaks coming out of the earth.",
       "e": "出張 출장 business trip"
@@ -11,6 +12,7 @@ const L24 = {
     {
       "q": "山",
       "s": "산",
+	  "k": "메",
       "m": "mountain",
       "d": "Note the clearer outline of a triangular mountain here.",
       "e": "登山 등산 mountain climbing"
@@ -18,6 +20,7 @@ const L24 = {
     {
       "q": "拙",
       "s": "졸",
+	  "k": "옹졸할",
       "m": "stupid, clumsy; *bungling",
       "d": "A stupid tailor made a pair of poor gloves such as fingers exit out of the gloves. Really, a bungle.",
       "e": "拙速 졸속 headlong, hasty"
@@ -25,6 +28,7 @@ const L24 = {
     {
       "q": "岩",
       "s": "암",
+	  "k": "바위",
       "m": "boulder, rocks",
       "d": "A rock big as a mountain.",
       "e": ""
@@ -32,6 +36,7 @@ const L24 = {
     {
       "q": "炭",
       "s": "탄",
+	  "k": "숯",
       "m": "charcoal",
       "d": "Although it is now made artificially, the first charcoal humans encountered was naturally created during forest fires. Therefore, the character 炭 can be said to be a character that expresses the place where charcoal was first created by combining the characters 山 (mountain), 厂 (foothill), and 火 (fire).",
       "e": " 煉炭 연탄 a charcoal briquet"
@@ -39,6 +44,7 @@ const L24 = {
     {
       "q": "岐",
       "s": "기",
+	  "k": "갈림길",
       "m": "fork in road, branch off",
       "d": "The place a road meets a mountain is a turning point, where the road branches off. One has to decide which branch to follow - left, right or upwards.",
       "e": "岐路 기로 crossroads, turning point"
@@ -46,6 +52,7 @@ const L24 = {
     {
       "q": "峠",
       "s": "상",
+	  "k": "고개",
       "m": "mountain pass; mountain *peak",
       "d": "A lake on the mountain top reflects the sky above as if it were below.",
       "e": ""
@@ -53,6 +60,7 @@ const L24 = {
     {
       "q": "崩",
       "s": "붕",
+	  "k": "무너질",
       "m": "crumble",
       "d": "The Earth lies on three whales, the sky is supported by Atlas, so every mountain is supported by two companions dwarves.",
       "e": "崩壞 붕괴 fall, breakdown, collapse"
@@ -60,6 +68,7 @@ const L24 = {
     {
       "q": "密",
       "s": "밀",
+	  "k": "빽빽할",
       "m": "dense, tight, intimate; *secrecy",
       "d": "Houses in mountains are invariably secret places invariably hard to reach. Think of a Hitler's secret bunker.",
       "e": "祕密 비밀 secret"
@@ -67,6 +76,7 @@ const L24 = {
     {
       "q": "蜜",
       "s": "밀",
+	  "k": "꿀",
       "m": "honey",
       "d": "Bees are insects invariably true to their home, they bring the collected nectar to the house and produce honey.",
       "e": "蜜月 밀월 honeymoon"
@@ -74,6 +84,7 @@ const L24 = {
     {
       "q": "嵐",
       "s": "람,남",
+	  "k": "남기",
       "m": "mountain mist, haze; *storm",
       "d": "Mountain weather is often unstable and winds bring fog, mist or even storm.",
       "e": "嵐氣 남기 mist"
@@ -81,6 +92,7 @@ const L24 = {
     {
       "q": "崎",
       "s": "기",
+	  "k": "험할",
       "m": "rough, uneven; *promontory",
       "d": "Karadag. Mountainous cape - promontory - is hard to reach and to traverse due to its uneven surface.",
       "e": "崎嶇 기구 vicissitudes, ups and downs, adversity"
@@ -88,13 +100,15 @@ const L24 = {
     {
       "q": "入",
       "s": "입",
+	  "k": "들",
       "m": "enter",
-      "d": "",
+      "d": "Image of a man going.",
       "e": "加入 가입 joining, entrance, subscription"
     },
     {
       "q": "込",
       "s": "입",
+	  "k": "혼잡할",
       "m": "crowd into, go into; *crowded",
       "d": "People leave their homes and crowd in the street.",
       "e": ""
@@ -102,6 +116,7 @@ const L24 = {
     {
       "q": "分",
       "s": "분",
+	  "k": "나눌",
       "m": "divide",
       "d": "A dagger goes into an apple and divides it in two.",
       "e": "部分 부분 part, portion"
@@ -109,6 +124,7 @@ const L24 = {
     {
       "q": "貧",
       "s": "빈",
+	  "k": "가난할",
       "m": "poverty",
       "d": "Poverty is the state where one has no money to share with anyone.",
       "e": "貧富 빈부 wealth and poverty"
@@ -116,6 +132,7 @@ const L24 = {
     {
       "q": "頒",
       "s": "반",
+	  "k": "나눌",
       "m": "confer, bestow; publish; *partition",
       "d": "What the <b>head</b> <b>promulgates</b>, other <b>parts</b> of the body execute.",
       "e": "頒布 반포 proclamation, promulgation"
@@ -123,6 +140,7 @@ const L24 = {
     {
       "q": "公",
       "s": "공",
+	  "k": "공평할",
       "m": "fair; *public",
       "d": "I always <b>enter</b> the <b>public</b> restrooms opening the doors with my <b>elbows</b> because I don't want to touch the door with my hands.",
       "e": "公式 공식 formula, formality, official ceremony; 公平 공평 fairness, equitability"
@@ -130,6 +148,7 @@ const L24 = {
     {
       "q": "松",
       "s": "송",
+	  "k": "소나무",
       "m": "pine tree",
       "d": "Following up with the 'entering public restrooms' story for the right-hand primitive: public restrooms always reek of pine tree scented disinfectant.",
       "e": "松津 송진 resin"
@@ -137,6 +156,7 @@ const L24 = {
     {
       "q": "翁",
       "s": "옹",
+	  "k": "늙은이",
       "m": "venerable old man",
       "d": "The venerable old man is using the public restroom in the park where he feeds the pigeons. But, alas, there is no toilet paper! So, he's caught a pigeon and is using it to wipe his bottom.",
       "e": "老翁 노옹 an elderly gentlemen, an old man"
@@ -144,6 +164,7 @@ const L24 = {
     {
       "q": "訟",
       "s": "송",
+	  "k": "송사할",
       "m": "accuse, dispute, *sue",
       "d": "Take care what words you say in public lest you be sued.",
       "e": "訴訟 소송 lawsuit, litigation"
@@ -151,6 +172,7 @@ const L24 = {
     {
       "q": "谷",
       "s": "곡",
+	  "k": "골",
       "m": "valley",
       "d": "If you stand on your head and look at this kanji, the image of avalley stands out more clearly: the mouth of the river whose water flows down at the intersection of the two mountains, with the final two strokes adding the element of perspective.",
       "e": "溪谷 계곡 valley, gorge, ravine"
@@ -158,6 +180,7 @@ const L24 = {
     {
       "q": "浴",
       "s": "욕",
+	  "k": "목욕할",
       "m": "bathe",
       "d": "Water in the valley - bathing.",
       "e": "沐浴 목욕 bath, bathing"
@@ -165,6 +188,7 @@ const L24 = {
     {
       "q": "容",
       "s": "용",
+	  "k": "얼굴",
       "m": "looks, appearance, figure; *contain",
       "d": "This character depicts a house so large that it can contain an entire valley.",
       "e": "內容 내용 content(s); 形容 형용 figure, shape; 美容 미용 beauty culture"
@@ -172,6 +196,7 @@ const L24 = {
     {
       "q": "溶",
       "s": "용",
+	  "k": "녹을",
       "m": "melt",
       "d": "A chocolate with filling melts down and lets out the liquor it contains.",
       "e": "溶解 용해 dissolution, melting"
@@ -179,6 +204,7 @@ const L24 = {
     {
       "q": "欲/慾",
       "s": "욕",
+	  "k": "욕심",
       "m": "longing",
       "d": "The valley has something my life is lacking.... something I've been longing for... peace and quiet to fill my aching heart.",
       "e": "意欲 의욕 will, volition, desire"
@@ -186,6 +212,7 @@ const L24 = {
     {
       "q": "裕",
       "s": "유",
+	  "k": "넉넉할",
       "m": "abundant",
       "d": "She used a cloak to hide her abundant cleavage, so called valley of the chest, from prying eyes.",
       "e": "富裕 부유 wealth, opulence"
@@ -193,6 +220,7 @@ const L24 = {
     {
       "q": "㕣",
       "s": "연",
+	  "k": "산속 늪",
       "m": "mountain swamp, *gully (small ravine, ditch)",
       "d": "As an abbreviation of the kanji for a valley, this primitive gets its meaning as a small valley or gully.",
       "e": ""
@@ -200,6 +228,7 @@ const L24 = {
     {
       "q": "鉛",
       "s": "연",
+	  "k": "납",
       "m": "lead (metal)",
       "d": "Lead is a very poisonous metal, and should not enter your mouth.",
       "e": ""
@@ -207,6 +236,7 @@ const L24 = {
     {
       "q": "沿",
       "s": "연",
+	  "k": "물 따라갈",
       "m": "go along",
       "d": "Railway tracks go alongside water streams or ravines. Think of  the 'corniche' roads at Côte d'azure.",
       "e": "沿海 연해 the sea along the coast, coastal waters"
