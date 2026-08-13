@@ -166,7 +166,7 @@ const L47 = {
       "s": "복",
       "k": "종",
       "m": "slave, servant, I",
-      "d": "Chuck Norris practices his roundhouse kick on the badly behaving husbands strung up in a row upside down while the wives cheer him on. 'I'll divorce my husband if you promise to marry <b>me</b>' - calls out one.",
+      "d": "<b>Chuck Norris</b> practices his roundhouse kick on the badly behaving <b>husbands</b> strung up <b>in a row</b> upside down while the wives cheer him on. 'I'll divorce my husband if you promise to marry me' - calls out one.",
       "e": "公僕 공복 public servant"
     },
     {
@@ -233,7 +233,7 @@ const L47 = {
       "s": "폭",
       "k": "사나울/쬘",
       "m": "violent, brutal; *outburst",
-      "d": "Sun . . . strung together . . . rice grains. ",
+      "d": "Sun together with rice grains => outburst of popcorn.",
       "e": "暴力 폭력 violence, (brute) force"
     },
 
