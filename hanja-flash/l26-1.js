@@ -43,7 +43,7 @@ const L26_1 = {
     },
     {
       "q": "稚",
-      "s": "원",
+      "s": "치",
 	  "k": "어릴",
       "m": "immature",
       "d": "Immature turkeys are stuffed with wheat to make it look bigger.",

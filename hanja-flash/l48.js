@@ -130,7 +130,7 @@ const L48 = {
       "e": "下水溝 하수구 ditch, drain, sewer, gutter"
     },
     {
-      "q": "𠕁",
+      "q": "⺆+艹",
       "s": "",
       "k": "",
       "m": "scrapbook",
