@@ -314,12 +314,12 @@ const L18_2 =
 			"e": "複製 복제 duplication"
 		},
 		{
-			"q": "欠",
-			"s": "흠",
+			"q": "欠 (缺)",
+			"s": "흠 (결)",
 			"k": "하품",
 			"m": "lack, *yawn",
 			"d": "This character depicts someone yawning. The 1st stroke shows the head thrown back; the 2nd, the arm bent at the elbow as the hand reaches up to cover the mouth; and the last two, the legs. Since yawning shows a lack of something (psychologically, interest; physiologically, sleep), the connection is plain to see.",
-			"e": "欠잡다 흠잡다 find fault with, cavil at"
+			"e": "欠잡다 흠잡다 find fault with, cavil at; 缺點 결점 fault, defect, flaw"
 		},
 		{
 			"q": "吹",

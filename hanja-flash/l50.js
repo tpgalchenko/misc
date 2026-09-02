@@ -21,8 +21,8 @@ const L50 = {
       "q": "循",
       "s": "순",
       "k": "돌",
-      "m": "obey, comply with, follow, *sequential",
-      "d": "An anthropomorphization of the immune system: a column of little Roman soldiers with their shields marching sequentially through the veins of a person.",
+      "m": "turn, wander about",
+      "d": "A warrior with a shield wanders about patrolling and watching the environs through a hole in his shield.",
       "e": "循環 순환 circulation, cycle"
     },
     {
@@ -82,7 +82,7 @@ const L50 = {
       "e": "后妃 후비/王后 왕후 empress, queen"
     },
     {
-      "q": "𠃌/",
+      "q": "𠃌",
       "s": "",
       "k": "",
       "m": "*clothes hanger",
@@ -134,7 +134,7 @@ const L50 = {
       "s": "사",
       "k": "이을",
       "m": "to connect, inherit, *heir",
-      "d": "",
+      "d": "The director's mouth dropped open as he flipped through the scrapbook of properties he was about to become heir to.",
       "e": "後嗣 후사 successor, inheritor, heir(ess)"
     },
     {
