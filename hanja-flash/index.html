@@ -80,7 +80,121 @@ Based on "Remembering the Kanji" by James W. Heisig : A complete course on how n
 	<script src="l54.js"></script>
 	<script src="l55.js"></script>
         <script src="l56.js"></script>
+	<script src="radicals.b64.js"></script>
 	<script>
+window.RADICALS = null;
+(function() {
+	function b64ToBytes(b64) {
+		const bin = atob(b64);
+		const bytes = new Uint8Array(bin.length);
+		for(let i = 0; i < bin.length; i++) bytes[i] = bin.charCodeAt(i);
+		return bytes;
+	}
+	try {
+		window.RADICALS = decodeRadicals(b64ToBytes(window.RADICALS_B64));
+	} catch(err) {
+		console.log("Failed to decode radicals data:", err);
+	}
+})();
+function decodeRadicals(bytes) {
+	const dv = new DataView(bytes.buffer, bytes.byteOffset, bytes.byteLength);
+
+	let o = 0;
+	if(bytes[0]!==0x48 || bytes[1]!==0x4A || bytes[2]!==0x53) throw new Error("bad magic");
+	o += 3;
+	dv.getUint8(o); o += 1; // version
+	const numEntries = dv.getUint16(o, true); o += 2;
+
+	// string table
+	const nStrings = dv.getUint16(o, true); o += 2;
+	const strings = [];
+	for(let i = 0; i < nStrings; i++) {
+		const len = dv.getUint16(o, true); o += 2;
+		strings.push(new TextDecoder().decode(bytes.subarray(o, o + len)));
+		o += len;
+	}
+
+	// transform table
+	const nTransforms = bytes[o++];
+	const transforms = [];
+	for(let i = 0; i < nTransforms; i++) {
+		const len = dv.getUint16(o, true); o += 2;
+		transforms.push(new TextDecoder().decode(bytes.subarray(o, o + len)));
+		o += len;
+	}
+
+	const DEFAULT_T = "scale(1,-1) translate(0, -871)";
+
+	// decode a bit-packed path
+	function decodePath(seg, numBits) {
+		let bitPos = 0;
+		function readBits(n) {
+			let v = 0;
+			for(let i = 0; i < n; i++) {
+				const bi = bitPos >> 3;
+				const bj = 7 - (bitPos & 7);
+				v = (v << 1) | ((seg[bi] >> bj) & 1);
+				bitPos++;
+			}
+			return v;
+		}
+		const CC = ['M','L','Q','C','Z','s'];
+		const CN = [2,2,4,6,0,4];
+		let d = '';
+		while(bitPos < numBits) {
+			const type = readBits(3);
+			const nargs = CN[type];
+			d += CC[type];
+			for(let i = 0; i < nargs; i++) {
+				d += (i > 0 ? ' ' : '') + ((readBits(12) - 322) / 2);
+			}
+		}
+		return d;
+	}
+
+	const radmap = {};
+	// entry index occupies numEntries*14 bytes; stroke blob follows it
+	const strokeBlobStart = o + numEntries * 14;
+	for(let i = 0; i < numEntries; i++) {
+		const cp = dv.getUint32(o, true); o += 4;
+		const ti = bytes[o++];
+		const ns = bytes[o++];
+		const rIdx = dv.getUint16(o, true); o += 2;
+		const ni = dv.getUint16(o, true); o += 2;
+		const so = dv.getUint32(o, true); o += 4;
+
+		const ch = String.fromCodePoint(cp);
+		const obj = {};
+		if(ns > 0) {
+			obj.t = transforms[ti];
+			obj.s = [];
+		}
+		const r = strings[rIdx];
+		if(r) obj.r = r;
+		const n = strings[ni];
+		if(n) obj.n = n;
+
+		if(ns > 0) {
+			let p = strokeBlobStart + so;
+			for(let s = 0; s < ns; s++) {
+				const flag = bytes[p++];
+				const plen = dv.getUint16(p, true); p += 2;
+				const bitCount = dv.getUint16(p, true); p += 2;
+				const data = bytes.subarray(p, p + plen);
+				p += plen;
+				let d;
+				if(flag === 0xFF) {
+					d = new TextDecoder().decode(data);
+				} else {
+					d = decodePath(data, bitCount);
+				}
+				obj.s.push([d, flag === 1]);
+			}
+		}
+		radmap[ch] = obj;
+	}
+	return radmap;
+}
 const DATA = [ L2, L3, L4, L5, L6, L7, L8, L9, L10, L11, L12, L13, L14, L15, L16, L17, L18_1, L18_2, L19, L20, L21_1, L21_2, L22_1, L22_2,
 L23_1, L23_2, L23_3, L23_4, L24, L25_1, L25_2, L26_1, L26_2, L27_1, L27_2, L28, L29_1, L29_2, L30, L31_1, L31_2, L32, L33, L34_1, L34_2,
 L35, L36_1, L36_2, L37, L38_1, L38_2, L39_1, L39_2, L40_1, L40_2, L41, L42, L43, L44, L45_1, L45_2, L46, L47, L48, L49, L50, L51, L52, L53_1, L53_2,
@@ -100,6 +214,88 @@ function shuffle(array) {
 	}
 }
 
+const SVGNS = "http://www.w3.org/2000/svg";
+const STROKE_ANIM_DELAY = 500;
+
+function buildHanjaGlyph(ch) {
+	const info = window.RADICALS ? window.RADICALS[ch] : null;
+	if(!info || !info.s || !info.s.length) return null;
+
+	const svg = document.createElementNS(SVGNS, "svg");
+	svg.setAttribute("viewBox", "0 0 1024 1152");
+	svg.setAttribute("class", "hanja-glyph");
+	svg.setAttribute("data-char", ch);
+	svg.style.height = "1em";
+	svg.style.width = "0.8889em";
+
+	const g = document.createElementNS(SVGNS, "g");
+	g.setAttribute("transform", info.t || "scale(1,-1) translate(0, -871)");
+	for(const st of info.s) {
+		const path = document.createElementNS(SVGNS, "path");
+		path.setAttribute("d", st[0]);
+		path.setAttribute("fill", st[1] ? "#0000ee" : "#000000");
+		g.appendChild(path);
+	}
+	svg.appendChild(g);
+	return svg;
+}
+
+function setHanjaText(el, text) {
+	el.replaceChildren();
+	for(const ch of text) {
+		const glyph = buildHanjaGlyph(ch);
+		if(glyph) {
+			el.appendChild(glyph);
+		} else {
+			const span = document.createElement("span");
+			span.textContent = ch;
+			el.appendChild(span);
+		}
+	}
+}
+
+let strokeAnimTimer = null;
+
+function openStrokeOverlay(ch) {
+	const info = window.RADICALS ? window.RADICALS[ch] : null;
+	if(!info || !info.s || !info.s.length) return;
+
+	const svg = document.getElementById("stroke-anim-svg");
+	svg.replaceChildren();
+
+	const g = document.createElementNS(SVGNS, "g");
+	g.setAttribute("transform", info.t || "scale(1,-1) translate(0, -871)");
+
+	const paths = [];
+	for(const st of info.s) {
+		const path = document.createElementNS(SVGNS, "path");
+		path.setAttribute("d", st[0]);
+		path.setAttribute("fill", "none");
+		path.setAttribute("stroke", "#bbb");
+		path.setAttribute("stroke-width", "4");
+		g.appendChild(path);
+		paths.push({ el: path, radical: st[1] });
+	}
+	svg.appendChild(g);
+
+	document.getElementById("stroke-overlay").style.display = "flex";
+
+	let i = 0;
+	function fillNext() {
+		if(i >= paths.length) { strokeAnimTimer = null; return; }
+		paths[i].el.setAttribute("fill", paths[i].radical ? "#0000ee" : "#000000");
+		paths[i].el.setAttribute("stroke", "none");
+		i++;
+		strokeAnimTimer = setTimeout(fillNext, STROKE_ANIM_DELAY);
+	}
+	strokeAnimTimer = setTimeout(fillNext, STROKE_ANIM_DELAY);
+}
+
+function closeStrokeOverlay() {
+	document.getElementById("stroke-overlay").style.display = "none";
+	if(strokeAnimTimer) { clearTimeout(strokeAnimTimer); strokeAnimTimer = null; }
+}
+
 let answerCount = 0;
 let questionIndex = -1;
 let currentCard = null;
@@ -113,7 +309,7 @@ function showCurrentQuestion() {
 
 	const q = document.getElementById("question");
 	if(document.getElementById("hanja_mode").checked) {
-		q.innerText = currentCard['q'];
+		setHanjaText(q, currentCard['q']);
 		q.className = 'hanja_question';
 	} else {
 		q.innerText = currentCard['m'];
@@ -155,7 +351,18 @@ function showLastQuestion() {
 function showAnswer() {
 	document.getElementById("question").style.display = 'none';
 
-	document.getElementById("a_char").innerText = currentCard['q'];
+	setHanjaText(document.getElementById("a_char"), currentCard['q']);
+
+	const aCharEl = document.getElementById("a_char");
+	for(const child of aCharEl.children) {
+		if(child.getAttribute("data-char")) {
+			child.style.cursor = "pointer";
+			child.addEventListener("click", function(ev) {
+				ev.stopPropagation();
+				openStrokeOverlay(this.getAttribute("data-char"));
+			});
+		}
+	}
 	document.getElementById("a_spell").innerText = "[ " + currentCard['s'] + " ]";
 	document.getElementById("a_mean").innerText = currentCard['m'];
 	document.getElementById("a_desc").innerHTML = currentCard['d'];
@@ -359,7 +566,11 @@ function onLoad() {
 	showNextQuestion();
 	window.addEventListener("keypress", (ev) => {
 		if(ev.key === " ") {
-			handleClick();
+			if(document.getElementById("stroke-overlay").style.display === "flex") {
+				closeStrokeOverlay();
+			} else {
+				handleClick();
+			}
 		}
 	});
 }
@@ -385,6 +596,10 @@ function onLoad() {
 			justify-content: center; /* Horizontal center alignment */
 		}
 		#question {
+			vertical-align: middle;
+		}
+		.hanja-glyph {
+			display: inline-block;
 			vertical-align: middle;
 		}
 		.hanja_question {
@@ -533,6 +748,25 @@ function onLoad() {
 		#search-pattern {
 			width: 10vw;
 		}
+		#stroke-overlay {
+			display: none;
+			position: fixed;
+			top: 0;
+			left: 0;
+			width: 100vw;
+			height: 100vh;
+			background: rgba(0,0,0,0.7);
+			z-index: 1000;
+			justify-content: center;
+			align-items: center;
+			cursor: pointer;
+		}
+		#stroke-anim-svg {
+			width: 70vmin;
+			height: 80vmin;
+			background: #ffffff;
+			border-radius: 8px;
+		}
 	</style>
 </head>
 <body onload="onLoad()">
@@ -589,6 +823,9 @@ function onLoad() {
 			<div id="search-results">
 			</div>
 		</div>
+	</div>
+	<div id="stroke-overlay" onclick="closeStrokeOverlay()">
+		<svg id="stroke-anim-svg" viewBox="0 0 1024 1152"></svg>
 	</div>
 </body>
 </html>
