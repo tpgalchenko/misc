@@ -351,24 +351,28 @@ function showLastQuestion() {
 function showAnswer() {
 	document.getElementById("question").style.display = 'none';
 
-	setHanjaText(document.getElementById("a_char"), currentCard['q']);
-
 	const aCharEl = document.getElementById("a_char");
-	for(const child of aCharEl.children) {
-		if(child.getAttribute("data-char")) {
-			child.style.cursor = "pointer";
-			child.addEventListener("click", function(ev) {
-				ev.stopPropagation();
-				openStrokeOverlay(this.getAttribute("data-char"));
-			});
-		}
-	}
+	aCharEl.innerText = currentCard['q'];
+	aCharEl.style.cursor = "pointer";
+	aCharEl.onclick = function(ev) {
+		ev.stopPropagation();
+		openStrokeOverlay(currentCard['q']);
+	};
+
 	document.getElementById("a_spell").innerText = "[ " + currentCard['s'] + " ]";
 	document.getElementById("a_mean").innerText = currentCard['m'];
 	document.getElementById("a_desc").innerHTML = currentCard['d'];
 	document.getElementById("a_example").innerText = currentCard['e'];
 	document.getElementById("answer").style.display = 'block';
-	document.getElementById("a_lesson").innerText = currentCard['lesson'];
+
+	const lessonEl = document.getElementById("a_lesson");
+	lessonEl.innerText = currentCard['lesson'];
+	lessonEl.style.cursor = "pointer";
+	lessonEl.onclick = function(ev) {
+		ev.stopPropagation();
+		openLessonDialog();
+	};
+
 	document.getElementById("a_ko").innerText = currentCard['k'] ? currentCard['k'] : "";
 
 	answerCount = (answerCount + 1) % data.length;
@@ -507,6 +511,46 @@ function openSearchCard(lessonIdx, cardIdx) {
 	toggleSearchDialog();
 }
 
+function openLessonDialog() {
+	const list = document.getElementById("lesson-chars");
+	list.replaceChildren();
+
+	const lessonName = currentCard['lesson'];
+	const lessonIdx = currentCard['lessonIdx'];
+	const lesson = DATA[lessonIdx];
+
+	document.getElementById("lesson-dialog-title").innerText = lesson.name + " (" + lesson.cards.length + " chars)";
+
+	for(let i = 0; i < lesson.cards.length; i++) {
+		const card = lesson.cards[i];
+		const item = document.createElement("a");
+		item.href = "#";
+		item.onclick = (function(idx) {
+			return function(ev) {
+				ev.preventDefault();
+				openLessonCard(lessonIdx, idx);
+			};
+		})(i);
+		item.innerHTML =
+			"<span class='lesson-char-hanja'>" + card['q'] + "</span>" +
+			"<span class='lesson-char-spell'>" + card['s'] + "</span> " +
+			"<span class='lesson-char-mean'>" + card['m'] + "</span>";
+		list.appendChild(item);
+	}
+
+	document.getElementById("lesson-dialog-frame").classList.add("active");
+}
+
+function openLessonCard(lessonIdx, cardIdx) {
+	currentCard = DATA[lessonIdx]['cards'][cardIdx];
+	closeLessonDialog();
+	showAnswer();
+}
+
+function closeLessonDialog() {
+	document.getElementById("lesson-dialog-frame").classList.remove("active");
+}
+
 function indexLessons(do_shuffle) {
 	data = []
 	for(let k = 0; k < lessons.length; ++k) {
@@ -558,6 +602,8 @@ function onLoad() {
 	for(let k = 0; k < DATA.length; ++k) {
 		for(let q = 0; q < DATA[k]["cards"].length; ++q) {
 			DATA[k]["cards"][q]["lesson"] = DATA[k]["name"];
+			DATA[k]["cards"][q]["lessonIdx"] = k;
+			DATA[k]["cards"][q]["cardIdx"] = q;
 		}
 	}
 	indexLessons(false);
@@ -625,7 +671,7 @@ function onLoad() {
 			color: blue;
 		}
 		.a_char {
-			color: brown;
+			color: black;
 		}
 		.a_ko {
 			color: green;
@@ -748,6 +794,50 @@ function onLoad() {
 		#search-pattern {
 			width: 10vw;
 		}
+		#lesson-dialog {
+			background: #FFFFFF;
+			font-size: 2vh;
+			border: 1px solid;
+			max-height: 80vh;
+			padding: 10px;
+			width: 80vw;
+			height: 80vh;
+			display: flex;
+			flex-direction: column;
+			align-items: center;
+		}
+		#lesson-dialog-title {
+			font-size: 3vh;
+			margin-bottom: 10px;
+			padding: 5px;
+		}
+		#lesson-chars {
+			width: 100%;
+			overflow: auto;
+			flex: 1;
+		}
+		#lesson-chars a {
+			display: block;
+			padding: 6px 10px;
+			text-decoration: none;
+			color: inherit;
+			border-bottom: 1px solid #eee;
+		}
+		#lesson-chars a:hover {
+			background: #e8e8e8;
+		}
+		.lesson-char-hanja {
+			display: inline-block;
+			font-size: 4vh;
+			color: black;
+			min-width: 60px;
+		}
+		.lesson-char-spell {
+			color: blue;
+		}
+		.lesson-char-mean {
+			color: black;
+		}
 		#stroke-overlay {
 			display: none;
 			position: fixed;
@@ -821,6 +911,15 @@ function onLoad() {
 			</div>
 			<div id="search-result-count"></div>
 			<div id="search-results">
+			</div>
+		</div>
+	</div>
+	<div id="lesson-dialog-frame" class="dlg-frame" onclick="closeLessonDialog()">
+		<div id="lesson-dialog" onclick="event.stopPropagation()">
+			<div id="lesson-dialog-title"></div>
+			<div id="lesson-chars"></div>
+			<div>
+				<input type="button" value="Close" onclick="closeLessonDialog()"/>
 			</div>
 		</div>
 	</div>
