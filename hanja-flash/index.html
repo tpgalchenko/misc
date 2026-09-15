@@ -254,6 +254,30 @@ function setHanjaText(el, text) {
 	}
 }
 
+function renderClickableHanja(el, text) {
+	el.replaceChildren();
+	const parts = String(text).split("/");
+	for(let i = 0; i < parts.length; i++) {
+		if(i > 0) {
+			const slash = document.createElement("span");
+			slash.textContent = "/";
+			el.appendChild(slash);
+		}
+		const part = parts[i];
+		const span = document.createElement("span");
+		span.textContent = part;
+		const info = window.RADICALS ? window.RADICALS[part] : null;
+		if(info && info.s && info.s.length) {
+			span.style.cursor = "pointer";
+			span.onclick = function(ev) {
+				ev.stopPropagation();
+				openStrokeOverlay(part);
+			};
+		}
+		el.appendChild(span);
+	}
+}
+
 let strokeAnimTimer = null;
 
 function openStrokeOverlay(ch) {
@@ -352,12 +376,7 @@ function showAnswer() {
 	document.getElementById("question").style.display = 'none';
 
 	const aCharEl = document.getElementById("a_char");
-	aCharEl.innerText = currentCard['q'];
-	aCharEl.style.cursor = "pointer";
-	aCharEl.onclick = function(ev) {
-		ev.stopPropagation();
-		openStrokeOverlay(currentCard['q']);
-	};
+	renderClickableHanja(aCharEl, currentCard['q']);
 
 	document.getElementById("a_spell").innerText = "[ " + currentCard['s'] + " ]";
 	document.getElementById("a_mean").innerText = currentCard['m'];
