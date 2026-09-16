@@ -426,7 +426,7 @@ function toggleSearchDialog() {
 	frame.classList.toggle("active");
 }
 
-function toggleLesson() {
+function updateLessonLabelState() {
 	let checked = 0;
 	for(let k = 0; k < DATA.length; ++k) {
 		const cb = document.getElementById(DATA[k].name);
@@ -435,7 +435,15 @@ function toggleLesson() {
 
 	const l_all = document.getElementById("l_all");
 	l_all.checked = checked === DATA.length;
-	l_all.indeterminate = checked != DATA.length;
+	l_all.indeterminate = checked != DATA.length && checked > 0;
+
+	document.getElementById("lbl_l_all").classList.toggle("selected", checked === DATA.length);
+
+	for(let k = 0; k < DATA.length; ++k) {
+		const cb = document.getElementById(DATA[k].name);
+		const label = document.getElementById("lbl_" + DATA[k].name);
+		if(label) label.classList.toggle("selected", cb.checked);
+	}
 }
 
 function setupLessonsDialog() {
@@ -454,26 +462,30 @@ function setupLessonsDialog() {
 		inp.id = DATA[k].name;
 		inp.classList.add("lessons-checkbox");
 		inp.checked = true;
-		inp.addEventListener('change', function() { toggleLesson(inp); }, false);
 		li.appendChild(inp);
 
 		const label = document.createElement("label");
-		label.for = inp.id;
+		label.id = "lbl_" + DATA[k].name;
 		label.innerText = inp.id + " (" + DATA[k]["cards"].length + ")";
 		label.classList.add("lesson-cb-label");
-		label.addEventListener('click', function() { inp.checked = !inp.checked; toggleLesson(inp); }, false);
+		label.addEventListener('click', function() {
+			inp.checked = !inp.checked;
+			updateLessonLabelState();
+		}, false);
 		li.appendChild(label);
 		ul.appendChild(li);
 	}
+
+	updateLessonLabelState();
 }
 
-function toggleAll(explicit) {
-	const l_all = document.getElementById("l_all");
-
+function toggleAll() {
+	const selectAll = !document.getElementById("l_all").checked;
 	for(let k = 0; k < DATA.length; ++k) {
 		const cb = document.getElementById(DATA[k].name);
-		cb.checked =  explicit || l_all.checked;
+		cb.checked = selectAll;
 	}
+	updateLessonLabelState();
 }
 
 function cancelLessonsDialog(e) {
@@ -721,12 +733,30 @@ function onLoad() {
 			font-size: 2vh;
 		}
 		.lessons-checkbox {
-			margin-right: 30px;
-			margin-left: 10px;
+			display: none;
 		}
-		#hanja_mode, #keyword_mode, #shuffle-cb, .lessons-checkbox, .lesson-cb-label {
+		#hanja_mode, #keyword_mode, #shuffle-cb {
 			height: 6em;
 			vertical-align: middle;
+		}
+		#lesson-list .lesson-cb-label {
+			display: block;
+			text-align: center;
+			height: 3em;
+			line-height: 3em;
+			padding: 0.15625em;
+			margin: 2px;
+			border: 1px solid;
+			border-color: red;
+			cursor: pointer;
+			user-select: none;
+			overflow: hidden;
+			white-space: nowrap;
+			background: #FFFFFF;
+		}
+		#lesson-list .lesson-cb-label.selected {
+			background: #0000FF;
+			color: #FFFFFF;
 		}
 		input[type="button"] {
 			font-size: 2vh;
@@ -766,7 +796,7 @@ function onLoad() {
 		}
 		#lesson-list {
 			display: grid;
-			grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+			grid-template-columns: repeat(auto-fill, minmax(90px, 1fr));
 			width: 100%;
 			overflow: auto;
 		}
@@ -774,11 +804,6 @@ function onLoad() {
 		.lesson-li {
 			border: 1px solid;
 		}*/
-		.lesson-cb-label {
-			border: 1px solid;
-			border-color: red;
-			padding: 1.25em;
-		}
 		#lessons-dlg-toolbar {
 			margin: 10px;
 		}
@@ -909,8 +934,8 @@ function onLoad() {
 		<div id="lessons-dlg">
 			<div id="lesson-list">
 				<div id="li_all" class="lesson-li">
-					<input type="checkbox" id="l_all" class="lessons-checkbox" onchange="toggleAll(false)"/>
-					<label for="l_all" class="lesson-cb-label" onclick="toggleAll(true)">All</label>
+					<input type="checkbox" id="l_all" class="lessons-checkbox"/>
+					<label id="lbl_l_all" class="lesson-cb-label" onclick="toggleAll()">All</label>
 				</div>
 			</div>
 			<div id="lessons-dlg-toolbar">
