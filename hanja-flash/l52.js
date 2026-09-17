@@ -94,7 +94,7 @@ const L52 = {
       "s": "모",
       "k": "소모할",
       "m": "consume, use up; waste, squander; *decrease",
-      "d": "Real fur coats and real christmas trees are dereasing the last couple of years. Plasctic chrismas trees and fake fur it is nowadays.",
+      "d": "Real fur coats and real christmas trees are dereasing the last couple of years. Plastic chrismas trees and fake fur it is nowadays.",
       "e": "消耗 소모 consumption, exhaustion, waste, use up"
     },
     {

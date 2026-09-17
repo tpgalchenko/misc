@@ -77,7 +77,7 @@ const L53_1 = {
       "q": "悩/惱",
       "s": "뇌",
       "k": "번뇌할",
-      "m": "angered, fille with hate, *trouble",
+      "m": "angered, filled with hate, *trouble",
       "d": "The flood of thoughts flowing out of the brain is the primary reason for our troubles and afflicted state of mind.",
       "e": "煩惱 번뇌 worldly desires/passions, affliction, anguish"
     },
