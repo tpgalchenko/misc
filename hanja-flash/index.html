@@ -327,6 +327,110 @@ let lastCard = [];
 let lessons = DATA.slice();
 let data = null;
 const HISTORY_SIZE = 10;
+const LS_VER = "hanja_ver";
+const LS_LESSONS = "hanja_lessons";
+const LS_ORDER = "hanja_order";
+const LS_POS = "hanja_pos";
+const LS_COUNT = "hanja_count";
+
+function lsGet(key) {
+	try {
+		return window.localStorage.getItem(key);
+	} catch(err) {
+		return null;
+	}
+}
+
+function lsSet(key, value) {
+	try {
+		window.localStorage.setItem(key, value);
+	} catch(err) {}
+}
+
+function lsRemove(key) {
+	try {
+		window.localStorage.removeItem(key);
+	} catch(err) {}
+}
+
+function encodeOrder() {
+	const bytes = new Uint8Array(data.length * 2);
+	for(let i = 0; i < data.length; i++) {
+		bytes[i * 2] = data[i].lessonIdx;
+		bytes[i * 2 + 1] = data[i].cardIdx;
+	}
+	let bin = "";
+	for(let i = 0; i < bytes.length; i++) bin += String.fromCharCode(bytes[i]);
+	return btoa(bin);
+}
+
+function decodeOrder(b64) {
+	const bin = atob(b64);
+	const order = [];
+	for(let i = 0; i + 1 < bin.length; i += 2) {
+		order.push([bin.charCodeAt(i), bin.charCodeAt(i + 1)]);
+	}
+	return order;
+}
+
+function saveState() {
+	const lessonNames = lessons.map(l => l.name).join(",");
+
+	lsSet(LS_VER, "1");
+	lsSet(LS_LESSONS, lessonNames);
+	lsSet(LS_POS, String(questionIndex));
+	lsSet(LS_COUNT, String(answerCount));
+	lsSet(LS_ORDER, encodeOrder());
+}
+
+function getSavedState() {
+	if(lsGet(LS_VER) === null) return null;
+	const lessonsStr = lsGet(LS_LESSONS);
+	if(lessonsStr === null) return null;
+
+	const orderB64 = lsGet(LS_ORDER);
+	if(!orderB64) return null;
+
+	let order = [];
+	try {
+		order = decodeOrder(orderB64);
+	} catch(err) {
+		return null;
+	}
+
+	const posStr = lsGet(LS_POS);
+	const countStr = lsGet(LS_COUNT);
+
+	return {
+		lessons: lessonsStr.split(",").filter(n => n.length > 0),
+		order: order,
+		pos: posStr === null ? 0 : parseInt(posStr, 10),
+		count: countStr === null ? 0 : parseInt(countStr, 10)
+	};
+}
+
+function lessonsFromNames(names) {
+	const result = [];
+	for(const name of names) {
+		for(let k = 0; k < DATA.length; k++) {
+			if(DATA[k].name === name) {
+				result.push(DATA[k]);
+				break;
+			}
+		}
+	}
+	return result;
+}
+
+function dataFromOrder(order) {
+	const result = [];
+	for(const pair of order) {
+		const k = pair[0];
+		const q = pair[1];
+		if(DATA[k] && DATA[k].cards[q]) result.push(DATA[k].cards[q]);
+	}
+	return result;
+}
 
 function showCurrentQuestion() {
 	document.getElementById("answer").style.display = 'none';
@@ -362,6 +466,7 @@ function showNextQuestion() {
 
 	currentCard = data[questionIndex];
 	showCurrentQuestion();
+	saveState();
 }
 
 function showLastQuestion() {
@@ -369,6 +474,7 @@ function showLastQuestion() {
 		currentCard = lastCard.pop();
 		questionIndex -= 1;
 		showCurrentQuestion();
+		saveState();
 	}
 }
 
@@ -396,6 +502,7 @@ function showAnswer() {
 
 	answerCount = (answerCount + 1) % data.length;
 	updateStatus();
+	saveState();
 }
 
 function handleClick() {
@@ -616,17 +723,46 @@ function okLessonsDialog(e) {
 	}
 
 	toggleLessonsDialog(e);
-	lessons = []
+	const newLessons = [];
 	for(let k = 0; k < DATA.length; ++k) {
 		const cb = document.getElementById(DATA[k].name);
 		if(cb.checked) {
-			lessons.push(DATA[k]);
+			newLessons.push(DATA[k]);
 		}
 	}
-	indexLessons(do_shuffle);
+
+	const saved = getSavedState();
+	const savedNames = saved ? saved.lessons : null;
+	const newNames = newLessons.map(l => l.name);
+	const selectionChanged = !savedNames || savedNames.join(",") !== newNames.join(",");
+
+	lessons = newLessons;
+
+	if(selectionChanged) {
+		indexLessons(do_shuffle);
+		answerCount = 0;
+		questionIndex = 0;
+	} else if(saved && saved.order.length > 0) {
+		const restored = dataFromOrder(saved.order);
+		if(restored.length > 0) {
+			data = restored;
+			answerCount = saved.count || 0;
+			questionIndex = saved.pos < data.length ? saved.pos : data.length - 1;
+		} else {
+			indexLessons(do_shuffle);
+			answerCount = 0;
+			questionIndex = 0;
+		}
+	} else {
+		indexLessons(do_shuffle);
+		answerCount = 0;
+		questionIndex = 0;
+	}
+
+	currentCard = data[questionIndex];
+	saveState();
 	updateStatus();
-	questionIndex = data.length - 1;
-	showNextQuestion()
+	showCurrentQuestion();
 }
 
 function onLoad() {
@@ -637,10 +773,41 @@ function onLoad() {
 			DATA[k]["cards"][q]["cardIdx"] = q;
 		}
 	}
-	indexLessons(false);
+
+	let restored = false;
+	const saved = getSavedState();
+	if(saved) {
+		const savedLessons = lessonsFromNames(saved.lessons);
+		if(savedLessons.length > 0) {
+			lessons = savedLessons;
+			const restoredData = dataFromOrder(saved.order);
+			if(restoredData.length > 0) {
+				data = restoredData;
+				answerCount = saved.count || 0;
+				questionIndex = saved.pos < data.length ? saved.pos : data.length - 1;
+				restored = true;
+			}
+		}
+	}
+
+	if(!restored) {
+		lessons = DATA.slice();
+		indexLessons(false);
+		answerCount = 0;
+		questionIndex = 0;
+	}
+
 	setupLessonsDialog();
+	for(let k = 0; k < DATA.length; ++k) {
+		const cb = document.getElementById(DATA[k].name);
+		cb.checked = lessons.indexOf(DATA[k]) !== -1;
+	}
+	updateLessonLabelState();
+
+	currentCard = data[questionIndex];
 	updateStatus();
-	showNextQuestion();
+	saveState();
+	showCurrentQuestion();
 	window.addEventListener("keypress", (ev) => {
 		if(ev.key === " ") {
 			if(document.getElementById("stroke-overlay").style.display === "flex") {

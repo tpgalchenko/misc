@@ -130,7 +130,7 @@ const L53_2 = {
       "e": "陶醉 도취 intoxication; 陶工 도공 potter, ceramist"
     },
     {
-      "q": "爫+二+山/䍃",
+      "q": "䍃",
       "s": "",
       "k": "",
       "m": "*condor",
