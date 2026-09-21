@@ -206,7 +206,7 @@ const L53_2 = {
       "s": "모",
       "k": "모양",
       "m": "appearance, *countenance",
-      "d": "",
+      "d": "You should have seen the shocked <b>countenance</b> on the girl's face when she saw the <b>skunk</b> nibbling away at the <b>white human legs</b> of the corpse she found in the woods. (Because of that, and the smell of course).",
       "e": "外貌 외모 external features, appearance"
     },
     {
