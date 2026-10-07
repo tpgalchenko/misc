@@ -11,12 +11,12 @@ const L5 =
 			"e": ""
 		},
 		{
-			"q": "乱",
+			"q": "乱/亂",
 			"s": "란,난",
 			"k": "어지러울",
 			"m": "confusion, riot, chaos",
 			"d": "Rioting tongue: it gets 'barbed' like a fishhook, and sets to attacking the opposition, to hook them as it were.",
-			"e": ""
+			"e": " 亂하다 난하다 gaudy, garish, loud (color), flashy; 倭亂 왜란 war against Japan"
 		},
 		{
 			"q": "直",

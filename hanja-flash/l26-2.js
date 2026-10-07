@@ -170,11 +170,11 @@ const L26_2 = {
       "e": "竹器 죽기 bamboo ware"
     },
     {
-      "q": "笑",
+      "q": "咲/笑",
       "s": "소",
 	  "k": "웃음",
-      "m": "laugh",
-      "d": "When the people tried to build a tower of bamboo to reach the heavens, the gods just laughed and laughed.",
+      "m": "laugh, smile",
+      "d": "When the people tried to build a tower of bamboo to reach the heavens, the gods just laughed and laughed.<br>In Japanese 咲 shifted to mean 'to bloom', 'to blossom'",
       "e": "微笑 미소 smile"
     },
     {

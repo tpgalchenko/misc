@@ -167,7 +167,7 @@ const L25_2 = {
 	  "k": "권할",
       "m": "recommend, urge, *persuade",
       "d": "Only the powerful like Hercules can persuade Pegasus to let them ride her.",
-      "e": "勸하다 권하다 exhort, advie, recommend, persuade; offer"
+      "e": "勸하다 권하다 exhort, advise, recommend, persuade; offer"
     },
     {
       "q": "努",

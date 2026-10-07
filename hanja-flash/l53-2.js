@@ -134,7 +134,7 @@ const L53_2 = {
       "s": "",
       "k": "",
       "m": "*condor",
-      "d": "Vulture, king, mountain = condor",
+      "d": "⺼(육달월변 육) + 缶(장군 부). Vulture, king, mountain = condor",
       "e": ""
     },
     {

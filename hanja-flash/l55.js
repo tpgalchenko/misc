@@ -30,7 +30,7 @@ const L55 = {
       "s": "욕",
       "k": "욕될",
       "m": "humiliate, insult, abuse; *embarass",
-      "d": "",
+      "d": "It is embarassing to have a tattoo 'sign of dragon' but it is more so to have a picture glued on the skip instead of a real tattoo.",
       "e": "辱 욕 scolding, reprimand, rebuke, shame, disgrace, insult, humiliation"
     },
     {
@@ -106,12 +106,12 @@ const L55 = {
       "e": "關係 관계 relation, relationship; 關心 관심 interest, concern"
     },
     {
-      "q": "咲",
+      "q": "咲/笑",
       "s": "소",
       "k": "웃음",
-      "m": "*blossom",
+      "m": "smile,blossom",
       "d": "Evil laughs and blossoms from the mouths of those who worship the golden calf.",
-      "e": ""
+      "e": "微笑 미소 smile"
     },
     {
       "q": "鬼",
