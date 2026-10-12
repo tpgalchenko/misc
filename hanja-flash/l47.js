@@ -7,7 +7,7 @@ const L47 = {
       "k": "또",
       "m": "moreover, also; *shelf",
       "d": "A small stand with horizontal shelves. Thus we give it the general meaning of a shelf. It differs from the kanji and primitive for an eye only in its final stroke, which extends beyond the two vertical strokes at both ends.",
-      "e": ""
+      "e": "苟且하다 구차하다 clumsy, awkward, ignoble, very poor, needy"
     },
     {
       "q": "組",

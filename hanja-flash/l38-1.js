@@ -47,7 +47,7 @@ const L38_1 = {
       "k": "독할",
       "m": "poisonous, severe, *cruel",
       "d": "It's cruel to pour alcohol down a cow's mouth. Offering whiskey to people to encourage them to make revelations is cruel.",
-      "e": "苛酷 가혹 severity, cruelty; 酷暑 혹서 fierce hear of summer"
+      "e": "苛酷 가혹 severity, cruelty; 酷暑 혹서 fierce heat of summer"
     },
     {
       "q": "酬",

@@ -26,16 +26,16 @@ const L56 = {
       "e": "雰圍氣 분위기 atmosphere, air, environment"
     },
     {
-      "q": "個/箇/介",
+      "q": "個/箇",
       "s": "개",
       "k": "낱",
       "m": "item",
-      "d": "This item is made of hardened bamboo.",
+      "d": "個/箇/介 This item is made of hardened bamboo.",
       "e": ""
     },
     {
       "q": "錬/鍊",
-      "s": "동",
+      "s": "련",
       "k": "보습 날",
       "m": "smelt metals, *tempering",
       "d": "The old sword smiths of the East were rightly famous. The secret of course was in how they tempered the metal.",
@@ -58,20 +58,12 @@ const L56 = {
       "e": "罷職 파직 dismissal/removal from office, discharge"
     },
     {
-      "q": "且",
-      "s": "차",
-      "k": "또",
-      "m": "moreover",
-      "d": "When someone says 'moreover', he wants you to look at, or cast your eye 目 over, one 一 more thing.",
-      "e": "苟且하다 구차하다 clumsy, awkward, ignoble, very poor, needy"
-    },
-    {
       "q": "藻",
       "s": "조",
       "k": "마름",
       "m": "seaweed",
       "d": "Take seaweed (water + flower) and hang it to dry in a tree to produce nori goods.",
-      "e": "海藻 해조"
+      "e": "海藻 해조 seaweed, marine algae"
     },
     {
       "q": "隷",
