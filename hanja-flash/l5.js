@@ -8,7 +8,9 @@ const L5 =
 			"k": "새",
 			"m": "*fishhook",
 			"d": "Fishhook.",
-			"e": ""
+			"e": "",
+			"lv": ["중학용","3급II(2급)"],
+			"ex": ["갑론을박","甲論乙駁"]
 		},
 		{
 			"q": "乱/亂",
@@ -16,7 +18,9 @@ const L5 =
 			"k": "어지러울",
 			"m": "confusion, riot, chaos",
 			"d": "Rioting tongue: it gets 'barbed' like a fishhook, and sets to attacking the opposition, to hook them as it were.",
-			"e": " 亂하다 난하다 gaudy, garish, loud (color), flashy; 倭亂 왜란 war against Japan"
+			"e": " 亂하다 난하다 gaudy, garish, loud (color), flashy; 倭亂 왜란 war against Japan",
+			"lv": ["고등용","4급(3급)"],
+			"ex": ["난리","亂離"]
 		},
 		{
 			"q": "直",
@@ -24,7 +28,9 @@ const L5 =
 			"k": "곧을",
 			"m": "straight, direct",
 			"d": "<b>Eye</b> of a <b>needle</b> and a <b>fishhook</b> straightened out so that it can pass through the eye of the needle.",
-			"e": "日直 일직 day, duty; 直線 직선 straight line"
+			"e": "日直 일직 day, duty; 直線 직선 straight line",
+			"lv": ["중학용","7급II(6급)"],
+			"ex": ["직접","直接"]
 		},
 		{
 			"q": "具",
@@ -32,7 +38,9 @@ const L5 =
 			"k": "갖출",
 			"m": "tool, implement",
 			"d": "Keep an eye on your tools while you work at the table.",
-			"e": "器具 기구 tool, 具體的 구체적 concrete, definite"
+			"e": "器具 기구 tool, 具體的 구체적 concrete, definite",
+			"lv": ["고등용","5급II(4급II)"],
+			"ex": ["가구","家具"]
 		},
 		{
 			"q": "真/眞",
@@ -40,7 +48,9 @@ const L5 =
 			"k": "참",
 			"m": "real, true",
 			"d": "As the fisherman <b>sits on the ground</b>, his <b>eye</b> on the water, he is struck with an obvious <b>truth</b>: no sentient creature wants a <b>hook</b> through their lip. And with that, he stands up, drops the <b>tool</b> and walks away from fishing forever, a much wiser man.",
-			"e": "眞- 진짜 a real stuff/thing; 寫眞 사진 photograph"
+			"e": "眞- 진짜 a real stuff/thing; 寫眞 사진 photograph",
+			"lv": ["중학용","4급II(3급II)"],
+			"ex": ["사진","寫眞"]
 		},
 		{
 			"q": "工",
@@ -48,7 +58,9 @@ const L5 =
 			"k": "장인",
 			"m": "labor, craft; worker",
 			"d": "I-beam used in heavy construction works.",
-			"e": "工夫 공부 study, 工場 공장 factory"
+			"e": "工夫 공부 study, 工場 공장 factory",
+			"lv": ["중학용","7급II(6급)"],
+			"ex": ["공부","工夫"]
 		},
 		{
 			"q": "左",
@@ -56,7 +68,9 @@ const L5 =
 			"k": "왼",
 			"m": "left",
 			"d": "A <b>craft</b> placed <b>by one's side</b>: occult, sinister (left) craft.",
-			"e": "左派 좌파 left-wing party"
+			"e": "左派 좌파 left-wing party",
+			"lv": ["중학용","7급II(6급)"],
+			"ex": ["좌우","左右"]
 		},
 		{
 			"q": "右",
@@ -64,7 +78,9 @@ const L5 =
 			"k": "오른쪽",
 			"m": "right",
 			"d": "A <b>mouth</b> placed <b>by your's side</b> telling you the right thing to do.",
-			"e": "右派 우파 right-wing party"
+			"e": "右派 우파 right-wing party",
+			"lv": ["중학용","7급II(6급)"],
+			"ex": ["우측","右側"]
 		},
 		{
 			"q": "有",
@@ -72,7 +88,9 @@ const L5 =
 			"k": "있을",
 			"m": "possess",
 			"d": "A slab of <b>meat</b> dangling <b>by the side</b>, perhaphs from a belt or rope tied around the waist. This is an amulet to exorcize an evil spirit in <b>possession</b> of one's soul.",
-			"e": "所有 소유 possession, ownership,"
+			"e": "所有 소유 possession, ownership,",
+			"lv": ["중학용","7급(6급)"],
+			"ex": ["유명","有名"]
 		},
 		{
 			"q": "賄",
@@ -80,7 +98,8 @@ const L5 =
 			"k": "재물",
 			"m": "wealth, bribe",
 			"d": "If you possess enough shellfish, you can bribe anyone.",
-			"e": "賄賂 회뢰 bribe, bribery"
+			"e": "賄賂 회뢰 bribe, bribery",
+			"lv": ["","1급(특급)"]
 		},
 		{
 			"q": "貢",
@@ -88,7 +107,9 @@ const L5 =
 			"k": "바칠",
 			"m": "tribute, offer",
 			"d": "A <b>craft</b> of getting money (<b>shells</b>) to bring tribute to a ruler.",
-			"e": "貢物 공물 tribute, 貢獻 공헌 contribution"
+			"e": "貢物 공물 tribute, 貢獻 공헌 contribution",
+			"lv": ["고등용","3급II(2급)"],
+			"ex": ["공헌","貢獻"]
 		},
 		{
 			"q": "項",
@@ -96,7 +117,9 @@ const L5 =
 			"k": "목",
 			"m": "item, *paragraph",
 			"d": "Page and craft = pacraft -> paracraft; said properly as paragraph.",
-			"e": "項目 항목 heading, item, article, 事項 사항 articles, facts"
+			"e": "項目 항목 heading, item, article, 事項 사항 articles, facts",
+			"lv": ["고등용","3급II(2급)"],
+			"ex": ["사항","事項"]
 		},
 		{
 			"q": "刀",
@@ -104,7 +127,9 @@ const L5 =
 			"k": "칼",
 			"m": "knife, *sword",
 			"d": "Handle of a sword.",
-			"e": "面刀 면도 shaving"
+			"e": "面刀 면도 shaving",
+			"lv": ["중학용","3급II(2급)"],
+			"ex": ["면도","面刀"]
 		},
 		{
 			"q": "刄/刃",
@@ -112,7 +137,8 @@ const L5 =
 			"k": "칼날",
 			"m": "blade",
 			"d": "Drop of blood clinging to the blade.",
-			"e": ""
+			"e": "",
+			"lv": ["","2급(1급)"]
 		},
 		{
 			"q": "切",
@@ -120,7 +146,9 @@ const L5 =
 			"k": "끊을/온통",
 			"m": "cut",
 			"d": "Dicing (<b>seven</b>) everything around with a <b>dagger</b> into pieces.",
-			"e": "品切 품절 out of stock; 適切 적절(하다) suitable, proper; 一切 일체 wholly, a whole"
+			"e": "品切 품절 out of stock; 適切 적절(하다) suitable, proper; 一切 일체 wholly, a whole",
+			"lv": ["고등용","5급II(4급II)"],
+			"ex": ["친절","親切"]
 		},
 		{
 			"q": "召",
@@ -128,7 +156,9 @@ const L5 =
 			"k": "부를",
 			"m": "call, *seduce",
 			"d": "A <b>sword</b> posed over a <b>mouth</b>.",
-			"e": "召喚 소환 summons"
+			"e": "召喚 소환 summons",
+			"lv": ["고등용","3급(2급)"],
+			"ex": ["소집","召集"]
 		},
 		{
 			"q": "昭",
@@ -136,7 +166,9 @@ const L5 =
 			"k": "밝을",
 			"m": "shining",
 			"d": "Shining one's shoes to seduce the sun down on them for all to see.",
-			"e": "昭詳 소상(하다) detailed, minute"
+			"e": "昭詳 소상(하다) detailed, minute",
+			"lv": ["고등용","3급(2급)"],
+			"ex": ["소상히","昭詳 히"]
 		},
 		{
 			"q": "則",
@@ -144,7 +176,9 @@ const L5 =
 			"k": "곧/법칙 ",
 			"m": "rule",
 			"d": "Think of digging for <b>clams</b> in an area where there are gaming rules governing how large a find has to be before you can keep it. So you take a <b>dagger</b>, which you notched like a yardstick, crack open a clam and then measure the poor little beastie to see if it is as long as the <b>rules</b> say it has to be.",
-			"e": "法則 법칙 rule; 規則的 규칙적 regular, systematic"
+			"e": "法則 법칙 rule; 規則的 규칙적 regular, systematic",
+			"lv": ["중학용","5급(4급)"],
+			"ex": ["규칙","規則"]
 		},
 		{
 			"q": "畐",
@@ -160,7 +194,9 @@ const L5 =
 			"k": "버금",
 			"m": "next, *vice-",
 			"d": "A guy with a sword stands next to a wealthy king, that's the vice-roy who does all the dirty work and receives little recompensation.",
-			"e": " 副會長 부회장 vice-chairman/president; 副題 부제 subtitle; 副詞 부사 adverb"
+			"e": " 副會長 부회장 vice-chairman/president; 副題 부제 subtitle; 副詞 부사 adverb",
+			"lv": ["고등용","4급II(3급II)"],
+			"ex": ["부작용","副作用"]
 		},
 		{
 			"q": "别",
@@ -176,7 +212,9 @@ const L5 =
 			"k": "넷째 천간",
 			"m": "nail/spike, *street",
 			"d": "A street sign on a long pole.",
-			"e": "壯丁 장정 a vigorous young man"
+			"e": "壯丁 장정 a vigorous young man",
+			"lv": ["중학용","4급(3급)"],
+			"ex": ["백정","白丁"]
 		},
 		{
 			"q": "町",
@@ -184,7 +222,8 @@ const L5 =
 			"k": "밭두둑",
 			"m": "ridge, *village",
 			"d": "<b>Street signs</b> standing at the corner of the <b>rice fields</b> depict the <b>village</b> limits.",
-			"e": ""
+			"e": "",
+			"lv": ["","1급(특급)"]
 		},
 		{
 			"q": "可",
@@ -192,7 +231,9 @@ const L5 =
 			"k": "옳을",
 			"m": "right/just, *to can",
 			"d": "Remember the story about the 'Little Engine that <b>Could</b>' : a locomotive puffing up the mountain - 'I think I <b>can</b>, I think I <b>can</b>...' - spitting railroad <b>spikes</b> out of its <b>mouth</b> as it ches up the line to the top.",
-			"e": "可能 가능 possibility; 許可 허가 permission, leave"
+			"e": "可能 가능 possibility; 許可 허가 permission, leave",
+			"lv": ["중학용","5급(4급)"],
+			"ex": ["가능","可能"]
 		},
 		{
 			"q": "頂",
@@ -200,7 +241,9 @@ const L5 =
 			"k": "정수리",
 			"m": "the top of the head, *to place on the head",
 			"d": "'To hit the <b>nail</b> on the <b>head</b>' does not mean <b>to place it on your head</b>.",
-			"e": "頂上 정상 summit, peak; 頂수리 the top of the head, cinciput"
+			"e": "頂上 정상 summit, peak; 頂수리 the top of the head, cinciput",
+			"lv": ["중학용","3급II(2급)"],
+			"ex": ["절정","絕頂"]
 		}
 	]
 };

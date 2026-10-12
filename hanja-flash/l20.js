@@ -8,7 +8,9 @@ const L20 =
 			"k": "물들",
 			"m": "dye",
 			"d": "Tom Sawyer tricked Huckleyberry Finn to whitewash a house after receiving <b>nine</b> dead cats hung on a <b>tree</b>.",
-			"e": "染色 염색 dyeing"
+			"e": "染色 염색 dyeing",
+			"lv": ["고등용","3급II(2급)"],
+			"ex": ["염색","染色"]
 		},
 		{
 			"q": "燃",
@@ -16,7 +18,9 @@ const L20 =
 			"k": "불탈",
 			"m": "burn",
 			"d": "Burning is placing wood, coal and all <b>sorts of things</b> to <b>fire</b>.",
-			"e": "燃料 연료 fuel"
+			"e": "燃料 연료 fuel",
+			"lv": ["고등용","4급(3급)"],
+			"ex": ["연료","燃料"]
 		},
 		{
 			"q": "賓/賓",
@@ -24,7 +28,8 @@ const L20 =
 			"k": "손님",
 			"m": "guest, visitor; VIP",
 			"d": "The V.I.P. area, located in the <b>ceiling</b> of the <b>house</b>, is reserved to but a <b>few</b> people; those who have enough <b>shells</b>.",
-			"e": "貴賓 귀빈 an honored/important guest"
+			"e": "貴賓 귀빈 an honored/important guest",
+			"ex": ["국빈","國賓"]
 		},
 		{
 			"q": "歳/歲",
@@ -32,7 +37,9 @@ const L20 =
 			"k": "해",
 			"m": "year (of age)",
 			"d": "Time does not <b>stop</b> its <b>march</b> but a <b>little</b> for the New Year holidays.",
-			"e": "歲拜 세배 New Year's bow; 歲月 세월 time, times, conditions"
+			"e": "歲拜 세배 New Year's bow; 歲月 세월 time, times, conditions",
+			"lv": ["중학용","5급II(4급II)"],
+			"ex": ["세배","歲拜"]
 		},
 		{
 			"q": "県/縣",
@@ -40,7 +47,8 @@ const L20 =
 			"k": "매달/고을",
 			"m": "county, district, *prefecture",
 			"d": "The all-seeing eye 目 of the prefecture has got all the little 小 people down below hooked 乚 into obeying the laws.<br>The modern character for prefecture traces its lineage back to this the old one 県.",
-			"e": ""
+			"e": "",
+			"lv": ["고등용","3급(2급)"]
 		},
 		{
 			"q": "栃",

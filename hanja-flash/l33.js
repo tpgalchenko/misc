@@ -7,7 +7,9 @@ const L33 = {
       "k": "화살",
       "m": "*dart, arrow",
       "d": "When shot high into the heavens, the dart gets so small it looks like a mere drop. Zeus ran out of lightning bolts and has to drop darts from the heavens.",
-      "e": "嚆矢 효시 the beginning, the first"
+      "e": "嚆矢 효시 the beginning, the first",
+      "lv": ["고등용","3급(2급)"],
+      "ex": ["효시","嚆矢"]
     },
     {
       "q": "矯",
@@ -15,7 +17,9 @@ const L33 = {
       "k": "바로잡을",
       "m": "rectify",
       "d": "The Angel cupid uses darts to rectify people's love life.",
-      "e": "矯正 교정 reform, rectification, remedy"
+      "e": "矯正 교정 reform, rectification, remedy",
+      "lv": ["고등용","3급(2급)"],
+      "ex": ["교도소","矯導所"]
     },
     {
       "q": "族",
@@ -23,7 +27,9 @@ const L33 = {
       "k": "겨레",
       "m": "*tribe, family clan",
       "d": "This is the <b>banner</b> of a fearsome <b>tribe</b> whose weapon of choice is the much-maligned poisoned <b>dart</b>.",
-      "e": "家族 가족 family, household"
+      "e": "家族 가족 family, household",
+      "lv": ["중학용","6급(5급)"],
+      "ex": ["가족","家族"]
     },
     {
       "q": "知",
@@ -31,7 +37,9 @@ const L33 = {
       "k": "알",
       "m": "know",
       "d": "If you know the answers, they will fly like darts from your mouth.",
-      "e": "知識 지식 knowledge, knowhow, understanding"
+      "e": "知識 지식 knowledge, knowhow, understanding",
+      "lv": ["중학용","5급II(4급II)"],
+      "ex": ["지능","知能"]
     },
     {
       "q": "智",
@@ -39,7 +47,9 @@ const L33 = {
       "k": "슬기",
       "m": "wisdom",
       "d": "Knowing more each day, brings wisdom.",
-      "e": "智慧 (知慧) 지혜 wisdom, sagacity; 理智 이지 intellect"
+      "e": "智慧 (知慧) 지혜 wisdom, sagacity; 理智 이지 intellect",
+      "lv": ["고등용","4급(3급)"],
+      "ex": ["지혜","智慧/知慧"]
     },
     {
       "q": "挨",
@@ -55,7 +65,9 @@ const L33 = {
       "k": "창",
       "m": "*halberd, spear, lance",
       "d": "Mao (マオ) Zedong always carried a halberd.",
-      "e": "矛盾 모순 contradiction, discrepancy"
+      "e": "矛盾 모순 contradiction, discrepancy",
+      "lv": ["","2급(1급)"],
+      "ex": ["모순","矛盾"]
     },
     {
       "q": "柔",
@@ -63,7 +75,9 @@ const L33 = {
       "k": "부드러울",
       "m": "tender, soft",
       "d": "Love me tender, love me perfect, never cheat on me. Or I'll impale you on my halberd, And hang ya atop a tree...",
-      "e": "柔道 유도 judo; 懷柔 회유 conciliation, pacification"
+      "e": "柔道 유도 judo; 懷柔 회유 conciliation, pacification",
+      "lv": ["중학용","3급II(2급)"],
+      "ex": ["유연성","柔軟性"]
     },
     {
       "q": "務",
@@ -71,7 +85,9 @@ const L33 = {
       "k": "힘쓸",
       "m": "*task, affairs; must, should",
       "d": "It is with the <b>halberd</b> he holds that the <b>taskmaster</b> exerts his <b>power</b> over those actually performing the <b>task</b>.",
-      "e": "勤務 근무 service, duty, work; 義務 의무 duty, obligation"
+      "e": "勤務 근무 service, duty, work; 義務 의무 duty, obligation",
+      "lv": ["중학용","4급II(3급II)"],
+      "ex": ["공무원","公務員"]
     },
     {
       "q": "霧",
@@ -79,7 +95,9 @@ const L33 = {
       "k": "안개",
       "m": "fog",
       "d": "This <b>fog</b> is the perfect <b>weather</b> for us to perform our <b>task</b> undetected.",
-      "e": "噴霧器 분무기 sprayer, pulverizer"
+      "e": "噴霧器 분무기 sprayer, pulverizer",
+      "lv": ["고등용","3급(2급)"],
+      "ex": ["농무","濃霧"]
     },
     {
       "q": "刂",
@@ -95,7 +113,9 @@ const L33 = {
       "k": "나눌",
       "m": "*squad, class, group",
       "d": "Am I the only one who took this as penis and balls? In order to be in the man-squad, naturally you need to have two balls with your 'spear' in the middle there.",
-      "e": "兩班 양반 yangban; 班長 반장 squad leader, foreman"
+      "e": "兩班 양반 yangban; 班長 반장 squad leader, foreman",
+      "lv": ["고등용","6급II(5급II)"],
+      "ex": ["반","班"]
     },
     {
       "q": "帰/歸",
@@ -103,7 +123,9 @@ const L33 = {
       "k": "돌아갈",
       "m": "*home-coming, return",
       "d": "At the homecoming, the man drops his spear, while the women drops her broom and removes her apron. Cherishing the moment that they are reunited.",
-      "e": "歸家 귀가 home-coming"
+      "e": "歸家 귀가 home-coming",
+      "lv": ["중학용","4급(3급)"],
+      "ex": ["귀가","歸家"]
     },
     {
       "q": "弓",
@@ -111,7 +133,9 @@ const L33 = {
       "k": "활",
       "m": "bow; curved",
       "d": "A picture of a bent wooden bow.",
-      "e": "弓道 궁도 archery"
+      "e": "弓道 궁도 archery",
+      "lv": ["중학용","3급II(2급)"],
+      "ex": ["궁예","弓裔"]
     },
     {
       "q": "引",
@@ -119,7 +143,9 @@ const L33 = {
       "k": "끌",
       "m": "pull",
       "d": "A bow that's big enough to shoot a walking stick has got to be hard to pull!",
-      "e": "引用 인용 quotation, citation; 吸引 흡인 absorption, suction"
+      "e": "引用 인용 quotation, citation; 吸引 흡인 absorption, suction",
+      "lv": ["중학용","4급II(3급II)"],
+      "ex": ["할인","割引"]
     },
     {
       "q": "弔",
@@ -127,7 +153,9 @@ const L33 = {
       "k": "조상할",
       "m": "condolences",
       "d": "Perhaps a pictograph of a soldier's weapons - his sword and bow-placed ceremonially over his body before burial, while people offer their condolences.",
-      "e": "慶弔 경조 condolence; 弔喪 조상 condolence"
+      "e": "慶弔 경조 condolence; 弔喪 조상 condolence",
+      "lv": ["고등용","3급(2급)"],
+      "ex": ["조의","弔意"]
     },
     {
       "q": "弘",
@@ -135,7 +163,9 @@ const L33 = {
       "k": "클",
       "m": "vast",
       "d": "The valley was so vast that if you yelled elbow! you could hear it echo: 'bow, bow, bow.'",
-      "e": "弘報 홍보 public information, publicity"
+      "e": "弘報 홍보 public information, publicity",
+      "lv": ["고등용","3급(2급)"],
+      "ex": ["홍보","弘報"]
     },
     {
       "q": "強",
@@ -143,7 +173,8 @@ const L33 = {
       "k": "강할",
       "m": "strong",
       "d": "An <b>insect</b> who can fly <b>vast</b> distances is <b>strong</b>.",
-      "e": "強拍 강박 compulsion, coercion"
+      "e": "強拍 강박 compulsion, coercion",
+      "ex": ["강하다","強 하다"]
     },
     {
       "q": "弥",
@@ -159,7 +190,9 @@ const L33 = {
       "k": "약할",
       "m": "weak",
       "d": "Two weak archers agree on a duel to the death. They constantly shoot at each other but never manage to hit their target. But what they lack in skill they make up in determination, and they keep shooting for hours, and days, and months, until it's wintertime and their bows are coated in ice.",
-      "e": "弱하다 약하다 weak"
+      "e": "弱하다 약하다 weak",
+      "lv": ["중학용","6급II(5급II)"],
+      "ex": ["약하다","弱 하다"]
     },
     {
       "q": "溺",
@@ -167,7 +200,8 @@ const L33 = {
       "k": "빠질",
       "m": "drown",
       "d": "Darwin awards: The weakest of the weak will start drowning if put in several drops of water.",
-      "e": "溺死 익사 drowning; 耽溺 탐닉 indulgence, addiction"
+      "e": "溺死 익사 drowning; 耽溺 탐닉 indulgence, addiction",
+      "ex": ["익사","溺死"]
     },
     {
       "q": "沸",
@@ -175,7 +209,9 @@ const L33 = {
       "k": "끓을",
       "m": "*seethe, boil",
       "d": "Boiling water is so dear that one can buy it only for dollars.",
-      "e": "沸騰 비등 boiling, seething, ebulition"
+      "e": "沸騰 비등 boiling, seething, ebulition",
+      "lv": ["","1급(특급)"],
+      "ex": ["비등하다","沸騰 하다"]
     },
     {
       "q": "費",
@@ -183,7 +219,9 @@ const L33 = {
       "k": "쓸",
       "m": "expense",
       "d": "Shell, one of the largest oil multinationals in the world, makes a lot of dollars in Nigeria, often at the expense of the local population.",
-      "e": "消費 소비 consumption, expenditure, spending; 費用 비용 expense(s)"
+      "e": "消費 소비 consumption, expenditure, spending; 費用 비용 expense(s)",
+      "lv": ["고등용","5급(4급)"],
+      "ex": ["교통비","交通費"]
     },
     {
       "q": "第",
@@ -191,7 +229,9 @@ const L33 = {
       "k": "차례",
       "m": "sequence, number (No.)",
       "d": "The No. 1 currency in the world is the dollar. But, the Asian nations are fast catching up and may in reality have already surpassed it. So, let the bamboo represent the No. 2 currencies (the yen, etc.). The reverse order (bamboo on top and the dollar on the bottom) is really a look at the future.",
-      "e": "第一 제일 the first, number one"
+      "e": "第一 제일 the first, number one",
+      "lv": ["중학용","6급II(5급II)"],
+      "ex": ["제일","第一"]
     },
     {
       "q": "弟",
@@ -199,7 +239,9 @@ const L33 = {
       "k": "아우",
       "m": "younger brother",
       "d": "My condolences, I never knew that your younger brother was born with horns and a tail.",
-      "e": "兄弟 형제 sibling, brothers"
+      "e": "兄弟 형제 sibling, brothers",
+      "lv": ["중학용","8급(6급II)"],
+      "ex": ["형제","兄弟"]
     },
     {
       "q": "丂",
@@ -215,7 +257,9 @@ const L33 = {
       "k": "공교할",
       "m": "*adroit, skillful",
       "d": "To be <b>adroit</b> is to have mastered the <b>craft</b> of avoiding <b>snares</b>.",
-      "e": "工巧하다 공교하다 elaborate, ingenious"
+      "e": "工巧하다 공교하다 elaborate, ingenious",
+      "lv": ["고등용","3급II(2급)"],
+      "ex": ["기교","技巧"]
     },
     {
       "q": "号/號",
@@ -223,7 +267,9 @@ const L33 = {
       "k": "이름",
       "m": "mark, sign. symbol; *nickname",
       "d": "This guy talks too damn much! We nicknamed him snare-mouth. Once you get into a conversation with him, you're like a small animal who wants to escape but can't!",
-      "e": "稱號 칭호 title, name, appelation, designation"
+      "e": "稱號 칭호 title, name, appelation, designation",
+      "lv": ["중학용","6급(5급)"],
+      "ex": ["신호","信號"]
     },
     {
       "q": "朽",
@@ -231,7 +277,9 @@ const L33 = {
       "k": "썩을",
       "m": "decay",
       "d": "The animal carcass decays after being caught in a snare swinging from the side of a tree.",
-      "e": "不朽 불후 immortality; 老朽 노후 one's old age"
+      "e": "不朽 불후 immortality; 老朽 노후 one's old age",
+      "lv": ["","1급(특급)"],
+      "ex": ["불후","不朽"]
     },
     {
       "q": "誇",
@@ -239,7 +287,9 @@ const L33 = {
       "k": "자랑할",
       "m": "exaggerate; *boast",
       "d": "The hunter's <b>boast</b>: I say, it was a '<b>big one</b>', but the <b>snare</b> broke and it got away.",
-      "e": "誇張 과장 exaggeration, magniloquence; 誇示 과시 ostentation, display"
+      "e": "誇張 과장 exaggeration, magniloquence; 誇示 과시 ostentation, display",
+      "lv": ["고등용","3급II(2급)"],
+      "ex": ["과장","誇張"]
     },
     {
       "q": "咢 ",
@@ -255,7 +305,9 @@ const L33 = {
       "k": "턱",
       "m": "jaw, *chin",
       "d": "Left side is crocodile primative. crocodile's head's most prominent feature is his jaw.",
-      "e": "上顎 상악 upper jaw"
+      "e": "上顎 상악 upper jaw",
+      "lv": ["","1급(특급)"],
+      "ex": ["양악","兩顎"]
     },
     {
       "q": "汚",
@@ -263,7 +315,9 @@ const L33 = {
       "k": "더러울",
       "m": "dirty",
       "d": "Be careful, in that dirty water are two hidden snares.",
-      "e": "汚染 오염 pollution, contamination"
+      "e": "汚染 오염 pollution, contamination",
+      "lv": ["고등용","3급(2급)"],
+      "ex": ["오염","汚染"]
     },
     {
       "q": "5",
@@ -279,7 +333,9 @@ const L33 = {
       "k": "더불/줄",
       "m": "bestow",
       "d": "David <b>bestowed one</b> well aimed projectile from his <b>slingshot</b> to Goliath's forehead.",
-      "e": "寄與 기여 contribution"
+      "e": "寄與 기여 contribution",
+      "lv": ["중학용","4급(3급)"],
+      "ex": ["기여","寄與"]
     },
     {
       "q": "写/寫",
@@ -287,7 +343,9 @@ const L33 = {
       "k": "베낄",
       "m": "copy",
       "d": "A <b>crown</b> was <b>bestowed</b> (与) to the British royalty museum, but it was only a <b>copy</b>.<br>In the old days, in order to copy something, you'd have to go to a house where they would grind up the original item in a mortar, set fire to it then make a 'near-perfect' copy from the bound up remains. Unfortunately, it wasn't much use as the original item would get destroyed, which is why we switched to photocopiers.",
-      "e": "描寫 묘사 describe; 寫眞 사진 a photograph"
+      "e": "描寫 묘사 describe; 寫眞 사진 a photograph",
+      "lv": ["고등용","5급(4급)"],
+      "ex": ["사진","寫眞"]
     }
   ]
 };

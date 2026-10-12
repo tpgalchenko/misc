@@ -7,7 +7,8 @@ const L38_1 = {
       "k": "닭",
       "m": "sign of the bird; *whiskey bottle",
       "d": "Whiskey bottle",
-      "e": ""
+      "e": "",
+      "lv": ["중학용","3급(2급)"]
     },
     {
       "q": "酒",
@@ -15,7 +16,9 @@ const L38_1 = {
       "k": "술",
       "m": "wine, *saké",
       "d": "Sake is just watered down whisky.",
-      "e": "燒酒 소주 soju, hard liquor; 麥酒 맥주 beer"
+      "e": "燒酒 소주 soju, hard liquor; 麥酒 맥주 beer",
+      "lv": ["중학용","4급(3급)"],
+      "ex": ["맥주","麥酒"]
     },
     {
       "q": "酌",
@@ -23,7 +26,9 @@ const L38_1 = {
       "k": "술 부을",
       "m": "serve wine; *bartending",
       "d": "At the local pub, their bartending practises are unusual. They serve the whiskey by pouring it from a ladle, like one would from the punch bowl.",
-      "e": "斟酌 짐작 guess, conjecture;  酌婦 작부 waitress, barmaid"
+      "e": "斟酌 짐작 guess, conjecture;  酌婦 작부 waitress, barmaid",
+      "lv": ["고등용","3급(2급)"],
+      "ex": ["짐작","斟酌"]
     },
     {
       "q": "酎",
@@ -39,7 +44,9 @@ const L38_1 = {
       "k": "삭힐",
       "m": "yeast, leaven, *fermentation",
       "d": "The secrets of fermentation are passed to the son who displays the most filial piety.",
-      "e": "醱酵 발효 fermentation; 酵素 효소 ferment, enzym"
+      "e": "醱酵 발효 fermentation; 酵素 효소 ferment, enzym",
+      "lv": ["","1급(특급)"],
+      "ex": ["발효","醱酵"]
     },
     {
       "q": "酷",
@@ -47,7 +54,9 @@ const L38_1 = {
       "k": "독할",
       "m": "poisonous, severe, *cruel",
       "d": "It's cruel to pour alcohol down a cow's mouth. Offering whiskey to people to encourage them to make revelations is cruel.",
-      "e": "苛酷 가혹 severity, cruelty; 酷暑 혹서 fierce heat of summer"
+      "e": "苛酷 가혹 severity, cruelty; 酷暑 혹서 fierce heat of summer",
+      "lv": ["","2급(1급)"],
+      "ex": ["혹평","酷評"]
     },
     {
       "q": "酬",
@@ -55,7 +64,9 @@ const L38_1 = {
       "k": "갚을",
       "m": "toast, reward, *repay",
       "d": "Once Russia was so poor that the people repayed each other's service with vodka.",
-      "e": "報酬 보수 pay, salary, recompense; 酬酌 수작 exchange of cups of wine, exchanging words"
+      "e": "報酬 보수 pay, salary, recompense; 酬酌 수작 exchange of cups of wine, exchanging words",
+      "lv": ["","1급(특급)"],
+      "ex": ["보수","報酬"]
     },
     {
       "q": "酪",
@@ -63,7 +74,8 @@ const L38_1 = {
       "k": "타락",
       "m": "dairy products",
       "d": "To stay healthy, Dr. Phil told me to have some dairy products with each bottle of whiskey I drink...",
-      "e": "酪農 낙농 dairy (farming)"
+      "e": "酪農 낙농 dairy (farming)",
+      "ex": ["낙농","酪農"]
     },
     {
       "q": "酢/醋",
@@ -71,7 +83,8 @@ const L38_1 = {
       "k": "초",
       "m": "toast one's host with wine; vinegar",
       "d": "Drinking alcohol that's turned to vinegar feels like a saw going down your throat.",
-      "e": "(食)醋 (식)초 vinegar"
+      "e": "(食)醋 (식)초 vinegar",
+      "lv": ["","특급II(-)"]
     },
     {
       "q": "酔",
@@ -87,7 +100,9 @@ const L38_1 = {
       "k": "짝",
       "m": "match, pair; *distribute",
       "d": "To <b>distribite whiskey</b> during Prohibition you had to be as sneaky as a <b>snake</b>.",
-      "e": "配慮 배려 consideration, solicitude, care; 支配 지배 control, rule, government, domination; 配達 배달 delivery, distibution"
+      "e": "配慮 배려 consideration, solicitude, care; 支配 지배 control, rule, government, domination; 配達 배달 delivery, distibution",
+      "lv": ["고등용","4급II(3급II)"],
+      "ex": ["배달","配達"]
     },
     {
       "q": "酸",
@@ -95,7 +110,9 @@ const L38_1 = {
       "k": "실",
       "m": "acid",
       "d": "Dealing alcohol requires a <b>license</b>, dealing <b>acid</b> requires fast <b>(walking) legs</b> to run from the police.",
-      "e": "酸素 산소 oxygen; 酸化 산화 oxidation"
+      "e": "酸素 산소 oxygen; 酸化 산화 oxidation",
+      "lv": ["","2급(1급)"],
+      "ex": ["산성","酸性"]
     },
     {
       "q": "猶",
@@ -103,7 +120,9 @@ const L38_1 = {
       "k": "오히려/움직일",
       "m": "*waver",
       "d": "The waver for this kanji means to hesitate. I wavered before going into the bar with a bunch of horned wild dogs drinking whiskey straight out of the bottle.",
-      "e": "猶豫 유예 hesitation, delay"
+      "e": "猶豫 유예 hesitation, delay",
+      "lv": ["중학용","3급II(2급)"],
+      "ex": ["유예","猶豫"]
     },
     {
       "q": "尊",
@@ -111,7 +130,9 @@ const L38_1 = {
       "k": "높을",
       "m": "revered",
       "d": "Have you seen people who save their empty alcohol bottles? Some of them take the reverence too far, and <b>glue</b> the revered <b>bottle of whisky</b> to the wall, mounted like a rack of <b>animal horns</b>.",
-      "e": "尊敬 존경 respect, esteem, reverence; 尊重 존중 respect, esteem, deference"
+      "e": "尊敬 존경 respect, esteem, reverence; 尊重 존중 respect, esteem, deference",
+      "lv": ["중학용","4급II(3급II)"],
+      "ex": ["존경","尊敬"]
     },
     {
       "q": "豆",
@@ -119,7 +140,9 @@ const L38_1 = {
 	  "k": "콩",
       "m": "beans; *table",
       "d": "If I eat beans, after one mouthful I fart like some kind of horned animal.<br><b>*</b> As a primitive, this kanji will mean table.",
-      "e": "豆腐 두부 tofu"
+      "e": "豆腐 두부 tofu",
+      "lv": ["중학용","4급II(3급II)"],
+      "ex": ["두부","豆腐"]
     },
     {
       "q": "頭",
@@ -127,7 +150,9 @@ const L38_1 = {
       "k": "머리",
       "m": "head",
       "d": "The <b>head</b> of the family sits at the <b>head of the <b>table</b>.",
-      "e": "饅頭 만두 a steamed bun, dumpling, mandu; 接頭辭 접두사 prefix"
+      "e": "饅頭 만두 a steamed bun, dumpling, mandu; 接頭辭 접두사 prefix",
+      "lv": ["중학용","6급(5급)"],
+      "ex": ["두통","頭痛"]
     },
     {
       "q": "短",
@@ -135,7 +160,9 @@ const L38_1 = {
       "k": "짧을",
       "m": "short",
       "d": "He's so short, he can't even throw over a table while playing darts.",
-      "e": "短點 단점 shortcoming, defect; 短期 단기 short term/period/duration"
+      "e": "短點 단점 shortcoming, defect; 短期 단기 short term/period/duration",
+      "lv": ["중학용","6급II(5급II)"],
+      "ex": ["단점","短點"]
     },
     {
       "q": "豊/豐",
@@ -143,7 +170,8 @@ const L38_1 = {
 	  "k": "풍년 (豐年)",
       "m": "abundant, *bountiful",
       "d": "The <b>bountiful</b> feast was so abundant that the weight of all kinds of <b>beans</b> <b>bent</b> the table!<br>We go camping on a <b>mountain</b> and get hungry. Luckily the <b>mountain</b> is covered with <b>bushes</b> bearing berries! The supply of berry is so <b>plentiful</b> that there's no need eating the baked <b>beans</b> we've brought.",
-      "e": "豐饒 풍요 richness, abundance"
+      "e": "豐饒 풍요 richness, abundance",
+      "lv": ["","4급II(3급II)"]
     },
     {
       "q": "壴",
@@ -159,7 +187,9 @@ const L38_1 = {
       "k": "북",
       "m": "drum",
       "d": "Hungry <b>Samurai</b> <b>drumming</b> the <b>table</b> with a <b>branch</b> for a drumstick.",
-      "e": "鼓吹 고취 inspiration, instillation, inculcation; 鼓膜 고막 eardrum, tympanum"
+      "e": "鼓吹 고취 inspiration, instillation, inculcation; 鼓膜 고막 eardrum, tympanum",
+      "lv": ["고등용","3급II(2급)"],
+      "ex": ["고막","鼓膜"]
     },
     {
       "q": "喜",
@@ -167,7 +197,9 @@ const L38_1 = {
       "k": "기쁠",
       "m": "rejoice",
       "d": "The samurai sitting on the drum is on a stage, and the people below him are rejoicing with their mouths in unison.",
-      "e": "喜悅/喜樂 희열/희락 joy, gladness, happiness, ecstasy"
+      "e": "喜悅/喜樂 희열/희락 joy, gladness, happiness, ecstasy",
+      "lv": ["중학용","4급(3급)"],
+      "ex": ["환희","歡喜"]
     },
     {
       "q": "樹",
@@ -175,7 +207,9 @@ const L38_1 = {
       "k": "나무",
       "m": "tree, *timber-trees; set up, establish",
       "d": "The hippies object to trees being cut down for timber. They have glued themselves to the timber-trees and are beating their drums.",
-      "e": "樹木 수목 live tree; 樹立 수립 establishment, founding, setting-up"
+      "e": "樹木 수목 live tree; 樹立 수립 establishment, founding, setting-up",
+      "lv": ["중학용","6급(5급)"],
+      "ex": ["수립","樹立"]
     },
     {
       "q": "皿",
@@ -183,7 +217,8 @@ const L38_1 = {
       "k": "그릇",
       "m": "dish",
       "d": "Three dishes stacked side-by-side in a dishwasher.",
-      "e": "器皿 기명 vessels and dishes"
+      "e": "器皿 기명 vessels and dishes",
+      "lv": ["","1급(특급)"]
     },
     {
       "q": "血",
@@ -191,7 +226,9 @@ const L38_1 = {
       "k": "피",
       "m": "blood",
       "d": "A drop of blood in a petridish.",
-      "e": "出血 출혈 bleeding, hemorrhage"
+      "e": "出血 출혈 bleeding, hemorrhage",
+      "lv": ["중학용","4급II(3급II)"],
+      "ex": ["빈혈","貧血"]
     },
     {
       "q": "盆",
@@ -199,7 +236,9 @@ const L38_1 = {
       "k": "동이",
       "m": "*basin, tub, bowl",
       "d": "The <b>part</b> of the kitchen sink in which you wash <b>dishes</b> in is the basin.",
-      "e": "花盆 화분 flowerpot; 盆地 분지 basin, valley, depression"
+      "e": "花盆 화분 flowerpot; 盆地 분지 basin, valley, depression",
+      "lv": ["","1급(특급)"],
+      "ex": ["화분","花盆"]
     },
     {
       "q": "盟",
@@ -207,7 +246,9 @@ const L38_1 = {
       "k": "맹세",
       "m": "swear, oath, vow, *alliance",
       "d": "The future of this couple doesn't look very <b>bright</b>. Not many days passed since they had said their <b>vows</b> but they already started throwing <b>dishes</b> at each other...",
-      "e": "盟誓 맹세 oath, vow, pledge; 同盟 동맹 alliance, union, league"
+      "e": "盟誓 맹세 oath, vow, pledge; 同盟 동맹 alliance, union, league",
+      "lv": ["고등용","3급II(2급)"],
+      "ex": ["맹세","盟誓▽"]
     },
     {
       "q": "盗/盜",
@@ -215,7 +256,9 @@ const L38_1 = {
       "k": "도둑",
       "m": "steal",
       "d": "A skilful thief can steal your dish while you're yawning.",
-      "e": "竊盜 절도 theft, stealing, thief; 盜賊 도적 thief, robber, burglar"
+      "e": "竊盜 절도 theft, stealing, thief; 盜賊 도적 thief, robber, burglar",
+      "lv": ["고등용","4급(3급)"],
+      "ex": ["도난","盜難"]
     },
     {
       "q": "温/溫",
@@ -223,7 +266,9 @@ const L38_1 = {
       "k": "따뜻할",
       "m": "warm",
       "d": "If you leave water out in the sun in a dish, naturally it will get warm.",
-      "e": "溫度 온도 hot/thermal spring; 體溫 체온 body temperature/heat"
+      "e": "溫度 온도 hot/thermal spring; 體溫 체온 body temperature/heat",
+      "lv": ["중학용","6급(5급)"],
+      "ex": ["기온","氣溫"]
     },
     {
       "q": "蓋",
@@ -231,7 +276,9 @@ const L38_1 = {
       "k": "덮을",
       "m": "cover, *lid",
       "d": "The <b>lid</b> of this <b>dish</b> is <b>gone</b>! Now the whole room smells of the <b>flowers</b> that were used in the cooking.",
-      "e": "蓋然性 개연성 probability; 頭蓋骨 두개골 skull, cranium, cranial bone"
+      "e": "蓋然性 개연성 probability; 頭蓋骨 두개골 skull, cranium, cranial bone",
+      "lv": ["고등용","3급II(2급)"],
+      "ex": ["개연","蓋然"]
     },
     {
       "q": "監",
@@ -239,7 +286,9 @@ const L38_1 = {
       "k": "볼",
       "m": "*oversee, supervise",
       "d": "The slavetrader oversees the slaves washing dishes int he kitchen. No reclining on the floor!",
-      "e": "監督 감독 supervision, direction, control; supervisor, overseer, director"
+      "e": "監督 감독 supervision, direction, control; supervisor, overseer, director",
+      "lv": ["고등용","4급II(3급II)"],
+      "ex": ["감독","監督"]
     },
     {
       "q": "濫",
@@ -247,7 +296,9 @@ const L38_1 = {
       "k": "넘칠",
       "m": "overflow",
       "d": "The <b>oversee</b>r isn't doing his job and he lets the <b>slaves</b> <b>recline</b> on the floor instead of washing <b>dishes</b> and finally <b>overflow</b> the sink!",
-      "e": "汎濫/氾濫 범람 inundation, flooding, overflow; 濫用 남용 abuse, misuse"
+      "e": "汎濫/氾濫 범람 inundation, flooding, overflow; 濫用 남용 abuse, misuse",
+      "lv": ["고등용","3급(2급)"],
+      "ex": ["남용","濫用"]
     },
     {
       "q": "鑑",
@@ -255,7 +306,9 @@ const L38_1 = {
       "k": "거울",
       "m": "mirror, reflect; *specimen",
       "d": "The overseer tags his favorite slave with gold earrings. 'Ah, what a fine specimen!'",
-      "e": "龜鑑 귀감 model, paragon, example, mirror; 年鑑 연감 yearbook, almanac"
+      "e": "龜鑑 귀감 model, paragon, example, mirror; 年鑑 연감 yearbook, almanac",
+      "lv": ["고등용","3급II(2급)"],
+      "ex": ["감상","鑑賞"]
     },
     {
       "q": "藍",
@@ -263,7 +316,8 @@ const L38_1 = {
       "k": "쪽",
       "m": "indigo",
       "d": "Indigo flowers have to be overseen/supervised because they are often picked for their beauty.",
-      "e": "藍빛 남빛 indigo, deep blue"
+      "e": "藍빛 남빛 indigo, deep blue",
+      "ex": ["남색","藍色"]
     },
     {
       "q": "猛",
@@ -271,7 +325,9 @@ const L38_1 = {
       "k": "사나울",
       "m": "violent, savege, *fierce",
       "d": "A fierce little fat kid, defending his dish of food from a pack of dogs.",
-      "e": "猛獸 맹수 fierce animal, savage beast"
+      "e": "猛獸 맹수 fierce animal, savage beast",
+      "lv": ["고등용","3급II(2급)"],
+      "ex": ["맹렬하다","猛烈 하다"]
     },
     {
       "q": "盛",
@@ -279,7 +335,9 @@ const L38_1 = {
       "k": "성할",
       "m": "boom",
       "d": "Japan's economic boom turned their empty plates into full ones.",
-      "e": "盛하다 성하다 prosperous, thriving"
+      "e": "盛하다 성하다 prosperous, thriving",
+      "lv": ["중학용","4급II(3급II)"],
+      "ex": ["극성","極盛"]
     },
     {
       "q": "塩/鹽",
@@ -287,7 +345,9 @@ const L38_1 = {
       "k": "소금",
       "m": "salt",
       "d": "In the old days, salt was a worth alot, so it is not surprising to find someone reclining on the ground, mouth to plate, getting every last grain of that delicious salt.",
-      "e": ""
+      "e": "",
+      "lv": ["고등용","3급II(2급)"],
+      "ex": ["식염","食鹽"]
     }
   ]
 };

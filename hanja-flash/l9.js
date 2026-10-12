@@ -8,7 +8,9 @@ const L9 =
 			"k": "마을",
 			"m": "ri, village, *computer",
 			"d": "The <b>land</b> division based on the size of a <b>rice field</b> is called a ri.",
-			"e": "海里 해리 nautical mile/knot, sea village"
+			"e": "海里 해리 nautical mile/knot, sea village",
+			"lv": ["중학용","7급(6급)"],
+			"ex": ["동리","洞里"]
 		},
 		{
 			"q": "黒/黑",
@@ -16,7 +18,9 @@ const L9 =
 			"k": "검을",
 			"m": "black",
 			"d": "Like most things electrical, a computer, too, can overheat. Just imagine flames pouring out of it and charring the keyboard, the monitor, and your desk a sooty black color.",
-			"e": "黑色 흑색 black color"
+			"e": "黑色 흑색 black color",
+			"lv": ["중학용","5급(4급)"],
+			"ex": ["흑백","黑白"]
 		},
 		{
 			"q": "墨",
@@ -32,7 +36,8 @@ const L9 =
 			"k": "잉어",
 			"m": "carp",
 			"d": "A small home <b>computer</b> or two strung on the line by a father anxious for his son not only to have the courage and determination of a <b>carp</b> swimming upstream, but also the efficiency and memory of a computer.",
-			"e": ""
+			"e": "",
+			"lv": ["","특급II(-)"]
 		},
 		{
 			"q": "量",
@@ -40,7 +45,9 @@ const L9 =
 			"k": "헤아릴",
 			"m": "quantity",
 			"d": "A <b>quantity</b> of time in the new day that begins with <b>nightbreak</b>, and a <b>quantity</b> of distance in the rural <b>ri</b>. ",
-			"e": "分量 분량 quantity, amount, dose"
+			"e": "分量 분량 quantity, amount, dose",
+			"lv": ["중학용","5급(4급)"],
+			"ex": ["대량","大量"]
 		},
 		{
 			"q": "厘",
@@ -48,7 +55,9 @@ const L9 =
 			"k": "다스릴",
 			"m": "rin (yen/1000)",
 			"d": "The total market value of one home computer that has fallen over rock and bramble for several hundred feet: about one rin!",
-			"e": ""
+			"e": "",
+			"lv": ["","특급II(-)"],
+			"ex": ["리","釐/厘"]
 		},
 		{
 			"q": "埋",
@@ -56,7 +65,9 @@ const L9 =
 			"k": "묻을",
 			"m": "bury",
 			"d": "We are burying our beloved computer that has served us so well these past years. Behind us a choir chants the “Dies irae, dies illa” and there is much wailing and grief among the bystanders as they pass by to shovel a little <b>soil</b> into what will be its final resting place. R.I.P",
-			"e": "埋藏量 매장량 deposits, reserves"
+			"e": "埋藏量 매장량 deposits, reserves",
+			"lv": ["고등용","3급(2급)"],
+			"ex": ["매립","埋立"]
 		},
 		{
 			"q": "冂",
@@ -64,7 +75,8 @@ const L9 =
 			"k": "멀",
 			"m": "far, *hood",
 			"d": "",
-			"e": ""
+			"e": "",
+			"lv": ["","특급(-)"]
 		},
 		{
 			"q": "同",
@@ -72,7 +84,9 @@ const L9 =
 			"k": "한가지",
 			"m": "same",
 			"d": "A monk's <b>cowl/hood</b> lets us see only <b>one</b> <b>mouth</b>. The monks speak their prayers in common and lead the <b>same</b> monastic life.",
-			"e": "同學 동학 classmate"
+			"e": "同學 동학 classmate",
+			"lv": ["중학용","7급(6급)"],
+			"ex": ["동시","同時"]
 		},
 		{
 			"q": "洞",
@@ -80,7 +94,9 @@ const L9 =
 			"k": "골",
 			"m": "den",
 			"d": "A den of wild beasts dressed up in habits and living the common (same) life in a mountain cavern. There is a sacred “puddle” in the center of their den, the focus of all their pious attentions.",
-			"e": "洞窟 동굴 cave"
+			"e": "洞窟 동굴 cave",
+			"lv": ["중학용","7급(6급)"],
+			"ex": ["동네","洞 네"]
 		},
 		{
 			"q": "胴",
@@ -88,7 +104,9 @@ const L9 =
 			"k": "큰창자",
 			"m": "trunk",
 			"d": "The word trunk refers to the part of the body that is left when you have “truncated” all the limbs. One was lumberjacking corpses and needed to have them all properly pruned and made the <b>same</b> so they could be floated downstream without causing a body-jam.",
-			"e": "胴體 동체 trunk, body"
+			"e": "胴體 동체 trunk, body",
+			"lv": ["","1급(특급)"],
+			"ex": ["동체","胴體"]
 		},
 		{
 			"q": "向",
@@ -96,7 +114,9 @@ const L9 =
 			"k": "향할",
 			"m": "there, *yonder",
 			"d": "An extraterrestrial in a sort of transparent <b>helmet</b> with no eyes or nose, but only a prominent <b>mouth</b> under it, he is jabbering something with his mouth open, point out at a wee <b>drop</b> in the distance.",
-			"e": "趣向 취향 taste, liking"
+			"e": "趣向 취향 taste, liking",
+			"lv": ["중학용","6급(5급)"],
+			"ex": ["방향","方向"]
 		},
 		{
 			"q": "尚",
@@ -120,7 +140,9 @@ const L9 =
 			"k": "글자",
 			"m": "character",
 			"d": "A child born to a house is given characters for its name, so it is also stamped with the <b>character</b> of those who raise it from infancy on.",
-			"e": "漢字 한자 hanja"
+			"e": "漢字 한자 hanja",
+			"lv": ["중학용","7급(6급)"],
+			"ex": ["글자","글 字"]
 		},
 		{
 			"q": "守",
@@ -128,7 +150,9 @@ const L9 =
 			"k": "지킬",
 			"m": "protect, guard",
 			"d": "The whole idea of hiring guards is that they should stick like <b>glue</b> to your <b>house</b> to protect it from unwanted prowlers.",
-			"e": "保守派 보수파 conservative people/party"
+			"e": "保守派 보수파 conservative people/party",
+			"lv": ["중학용","4급II(3급II)"],
+			"ex": ["수비","守備"]
 		},
 		{
 			"q": "完",
@@ -136,7 +160,9 @@ const L9 =
 			"k": "완전할",
 			"m": "perfect",
 			"d": "A house that has been made perfectly from its beginnings in the  foundation to the roof on the top.",
-			"e": "完全 완전 perfection"
+			"e": "完全 완전 perfection",
+			"lv": ["중학용","5급(4급)"],
+			"ex": ["완전히","完全 히"]
 		},
 		{
 			"q": "宣",
@@ -144,7 +170,9 @@ const L9 =
 			"k": "베풀",
 			"m": "proclaim",
 			"d": "Proclaiming the good news to all nations. Shouting it from the housetops.",
-			"e": "宣傳 선전 propaganda, publicity"
+			"e": "宣傳 선전 propaganda, publicity",
+			"lv": ["고등용","4급(3급)"],
+			"ex": ["선전","宣傳"]
 		},
 		{
 			"q": "宵",
@@ -152,7 +180,8 @@ const L9 =
 			"k": "밤",
 			"m": "wee hours",
 			"d": "The late evening or early morning hours, well after one should be in bed asleep. The reason is obvious: whoever is living there is “burning the <b>candle</b> at both ends,” and working night after night into the wee hours.",
-			"e": ""
+			"e": "",
+			"lv": ["","1급(특급)"]
 		},
 		{
 			"q": "安",
@@ -160,7 +189,9 @@ const L9 =
 			"k": "편안",
 			"m": "easiness, relax",
 			"d": "The scruffy and weary woman of the house slouched asleep in the living room chair, her hair in curlers and a duster lying in her lap.",
-			"e": "便安 편안 safety, easiness, comfort"
+			"e": "便安 편안 safety, easiness, comfort",
+			"lv": ["중학용","7급II(6급)"],
+			"ex": ["미안","未安"]
 		},
 		{
 			"q": "宴",
@@ -168,7 +199,9 @@ const L9 =
 			"k": "잔치",
 			"m": "banquet",
 			"d": "A woman spent the entire day of work at house in preparing for a dinner banquet, pictorially “interrupting” her relaxation. ",
-			"e": "宴會 연회 party, dinner, banquet"
+			"e": "宴會 연회 party, dinner, banquet",
+			"lv": ["고등용","3급II(2급)"],
+			"ex": ["피로연","披露宴"]
 		},
 		{
 			"q": "寄",
@@ -176,7 +209,9 @@ const L9 =
 			"k": "부칠",
 			"m": "send",
 			"d": "Is it not strange that when someone builds a house, his friends send him workers with axes to help building up the house? Sending helper hands and extra tools is always a good idea.",
-			"e": "寄與 기여 contribution, service"
+			"e": "寄與 기여 contribution, service",
+			"lv": ["고등용","4급(3급)"],
+			"ex": ["기숙사","寄宿舍"]
 		},
 		{
 			"q": "富",
@@ -184,7 +219,9 @@ const L9 =
 			"k" : "부유할",
 			"m": "abundant, wealthy",
 			"d": "In ancient Japan, a <b>rice field</b> is a unit of <b>wealth</b> as it can produce enough to feed all the <b>mouths</b> in <b>one house</b>.",
-			"e": "富者 부자 rich/wealthy man"
+			"e": "富者 부자 rich/wealthy man",
+			"lv": ["중학용","4급II(3급II)"],
+			"ex": ["부자","富者"]
 		},
 		{
 			"q": "貯",
@@ -192,7 +229,9 @@ const L9 =
 			"k": "쌓을",
 			"m": "to pile up, *savings",
 			"d": "The shells, the money of older days, are piled up and hidden inside the house. The nail driven into the rafters shows the hiding place.",
-			"e": "貯金 저금 savings, deposit"
+			"e": "貯金 저금 savings, deposit",
+			"lv": ["중학용","5급(4급)"],
+			"ex": ["저금","貯金"]
 		}
 	]
 };

@@ -7,7 +7,9 @@ const L30 = {
 	  "k": "보일",
       "m": "show; *altar",
       "d": "示/礻/𥘅 Although the elements two and little are available for the using, it may be easier to remember this character as a picture of an altar. Something placed atop the altar is put on show for all to see.",
-      "e": "展示 전시 display, exhibition; 揭示 게시 notice, notification, placard"
+      "e": "展示 전시 display, exhibition; 揭示 게시 notice, notification, placard",
+      "lv": ["중학용","5급(4급)"],
+      "ex": ["게시","揭示"]
     },
     {
       "q": "曲",
@@ -15,7 +17,9 @@ const L30 = {
 	  "k": "굽을",
       "m": "*bend; melody",
       "d": "This is a guitar fretboard. You have to bend the strings to produce a melody.",
-      "e": "曲線 곡선 curved line, curve; 作曲 작곡 musical composition"
+      "e": "曲線 곡선 curved line, curve; 作曲 작곡 musical composition",
+      "lv": ["중학용","5급(4급)"],
+      "ex": ["작곡","作曲"]
     },
     {
       "q": "礼/禮",
@@ -31,7 +35,8 @@ const L30 = {
 	  "k": "복",
       "m": "good luck, *auspicious",
       "d": "Bringing a sheep to sacrifice on the altar was a sign of an auspicious life. The poor could only afford a pigeon, the more auspicious an expensive sheep for an offering.",
-      "e": "祥瑞 상서 good omen, auspicious sign"
+      "e": "祥瑞 상서 good omen, auspicious sign",
+      "ex": ["발상지","發祥地"]
     },
     {
       "q": "祝",
@@ -39,7 +44,8 @@ const L30 = {
 	  "k": "빌",
       "m": "*celebrate, pray for happiness",
       "d": "When Japanese people turn 20 they usually visit the <b>altar</b> at their local shrine and <b>celebrate</b> no longer being a <b>teenager</b>.",
-      "e": "祝賀 축하 celebration, congratulations, felicitations"
+      "e": "祝賀 축하 celebration, congratulations, felicitations",
+      "ex": ["축하","祝賀"]
     },
     {
       "q": "福",
@@ -47,7 +53,8 @@ const L30 = {
 	  "k": "복",
       "m": "*blessing, happiness",
       "d": "Indulgences - one gives wealth to the altar and receives a blessing.",
-      "e": "福 fortune, good luck, blessing, happiness"
+      "e": "福 fortune, good luck, blessing, happiness",
+      "ex": ["행복","幸福"]
     },
     {
       "q": "祉",
@@ -55,7 +62,9 @@ const L30 = {
 	  "k": "복",
       "m": "*welfare, happiness, blessings",
       "d": "If <b>altars stopped</b> getting visited, God would put an end to our <b>welfare</b>.",
-      "e": "福祉 복지 welfare, well-being"
+      "e": "福祉 복지 welfare, well-being",
+      "lv": ["","1급(특급)"],
+      "ex": ["복지","福祉"]
     },
     {
       "q": "社",
@@ -63,7 +72,8 @@ const L30 = {
 	  "k": "토지신 (土地神)",
       "m": "company",
       "d": "When you enter a Japanese company it's like you join a cult... your workdesk becomes your altar and you worship the very soil the office is built on.",
-      "e": "會社 회사 company, firm"
+      "e": "會社 회사 company, firm",
+      "ex": ["사업","社業"]
     },
     {
       "q": "視",
@@ -71,7 +81,8 @@ const L30 = {
 	  "k": "볼",
       "m": "*inspection, observe, see",
       "d": "At the altar, god looks at you, in an inspection of your soul.",
-      "e": "無視 무시 disregard, neglect"
+      "e": "無視 무시 disregard, neglect",
+      "ex": ["감시","監視"]
     },
     {
       "q": "奈",
@@ -79,7 +90,8 @@ const L30 = {
 	  "k": "어찌",
       "m": "*Nara, but, however",
       "d": "Nara is just a big show for tourists. There is also a big altar.",
-      "e": "奈落 (那落) 나락 hell; 莫無可奈 막무가내 stubbornly,obstinately"
+      "e": "奈落 (那落) 나락 hell; 莫無可奈 막무가내 stubbornly,obstinately",
+      "ex": ["막무가내","莫無可奈"]
     },
     {
       "q": "尉",
@@ -87,7 +99,9 @@ const L30 = {
 	  "k": "벼슬 이름",
       "m": "military officer",
       "d": "Military officers glue to the flag as if it were a holy altar.",
-      "e": "大尉 대위 captain; 少尉 소위 second lieutenant, sublieutenant"
+      "e": "大尉 대위 captain; 少尉 소위 second lieutenant, sublieutenant",
+      "lv": ["","2급(1급)"],
+      "ex": ["대위","大尉"]
     },
     {
       "q": "慰",
@@ -95,7 +109,9 @@ const L30 = {
 	  "k": "위로할",
       "m": "consolation",
       "d": "A military officer must offer consolation to the hearts of the families of his fallen men.",
-      "e": "慰勞 위로 consolation, solace, comfort"
+      "e": "慰勞 위로 consolation, solace, comfort",
+      "lv": ["고등용","4급(3급)"],
+      "ex": ["위로","慰勞"]
     },
     {
       "q": "款",
@@ -103,7 +119,9 @@ const L30 = {
 	  "k": "항목",
       "m": "article, clause; *goodwill",
       "d": "A samruai sits by the alter of his clan and studies their code of rules article by article, clause by clause. What a boredom! He can't help yawning despite his goodwill.",
-      "e": "約款 약관 article, clause; 定款 정관 articles of association"
+      "e": "約款 약관 article, clause; 定款 정관 articles of association",
+      "lv": ["","2급(1급)"],
+      "ex": ["정관","定款"]
     },
     {
       "q": "禁",
@@ -111,7 +129,9 @@ const L30 = {
 	  "k": "금할",
       "m": "prohibition",
       "d": "You are <b>prohibited</b> from entering the <b>grove</b> because there is a sacred <b>altar</b> inside it.",
-      "e": "禁止 금지 prohibition, ban, taboo, interdiction"
+      "e": "禁止 금지 prohibition, ban, taboo, interdiction",
+      "lv": ["중학용","4급II(3급II)"],
+      "ex": ["금지","禁止"]
     },
     {
       "q": "襟",
@@ -119,7 +139,9 @@ const L30 = {
 	  "k": "옷깃",
       "m": "collar",
       "d": "A collar is the part of your cloak that, if tightened too tight, will prohibit breathing.",
-      "e": "胸襟 흉금 the bossom, the heart, the inner mind"
+      "e": "胸襟 흉금 the bossom, the heart, the inner mind",
+      "lv": ["","1급(특급)"],
+      "ex": ["흉금","胸襟"]
     },
     {
       "q": "宗",
@@ -127,7 +149,9 @@ const L30 = {
 	  "k": "마루",
       "m": "lineage, ancestry; *religion",
       "d": "All the religions have their own temples, which are houses where they place their altars.",
-      "e": "宗敎 종교 religion; 宗派 종파 religious sect, main branch of a family"
+      "e": "宗敎 종교 religion; 宗派 종파 religious sect, main branch of a family",
+      "lv": ["중학용","4급II(3급II)"],
+      "ex": ["종교","宗敎"]
     },
     {
       "q": "崇",
@@ -135,7 +159,9 @@ const L30 = {
 	  "k": "높을",
       "m": "*adore, esteem, venerate",
       "d": "In ancient Greece, it was the religion of the time to adore the gods who live on Mount Olympus.",
-      "e": "崇尙 숭상 respect, veneration"
+      "e": "崇尙 숭상 respect, veneration",
+      "lv": ["중학용","4급(3급)"],
+      "ex": ["숭배","崇拜"]
     },
     {
       "q": "祭",
@@ -143,7 +169,9 @@ const L30 = {
 	  "k": "제사",
       "m": "*ritual; sacrifice to, worship",
       "d": "A ritual such as a circumcision: a small piece of flesh from the crotch is left on the altar.",
-      "e": "祭祀 제사 memorial service; 祭壇 제단 altar"
+      "e": "祭祀 제사 memorial service; 祭壇 제단 altar",
+      "lv": ["중학용","4급II(3급II)"],
+      "ex": ["제사","祭祀"]
     },
     {
       "q": "察",
@@ -151,7 +179,9 @@ const L30 = {
 	  "k": "살필",
       "m": "*guess; examine, investigate",
       "d": "I have an informed guess about whose house the dark rituals are performed at, the police has to examine the house.",
-      "e": "警察 경찰 police"
+      "e": "警察 경찰 police",
+      "lv": ["중학용","4급II(3급II)"],
+      "ex": ["경찰","警察"]
     },
     {
       "q": "擦",
@@ -159,7 +189,9 @@ const L30 = {
 	  "k": "문지를 찰",
       "m": "*grate, wipe, scrub",
       "d": "After he grated off his finger prints it was impossible for the police to guess his identity...",
-      "e": "摩擦 마찰 rubbing, chafing"
+      "e": "摩擦 마찰 rubbing, chafing",
+      "lv": ["","1급(특급)"],
+      "ex": ["마찰","摩擦"]
     },
     {
       "q": "由",
@@ -167,7 +199,9 @@ const L30 = {
 	  "k": "말미암을",
       "m": "cause, wherefore, *sprout",
       "d": "The “wherefore” of this kanji explains the reason or origin of a thing. It does this graphically by depicting a seed in a rice field lesson sending up a single sprout, which is the whole why and wherefore of the seed’s falling in the earth and dying.",
-      "e": "自由 자유 freedom; 理由 이유 reason, grounds, cause"
+      "e": "自由 자유 freedom; 理由 이유 reason, grounds, cause",
+      "lv": ["중학용","6급(5급)"],
+      "ex": ["이유","理由"]
     },
     {
       "q": "抽",
@@ -175,7 +209,9 @@ const L30 = {
 	  "k": "뽑을",
       "m": "*pluck, draw out",
       "d": "Fingers pluck a single sprout.",
-      "e": "抽出 추출 abstraction, extgraction"
+      "e": "抽出 추출 abstraction, extgraction",
+      "lv": ["고등용","3급(2급)"],
+      "ex": ["추첨","抽籤"]
     },
     {
       "q": "油",
@@ -183,7 +219,9 @@ const L30 = {
 	  "k": "기름",
       "m": "oil",
       "d": "The liquid oil that sprouts from an oil field.",
-      "e": "石油 석유 oil, petroleum"
+      "e": "石油 석유 oil, petroleum",
+      "lv": ["중학용","6급(5급)"],
+      "ex": ["석유","石油"]
     },
     {
       "q": "袖",
@@ -191,7 +229,9 @@ const L30 = {
 	  "k": "소매",
       "m": "sleeve",
       "d": "Sleeves are just what sprouts out of the sides of garments.",
-      "e": "袖手傍觀 수수방관 merely watch, stand by idly and watch"
+      "e": "袖手傍觀 수수방관 merely watch, stand by idly and watch",
+      "lv": ["","1급(특급)"],
+      "ex": ["수수방관","袖手傍觀"]
     },
     {
       "q": "宙",
@@ -199,7 +239,9 @@ const L30 = {
 	  "k": "집",
       "m": "*mid-air; home",
       "d": "As a part of an experiment spouts are floating freely in the mid-air at the international space station.",
-      "e": "宇宙 우주 the universe, space"
+      "e": "宇宙 우주 the universe, space",
+      "lv": ["중학용","3급II(2급)"],
+      "ex": ["우주","宇宙"]
     },
     {
       "q": "届/屆",
@@ -207,7 +249,9 @@ const L30 = {
 	  "k": "이를",
       "m": "*deliver, document",
       "d": "When a new e-mail is delivered to me, a little flag sprouts up on the icon.<br>In the old days, when a delivery arrived, a signal flag went up, and a samurai brought the delivery to you in a shovel.",
-      "e": "缺勤屆 결근계 report/notice of absence"
+      "e": "缺勤屆 결근계 report/notice of absence",
+      "lv": ["","특급II(-)"],
+      "ex": ["결근계","缺勤屆"]
     },
     {
       "q": "笛",
@@ -215,7 +259,9 @@ const L30 = {
 	  "k": "피리",
       "m": "*flute, whistle",
       "d": "Flute is made of bamboo sprout.",
-      "e": "警笛 경적 alarm whistle, warning horn"
+      "e": "警笛 경적 alarm whistle, warning horn",
+      "lv": ["","3급II(2급)"],
+      "ex": ["경적","警笛"]
     },
     {
       "q": "軸",
@@ -223,7 +269,9 @@ const L30 = {
 	  "k": "굴대",
       "m": "axis",
       "d": "Imagine a car going across a plain at a fast speed. Suddenly a single sprout (the only one to be seen) gets stuck to the car's wheels, causing the car to fly around its axis.",
-      "e": " 地軸 지축 the earth's axis"
+      "e": " 地軸 지축 the earth's axis",
+      "lv": ["","2급(1급)"],
+      "ex": ["기축","機軸"]
     },
     {
       "q": "甲",
@@ -231,7 +279,9 @@ const L30 = {
 	  "k": "갑옷",
       "m": "armor; *roots",
       "d": "The armor of the Teenage Mutant Ninja Turtles.",
-      "e": "同甲 동갑 the same age, a person of the same age"
+      "e": "同甲 동갑 the same age, a person of the same age",
+      "lv": ["중학용","4급(3급)"],
+      "ex": ["장갑","掌匣/掌甲"]
     },
     {
       "q": "押",
@@ -239,7 +289,9 @@ const L30 = {
 	  "k": "누를",
       "m": "*push",
       "d": "Fingers pushing seeds downwards so roots grow deep.",
-      "e": "押釘 압정 thumbtack, pushpin"
+      "e": "押釘 압정 thumbtack, pushpin",
+      "lv": ["고등용","3급(2급)"],
+      "ex": ["압류","押留"]
     },
     {
       "q": "岬",
@@ -247,7 +299,8 @@ const L30 = {
 	  "k": "곶",
       "m": "cape, promontory, *headland",
       "d": "A headland is a mountain that is firmly rooted despite being surrounded on 3 sides by water. (Just like your head is a mountain surrounded by air on 3 sides, a headland!)",
-      "e": ""
+      "e": "",
+      "lv": ["","2급(특급II)"]
     },
     {
       "q": "挿/插",
@@ -263,7 +316,9 @@ const L30 = {
 	  "k": "거듭",
       "m": "*speaketh; zodiacal sign of the monkey",
       "d": "Imagine <i>th</i>omeone who can not pronoun<i>th</i> the 's; and speake<i>th</i> like thi<i>th</i> becau<i>th</i> they have a cane in their mouth.",
-      "e": "申請 신청 proposal, request, challenge; 申告 신고 report, declaration, return"
+      "e": "申請 신청 proposal, request, challenge; 申告 신고 report, declaration, return",
+      "lv": ["중학용","4급II(3급II)"],
+      "ex": ["신청","申請"]
     },
     {
       "q": "伸",
@@ -271,7 +326,9 @@ const L30 = {
 	  "k": "펼",
       "m": "extend, *expand",
       "d": "Chuck Norris injected his blood into a <b>monkey</b>. It expanded and is now known as King Kong.",
-      "e": "伸張 신장 extension, expansion"
+      "e": "伸張 신장 extension, expansion",
+      "lv": ["고등용","3급(2급)"],
+      "ex": ["추신","追伸/追申"]
     },
     {
       "q": "神",
@@ -279,7 +336,8 @@ const L30 = {
 	  "k": "귀신",
       "m": "spirit, *gods",
       "d": "At the <b>alter</b>, you <b>speaketh</b> to the gods.",
-      "e": "鬼神 귀신 a departed soul, a ghost"
+      "e": "鬼神 귀신 a departed soul, a ghost",
+      "ex": ["귀신","鬼神"]
     },
     {
       "q": "捜/搜",
@@ -287,7 +345,9 @@ const L30 = {
 	  "k": "찾을",
       "m": "*search, investigate",
       "d": "Oh no! This monkey is using his fingers to search for a banana near my crotch. That ain't no banana.",
-      "e": " 搜査 수사  criminal investigation, search"
+      "e": " 搜査 수사  criminal investigation, search",
+      "lv": ["고등용","3급(2급)"],
+      "ex": ["수사","搜査"]
     },
     {
       "q": "果",
@@ -295,7 +355,9 @@ const L30 = {
 	  "k": "실과",
       "m": "fruit",
       "d": "If only Eve had used her brains and not taken the forbidden fruit from the tree.",
-      "e": "沙果 (砂果) 사과 apple; 效果 효과 effect, avail, result"
+      "e": "沙果 (砂果) 사과 apple; 效果 효과 effect, avail, result",
+      "lv": ["중학용","6급II(5급II)"],
+      "ex": ["결과","結果"]
     },
     {
       "q": "菓",
@@ -303,7 +365,9 @@ const L30 = {
 	  "k": "실과 ",
       "m": "fruits, nuts, berries; *candy",
       "d": "Candy is coloured like flowers and flavoured like fruit.",
-      "e": "菓子 과자 confectionery, sweet stuff, cake, candy, pastry; 製菓 제과 confectionery"
+      "e": "菓子 과자 confectionery, sweet stuff, cake, candy, pastry; 製菓 제과 confectionery",
+      "lv": ["","2급(1급)"],
+      "ex": ["과자","菓子"]
     },
     {
       "q": "課",
@@ -311,7 +375,9 @@ const L30 = {
 	  "k": "공부할",
       "m": "lesson, *chapter",
       "d": "The first chapter of the Bible are words telling the story of Adam and Eve and how they ate the forbidden fruit.",
-      "e": "課題 과제 question, problem, subject, theme, homework"
+      "e": "課題 과제 question, problem, subject, theme, homework",
+      "lv": ["중학용","5급II(4급II)"],
+      "ex": ["과외","課外"]
     },
     {
       "q": "裸",
@@ -319,7 +385,9 @@ const L30 = {
 	  "k": "벗을",
       "m": "naked",
       "d": "Here we have Adam and Eve eating of the forbidden fruit and realizing they were naked, and so clothing themselves in a cloak.",
-      "e": " 裸體 나체 a naked body"
+      "e": " 裸體 나체 a naked body",
+      "lv": ["","2급(1급)"],
+      "ex": ["나목","裸木"]
     }
   ]
 };

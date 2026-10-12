@@ -16,7 +16,9 @@ const L13 =
 			"k": "길",
 			"m": "road-way",
 			"d": "A crowded road-way where traffic has come to a  standstill — what we commonly refer to as a “bottleneck.”",
-			"e": "道路 도로 road"
+			"e": "道路 도로 road",
+			"lv": ["중학용","7급II(6급)"],
+			"ex": ["지하도","地下道"]
 		},
 		{
 			"q": "導",
@@ -24,7 +26,9 @@ const L13 =
 			"k": "인도할",
 			"m": "direct, guide",
 			"d": "When we accept someone’s <b>guidance</b>, we permit ourselves to be <b>glued</b> to a certain <b>road or way</b> of doing something, and try to “stick” to it.",
-			"e": "導入 도입 introduction, import"
+			"e": "導入 도입 introduction, import",
+			"lv": ["고등용","4급II(3급II)"],
+			"ex": ["도입","導入"]
 		},
 		{
 			"q": "辻",
@@ -40,7 +44,9 @@ const L13 =
 			"k": "빠를",
 			"m": "swift",
 			"d": "A <b>crossing</b> in the form of a <b>barbed fishhook</b>, suggesting a swifter alternate not only to the old roundabouts but also to the “cloverleaf” design used on superhighways.",
-			"e": "迅速 신속 promptness, swiftness"
+			"e": "迅速 신속 promptness, swiftness",
+			"lv": ["","1급(특급)"],
+			"ex": ["신속","迅速"]
 		},
 		{
 			"q": "造",
@@ -48,7 +54,9 @@ const L13 =
 			"k": "지을",
 			"m": "create",
 			"d": "Creating is like making something out of nothing. Recall how the way of <b>revelation</b> laid out in the Bible begins with the story of how God <b>created</b> the world out of a dark and chaotic nothingness.",
-			"e": "構造 구조 structure, construction"
+			"e": "構造 구조 structure, construction",
+			"lv": ["중학용","4급II(3급II)"],
+			"ex": ["창조","創造"]
 		},
 		{
 			"q": "迫",
@@ -56,7 +64,9 @@ const L13 =
 			"k": "핍박할",
 			"m": "urge, coerce",
 			"d": "To <b>urge</b> someone to do something, you make the <b>way</b> as appealing as possible, perhaps even <b>white</b>washing it a bit.",
-			"e": "脅迫 협박 menace, intimidation"
+			"e": "脅迫 협박 menace, intimidation",
+			"lv": ["고등용","3급II(2급)"],
+			"ex": ["구박","驅迫"]
 		},
 		{
 			"q": "逃",
@@ -64,7 +74,9 @@ const L13 =
 			"k": "도망할",
 			"m": "escape",
 			"d": "When <b>escaping</b> from something or someone, one always feels as if one is not going fast enough, like a <b>turtle</b> on an <b>express-way</b>.",
-			"e": "逃亡 도망 escape, flight"
+			"e": "逃亡 도망 escape, flight",
+			"lv": ["고등용","4급(3급)"],
+			"ex": ["도망","逃亡"]
 		},
 		{
 			"q": "辺/邊",
@@ -72,7 +84,9 @@ const L13 =
 			"k": "가",
 			"m": "edge, side, *environs",
 			"d": "To keep the <b>environs</b> clean and safe, you could cement <b>daggers</b> in the <b>road</b>, blades pointed upwards, so that no polluting traffic could pass by. You could, if you were an ecologically-minded terrorist.<br>At the margins of the old road, one's nose quickly picked up the stink coming out of that hole 穴 - no compass was needed to find the landfill.",
-			"e": "江邊 강변 riverside, riverbank"
+			"e": "江邊 강변 riverside, riverbank",
+			"lv": ["고등용","4급II(3급II)"],
+			"ex": ["주변","周邊"]
 		},
 		{
 			"q": "巡",
@@ -80,7 +94,9 @@ const L13 =
 			"k": "돌/순행할",
 			"m": "turn about, *patrol",
 			"d": "A virtual <b>deluge</b> of motorcycle police washing down a <b>road</b> is this kanji’s image for a patrol.",
-			"e": "巡警 순경 patrol(ling), patrolman"
+			"e": "巡警 순경 patrol(ling), patrolman",
+			"lv": ["고등용","3급II(2급)"],
+			"ex": ["순경","巡警"]
 		},
 		{
 			"q": "車",
@@ -88,7 +104,9 @@ const L13 =
 			"k": "수레",
 			"m": "car",
 			"d": "Look for the front and back wheels (the first and last horizontal strokes) and the seat in the carriage in the middle.",
-			"e": "馬車 마차 horse-drawn carriage; 洗車 세차 car washing; 自轉車 자전거 bicyle"
+			"e": "馬車 마차 horse-drawn carriage; 洗車 세차 car washing; 自轉車 자전거 bicyle",
+			"lv": ["중학용","7급II(6급)"],
+			"ex": ["기차","汽車"]
 		},
 		{
 			"q": "連",
@@ -96,7 +114,9 @@ const L13 =
 			"k": "잇닿을",
 			"m": "connected, adjacent, *take along",
 			"d": "What you are meant to <b>take along</b> in this kanji are not things but people. The image of the car on the road should ground your image for picking up your friends to take them along to wherever you are going.",
-			"e": "連結 연결 connection"
+			"e": "連結 연결 connection",
+			"lv": ["중학용","4급II(3급II)"],
+			"ex": ["연결","連結"]
 		},
 		{
 			"q": "軌",
@@ -104,7 +124,9 @@ const L13 =
 			"k": "바큇자국",
 			"m": "rut",
 			"d": "A baseball team car got its tires caught in a rut to spin without going anywhere.",
-			"e": "軌道 궤도 orbit"
+			"e": "軌道 궤도 orbit",
+			"lv": ["고등용","3급(2급)"],
+			"ex": ["궤도","軌道"]
 		},
 		{
 			"q": "輸",
@@ -112,7 +134,9 @@ const L13 =
 			"k": "보낼",
 			"m": "carry, haul, transport",
 			"d": "<b>Flesh, saber</b> = butcher and his trade + <b>vehicle + meeting</b> = trucker's convoy.",
-			"e": "輸出 수출 export"
+			"e": "輸出 수출 export",
+			"lv": ["고등용","3급II(2급)"],
+			"ex": ["수출","輸出"]
 		},
 		{
 			"q": "前",
@@ -120,7 +144,9 @@ const L13 =
 			"k": "앞",
 			"m": "in front",
 			"d": "A butcher hacking away with his knife at a slab of meat on his table with a pair of ram’s <b>horns</b> placed <b>in front</b> of him (or on his head, if you prefer).",
-			"e": "午前 오전 forenoon"
+			"e": "午前 오전 forenoon",
+			"lv": ["중학용","7급II(6급)"],
+			"ex": ["오전","午前"]
 		},
 		{
 			"q": "夂",
@@ -136,7 +162,9 @@ const L13 =
 			"k": "각각",
 			"m": "each",
 			"d": "<i>Suum cuique</i>. Someone walking with his/her mouth between his/her walking legs, giving us an image of “To each his/her own.”",
-			"e": "各自 각자 each"
+			"e": "各自 각자 each",
+			"lv": ["중학용","6급II(5급II)"],
+			"ex": ["각각","各各"]
 		},
 		{
 			"q": "格",
@@ -144,7 +172,9 @@ const L13 =
 			"k": "격식",
 			"m": "pattern, standard, *status",
 			"d": "If you can imagine trees as <b>status</b> symbols (as they might well be for those living in Japan’s congested modern cities), then <b>each</b> might be aiming to have his/her own <b>tree</b>, just to keep up with the Suzukis.",
-			"e": "格式 격식 formality, rule; 性格 성격 character"
+			"e": "格式 격식 formality, rule; 性格 성격 character",
+			"lv": ["고등용","5급II(4급II)"],
+			"ex": ["성격","性格"]
 		},
 		{
 			"q": "略",
@@ -152,7 +182,9 @@ const L13 =
 			"k": "다스릴",
 			"m": "suppress, control, *abbreviation",
 			"d": "Each field has its own abbreviations (chemistry, philosophy, sports, etc.). Needless to say, the stronger primitive goes to the left, even though the story would read them off the other wayaround.",
-			"e": "省略 생략 omission, ellipis, abbreviation"
+			"e": "省略 생략 omission, ellipis, abbreviation",
+			"lv": ["고등용","4급(3급)"],
+			"ex": ["생략","省略"]
 		},
 		{
 			"q": "客",
@@ -160,7 +192,9 @@ const L13 =
 			"k": "손",
 			"m": "guest",
 			"d": "When you are a guest in a courteous town, each household has its own way of welcoming you, and each house becomes your home.",
-			"e": "乘客 승객 passanger"
+			"e": "乘客 승객 passanger",
+			"lv": ["중학용","5급II(4급II)"],
+			"ex": ["관광객","觀光客"]
 		},
 		{
 			"q": "額",
@@ -168,7 +202,9 @@ const L13 =
 			"k": "이마 ",
 			"m": "forehead",
 			"d": "Out of respect, you do not look straight into the eyes of your guest, but look at the top button of their collar. Here, however, you are told to look above the eyes to the forehead of your guest.",
-			"e": "金額 금액 amount/sum of money"
+			"e": "金額 금액 amount/sum of money",
+			"lv": ["고등용","4급(3급)"],
+			"ex": ["금액","金額"]
 		},
 		{
 			"q": "夏",
@@ -176,7 +212,9 @@ const L13 =
 			"k": "여름",
 			"m": "summer",
 			"d": "In the summer, fatigued by the heat, your head hangs down nearly as far as your walking legs, or rather, your <b>“dragging legs.”</b> Note how the walking legs (instead of “animal legs”) are the only thing that distinguishes this character from that for page (head).",
-			"e": "夏季 하계 summer time"
+			"e": "夏季 하계 summer time",
+			"lv": ["중학용","7급(6급)"],
+			"ex": ["입하","立夏"]
 		},
 		{
 			"q": "処/處",
@@ -184,7 +222,9 @@ const L13 =
 			"k": "곳",
 			"m": "place, *dispose",
 			"d": "Both the stretching out of the walking legs and the little bit of wind tucked in on the right suggest using one’s legs to kick something out of the way, or dispose of it.",
-			"e": "處하다 처하다 be placed in, be faced with; 近處 근처 neighborhood, vicinity"
+			"e": "處하다 처하다 be placed in, be faced with; 近處 근처 neighborhood, vicinity",
+			"lv": ["중학용","4급II(3급II)"],
+			"ex": ["근처","近處"]
 		},
 		{
 			"q": "条/條",
@@ -192,7 +232,9 @@ const L13 =
 			"k": "가지",
 			"m": "clause, condition. string, stripe; branch, twig",
 			"d": "Geppetto made walking legs for his little Pinocchio from two twigs of a tree, giving him a set of “twiggy” shanks.",
-			"e": "조건 條件 condition, terms"
+			"e": "조건 條件 condition, terms",
+			"lv": ["고등용","4급(3급)"],
+			"ex": ["조건","條件"]
 		},
 		{
 			"q": "落",

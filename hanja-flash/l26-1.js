@@ -7,7 +7,8 @@ const L26_1 = {
 	  "k": "벼",
       "m": "grain still on stalk, *wheat",
       "d": "This primitive element will be made to stand for <b>wheat</b>. It connotes a special grain, more expensive than ordinary rice and so reserved for special occasions. Alternatively, it can mean <b>cereal</b>. Its form is like that for tree, except for the dot at the top to represent a spike of wheat blowing in the wind.",
-      "e": ""
+      "e": "",
+      "lv": ["고등용","3급(2급)"]
     },
     {
       "q": "稿",
@@ -15,7 +16,9 @@ const L26_1 = {
 	  "k": "초고",
       "m": "*draft, manuscript",
       "d": "The writer hid himself in the middle of tall wheat so he would not be disturbed while writing the draft.",
-      "e": "原稿 원고 manuscript, draft, notes"
+      "e": "原稿 원고 manuscript, draft, notes",
+      "lv": ["고등용","3급II(2급)"],
+      "ex": ["기고","寄稿"]
     },
     {
       "q": "稼",
@@ -23,7 +26,9 @@ const L26_1 = {
 	  "k": "심을",
       "m": "to sow; *earnings",
       "d": "Your <b>earnings</b> allow you to bring <b>home</b> your daily bread (made of <b>wheat</b>, naturally).",
-      "e": "稼動 가동 operation, work"
+      "e": "稼動 가동 operation, work",
+      "lv": ["","1급(특급)"],
+      "ex": ["가동","稼動"]
     },
     {
       "q": "程",
@@ -31,7 +36,9 @@ const L26_1 = {
 	  "k": "한도",
       "m": "*extent",
       "d": "The extent to which the king can open his mouth to fit in wheat is really astounding.",
-      "e": "過程 과정 process; 課程 과정 course (of lessons)"
+      "e": "過程 과정 process; 課程 과정 course (of lessons)",
+      "lv": ["고등용","4급II(3급II)"],
+      "ex": ["정도","程度"]
     },
     {
       "q": "税/稅",
@@ -39,7 +46,9 @@ const L26_1 = {
 	  "k": "세금",
       "m": "tax",
       "d": "This is an easy one. Taxes is like the devil taking away your hard earned wheat.",
-      "e": "稅金 세금 tax, dues, toll"
+      "e": "稅金 세금 tax, dues, toll",
+      "lv": ["중학용","4급II(3급II)"],
+      "ex": ["세금","稅金"]
     },
     {
       "q": "稚",
@@ -47,7 +56,9 @@ const L26_1 = {
 	  "k": "어릴",
       "m": "immature",
       "d": "Immature turkeys are stuffed with wheat to make it look bigger.",
-      "e": "幼稚園 유치원 kindergarten, nursery school"
+      "e": "幼稚園 유치원 kindergarten, nursery school",
+      "lv": ["","3급II(2급)"],
+      "ex": ["유치원","幼稚園"]
     },
     {
       "q": "和",
@@ -55,7 +66,9 @@ const L26_1 = {
 	  "k": "화할",
       "m": "harmony",
       "d": "The first step to <b>harmony</b> is having enough <b>wheat</b> to feed every <b>mouth</b> in the world. Once we are all fed it is easier to get a long in <b>harmony</b>.",
-      "e": "調和 조화 harmony, accord"
+      "e": "調和 조화 harmony, accord",
+      "lv": ["중학용","6급II(5급II)"],
+      "ex": ["평화","平和"]
     },
     {
       "q": "移",
@@ -63,7 +76,9 @@ const L26_1 = {
 	  "k": "옮길",
       "m": "*shift, move about",
       "d": "<b>Many</b> people are making the <b>shift</b> from white to whole <b>wheat</b> bread.",
-      "e": " 移徙 이사 move, change of address"
+      "e": " 移徙 이사 move, change of address",
+      "lv": ["중학용","4급II(3급II)"],
+      "ex": ["이삿짐","移徙 짐"]
     },
     {
       "q": "秒",
@@ -71,7 +86,9 @@ const L26_1 = {
 	  "k": "분초",
       "m": "second",
       "d": "<b>Few wheat</b> can be cooked in a <b>few seconds</b>.",
-      "e": "秒針 초침 second hand of a clock"
+      "e": "秒針 초침 second hand of a clock",
+      "lv": ["고등용","3급(2급)"],
+      "ex": ["초","秒"]
     },
     {
       "q": "秋",
@@ -79,7 +96,9 @@ const L26_1 = {
 	  "k": "가을",
       "m": "autumn",
       "d": "In autumn, the wheat looks the color of <b>fire</b>, meaning it's time to harvest it.",
-      "e": "秋夕 추석 Ch'usok"
+      "e": "秋夕 추석 Ch'usok",
+      "lv": ["중학용","7급(6급)"],
+      "ex": ["추석","秋夕"]
     },
     {
       "q": "愁",
@@ -87,7 +106,9 @@ const L26_1 = {
 	  "k": "근심",
       "m": "distress, anxiety",
       "d": "In <b>autumn</b>, the farmer's <b>heart</b> is in <b>distress</b> as to if he has enough crops. Even better, the farmer will experience great <b>distress</b> in his <b>heart</b> if his <b>wheat</b> catches <b>fire</b>!",
-      "e": "愁心 수심 anxiety, worry, sorrow"
+      "e": "愁心 수심 anxiety, worry, sorrow",
+      "lv": ["중학용","3급II(2급)"],
+      "ex": ["향수","鄕愁"]
     },
     {
       "q": "私",
@@ -95,7 +116,9 @@ const L26_1 = {
 	  "k": "사사",
       "m": "private",
       "d": "Warning sign: 'Private wheat, trespassers will be elbowed'.",
-      "e": "私立 사립 private, nongovernmental"
+      "e": "私立 사립 private, nongovernmental",
+      "lv": ["중학용","4급(3급)"],
+      "ex": ["사립","私立"]
     },
     {
       "q": "秩",
@@ -103,7 +126,9 @@ const L26_1 = {
 	  "k": "차례",
       "m": "regularity",
       "d": "Farmers deal with losing some of their wheat as a regularity.",
-      "e": " 秩序 질서 order, discipline, system"
+      "e": " 秩序 질서 order, discipline, system",
+      "lv": ["고등용","3급II(2급)"],
+      "ex": ["질서","秩序"]
     },
     {
       "q": "秘/祕",
@@ -111,7 +136,9 @@ const L26_1 = {
 	  "k": "숨길",
       "m": "*secret, hide",
       "d": "The farmers invariably keep the actual amount of wheat produced a secret from the tax assessor.",
-      "e": "祕密 비밀 secret"
+      "e": "祕密 비밀 secret",
+      "lv": ["","특급II(-)"],
+      "ex": ["비밀번호","秘密番號"]
     },
     {
       "q": "称/稱",
@@ -119,7 +146,9 @@ const L26_1 = {
 	  "k": "일컬을",
       "m": "*appellation, call, name",
       "d": "<b>Wheat</b> that is <b>reclining</b> and that is <b>little</b> (small) can't get the <b>appleation</b> of 'quality wheat'.",
-      "e": "別稱 별칭 nickname, byname"
+      "e": "別稱 별칭 nickname, byname",
+      "lv": ["고등용","4급(3급)"],
+      "ex": ["칭찬","稱讚"]
     },
     {
       "q": "利",
@@ -127,7 +156,9 @@ const L26_1 = {
 	  "k": "날카로울",
       "m": "profit",
       "d": "In the middle ages there where only two ways for peasantry to make a profit. One was to be a farmer raising wheat, another one was to be a mercenary and live by the way of the sword.",
-      "e": "利益 이익 profit, gain"
+      "e": "利益 이익 profit, gain",
+      "lv": ["중학용","6급II(5급II)"],
+      "ex": ["이용","利用"]
     },
     {
       "q": "梨",
@@ -135,7 +166,8 @@ const L26_1 = {
 	  "k": "배나무",
       "m": "pear tree",
       "d": "The Japanese pear tree is the most profitable in the world, because it produces its fruit in pairs (sorry for the awful pun).",
-      "e": ""
+      "e": "",
+      "lv": ["고등용","3급(2급)"]
     },
     {
       "q": "穫",
@@ -143,7 +175,9 @@ const L26_1 = {
 	  "k": "거둘",
       "m": "harvest",
       "d": "The harvest of opium poppy flowers is loaded for shipping onto vessels under cover as grain.",
-      "e": "收穫 수확 harvest, crop"
+      "e": "收穫 수확 harvest, crop",
+      "lv": ["고등용","3급(2급)"],
+      "ex": ["수확","收穫"]
     },
     {
       "q": "穂/穗",
@@ -151,7 +185,8 @@ const L26_1 = {
 	  "k": "이삭",
       "m": "ear of grain",
       "d": "Adapted from Shakespeare's Julius Caesar: 'Friends, Romans, <b>corn</b>, do me a <b>favour</b> and lend me your <b>ears</b>.",
-      "e": ""
+      "e": "",
+      "lv": ["","1급(특급)"]
     },
     {
       "q": "稲/稻",
@@ -159,7 +194,8 @@ const L26_1 = {
 	  "k": "벼",
       "m": "rice plant",
       "d": "The rice plant is common in Japan because all the wheat was eaten by vultures in the olden times.",
-      "e": ""
+      "e": "",
+      "lv": ["고등용","3급(2급)"]
     },
     {
       "q": "香",
@@ -167,7 +203,9 @@ const L26_1 = {
 	  "k": "향기",
       "m": "fragrant, *incense",
       "d": "If we would throw a huge amount of wheat on top of the sun, would it become a galactic incense? Maybe then aliens would come more often, enjoying the incense.",
-      "e": "香氣 향기 fragrance, scent, perfume"
+      "e": "香氣 향기 fragrance, scent, perfume",
+      "lv": ["중학용","4급II(3급II)"],
+      "ex": ["향","香"]
     },
     {
       "q": "季",
@@ -175,7 +213,9 @@ const L26_1 = {
 	  "k": "계절",
       "m": "season",
       "d": "There's a season for planting wheat and there's mating season for having children.",
-      "e": "季節 계절 season"
+      "e": "季節 계절 season",
+      "lv": ["중학용","4급(3급)"],
+      "ex": ["계절","季節"]
     },
     {
       "q": "委",
@@ -183,7 +223,9 @@ const L26_1 = {
 	  "k": "맡길",
       "m": "*committee, appoint, commission",
       "d": "While the men had to harvest the field, the women formed committee where they decided what to do with the wheat. Here you see one of them carrying some of it away.",
-      "e": "委員 위원 member of a committee"
+      "e": "委員 위원 member of a committee",
+      "lv": ["고등용","4급(3급)"],
+      "ex": ["위원회","委員會"]
     },
     {
       "q": "秀",
@@ -191,7 +233,9 @@ const L26_1 = {
 	  "k": "빼어날",
       "m": "*excel",
       "d": "You spend three hours putting all of your wheat sale transaction records into Microsoft Excel, when suddenly it crashes, so you put your fist through the monitor.",
-      "e": "優秀 우수 superiority, excellence"
+      "e": "優秀 우수 superiority, excellence",
+      "lv": ["중학용","4급(3급)"],
+      "ex": ["우수","優秀"]
     },
     {
       "q": "透",
@@ -199,7 +243,9 @@ const L26_1 = {
 	  "k": "뛸",
       "m": "*transparent, penetrate, pass through",
       "d": "Those who excel on the road are almost transparent to others (those who you notice are the jerks and the bunglers).",
-      "e": "透明 투명 transparency"
+      "e": "透明 투명 transparency",
+      "lv": ["고등용","3급II(2급)"],
+      "ex": ["투명","透明"]
     },
     {
       "q": "誘",
@@ -207,7 +253,9 @@ const L26_1 = {
 	  "k": "꾈",
       "m": "entice",
       "d": "In order to entice more sales, PC dealers usually include a copy of Microsoft Office (word+excel) to sweeten the deal.",
-      "e": "誘致 유치 attraction"
+      "e": "誘致 유치 attraction",
+      "lv": ["고등용","3급II(2급)"],
+      "ex": ["권유","勸誘"]
     },
     {
       "q": "稽",
@@ -215,7 +263,9 @@ const L26_1 = {
 	  "k": "상고할",
       "m": "training; examine, investigate",
       "d": "The hardest part of my training as a cook was when they gave me some wheat and a chihuahua with a human leg and said, 'Now make something delicious'.",
-      "e": "滑稽 골계 joke"
+      "e": "滑稽 골계 joke",
+      "lv": ["","특급II(-)"],
+      "ex": ["황당무계하다","荒唐無稽 하다"]
     },
     {
       "q": "穀",
@@ -223,7 +273,9 @@ const L26_1 = {
 	  "k": "곡식",
       "m": "cereal, corn",
       "d": "There are different cereals in different parts of the world. Japan has 'Samurai cereal'. Great Britain has 'Crowned Wheat' ... the United States and Russia have 'Missile cereals'.",
-      "e": "穀食 곡식 cereals, grain, corn"
+      "e": "穀食 곡식 cereals, grain, corn",
+      "lv": ["중학용","4급(3급)"],
+      "ex": ["곡식","穀食"]
     },
     {
       "q": "菌",
@@ -231,7 +283,9 @@ const L26_1 = {
 	  "k": "버섯",
       "m": "mushroom, microbe, *germ",
       "d": "Keep your wheat pent in an airtight container or it may catch germs and sprout flowers.",
-      "e": "病菌 병균 dicease-causing germs/bacteria"
+      "e": "病菌 병균 dicease-causing germs/bacteria",
+      "lv": ["고등용","3급II(2급)"],
+      "ex": ["균","菌"]
     },
     {
       "q": "萎",
@@ -239,7 +293,9 @@ const L26_1 = {
 	  "k": "시들",
       "m": "wither, *numb",
       "d": "As the flower committee meeting went on and on, my mind went numb and withered away.",
-      "e": "萎縮 위축 withering, atrophy, shrinkage"
+      "e": "萎縮 위축 withering, atrophy, shrinkage",
+      "lv": ["","1급(특급)"],
+      "ex": ["위축","萎縮"]
     }
   ]
 };

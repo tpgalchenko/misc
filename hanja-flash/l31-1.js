@@ -7,7 +7,9 @@ const L31_1 = {
 	  "k": "근 (weight unit)/도끼",
       "m": "catty; *axe",
       "d": "The axe is shaped like a T and hidden under the cliff.",
-      "e": "斤數 근수 weight expressed in kun"
+      "e": "斤數 근수 weight expressed in kun",
+      "lv": ["고등용","3급(2급)"],
+      "ex": ["근수","斤數"]
     },
     {
       "q": "析",
@@ -15,7 +17,9 @@ const L31_1 = {
 	  "k": "쪼갤",
       "m": "*chop, split wood",
       "d": "We chop down trees with axes to analyze their rings.",
-      "e": "分析 분석 analysis"
+      "e": "分析 분석 analysis",
+      "lv": ["고등용","3급(2급)"],
+      "ex": ["분석","分析"]
     },
     {
       "q": "所",
@@ -23,7 +27,9 @@ const L31_1 = {
 	  "k": "바",
       "m": "place",
       "d": "Heeeeeeere's Johnny! Jack Nicholson breaks down a <b>door</b> with his <b>ax</b> in order to get to his wife's hiding <b>place</b>.",
-      "e": "所望 소망 desire, wish; 住所 주소 address"
+      "e": "所望 소망 desire, wish; 住所 주소 address",
+      "lv": ["중학용","7급(6급)"],
+      "ex": ["장소","場所"]
     },
     {
       "q": "祈/祈",
@@ -31,7 +37,8 @@ const L31_1 = {
 	  "k": "빌",
       "m": "pray",
       "d": "A warrior prays for victory before the battle. He kneels at the altar, his battle axe at the ready.",
-      "e": "祈禱 기도 prayer; 祈願 기원 payer, supplication"
+      "e": "祈禱 기도 prayer; 祈願 기원 payer, supplication",
+      "ex": ["기도","祈禱"]
     },
     {
       "q": "近",
@@ -39,7 +46,9 @@ const L31_1 = {
 	  "k": "가까울",
       "m": "near",
       "d": "Things are near if you use a shortcut, that is you cut the road with an ax.",
-      "e": "近處 근처 neighborhood, vicinity, surroundings; 最近 최근 the latest date, the nearest, lately"
+      "e": "近處 근처 neighborhood, vicinity, surroundings; 最近 최근 the latest date, the nearest, lately",
+      "lv": ["중학용","6급(5급)"],
+      "ex": ["근처","近處"]
     },
     {
       "q": "折",
@@ -47,7 +56,9 @@ const L31_1 = {
 	  "k": "절 꺾을/접을 접",
       "m": "break; *fold",
       "d": "He is so strong, that he can fold an axe and so break it.",
-      "e": "挫折 좌절 breakdown, ruin, collapse, frustration; 折半 절반 half"
+      "e": "挫折 좌절 breakdown, ruin, collapse, frustration; 折半 절반 half",
+      "lv": ["고등용","4급(3급)"],
+      "ex": ["절반","折半"]
     },
     {
       "q": "哲",
@@ -55,7 +66,9 @@ const L31_1 = {
 	  "k": "밝을",
       "m": "wise, *philosophy",
       "d": "A two-hour lesson of philosophy in high school. All the students, bored to death, are folding sheets of paper into planes, love notes or whatever, while the mouth of the teacher is talking about Platon, Kierkegaard and many other notorious philosophers.",
-      "e": "哲人 철인 wise man, sage, philosopher"
+      "e": "哲人 철인 wise man, sage, philosopher",
+      "lv": ["고등용","3급II(2급)"],
+      "ex": ["철학","哲學"]
     },
     {
       "q": "逝",
@@ -63,7 +76,9 @@ const L31_1 = {
 	  "k": "갈",
       "m": "*departed, die",
       "d": "A person with his arms folded departs into the last journey over the last road.",
-      "e": "急逝 급서 sudden death; 逝去 서거 death, decease (honorific)"
+      "e": "急逝 급서 sudden death; 逝去 서거 death, decease (honorific)",
+      "lv": ["고등용","3급(2급)"],
+      "ex": ["급서","急逝"]
     },
     {
       "q": "誓",
@@ -71,7 +86,9 @@ const L31_1 = {
 	  "k": "맹세할",
       "m": "*vow, swear",
       "d": "Speaking a vow is a point of break-off, of no return, where the life folds in two.",
-      "e": "盟誓 맹서 oath, vow, pledge"
+      "e": "盟誓 맹서 oath, vow, pledge",
+      "lv": ["고등용","3급(2급)"],
+      "ex": ["맹세","盟誓▽"]
     },
     {
       "q": "斬",
@@ -79,7 +96,9 @@ const L31_1 = {
 	  "k": "벨",
       "m": "chop, sever",
       "d": "During the French Revolution, those about to have their heads chopped off were loaded into two-wheeled carts 車 called tumbrils to be taken to the scaffold. The chopping was done with the guillotine, a humane improvement over the axe 斤.",
-      "e": "斬刑 참형 decapitation, beheading"
+      "e": "斬刑 참형 decapitation, beheading",
+      "lv": ["","2급(1급)"],
+      "ex": ["참신하다","斬新/嶄新 하다"]
     },
     {
       "q": "暫",
@@ -87,7 +106,9 @@ const L31_1 = {
 	  "k": "잠깐",
       "m": "temporarily",
       "d": "During daylight saving time, we <b>temporarily chop off</b> the <b>day</b> by taking an hour out of it, which we will return back in six months.",
-      "e": " 暫時 잠시 a little while, a moment"
+      "e": " 暫時 잠시 a little while, a moment",
+      "lv": ["고등용","3급II(2급)"],
+      "ex": ["잠시","暫時"]
     },
     {
       "q": "漸",
@@ -95,7 +116,9 @@ const L31_1 = {
 	  "k": "점진할",
       "m": "gradually, *steadily",
       "d": "Dripping water on your car or your axe steadily and gradually builds up rust and kills them.",
-      "e": "漸漸 점점 gradually; 漸次 점차 gradually"
+      "e": "漸漸 점점 gradually; 漸次 점차 gradually",
+      "lv": ["고등용","3급II(2급)"],
+      "ex": ["점점","漸漸"]
     },
     {
       "q": "断/斷",
@@ -103,7 +126,9 @@ const L31_1 = {
 	  "k": "끊을",
       "m": "*severance, cut off, interrupt",
       "d": "A man puts some rice on a fishhook as bait, but catches a fish so strong, he needs to take out his axe and sever the line lest he be dragged into the depths.",
-      "e": "判斷 판단 judgement, decision; 診斷 진단 diagnosis"
+      "e": "判斷 판단 judgement, decision; 診斷 진단 diagnosis",
+      "lv": ["고등용","4급II(3급II)"],
+      "ex": ["횡단보도","橫斷步道"]
     },
     {
       "q": "質",
@@ -111,7 +136,9 @@ const L31_1 = {
 	  "k": "바탕",
       "m": "substance",
       "d": "What is this substance on this clam? I've already broken 2 axes on it! (Good question... 質問 - 질문).",
-      "e": "物質 물질 matter, substance; 質問 질문 question"
+      "e": "物質 물질 matter, substance; 質問 질문 question",
+      "lv": ["중학용","5급II(4급II)"],
+      "ex": ["질문","質問"]
     },
     {
       "q": "斥",
@@ -119,7 +146,9 @@ const L31_1 = {
 	  "k": "물리칠",
       "m": "*reject, repel",
       "d": "The warriors are retreating, they drop their axe because they reject to fight a fight they cannot win.",
-      "e": "排斥 배척 rejection, expulsion, boycott"
+      "e": "排斥 배척 rejection, expulsion, boycott",
+      "lv": ["고등용","3급(2급)"],
+      "ex": ["배척","排斥"]
     },
     {
       "q": "訴",
@@ -127,7 +156,9 @@ const L31_1 = {
 	  "k": "호소할",
       "m": "accusation",
       "d": "Words of accusation are usually rejected, rarely accepted.",
-      "e": "呼訴 호소 complaint, appeal; 告訴 고소 accusation, charge, law suit"
+      "e": "呼訴 호소 complaint, appeal; 告訴 고소 accusation, charge, law suit",
+      "lv": ["고등용","3급II(2급)"],
+      "ex": ["소송","訴訟"]
     },
     {
       "q": "乍",
@@ -135,7 +166,8 @@ const L31_1 = {
 	  "k": "잠깐 사/일어날 작",
       "m": "first time; *saw",
       "d": "The saw in this primitive is distinguished from the primitive for axe by the extra “teeth” on the blade.",
-      "e": "猝乍間 졸사간 in a moment"
+      "e": "猝乍間 졸사간 in a moment",
+      "lv": ["","특급II(-)"]
     },
     {
       "q": "昨",
@@ -143,7 +175,9 @@ const L31_1 = {
 	  "k": "어제",
       "m": "yesterday",
       "d": "the <b>day</b> that I <b>saw</b> before today was <b>yesterday</b>.",
-      "e": "昨年 작년 last year"
+      "e": "昨年 작년 last year",
+      "lv": ["중학용","6급II(5급II)"],
+      "ex": ["작년","昨年"]
     },
     {
       "q": "詐",
@@ -151,7 +185,9 @@ const L31_1 = {
 	  "k": "속일",
       "m": "lie",
       "d": "Pinnochio gets frustrated that every time he utters a <b>word</b> of a <b>lie</b>, his nose grows and he has to get the <b>saw</b> out again.",
-      "e": "詐欺 사기 trickery, swindle, fraud"
+      "e": "詐欺 사기 trickery, swindle, fraud",
+      "lv": ["고등용","3급(2급)"],
+      "ex": ["사기","詐欺"]
     },
     {
       "q": "作",
@@ -159,7 +195,9 @@ const L31_1 = {
 	  "k": "지을",
       "m": "make",
       "d": "Chuck Norris can <b>make</b> a <b>saw</b> just by biting into a piece of iron !",
-      "e": "始作 시작 beginning; 作家 작가 novelist, writer, author"
+      "e": "始作 시작 beginning; 作家 작가 novelist, writer, author",
+      "lv": ["중학용","6급II(5급II)"],
+      "ex": ["시작","始作"]
     },
     {
       "q": "彐/彑",
@@ -175,7 +213,9 @@ const L31_1 = {
 	  "k": "눈",
       "m": "snow",
       "d": "Unlike rain, snow can be swept away with a broom.",
-      "e": "雪嶽山 설악산 Seoraksan; 暴雪 폭설 a heavy snowfal"
+      "e": "雪嶽山 설악산 Seoraksan; 暴雪 폭설 a heavy snowfal",
+      "lv": ["중학용","6급II(5급II)"],
+      "ex": ["설탕","雪糖▽/屑糖▽"]
     },
     {
       "q": "録/錄",
@@ -183,7 +223,9 @@ const L31_1 = {
 	  "k": "기록할",
       "m": "record",
       "d": "Archeological excavations must be very careful so as not to lose anything. One has to use <b>brooms</b> and pure <b>water</b> to clean up <b>metal</b> plates with precious <b>records</b>.",
-      "e": "記錄 기록 record, recording"
+      "e": "記錄 기록 record, recording",
+      "lv": ["고등용","4급II(3급II)"],
+      "ex": ["기록","記錄"]
     },
     {
       "q": "剥/剝",
@@ -191,7 +233,9 @@ const L31_1 = {
 	  "k": "벗길",
       "m": "peel off",
       "d": "Archeological excavations must be very careful so as not to lose anything. Use clear <b>water</b> and <b>brooms</b> to remove the dirt when possible, if not use a <b>knife</b> to <b>peel</b> but with utmost carefullness.",
-      "e": "剝奪 박탈 deprivation, forfeit"
+      "e": "剝奪 박탈 deprivation, forfeit",
+      "lv": ["","1급(특급)"],
+      "ex": ["박탈","剝奪"]
     },
     {
       "q": "尋",
@@ -199,7 +243,8 @@ const L31_1 = {
 	  "k": "찾을",
       "m": "seek, search; *inquire",
       "d": "Imagine the police <b>inquiring</b> in an in-depth investigation. They are interrogating a suspect. But the suspect has a <b>crafty mouth</b> and is very sly. He/she also knows when to keep their mouth <b>glued</b> at the right moments to avoid self-incrimination. As a final measure, the police torture the suspect by tickling him/her with a <b>broom</b> while they inquire.",
-      "e": "推尋 추심 collection (of debts, things); 尋訪 심방 a visit, a call"
+      "e": "推尋 추심 collection (of debts, things); 尋訪 심방 a visit, a call",
+      "lv": ["고등용","3급(2급)"]
     },
     {
       "q": "急",
@@ -207,7 +252,9 @@ const L31_1 = {
 	  "k": "급할",
       "m": "hurry",
       "d": "Cinderella was always bound to a broom, her heart pounding in a hurry to finish before she was punished for being slow.",
-      "e": "救急 구급 first aid, rescue"
+      "e": "救急 구급 first aid, rescue",
+      "lv": ["중학용","6급II(5급II)"],
+      "ex": ["급하다","急 하다"]
     },
     {
       "q": "穏/穩",
@@ -215,7 +262,9 @@ const L31_1 = {
 	  "k": "편안할",
       "m": "calm; stable, firm",
       "d": "A scarecrow with a <b>broom</b> is a <b>crafty</b> way to protect the <b>wheat</b> from <b>vultures</b> and for the farmer to remain <b>calm</b>.",
-      "e": "平穩 평온 calmness, quietude; 穩健 온건 moderateness, moderation"
+      "e": "平穩 평온 calmness, quietude; 穩健 온건 moderateness, moderation",
+      "lv": ["","2급(1급)"],
+      "ex": ["평온","平穩"]
     },
     {
       "q": "侵",
@@ -223,7 +272,9 @@ const L31_1 = {
 	  "k": "침노할",
       "m": "invade, *encroach",
       "d": "Chuck Norris encroaches a French maid holding a broom and wearing a paper crown, but she kicks him in the crotch.",
-      "e": "侵略 침략 agression, invasion; 侵擄하다 침노하다 invade, raid, encroach"
+      "e": "侵略 침략 agression, invasion; 侵擄하다 침노하다 invade, raid, encroach",
+      "lv": ["고등용","4급II(3급II)"],
+      "ex": ["침략","侵略"]
     },
     {
       "q": "浸",
@@ -231,7 +282,9 @@ const L31_1 = {
 	  "k": "잠길",
       "m": "immersed",
       "d": "French maid at the hotel is demonstrating how to use the bath: “...then fill with water until you are completely immersed, like this...” (immerses herself).",
-      "e": " 浸透 침투 permeation, infiltration"
+      "e": " 浸透 침투 permeation, infiltration",
+      "lv": ["고등용","3급II(2급)"],
+      "ex": ["침례","浸禮"]
     },
     {
       "q": "寝/寢",
@@ -239,7 +292,9 @@ const L31_1 = {
 	  "k": "잘",
       "m": "*lie down; sleep, rest",
       "d": "The French maid I hired cleans my house as slowly as a turtle, but I keep her on, because I love to 'lie down' with her...",
-      "e": "寢臺 침대 bed, bedstead"
+      "e": "寢臺 침대 bed, bedstead",
+      "lv": ["고등용","4급(3급)"],
+      "ex": ["침대","寢臺"]
     },
     {
       "q": "婦",
@@ -247,7 +302,9 @@ const L31_1 = {
 	  "k": "며느리",
       "m": "*lady, women",
       "d": "In high society, a lady is a woman who never touches a broom or an apron.",
-      "e": "夫婦 부부 husband and wife; 婦人 부인 wife, married lady"
+      "e": "夫婦 부부 husband and wife; 婦人 부인 wife, married lady",
+      "lv": ["중학용","4급II(3급II)"],
+      "ex": ["부부","夫婦"]
     },
     {
       "q": "掃",
@@ -255,7 +312,9 @@ const L31_1 = {
 	  "k": "쓸",
       "m": "sweep",
       "d": "Don't sweep with your finger, use a broom and put on an apron and get it done properly!",
-      "e": "淸掃 청소 cleaning, sweeping"
+      "e": "淸掃 청소 cleaning, sweeping",
+      "lv": ["고등용","4급II(3급II)"],
+      "ex": ["청소","淸掃"]
     },
     {
       "q": "当/當",
@@ -263,7 +322,9 @@ const L31_1 = {
 	  "k": "마땅",
       "m": "bear, accept, undertake; *hit",
       "d": "Some mothers use a small broom to hit their children when they misbehave.",
-      "e": "當時 당시 at that time, then; 擔當 담당 charge, undertaking"
+      "e": "當時 당시 at that time, then; 擔當 담당 charge, undertaking",
+      "lv": ["중학용","5급II(4급II)"],
+      "ex": ["적당하다","適當 하다"]
     },
     {
       "q": "彙",
@@ -271,7 +332,9 @@ const L31_1 = {
 	  "k": "무리",
       "m": "assemble; *glossary",
       "d": "<b>Old broom</b> and <b>crowned fruit</b> are things I had to look up the word for in my <b>glossary</b>.",
-      "e": "語彙 어휘 vocabulary, glossary"
+      "e": "語彙 어휘 vocabulary, glossary",
+      "lv": ["","1급(특급)"],
+      "ex": ["어휘","語彙"]
     }
   ]
 };

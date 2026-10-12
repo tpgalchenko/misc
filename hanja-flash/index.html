@@ -80,7 +80,6 @@ Based on "Remembering the Kanji" by James W. Heisig : A complete course on how n
 	<script src="l54.js"></script>
 	<script src="l55.js"></script>
         <script src="l56.js"></script>
-	<script src="levels.js"></script>
 	<script src="radicals.b64.js"></script>
 	<script>
 window.RADICALS = null;
@@ -449,19 +448,14 @@ function showCurrentQuestion() {
 	updateLevelDisplay();
 }
 
-function getLevelInfo(q) {
-	if(typeof LEVELS === "undefined" || !LEVELS) return null;
-	for(const part of String(q).split("/")) {
-		const key = part.trim();
-		if(LEVELS[key]) return LEVELS[key];
-	}
-	return null;
+function getLevelInfo() {
+	return currentCard ? currentCard['lv'] : null;
 }
 
 function updateLevelDisplay() {
 	const eduEl = document.getElementById("level_edu");
 	const hanjaEl = document.getElementById("level_hanja");
-	const info = currentCard ? getLevelInfo(currentCard['q']) : null;
+	const info = getLevelInfo();
 	eduEl.innerText = info && info[0] ? "교육용: " + info[0] : "";
 	hanjaEl.innerText = info && info[1] ? "한어검정: " + info[1] : "";
 }
@@ -497,6 +491,66 @@ function showLastQuestion() {
 	}
 }
 
+function cjkWord(s) {
+	const m = String(s).match(/^[\u3400-\u9fff\uf900-\ufaff\u{20000}-\u{2fa1f}]+/u);
+	return m ? m[0] : "";
+}
+
+function normalizeWord(s) {
+	return String(s).replace(/\s+/g, "");
+}
+
+function splitExamples(e) {
+	return String(e || "").split(";").map(s => s.trim()).filter(s => s.length > 0);
+}
+
+function getSelectedExample() {
+	return currentCard && currentCard['ex'] ? currentCard['ex'] : null;
+}
+
+function findExampleForWord(word) {
+	const target = normalizeWord(word);
+	if(target.length === 0) return null;
+
+	const current = splitExamples(currentCard['e']);
+	for(const seg of current) {
+		const w = cjkWord(seg);
+		if(w && normalizeWord(w) === target) return seg;
+	}
+
+	for(let k = 0; k < DATA.length; ++k) {
+		const cards = DATA[k].cards;
+		for(let q = 0; q < cards.length; ++q) {
+			for(const seg of splitExamples(cards[q]['e'])) {
+				const w = cjkWord(seg);
+				if(w && normalizeWord(w) === target) return seg;
+			}
+		}
+	}
+	return null;
+}
+
+function buildExamples() {
+	const parts = splitExamples(currentCard['e']);
+	const selected = getSelectedExample();
+	if(!selected) return parts.join("; ");
+
+	const ko = selected[0];
+	const hj = selected[1];
+	const hjWord = cjkWord(hj) || hj;
+	const target = normalizeWord(hjWord);
+
+	let chosen = findExampleForWord(hjWord);
+	if(!chosen) chosen = ko ? (hj + " " + ko) : hj;
+
+	const rest = parts.filter(seg => {
+		const w = cjkWord(seg);
+		return !(w && normalizeWord(w) === target);
+	});
+	rest.unshift(chosen);
+	return rest.join("; ");
+}
+
 function showAnswer() {
 	document.getElementById("question").style.display = 'none';
 
@@ -506,7 +560,7 @@ function showAnswer() {
 	document.getElementById("a_spell").innerText = "[ " + currentCard['s'] + " ]";
 	document.getElementById("a_mean").innerText = currentCard['m'];
 	document.getElementById("a_desc").innerHTML = currentCard['d'];
-	document.getElementById("a_example").innerText = currentCard['e'];
+	document.getElementById("a_example").innerText = buildExamples();
 	document.getElementById("answer").style.display = 'block';
 
 	const lessonEl = document.getElementById("a_lesson");

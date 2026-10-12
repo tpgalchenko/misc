@@ -7,7 +7,9 @@ const L39_1 = {
       "k": "평평할",
       "m": "flat, even; *water lily",
       "d": "This character is easiest remembered as a pictograph of a water lily floating on the surface of the water, which gives it its meaning of even. The fourth stroke represents the calm, smooth surface of a pond, and the final stroke the long stem of the plant reaching underwater.",
-      "e": "平等 평등 equality, impartiality; 平和 평화 peace, harmony"
+      "e": "平等 평등 equality, impartiality; 平和 평화 peace, harmony",
+      "lv": ["중학용","7급II(6급)"],
+      "ex": ["평소","平素"]
     },
     {
       "q": "呼",
@@ -15,7 +17,9 @@ const L39_1 = {
       "k": "부를",
       "m": "breathe sigh, exhale; *call",
       "d": "There is a frog sitting on a <b>lily pad</b>. It opens its <b>mouth</b> and <b>calls</b> out its friends.",
-      "e": "呼吸 호흡 breath, respiration; 呼稱 호칭 name, title, appelation"
+      "e": "呼吸 호흡 breath, respiration; 呼稱 호칭 name, title, appelation",
+      "lv": ["중학용","4급II(3급II)"],
+      "ex": ["호흡","呼吸"]
     },
     {
       "q": "坪",
@@ -23,7 +27,9 @@ const L39_1 = {
       "k": "들",
       "m": "level ground; *two-mat area",
       "d": "A two-mat area is just about as much ground as you will need for a lily pond.",
-      "e": "坪 pyong = 3.3m2; 坪數 평수 the number of pyong area, floor space/area"
+      "e": "坪 pyong = 3.3m2; 坪數 평수 the number of pyong area, floor space/area",
+      "lv": ["","2급(1급)"],
+      "ex": ["평","坪"]
     },
     {
       "q": "評",
@@ -31,7 +37,9 @@ const L39_1 = {
       "k": "평할",
       "m": "evaluate",
       "d": "Good evaluation should always be words of even fairness.",
-      "e": "評價 평가 (e)valuation, estimation; 好評 호평 favorable criticism/comment"
+      "e": "評價 평가 (e)valuation, estimation; 好評 호평 favorable criticism/comment",
+      "lv": ["고등용","4급(3급)"],
+      "ex": ["평가","評價"]
     },
     {
       "q": "㐅",
@@ -47,7 +55,8 @@ const L39_1 = {
       "k": "벨",
       "m": "*reap, mow",
       "d": "A <b>sabre</b> is used to cut the stalks of plants being <b>reaped</b> at harvest. They are then combined into a <b>sheaf</b>.",
-      "e": ""
+      "e": "",
+      "lv": ["","특급II(-)"]
     },
     {
       "q": "刹",
@@ -55,7 +64,9 @@ const L39_1 = {
       "k": "절",
       "m": "temple, shrine; *moment",
       "d": "Standing in front of a temple, a samurai hones his skills while waiting for the test to begin. Throwing some sheaves in the air in front of a tree (From his perspective the sheaves are above the tree) he waits for the precise moment to cut both of them in half at the exact same time (Or moment).",
-      "e": "刹那 찰나 moment, instant; 寺刹 사찰 Buddhist temple"
+      "e": "刹那 찰나 moment, instant; 寺刹 사찰 Buddhist temple",
+      "lv": ["","2급(1급)"],
+      "ex": ["찰나","刹那"]
     },
     {
       "q": "希",
@@ -63,7 +74,9 @@ const L39_1 = {
       "k": "바랄",
       "m": "hope",
       "d": "Most people outside the first world hope only for food and clothing - a sheaf of wheat, a bolt of linen.",
-      "e": "希望 희망 hope, wish"
+      "e": "希望 희망 hope, wish",
+      "lv": ["중학용","4급II(3급II)"],
+      "ex": ["희망","希望"]
     },
     {
       "q": "凶",
@@ -71,7 +84,9 @@ const L39_1 = {
       "k": "흉할",
       "m": "villain",
       "d": "Here the <b>villain</b> digs a hole with a <b>shovel</b> and covers it with a <b>sheaf</b>, hoping someone will fall in.",
-      "e": "凶하다 흉하다 ugly, bad-looking, ill, wicked, villanous"
+      "e": "凶하다 흉하다 ugly, bad-looking, ill, wicked, villanous",
+      "lv": ["중학용","5급II(4급II)"],
+      "ex": ["흉하다","凶 하다"]
     },
     {
       "q": "胸",
@@ -79,7 +94,9 @@ const L39_1 = {
       "k": "가슴",
       "m": "bosom",
       "d": "Bosom is a Flesh part that should be bound up lest it provoke villian thoughts.",
-      "e": "胸襟 흉금 bosom, heart, inner mind; 胸像 흉상 bust (sculpture)"
+      "e": "胸襟 흉금 bosom, heart, inner mind; 胸像 흉상 bust (sculpture)",
+      "lv": ["중학용","3급II(2급)"],
+      "ex": ["흉곽","胸廓"]
     },
     {
       "q": "離",
@@ -87,7 +104,9 @@ const L39_1 = {
       "k": "떠날",
       "m": "separate, *detach",
       "d": "The dastardly <b>villain</b> in the <b>top hat</b> tried to <b>detach</b> his <b>elbow</b> from the <b>belt</b> holding him tight, so he could flee like a <b>turkey</b> without losing his top hat.",
-      "e": "離別 이별 separation, farewell; 距離 거리 distance"
+      "e": "離別 이별 separation, farewell; 距離 거리 distance",
+      "lv": ["고등용","4급(3급)"],
+      "ex": ["거리","距離"]
     },
     {
       "q": "璃",
@@ -95,7 +114,9 @@ const L39_1 = {
       "k": "유리",
       "m": "glass, *crystal",
       "d": "The <b>top hat</b> wearing <b>villain</b> has a <b>belt</b> around his <b>elbow</b> to inject a drug. He gets ready to steal a King's crystal ball.",
-      "e": "琉璃 유리 glass"
+      "e": "琉璃 유리 glass",
+      "lv": ["","특급II(-)"],
+      "ex": ["유리","琉璃"]
     },
     {
       "q": "殺",
@@ -103,7 +124,9 @@ const L39_1 = {
       "k": "죽일/빠를",
       "m": "kill",
       "d": "X marks the spot on the tree where the missile hit. No doubt, it was meant to kill us.",
-      "e": "自殺 자살 suicide; 殺人 살인 murder; 殺到 쇄도 rush, flood"
+      "e": "自殺 자살 suicide; 殺人 살인 murder; 殺到 쇄도 rush, flood",
+      "lv": ["중학용","4급II(3급II)"],
+      "ex": ["살인","殺人"]
     },
     {
       "q": "爽",
@@ -111,7 +134,9 @@ const L39_1 = {
       "k": "시원할",
       "m": "happy, cheerful; *bracing",
       "d": "A St Bernard dog has just shaved and now applies a bracing after-shave lotion: two slaps on its left cheek and two slaps on its right one.",
-      "e": "爽快하다 상쾌하다 refreshing, exhilarating, bracing"
+      "e": "爽快하다 상쾌하다 refreshing, exhilarating, bracing",
+      "lv": ["","1급(특급)"],
+      "ex": ["상쾌하다","爽快 하다"]
     },
     {
       "q": "屯",
@@ -119,7 +144,9 @@ const L39_1 = {
       "k": "진 칠",
       "m": "camp, *barracks",
       "d": "The superiors of the military camps call the soldiers living in barracks as 'earthworms'.",
-      "e": "駐屯 주둔 stationing, posting, staying"
+      "e": "駐屯 주둔 stationing, posting, staying",
+      "lv": ["고등용","3급(2급)"],
+      "ex": ["주둔","駐屯"]
     },
     {
       "q": "純",
@@ -127,7 +154,9 @@ const L39_1 = {
       "k": "순수할",
       "m": "pure, clean, *genuine",
       "d": "You need to attach a <b>genuine earthworm</b> to the <b>thread</b>. With plastic bait you won't catch anything.",
-      "e": "순수 purity, pureness, genuineness; 單純 단순 simplicity"
+      "e": "순수 purity, pureness, genuineness; 單純 단순 simplicity",
+      "lv": ["중학용","4급II(3급II)"],
+      "ex": ["단순","單純"]
     },
     {
       "q": "頓",
@@ -135,7 +164,9 @@ const L39_1 = {
       "k": "조아릴",
       "m": "bow; pause, stop; arrange; *immediate",
       "d": "In the barracks you have to respond immediately when the head of your unit calls. Surely, you're going to clean and arrange the barracks",
-      "e": "整頓 정돈 deadlock, standstill; 斗頓 두둔 back, shield, support"
+      "e": "整頓 정돈 deadlock, standstill; 斗頓 두둔 back, shield, support",
+      "lv": ["","2급(특급II)"],
+      "ex": ["두둔","斗頓"]
     },
     {
       "q": "鈍",
@@ -143,7 +174,9 @@ const L39_1 = {
       "k": "둔할",
       "m": "blunt, obtuse, *dull",
       "d": "There are two kinds of dull. One is like metals without lustre. The other is like how an earthworm is really boring. Two different kinds of dull.",
-      "e": "鈍하다 둔하다 dull, slow, stupid"
+      "e": "鈍하다 둔하다 dull, slow, stupid",
+      "lv": ["고등용","3급(2급)"],
+      "ex": ["둔하다","鈍 하다"]
     },
     {
       "q": "辞/辭",
@@ -151,7 +184,9 @@ const L39_1 = {
       "k": "말씀",
       "m": "words, speech; *resign",
       "d": "This guy's job is tasting the spicy curry at the local Indian Food Factory. He has to resign from his job before his tongue is rendered completely useless after all the spicy food that he has to try all day long...",
-      "e": "辭典 사전 dictionary, wordbook"
+      "e": "辭典 사전 dictionary, wordbook",
+      "lv": ["고등용","4급(3급)"],
+      "ex": ["사전","辭典"]
     },
     {
       "q": "梓",
@@ -159,7 +194,8 @@ const L39_1 = {
       "k": "가래나무",
       "m": "catalpa",
       "d": "The <b>catalpa</b> is the tree that bears the <b>spicy</b> Indican bean.<br>NB: The Catalpa is also known as the 'Indian Bean' due to the bean pods that grow from it.",
-      "e": ""
+      "e": "",
+      "lv": ["","특급II(-)"]
     },
     {
       "q": "宰",
@@ -167,7 +203,9 @@ const L39_1 = {
       "k": "재상",
       "m": "superintend",
       "d": "The superintendent of an old-age house has to make sure the food is never too spicy.",
-      "e": "主宰 주재 superintendence, supervision; 宰相 재상 prime minister"
+      "e": "主宰 주재 superintendence, supervision; 宰相 재상 prime minister",
+      "lv": ["고등용","3급(2급)"],
+      "ex": ["주재","主宰"]
     },
     {
       "q": "辟",
@@ -175,7 +213,8 @@ const L39_1 = {
       "k": "피할",
       "m": "law, rule; *ketchup",
       "d": "One way American children learn to cope with food they are forced to eat against their will is to smother it with ketchup. We can see this depicted in the mouth with the flag over it (in this case, the Stars and Stripes), set alongside the element for spicy.",
-      "e": ""
+      "e": "",
+      "lv": ["","특급(-)"]
     },
     {
       "q": "壁",
@@ -183,7 +222,9 @@ const L39_1 = {
       "k": "벽",
       "m": "wall",
       "d": "Did anyone else used to put ketchup packets on the ground and jump on them so they spattered on the wall?",
-      "e": "防壁 방벽 protective wall, barrier, barricade"
+      "e": "防壁 방벽 protective wall, barrier, barricade",
+      "lv": ["고등용","4급II(3급II)"],
+      "ex": ["벽","壁"]
     },
     {
       "q": "璧",
@@ -191,7 +232,9 @@ const L39_1 = {
       "k": "구슬",
       "m": "holed gem/jade",
       "d": "Only the tomatoes of perfection, comparable to jewels, were used for the expensive ketchup.",
-      "e": "完璧 완벽 perection"
+      "e": "完璧 완벽 perection",
+      "lv": ["","1급(특급)"],
+      "ex": ["완벽","完璧"]
     },
     {
       "q": "避",
@@ -199,7 +242,9 @@ const L39_1 = {
       "k": "피할",
       "m": "evade",
       "d": "The ketchup was invented to evade tasting yucky food.",
-      "e": "避하다 피하다 avoid, escape, evade"
+      "e": "避하다 피하다 avoid, escape, evade",
+      "lv": ["고등용","4급(3급)"],
+      "ex": ["피서","避暑"]
     },
     {
       "q": "亲",
@@ -215,7 +260,9 @@ const L39_1 = {
       "k": "새",
       "m": "new",
       "d": "Every time the farmer cuts down the peppers from the <b>red pepper</b> plant, he has to use a brand <b>new axe</b>. This is because the spicy peppers cause the metal to erode very quickly, thereby rendering the axe completely useless.",
-      "e": "革新 혁신 reform, innovation; 新聞 신문 newspaper"
+      "e": "革新 혁신 reform, innovation; 新聞 신문 newspaper",
+      "lv": ["중학용","6급II(5급II)"],
+      "ex": ["신랑","新郞"]
     },
     {
       "q": "薪",
@@ -223,7 +270,9 @@ const L39_1 = {
       "k": "섶",
       "m": "fuel, *firewood",
       "d": "If your <b>firewood</b> is too <b>new</b> and still has <b>flowers</b> on it, it's unsuitable for burning. You need drier wood.",
-      "e": ""
+      "e": "",
+      "lv": ["","1급(특급)"],
+      "ex": ["와신상담","臥薪嘗膽"]
     },
     {
       "q": "親",
@@ -231,14 +280,18 @@ const L39_1 = {
       "k": "친할",
       "m": "relatives, intimate, *parent",
       "d": "A wise parent lets their kids learn. A kid wants to try to eat the <b>red pepper</b> plant, the wise parent says 'Try it and <b>see</b> for yourself'.",
-      "e": "親舊 친구 friend, companion; 親切 친절 kindness, goodness"
+      "e": "親舊 친구 friend, companion; 親切 친절 kindness, goodness",
+      "lv": ["중학용","6급(5급)"],
+      "ex": ["친구","親舊"]
     },
     {
       "q": "幸",
       "s": "행",
       "m": "luck(ily), *happiness",
       "d": "Happiness is the <b>one</b> bite of <b>spicy</b> curry.",
-      "e": "幸福 행복 happiness; 多幸 다행 luck, good fortune"
+      "e": "幸福 행복 happiness; 多幸 다행 luck, good fortune",
+      "lv": ["중학용","6급II(5급II)"],
+      "ex": ["행복","幸福"]
     },
     {
       "q": "執",
@@ -246,7 +299,9 @@ const L39_1 = {
       "k": "잡을",
       "m": "hold in hand; *tenacious",
       "d": "To be <b>tenacious</b>, you need to have deep stores of <b>happiness</b> (so troubles don't discourage you) and you need to be big and <b>round</b> (so hunger doesn't drive you to give up). The most tenacious person of all time was happy round Buddha!",
-      "e": "固執 고집 obstinacy, stubbornness; 執着 집착 attachment, tenacity, persistencel"
+      "e": "固執 고집 obstinacy, stubbornness; 執着 집착 attachment, tenacity, persistencel",
+      "lv": ["중학용","3급II(2급)"],
+      "ex": ["고집","固執"]
     },
     {
       "q": "摯",
@@ -254,7 +309,9 @@ const L39_1 = {
       "k": "잡을",
       "m": "sincere, cordial; *clasp",
       "d": "You could tell he was <b>earnest</b> from how <b>tenaciously</b> he clasped and shook your <b>hand</b>.",
-      "e": "眞摯 진지 seriousness, earnestness"
+      "e": "眞摯 진지 seriousness, earnestness",
+      "lv": ["","1급(특급)"],
+      "ex": ["진지하다","眞摯 하다"]
     },
     {
       "q": "報",
@@ -262,7 +319,9 @@ const L39_1 = {
       "k": "갚을",
       "m": "report",
       "d": "On the news: 'We are <b>happy</b> to <b>report</b> that <b>stamp</b>-sized bikini bottoms (covering the <b>crotch</b>) are back in style!' (Well, the men are happy about it, at least.)",
-      "e": "報告 보고 report, account; 情報 정보 information, report, data"
+      "e": "報告 보고 report, account; 情報 정보 information, report, data",
+      "lv": ["중학용","4급II(3급II)"],
+      "ex": ["예보","豫報"]
     }
   ]
 };

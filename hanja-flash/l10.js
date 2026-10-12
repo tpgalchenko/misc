@@ -8,7 +8,9 @@ const L10 =
 			"k": "나무",
 			"m": "tree",
 			"d": "A pictograph of a treee, showing the main trunk in the long vertical stroke and the boughs in the long horizontal stroke. The final two strokes sweep down in both directions to indicate the roots.",
-			"e": "木발 목발 crutch"
+			"e": "木발 목발 crutch",
+			"lv": ["중학용","8급(6급II)"],
+			"ex": ["목요일","木曜日"]
 		},
 		{
 			"q": "林",
@@ -16,7 +18,9 @@ const L10 =
 			"k": "수풀",
 			"m": "grove",
 			"d": "A grove is a small cluster of trees. Hence the simple reduplication of the kanji for tree gives us the grove.",
-			"e": "山林 산림 woods/forest"
+			"e": "山林 산림 woods/forest",
+			"lv": ["중학용","7급(6급)"],
+			"ex": ["밀림","密林"]
 		},
 		{
 			"q": "森",
@@ -24,7 +28,9 @@ const L10 =
 			"k": "수풀",
 			"m": "forest",
 			"d": "A forest is a large expanse of trees, or “trees, trees everywhere.”",
-			"e": "森林 삼림 woods/forest"
+			"e": "森林 삼림 woods/forest",
+			"lv": ["","3급II(2급)"],
+			"ex": ["삼림욕","森林浴"]
 		},
 		{
 			"q": "桂",
@@ -32,7 +38,9 @@ const L10 =
 			"k": "계수나무",
 			"m": "cinnamon tree, *Japanese Judas-tree",
 			"d": "A tree with ivy growing down its branches in the shape of a hangman’s rope.",
-			"e": "桂皮 계피 cinnamon"
+			"e": "桂皮 계피 cinnamon",
+			"lv": ["고등용","3급II(2급)"],
+			"ex": ["계피","桂皮"]
 		},
 		{
 			"q": "柏",
@@ -40,7 +48,9 @@ const L10 =
 			"k": "측백",
 			"m": "cypress, cedar, *oak",
 			"d": "Think of the myth of the “golden bough.” As you may recall, what made the sacred oak in the forest of Diana the Huntress outside of Rome “golden” were the white berries of the mistletoe that grew in the branches of the tree, presumably appearing yellow when the light of the sun shone through them.",
-			"e": "冬柏 동백 camellia"
+			"e": "冬柏 동백 camellia",
+			"lv": ["","2급(1급)"],
+			"ex": ["동백","冬柏/冬栢"]
 		},
 		{
 			"q": "枠",
@@ -56,7 +66,9 @@ const L10 =
 			"k": "우듬지",
 			"m": "treetops",
 			"d": "Climbing high up into the treetops to fix candles on the (Christmas) tree.",
-			"e": "末梢 말초 tip, end, periphery"
+			"e": "末梢 말초 tip, end, periphery",
+			"lv": ["","1급(특급)"],
+			"ex": ["말초","末梢"]
 		},
 		{
 			"q": "棚",
@@ -64,7 +76,8 @@ const L10 =
 			"k": "사다리",
 			"m": "ladder, *shelf",
 			"d": "One often thinks of books as “good companions,” but here it is the shelf we store them on that is the companion. The reasons should be obvious: it is made of the same stuff, wood, and spends a lot more time with them than we do!",
-			"e": ""
+			"e": "",
+			"lv": ["","1급(특급)"]
 		},
 		{
 			"q": "杏",
@@ -72,7 +85,9 @@ const L10 =
 			"k": "살구",
 			"m": "apricot",
 			"d": "Since apricots can be eaten just as they fall from the trees, picture this mouth agape at the bottom of a tree (just as the elements have it), waiting for apricots to fall into it.",
-			"e": "銀杏 은행 ginko nut"
+			"e": "銀杏 은행 ginko nut",
+			"lv": ["","2급(특급II)"],
+			"ex": ["은행잎","銀杏 잎"]
 		},
 		{
 			"q": "桐",
@@ -80,7 +95,9 @@ const L10 =
 			"k": "오동나무",
 			"m": "paulownia",
 			"d": "Since you probably don’t know what a paulownia tree is, we shall let the key word suggest the phrase “the Little Brothers of St. Paulownia” and it is a short step to associate the tree with the monks to its right. (For the curious, the name of this oriental treereally comes from a Russian princess, Anna Pavlovna.)",
-			"e": "梧桐 오동 paulownia"
+			"e": "梧桐 오동 paulownia",
+			"lv": ["","2급(1급)"],
+			"ex": ["오동","梧桐"]
 		},
 		{
 			"q": "植",
@@ -88,7 +105,9 @@ const L10 =
 			"k": "심을",
 			"m": "plant",
 			"d": "You have no doubt seen how people practicing the Japanese art of bonsai take those helpless little saplings and twist them into crippled dwarves before they have a chance to grow up as they should. The more proper way to plant a young tree and give it a fair shake in life is to set it into the earth in such a way that it can grow up straight",
-			"e": "植物 식물 plant, flora"
+			"e": "植物 식물 plant, flora",
+			"lv": ["중학용","7급(6급)"],
+			"ex": ["식물","植物"]
 		},
 		{
 			"q": "枯",
@@ -96,7 +115,9 @@ const L10 =
 			"k": "마를",
 			"m": "wither",
 			"d": "A wrinkled old tree, withering away in a retirement center so that the commonsense explanation does not take over.",
-			"e": "枯渴 고갈 drying up, exhaustion"
+			"e": "枯渴 고갈 drying up, exhaustion",
+			"lv": ["고등용","3급(2급)"],
+			"ex": ["고갈","枯渴"]
 		},
 		{
 			"q": "朴",
@@ -104,7 +125,9 @@ const L10 =
 			"k": "나무 껍질",
 			"m": "simple, *crude",
 			"d": "As all magicians know, one makes one’s wand out of a hazel branch and is careful not to alter the natural form of the wood. For the magic of the wand derives its power from its association with the hidden laws of nature, and needs therefore to be kept in its <b>crude</b>, natural state.",
-			"e": "素朴하다 소박하다 simple, unsophisticated"
+			"e": "素朴하다 소박하다 simple, unsophisticated",
+			"lv": ["중학용","6급(5급)"],
+			"ex": ["소박하다","素朴 하다"]
 		},
 		{
 			"q": "村",
@@ -112,7 +135,9 @@ const L10 =
 			"k": "마을",
 			"m": "village, *town",
 			"d": "A town is a step up on the evolutionary path to cities, thus the character shows a circle of trees glued together to measure off the confines of a town. (cf. 町 village)",
-			"e": "山村  산촌 mountain village"
+			"e": "山村  산촌 mountain village",
+			"lv": ["중학용","7급(6급)"],
+			"ex": ["농촌","農村"]
 		},
 		{
 			"q": "相",
@@ -120,7 +145,9 @@ const L10 =
 			"k": "서로",
 			"m": "inter-",
 			"d": "The prefix inter- stirs up associations of cooperation among people. The elements:<b>tree</b> and <b>eye</b> call to mind the scriptural proverb about first taking the tree out of one’s own eye before helping your neighbors with the splinter in theirs. What a useful rule for <b>inter-</b>human relationships!",
-			"e": "相關 상관 interrelation"
+			"e": "相關 상관 interrelation",
+			"lv": ["중학용","5급II(4급II)"],
+			"ex": ["상담","相談"]
 		},
 		{
 			"q": "机",
@@ -128,7 +155,8 @@ const L10 =
 			"k": "책상",
 			"m": "desk",
 			"d": "A <b>desk</b> made of wonderful rough <b>wood</b> and the <b>wind</b> that blows across it, sending your papers flying all over the room.",
-			"e": ""
+			"e": "",
+			"lv": ["","1급(특급)"]
 		},
 		{
 			"q": "本",
@@ -136,7 +164,9 @@ const L10 =
 			"k": "근본",
 			"m": "basis, root, *book",
 			"d": "Books are made of paper, and paper made of trees, one might think of a book as a slice of a tree. Can you see the “cross-cut” in the trunk of the tree? Picture it as a chain-saw cutting you out a few books with which to start your own private library.",
-			"e": "根本 근본 the root, the basis"
+			"e": "根本 근본 the root, the basis",
+			"lv": ["중학용","6급(5급)"],
+			"ex": ["일본","日本"]
 		},
 		{
 			"q": "札",
@@ -144,7 +174,9 @@ const L10 =
 			"k": "편지",
 			"m": "letter, pick, *tag",
 			"d": "The tags you see hanging on trees in public places are helpful to identify what sort of trees they are. Next time you see one, imagine the bit of wire that fixes the tag to the branch as a large fishhook.",
-			"e": "改札 개찰 examination of tickets"
+			"e": "改札 개찰 examination of tickets",
+			"lv": ["","2급(1급)"],
+			"ex": ["개찰","改札"]
 		},
 		{
 			"q": "暦/曆",
@@ -152,7 +184,9 @@ const L10 =
 			"k": "책력",
 			"m": "calendar",
 			"d": "Calendar boxes like a grove of trees growing up through the layers of rock and soil.",
-			"e": "陰曆 음력 calendar"
+			"e": "陰曆 음력 calendar",
+			"lv": ["고등용","3급II(2급)"],
+			"ex": ["달력","달 曆"]
 		},
 		{
 			"q": "案",
@@ -160,7 +194,9 @@ const L10 =
 			"k": "책상",
 			"m": "desk, *plan",
 			"d": "A hammock strung between two <b>trees</b> in your backyard, and you stretched out in it, <b>relaxed</b>, hands folded behind your head, planning something or other.",
-			"e": "方案 방안 plan, program"
+			"e": "方案 방안 plan, program",
+			"lv": ["중학용","5급(4급)"],
+			"ex": ["안내","案內"]
 		},
 		{
 			"q": "燥",
@@ -168,7 +204,9 @@ const L10 =
 			"k": "마를",
 			"m": "dry, *parch",
 			"d": "Take a sheet of paper (a “wood-good,”), wet it, and hold it over a hearth in your mind’s eye. Now watch as it parches the paper, leaving it with a strange and bumpy surface resembling parchment",
-			"e": "乾燥 건조 dryness, aridity"
+			"e": "乾燥 건조 dryness, aridity",
+			"lv": ["고등용","3급(2급)"],
+			"ex": ["초조","焦燥"]
 		},
 		{
 			"q": "未",
@@ -176,7 +214,9 @@ const L10 =
 			"k": "아닐",
 			"m": "not yet",
 			"d": "A tree that is not yet fully grown.",
-			"e": "未來 미래 future, 未婚 미혼 unmarried"
+			"e": "未來 미래 future, 未婚 미혼 unmarried",
+			"lv": ["중학용","4급II(3급II)"],
+			"ex": ["미래","未來"]
 		},
 		{
 			"q": "末",
@@ -184,7 +224,9 @@ const L10 =
 			"k": "끝",
 			"m": "extremity",
 			"d": "A tree has reached the extremity of its growth, so that its branches stop spreading and start drooping downwards.",
-			"e": "末技 말기 end, last period, late stage"
+			"e": "末技 말기 end, last period, late stage",
+			"lv": ["중학용","5급(4급)"],
+			"ex": ["연말","年末"]
 		},
 		{
 			"q": "沫",
@@ -192,7 +234,8 @@ const L10 =
 			"k": "물거품",
 			"m": "bubbles, foam, *splash",
 			"d": "A wave that has run its full course, reached its extremity, namely the seashore, and ended in a splash.",
-			"e": ""
+			"e": "",
+			"lv": ["","1급(특급)"]
 		},
 		{
 			"q": "味",
@@ -200,7 +243,9 @@ const L10 =
 			"k": "맛",
 			"m": "flavor",
 			"d": "When a tree has not yet finished growing, it produces fruit with a full flavor. When the official taster (the professional mouth to the left) determines that full flavor has been reached, the tree is pruned back so that it remains permanently not yet grown.",
-			"e": "趣味 취미 hobby, 意味 의미 meaning, sense"
+			"e": "趣味 취미 hobby, 意味 의미 meaning, sense",
+			"lv": ["중학용","4급II(3급II)"],
+			"ex": ["의미","意味"]
 		},
 		{
 			"q": "妹",
@@ -208,7 +253,9 @@ const L10 =
 			"k": "누이",
 			"m": "*younger sister",
 			"d": "The younger sister in the family is the woman in the family who, like the newest branch in a tree, is not yet old enough or mature enough to do everything the elder sister can do.",
-			"e": "姊妹 자매 sisters"
+			"e": "姊妹 자매 sisters",
+			"lv": ["중학용","4급(3급)"],
+			"ex": ["남매","男妹"]
 		},
 		{
 			"q": "朱",
@@ -216,7 +263,9 @@ const L10 =
 			"k": "붉을",
 			"m": "vermilion",
 			"d": "That red-orange color we call vermilion is found in nature during the fall when the leaves lose their sugar and begin to change color. This kanji depicts the very last leaf on a tree in the fall (the drop hung in the first stroke), the leaf that has not yet fallen as it one day must. Look at its color—vermilion.",
-			"e": "朱黃 주황 orange color"
+			"e": "朱黃 주황 orange color",
+			"lv": ["중학용","4급(3급)"],
+			"ex": ["주황색","朱黃色"]
 		},
 		{
 			"q": "株",
@@ -224,7 +273,9 @@ const L10 =
 			"k": "그루",
 			"m": "tree counter word, *stocks",
 			"d": "The stocks that a healthy tree has is in the hopes that it will grow and produce more and more trees like itself. Usually good stocks are referred to as “blue chip,” but here it is vermilion because one can assess the value of a tree from the color of its autumn leaves",
-			"e": "株式 주식 stocks, shares"
+			"e": "株式 주식 stocks, shares",
+			"lv": ["고등용","3급II(2급)"],
+			"ex": ["주식","株式"]
 		},
 		{
 			"q": "若",
@@ -232,7 +283,9 @@ const L10 =
 			"k": "같을",
 			"m": "same, equal, *young",
 			"d": "Here we see a <b>flower</b> held in the <b>right</b> hand. You can imagine yourself in a magic garden where flowers picked with the right hand grant eternal <b>youth</b>; and those picked with the left, premature senility. Go ahead, pick one with each hand and watch what happens.",
-			"e": "若干 약간 a few, somewhat"
+			"e": "若干 약간 a few, somewhat",
+			"lv": ["중학용","3급II(2급)"],
+			"ex": ["만약","萬若"]
 		},
 		{
 			"q": "草",
@@ -240,7 +293,9 @@ const L10 =
 			"k": "풀",
 			"m": "grass",
 			"d": "An early spring crocus flower pops up and blooms as the grass begins to turn green again after winter has passed. A sort of early harbinger of spring.",
-			"e": "乾草 건초 hay, dried grass"
+			"e": "乾草 건초 hay, dried grass",
+			"lv": ["중학용","7급(6급)"],
+			"ex": ["초록색","草綠色"]
 		},
 		{
 			"q": "苦",
@@ -248,7 +303,9 @@ const L10 =
 			"k": "쓸",
 			"m": "bitter, suffering",
 			"d": "When a flower ages, it pales and dries up, and probably even suffers. If you think that plants are incapable of such feelings, then ask yourself why so many people believe that talking to their flowers helps them bloom better. ",
-			"e": "苦生 고생 hardships"
+			"e": "苦生 고생 hardships",
+			"lv": ["중학용","6급(5급)"],
+			"ex": ["고민","苦悶"]
 		},
 		{
 			"q": "寛/寬",
@@ -256,7 +313,9 @@ const L10 =
 			"k": "너그러울",
 			"m": "broad, spacious",
 			"d": "When taking photos inside your <b>house</b>, an estate agent will often use a wide-angle lens to make it look more <b>spacious</b>. You also fill your house with <b>flowers</b>, so prospective buyers won't see all the <b>drops</b> of oil, paint and food stained into your floor..",
-			"e": "寬大 관대 generosity, mangnanimity"
+			"e": "寬大 관대 generosity, mangnanimity",
+			"lv": ["고등용","3급II(2급)"],
+			"ex": ["관용","寬容"]
 		},
 		{
 			"q": "薄",
@@ -264,7 +323,9 @@ const L10 =
 			"k": "엷을",
 			"m": "thin, *dilute",
 			"d": "An acupuncturist performing his task with <b>flowers</b> in place of needles, and using their hollow stems to pipe <b>water</b> into the body of the patient to <b>dilute</b> the vital humors of the body.",
-			"e": "薄하다 stingy, inhuman, scanty"
+			"e": "薄하다 stingy, inhuman, scanty",
+			"lv": ["고등용","3급II(2급)"],
+			"ex": ["각박하다","刻薄 하다"]
 		},
 		{
 			"q": "葉",
@@ -280,7 +341,9 @@ const L10 =
 			"k": "없을",
 			"m": "not to exist, *graveyard",
 			"d": "Brightly colored flowers placed before the tombstones, the sun shining gloriously overhead, and a cuddly St.Bernard sitting at the gate keeping watch.",
-			"e": "莫強하다 막강하다 enormously mighty"
+			"e": "莫強하다 막강하다 enormously mighty",
+			"lv": ["중학용","3급II(2급)"],
+			"ex": ["막강","莫強"]
 		},
 		{
 			"q": "模",
@@ -288,7 +351,9 @@ const L10 =
 			"k": "법/본뜰",
 			"m": "rule, *imitation",
 			"d": "Ah, but haven’t modern graveyards become a parody of their ancestors! The flowers are plastic, the writing on the stones is unimaginative and cold, and the whole thing looks more like a marble orchard than a right and proper graveyard.",
-			"e": "規模 규모 scale"
+			"e": "規模 규모 scale",
+			"lv": ["고등용","4급(3급)"],
+			"ex": ["모양","模樣"]
 		},
 		{
 			"q": "漠",
@@ -296,7 +361,9 @@ const L10 =
 			"k": "사막",
 			"m": "desert, *vague",
 			"d": "A deserted graveyard seen vaguely through the mist.",
-			"e": "砂漠 사막 desert"
+			"e": "砂漠 사막 desert",
+			"lv": ["고등용","3급II(2급)"],
+			"ex": ["사막","沙漠/砂漠"]
 		},
 		{
 			"q": "墓",
@@ -304,7 +371,9 @@ const L10 =
 			"k": "무덤 ",
 			"m": "grave",
 			"d": "The mounds of soil with crude wooden crosses set at their head suggests those boot-hill graves we all know from cowboy lore. Pay attention, the soil comes under the graveyard, rather than to its left, where we might expect. Just think of the bodies as “lying under boot-hill” if you have any trouble.",
-			"e": "墓地 묘지 graveyard, cemetery"
+			"e": "墓地 묘지 graveyard, cemetery",
+			"lv": ["고등용","4급(3급)"],
+			"ex": ["묘지","墓地"]
 		},
 		{
 			"q": "暮",
@@ -312,7 +381,9 @@ const L10 =
 			"k": "저물",
 			"m": "to grow dark, *livelihood",
 			"d": "Imagine that you have chosen the occupation of the keeper of a <b>graveyard</b> and spend your <b>days</b> tending to other’s deadhood in order to make your means of <b>livelihood</b>.",
-			"e": "朝令暮改 조령모개 (early command - late correction) an unsettled course of action"
+			"e": "朝令暮改 조령모개 (early command - late correction) an unsettled course of action",
+			"lv": ["중학용","3급(2급)"],
+			"ex": ["조령모개","朝令暮改"]
 		},
 		{
 			"q": "膜",
@@ -320,7 +391,9 @@ const L10 =
 			"k": "꺼풀",
 			"m": "membrane,film",
 			"d": "The part of the body first affected by a stroll through a haunted graveyard is the skin, which gets goose bumps. But think of being so scared through and through that the goose flesh moves from the outside in, giving you goose membranes.",
-			"e": "膜 막 membrane, film"
+			"e": "膜 막 membrane, film",
+			"lv": ["","2급(1급)"],
+			"ex": ["각막","角膜"]
 		},
 		{
 			"q": "苗",
@@ -328,7 +401,9 @@ const L10 =
 			"k": "모",
 			"m": "sprouts, seedling",
 			"d": "In the roman 'Brave New World' they implant “ideas” or “values” into brains like <b>seedlings</b> to insure a harmonious society. Imagine them taking root and breaking out into <b>flower</b> right through the tops of the <b>skulls</b> of people walking around on the streets. ",
-			"e": "苗木 묘목 seedling, a young plant"
+			"e": "苗木 묘목 seedling, a young plant",
+			"lv": ["고등용","3급(2급)"],
+			"ex": ["묘목","苗木"]
 		}
 	]
 };

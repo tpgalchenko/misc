@@ -8,7 +8,8 @@ const L4 =
 			"k": "안석",
 			"m": "ansok cushion, lean, *wind",
 			"d": "",
-			"e": ""
+			"e": "",
+			"lv": ["","1급(특급)"]
 		},
 		{
 			"q": "勹",
@@ -24,7 +25,9 @@ const L4 =
 			"k": "다만",
 			"m": "only",
 			"d": "A strange pac-man like creature with a gigantic mouth and two animal legs - it's the <b>only</b> one of its kind",
-			"e": "只今 지금 now"
+			"e": "只今 지금 now",
+			"lv": ["중학용","3급(2급)"],
+			"ex": ["지금","只今"]
 		},
 		{
 			"q": "貝",
@@ -32,7 +35,9 @@ const L4 =
 			"k": "조개 ",
 			"m": "shellfish",
 			"d": "A freaky shellfish with a single gigantic eye roaming the beaches on its slender little legs",
-			"e": ""
+			"e": "",
+			"lv": ["중학용","3급(2급)"],
+			"ex": ["어패류","魚貝類"]
 		},
 		{
 			"q": "貞",
@@ -40,7 +45,9 @@ const L4 =
 			"k": "곧을",
 			"m": "virtuous, righteous, *upright",
 			"d": "Oysters/shellfishes cannot walk upright, it would take a magic wand to pull off such a feat",
-			"e": "不貞 부정 filthiness,impurity"
+			"e": "不貞 부정 filthiness,impurity",
+			"lv": ["중학용","3급II(2급)"],
+			"ex": ["정절","貞節"]
 		},
 		{
 			"q": "員",
@@ -48,7 +55,9 @@ const L4 =
 			"k": "인원",
 			"m": "employee",
 			"d": "New employees should keep their mouth shut and do their job. Shellfish in the mouth to keep it closed",
-			"e": "人員 인원 staff, personnel; 職員 직원 staff, employee"
+			"e": "人員 인원 staff, personnel; 職員 직원 staff, employee",
+			"lv": ["고등용","4급II(3급II)"],
+			"ex": ["직원","職員"]
 		},
 		{
 			"q": "見",
@@ -56,7 +65,9 @@ const L4 =
 			"k": "볼",
 			"m": "see",
 			"d": "An eye on a pair of human legs",
-			"e": "發見 발견 discovery"
+			"e": "發見 발견 discovery",
+			"lv": ["중학용","5급II(4급II)"],
+			"ex": ["견학","見學"]
 		},
 		{
 			"q": "児/兒",
@@ -64,7 +75,9 @@ const L4 =
 			"k": "아이",
 			"m": "newborn babe",
 			"d": "An old with a newborn babe crawling around his legs.",
-			"e": "兒童 아동 child, juvenile"
+			"e": "兒童 아동 child, juvenile",
+			"lv": ["중학용","5급II(4급II)"],
+			"ex": ["아동","兒童"]
 		},
 		{
 			"q": "元",
@@ -72,7 +85,9 @@ const L4 =
 			"k": "으뜸",
 			"m": "first, origin, *beginning",
 			"d": "In the <b>beginning</b> the Creator came and made <b>two</b> humans - a man and a woman on human legs",
-			"e": "單元 단원 chapter"
+			"e": "單元 단원 chapter",
+			"lv": ["중학용","5급II(4급II)"],
+			"ex": ["차원","次元"]
 		},
 		{
 			"q": "頁",
@@ -80,7 +95,8 @@ const L4 =
 			"k": "머리/책장",
 			"m": "*head; page, sheet",
 			"d": "A book called '<b>Pearl</b> of Wisdom' of only <b>one</b> page with a radiant <b>drop</b> of wisdom",
-			"e": ""
+			"e": "",
+			"lv": ["","특급II(-)"]
 		},
 		{
 			"q": "頑",
@@ -88,7 +104,9 @@ const L4 =
 			"k": "완고할",
 			"m": "stubborn",
 			"d": "Stubborn block<b>head</b> persistent to do just the way it was at the <b>beginning</b>",
-			"e": "頑固 완고 stubborness"
+			"e": "頑固 완고 stubborness",
+			"lv": ["","1급(특급)"],
+			"ex": ["완강히","頑強 히"]
 		},
 		{
 			"q": "凡",
@@ -96,7 +114,9 @@ const L4 =
 			"k": "무릇",
 			"m": "mediocre, ordinary",
 			"d": "A drop in the wind is as insignificant",
-			"e": "凡人 범인 ordinary/mediocre man"
+			"e": "凡人 범인 ordinary/mediocre man",
+			"lv": ["중학용","3급II(2급)"],
+			"ex": ["평범하다","平凡 하다"]
 		},
 		{
 			"q": "負",
@@ -104,7 +124,9 @@ const L4 =
 			"k": "질",
 			"m": "defeat",
 			"d": "A shellfish bound up with seaweed in a struggle thus defeated",
-			"e": "負擔 부담 burden"
+			"e": "負擔 부담 burden",
+			"lv": ["고등용","4급(3급)"],
+			"ex": ["부담","負擔"]
 		},
 		{
 			"q": "万/萬",
@@ -112,7 +134,9 @@ const L4 =
 			"k": "일만",
 			"m": "10,000",
 			"d": "One comma to bind up thousands in the number 10,000",
-			"e": ""
+			"e": "",
+			"lv": ["중학용","8급(6급II)"],
+			"ex": ["만일","萬一"]
 		},
 		{
 			"q": "句",
@@ -120,7 +144,9 @@ const L4 =
 			"k": "글귀",
 			"m": "phrase",
 			"d": "Words bound up to fit in the mouth",
-			"e": "慣用句 관용구 idiom; 글句 글귀 words, terms, phrase, clause, sentence"
+			"e": "慣用句 관용구 idiom; 글句 글귀 words, terms, phrase, clause, sentence",
+			"lv": ["중학용","4급II(3급II)"],
+			"ex": ["구절","句節"]
 		},
 		{
 			"q": "肌",
@@ -128,7 +154,8 @@ const L4 =
 			"k": "살가죽",
 			"m": "muscle tissue, *texture",
 			"d": "A part of body/flesh exposed to the wind",
-			"e": ""
+			"e": "",
+			"lv": ["","1급(특급)"]
 		},
 		{
 			"q": "旬",
@@ -136,7 +163,9 @@ const L4 =
 			"k": "열흘/고를",
 			"m": "ten days, *decameron/uniform",
 			"d": "Bocaccio's Decameron is a story of a group of people bound together for the days",
-			"e": "六旬 육순 60 years, 上旬 the first ten days of a month"
+			"e": "六旬 육순 60 years, 上旬 the first ten days of a month",
+			"lv": ["고등용","3급II(2급)"],
+			"ex": ["중순","中旬"]
 		},
 		{
 			"q": "勺",
@@ -144,7 +173,8 @@ const L4 =
 			"k": "구기",
 			"m": "ladle (big spoon)",
 			"d": "A ladle is a spoon to scoop drops up of soup, mind the last drop inside the ladle",
-			"e": ""
+			"e": "",
+			"lv": ["","1급(특급)"]
 		},
 		{
 			"q": "的",
@@ -152,7 +182,9 @@ const L4 =
 			"k": "과녁",
 			"m": "target/goal/bull's-eye",
 			"d": "A laddle with a little <b>white bird</b> painted on it, who lets a little peep every time you hit the target",
-			"e": "目的 목적 purpose, object, goal"
+			"e": "目的 목적 purpose, object, goal",
+			"lv": ["중학용","5급II(4급II)"],
+			"ex": ["목적","目的"]
 		},
 		{
 			"q": "首",
@@ -160,7 +192,9 @@ const L4 =
 			"k": "머리",
 			"m": "head, *neck",
 			"d": "Horns and nose - a head of deer over the fireplace",
-			"e": "首都 수도 capital"
+			"e": "首都 수도 capital",
+			"lv": ["중학용","5급II(4급II)"],
+			"ex": ["수도권","首都圈"]
 		}
 	]
 };

@@ -8,7 +8,9 @@ const L6 =
 			"k": "자식/아들",
 			"m": "child",
 			"d": "The first stroke is like a wee head popping out for air; the second shows the body and legs all wrapped up; and the final stroke shows the arms sticking out to cling to the mother’s neck.",
-			"e": "男子 남자 man, 卓子 탁자 table"
+			"e": "男子 남자 man, 卓子 탁자 table",
+			"lv": ["중학용","7급II(6급)"],
+			"ex": ["과자","菓子"]
 		},
 		{
 			"q": "孔",
@@ -16,7 +18,9 @@ const L6 =
 			"k": "구멍",
 			"m": "cavity",
 			"d": "A child came to dentist. An hole in tooth was found. A hook is needed to pull the tooth away.",
-			"e": "孔子 공자 Confucius; 毛孔 모공 skin pore"
+			"e": "孔子 공자 Confucius; 毛孔 모공 skin pore",
+			"lv": ["고등용","4급(3급)"],
+			"ex": ["공자","孔子"]
 		},
 		{
 			"q": "了",
@@ -24,7 +28,9 @@ const L6 =
 			"k": "마칠",
 			"m": "complete",
 			"d": "Thus a child with its arms wrapped up into the back-sack is the picture of a job success-fully <b>completed</b>",
-			"e": "終了 종료 end, conclusion, completion"
+			"e": "終了 종료 end, conclusion, completion",
+			"lv": ["고등용","3급(2급)"],
+			"ex": ["수료","修了"]
 		},
 		{
 			"q": "女",
@@ -32,7 +38,9 @@ const L6 =
 			"k": "여자",
 			"m": "woman",
 			"d": "woman",
-			"e": "女子 야자 woman"
+			"e": "女子 야자 woman",
+			"lv": ["중학용","8급(6급II)"],
+			"ex": ["남녀","男女"]
 		},
 		{
 			"q": "好",
@@ -40,7 +48,9 @@ const L6 =
 			"k": "좋을",
 			"m": "fond",
 			"d": "A woman fondling her child",
-			"e": " 選好 선호"
+			"e": " 選好 선호",
+			"lv": ["중학용","4급II(3급II)"],
+			"ex": ["선호","選好"]
 		},
 		{
 			"q": "如",
@@ -48,7 +58,9 @@ const L6 =
 			"k": "같을",
 			"m": "likeness",
 			"d": "A likeness to the opening of the woman from whom you were born.",
-			"e": "如干 여간 ordinarly; 如前히 여전히 as before"
+			"e": "如干 여간 ordinarly; 如前히 여전히 as before",
+			"lv": ["중학용","4급II(3급II)"],
+			"ex": ["여간","如干"]
 		},
 		{
 			"q": "母",
@@ -56,7 +68,9 @@ const L6 =
 			"k": "어머니",
 			"m": "mama, *breasts",
 			"d": "Outline of <b>woman</b> character expanded to make space for the two breasts that make her a mama.",
-			"e": "母語 모어 mother language; 母音 모음 vowel"
+			"e": "母語 모어 mother language; 母音 모음 vowel",
+			"lv": ["중학용","8급(6급II)"],
+			"ex": ["고모","姑母"]
 		},
 		{
 			"q": "貫",
@@ -64,7 +78,9 @@ const L6 =
 			"k": "꿸",
 			"m": "pierce",
 			"d": "Piercing an ear so that it can hold a <b>mother</b>-of-pearl you have just wrested from an <b>oyster</b>.",
-			"e": "一貫 일관 consistency, coherence; 貫通 관통 piercing, penetration"
+			"e": "一貫 일관 consistency, coherence; 貫通 관통 piercing, penetration",
+			"lv": ["고등용","3급II(2급)"],
+			"ex": ["일관성","一貫性"]
 		},
 		{
 			"q": "兄",
@@ -72,7 +88,9 @@ const L6 =
 			"k": "형",
 			"m": "elder brother, *teenager",
 			"d": "The large mouth on top and the human legs below almost jump off the page as a caricature of elder brother, the one with the big mouth.",
-			"e": "兄嫂 형수 elder brother's wife"
+			"e": "兄嫂 형수 elder brother's wife",
+			"lv": ["중학용","8급(6급II)"],
+			"ex": ["형제","兄弟"]
 		},
 		{
 			"q": "克",
@@ -80,7 +98,9 @@ const L6 =
 			"k": "이길",
 			"m": "overcome",
 			"d": "A <b>teenager</b> overcoming the drug (<b>needle</b>) addiction.",
-			"e": "克復 극복 conquest, overcome, subjugate"
+			"e": "克復 극복 conquest, overcome, subjugate",
+			"lv": ["고등용","3급II(2급)"],
+			"ex": ["극복","克服"]
 		}
 	]
 };
