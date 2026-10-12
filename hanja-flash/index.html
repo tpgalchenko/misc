@@ -80,6 +80,7 @@ Based on "Remembering the Kanji" by James W. Heisig : A complete course on how n
 	<script src="l54.js"></script>
 	<script src="l55.js"></script>
         <script src="l56.js"></script>
+	<script src="levels.js"></script>
 	<script src="radicals.b64.js"></script>
 	<script>
 window.RADICALS = null;
@@ -445,6 +446,24 @@ function showCurrentQuestion() {
 	}
 
 	q.style.display = 'inline';
+	updateLevelDisplay();
+}
+
+function getLevelInfo(q) {
+	if(typeof LEVELS === "undefined" || !LEVELS) return null;
+	for(const part of String(q).split("/")) {
+		const key = part.trim();
+		if(LEVELS[key]) return LEVELS[key];
+	}
+	return null;
+}
+
+function updateLevelDisplay() {
+	const eduEl = document.getElementById("level_edu");
+	const hanjaEl = document.getElementById("level_hanja");
+	const info = currentCard ? getLevelInfo(currentCard['q']) : null;
+	eduEl.innerText = info && info[0] ? "교육용: " + info[0] : "";
+	hanjaEl.innerText = info && info[1] ? "한어검정: " + info[1] : "";
 }
 
 function showNextQuestion() {
@@ -830,6 +849,7 @@ function onLoad() {
 			text-align: center;
 			border: 1px solid;
 			margin: 1em;
+			position: relative;
 
 			-webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
 			-moz-box-sizing: border-box;    /* Firefox, other Gecko */
@@ -838,6 +858,15 @@ function onLoad() {
 			display: flex;
 			align-items: center; /* Vertical center alignment */
 			justify-content: center; /* Horizontal center alignment */
+		}
+		#level-display {
+			position: absolute;
+			top: 0.5em;
+			right: 0.75em;
+			text-align: right;
+			font-size: 2.2vh;
+			line-height: 1.4;
+			color: #555;
 		}
 		#question {
 			vertical-align: middle;
@@ -1081,6 +1110,10 @@ function onLoad() {
 	</div>
 	<div id="card-container">
 		<div id="card" onclick="handleClick()">
+			<div id="level-display">
+				<div id="level_edu"></div>
+				<div id="level_hanja"></div>
+			</div>
 			<span id="question" style="display: none">foo</span>
 			<div id="answer" style="display: none">
 				<div id="a_lesson"></div>
