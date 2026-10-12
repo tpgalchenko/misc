@@ -332,6 +332,11 @@ const LS_LESSONS = "hanja_lessons";
 const LS_ORDER = "hanja_order";
 const LS_POS = "hanja_pos";
 const LS_COUNT = "hanja_count";
+const LS_EDU = "hanja_edu";
+const LS_LEVEL = "hanja_level";
+const HANJA_GRADE_ORDER = ["특급", "특급II", "1급", "2급", "3급", "3급II", "4급", "4급II", "5급", "5급II", "6급", "6급II", "7급", "7급II", "8급"];
+let eduFilter = "all";
+let levelFilter = "all";
 
 function lsGet(key) {
 	try {
@@ -380,6 +385,8 @@ function saveState() {
 	lsSet(LS_LESSONS, lessonNames);
 	lsSet(LS_POS, String(questionIndex));
 	lsSet(LS_COUNT, String(answerCount));
+	lsSet(LS_EDU, eduFilter);
+	lsSet(LS_LEVEL, levelFilter);
 	lsSet(LS_ORDER, encodeOrder());
 }
 
@@ -400,12 +407,16 @@ function getSavedState() {
 
 	const posStr = lsGet(LS_POS);
 	const countStr = lsGet(LS_COUNT);
+	const eduStr = lsGet(LS_EDU);
+	const levelStr = lsGet(LS_LEVEL);
 
 	return {
 		lessons: lessonsStr.split(",").filter(n => n.length > 0),
 		order: order,
 		pos: posStr === null ? 0 : parseInt(posStr, 10),
-		count: countStr === null ? 0 : parseInt(countStr, 10)
+		count: countStr === null ? 0 : parseInt(countStr, 10),
+		edu: eduStr === null ? "all" : eduStr,
+		level: levelStr === null ? "all" : levelStr
 	};
 }
 
@@ -656,6 +667,26 @@ function setupLessonsDialog() {
 		ul.appendChild(li);
 	}
 
+	const levelSel = document.getElementById("level-filter");
+	if(levelSel.querySelectorAll("option").length <= 1) {
+		const present = new Set();
+		for(let k = 0; k < DATA.length; ++k) {
+			for(const c of DATA[k].cards) {
+				if(c.lv && c.lv[1]) present.add(primaryGrade(c.lv[1]));
+			}
+		}
+		for(const grade of HANJA_GRADE_ORDER) {
+			if(present.has(grade)) {
+				const opt = document.createElement("option");
+				opt.value = grade;
+				opt.textContent = grade;
+				levelSel.appendChild(opt);
+			}
+		}
+	}
+	document.getElementById("edu-filter").value = eduFilter;
+	levelSel.value = levelFilter;
+
 	updateLessonLabelState();
 }
 
@@ -762,11 +793,32 @@ function closeLessonDialog() {
 	document.getElementById("lesson-dialog-frame").classList.remove("active");
 }
 
+function primaryGrade(value) {
+	if(!value) return "";
+	return String(value).split("(")[0].trim();
+}
+
+function cardMatchesFilters(card, edu, level) {
+	if(!card) return false;
+	if(edu !== "all") {
+		if(!card.lv || card.lv[0] !== edu) return false;
+	}
+	if(level !== "all") {
+		if(!card.lv || primaryGrade(card.lv[1]) !== level) return false;
+	}
+	return true;
+}
+
+function filterCards(cards, edu, level) {
+	return cards.filter(c => cardMatchesFilters(c, edu, level));
+}
+
 function indexLessons(do_shuffle) {
 	data = []
 	for(let k = 0; k < lessons.length; ++k) {
 		data.push(... lessons[k].cards);
 	}
+	data = filterCards(data, eduFilter, levelFilter);
 	if(do_shuffle) {
 		shuffle(data);
 	}
@@ -795,42 +847,32 @@ function okLessonsDialog(e) {
 		return;
 	}
 
-	toggleLessonsDialog(e);
+	const newEdu = document.getElementById("edu-filter").value;
+	const newLevel = document.getElementById("level-filter").value;
+
 	const newLessons = [];
+	const candidate = [];
 	for(let k = 0; k < DATA.length; ++k) {
 		const cb = document.getElementById(DATA[k].name);
 		if(cb.checked) {
 			newLessons.push(DATA[k]);
+			candidate.push(... DATA[k].cards);
 		}
 	}
 
-	const saved = getSavedState();
-	const savedNames = saved ? saved.lessons : null;
-	const newNames = newLessons.map(l => l.name);
-	const selectionChanged = !savedNames || savedNames.join(",") !== newNames.join(",");
+	if(filterCards(candidate, newEdu, newLevel).length === 0) {
+		alert("No characters match the selected lessons and filters.");
+		return;
+	}
+
+	toggleLessonsDialog(e);
 
 	lessons = newLessons;
-
-	if(selectionChanged) {
-		indexLessons(do_shuffle);
-		answerCount = 0;
-		questionIndex = 0;
-	} else if(saved && saved.order.length > 0) {
-		const restored = dataFromOrder(saved.order);
-		if(restored.length > 0) {
-			data = restored;
-			answerCount = saved.count || 0;
-			questionIndex = saved.pos < data.length ? saved.pos : data.length - 1;
-		} else {
-			indexLessons(do_shuffle);
-			answerCount = 0;
-			questionIndex = 0;
-		}
-	} else {
-		indexLessons(do_shuffle);
-		answerCount = 0;
-		questionIndex = 0;
-	}
+	eduFilter = newEdu;
+	levelFilter = newLevel;
+	indexLessons(do_shuffle);
+	answerCount = 0;
+	questionIndex = 0;
 
 	currentCard = data[questionIndex];
 	saveState();
@@ -850,6 +892,8 @@ function onLoad() {
 	let restored = false;
 	const saved = getSavedState();
 	if(saved) {
+		eduFilter = saved.edu || "all";
+		levelFilter = saved.level || "all";
 		const savedLessons = lessonsFromNames(saved.lessons);
 		if(savedLessons.length > 0) {
 			lessons = savedLessons;
@@ -1193,6 +1237,16 @@ function onLoad() {
 				</div>
 			</div>
 			<div id="lessons-dlg-toolbar">
+				<label for="edu-filter">교육용</label>
+				<select id="edu-filter">
+					<option value="all">All</option>
+					<option value="중학용">중학용</option>
+					<option value="고등용">고등용</option>
+				</select>
+				<label for="level-filter">한어검정</label>
+				<select id="level-filter">
+					<option value="all">All</option>
+				</select>
 				<input type="checkbox" id="shuffle-cb" value="shuffle" checked><label for="shuffle-cb">Shuffle</label>
 				<input type="button" value="Cancel" onclick="cancelLessonsDialog(this)"/>
 				<input type="button" value="OK" onclick="okLessonsDialog(this)"/>
