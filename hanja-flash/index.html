@@ -443,6 +443,17 @@ function dataFromOrder(order) {
 	return result;
 }
 
+function showLessonTitle() {
+	const el = document.getElementById("q_lesson");
+	el.innerText = currentCard['lesson'];
+	el.style.cursor = "pointer";
+	el.onclick = function(ev) {
+		ev.stopPropagation();
+		openLessonDialog();
+	};
+	el.style.display = 'inline';
+}
+
 function showCurrentQuestion() {
 	document.getElementById("answer").style.display = 'none';
 
@@ -456,6 +467,9 @@ function showCurrentQuestion() {
 	}
 
 	q.style.display = 'inline';
+
+	showLessonTitle();
+
 	updateLevelDisplay();
 }
 
@@ -565,6 +579,8 @@ function buildExamples() {
 function showAnswer() {
 	document.getElementById("question").style.display = 'none';
 
+	showLessonTitle();
+
 	const aCharEl = document.getElementById("a_char");
 	renderClickableHanja(aCharEl, currentCard['q']);
 
@@ -573,14 +589,6 @@ function showAnswer() {
 	document.getElementById("a_desc").innerHTML = currentCard['d'];
 	document.getElementById("a_example").innerText = buildExamples();
 	document.getElementById("answer").style.display = 'block';
-
-	const lessonEl = document.getElementById("a_lesson");
-	lessonEl.innerText = currentCard['lesson'];
-	lessonEl.style.cursor = "pointer";
-	lessonEl.onclick = function(ev) {
-		ev.stopPropagation();
-		openLessonDialog();
-	};
 
 	document.getElementById("a_ko").innerText = currentCard['k'] ? currentCard['k'] : "";
 
@@ -966,6 +974,13 @@ function onLoad() {
 			line-height: 1.4;
 			color: #555;
 		}
+		#q_lesson {
+			position: absolute;
+			top: 0.75em;
+			left: 0.75em;
+			font-size: 2.2vh;
+			color: #555;
+		}
 		#question {
 			vertical-align: middle;
 		}
@@ -1208,13 +1223,13 @@ function onLoad() {
 	</div>
 	<div id="card-container">
 		<div id="card" onclick="handleClick()">
+			<span id="q_lesson" style="display: none"></span>
 			<div id="level-display">
 				<div id="level_edu"></div>
 				<div id="level_hanja"></div>
 			</div>
 			<span id="question" style="display: none">foo</span>
 			<div id="answer" style="display: none">
-				<div id="a_lesson"></div>
 				<div id="a_grid">
 					<div id="a_line0">
 						<span id="a_char" class="a_char"></span>  <span id="a_spell" class="a_spell"></span>  <span id="a_mean" class="a_mean"></span>  <span id="a_ko" class="a_ko"></span>
