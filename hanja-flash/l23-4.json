@@ -1,0 +1,340 @@
+{
+  "name" : "L23-4",
+  "cards" : [
+    {
+      "q": "厶",
+      "s": "사,모",
+	  "k": "사사(≒自營) ",
+      "m": "private, secret; *elbow",
+      "d": "‘Private’ means something extremely personal. The character depicts an arm bent inward. Bending an arm inward means pulling something in and owning it.",
+      "e": ""
+    },
+    {
+      "q": "弗",
+      "s": "불",
+	  "k": "아닐",
+      "m": "not, negative; *dollar",
+      "d": "A log tied up tightly.",
+      "e": "弗素 불소 fluorine; 弗 dollar",
+      "lv": ["","2급(1급)"]
+    },
+    {
+      "q": "拂",
+      "jp": "払",
+      "s": "불",
+	  "k": "떨칠",
+      "m": "shake off, brush away; *pay",
+      "d": "Shaking off something that binds - paying off debts. One uses its fingers to untie the bound log.<br>You're at a restaurant and raise your finger to indicate to the waiter that you want to pay. Your friend elbows you in the ribs -- it's his shout, and he insists on taking care of the bill.",
+      "e": "支拂 지불 payment, payoff",
+      "lv": ["고등용","3급II(2급)"]
+    },
+    {
+      "q": "黃",
+      "sm": "黄",
+      "jp": "黄",
+      "s": "황",
+	  "k": "누를",
+      "m": "yellow",
+      "d": "The character depicts a person wearing a round ornament called a 패옥 (佩玉) around their waist. The meaning of the golden paeok expanded, it came to mean ‘yellow’ or ‘turning yellow’, and since gold is the color of the emperor, it also came to mean ‘emperor’.",
+      "e": "朱黃色 주황색 orange (color); 朱黃 주황 orange color",
+      "lv": ["중학용","6급(5급)"]
+    },
+    {
+      "q": "廣",
+      "sm": "广",
+      "jp": "広",
+      "s": "광",
+	  "k": "넓을",
+      "m": "wide, broad",
+      "d": "The emperor's house is a wide and comfortable cave, no one hurts another with elbows in a crowded house. There is enough of 'elbow room'.",
+      "e": "廣告 광고 advertisement; 廣場 광장 open space, public square",
+      "lv": ["중학용","5급II(4급II)"]
+    },
+    {
+      "q": "勾",
+      "s": "구",
+	  "k": "글귀",
+      "m": "hook, join",
+      "d": "Peter Pan tried to escape, but Hook hooked him by the elbow and bound him up.",
+      "e": "勾配 구배 grade, gradient, incline",
+      "lv": ["","특급II(-)"]
+    },
+    {
+      "q": "擴",
+      "sm": "扩",
+      "jp": "拡",
+      "s": "확",
+	  "k": "넓힐",
+      "m": "broaden, expand",
+      "d": "Zooming in an image on a screen with fingers makes the image expand and enlarge.",
+      "e": "擴散 확산 spread, diffusion; 擴張 확장 extension, expansion, enlargement",
+      "lv": ["고등용","3급(2급)"]
+    },
+    {
+      "q": "鑛",
+      "sm": "矿",
+      "jp": "鉱",
+      "s": "광",
+	  "k": "쇳돌",
+      "m": "mineral, ore",
+      "d": "<b>Metal</b> is a general term for a <b>wide</b> range of <b>minerals</b>.",
+      "e": "鑛夫 광부 miner; 鑛物 광물 mineral",
+      "lv": ["고등용","4급(3급)"]
+    },
+    {
+      "q": "瓣",
+      "jp": "弁",
+      "s": "변,반,판",
+	  "k": "외씨",
+      "m": "*valve, petal",
+      "d": "Two quasi-`sheeps` in top-hats and a seesaw in between. Antique manual fire seesaw pump is operated by two persons (two arms). It's construction requires a check valve to prevent the water from flowing back and ensure one-way flow towards the discharge.",
+      "e": "瓣膜 판막 (heart) valve",
+      "lv": ["","2급(특급II)"]
+    },
+    {
+      "q": "雄",
+      "s": "웅",
+	  "k": "수컷",
+      "m": "masculine, male; hero",
+      "d": "The role of a male is hunting, so here is a hero coming home with a turkey shot and hang by his side, he treads victoriously and bends his elbow to show a mighty biceps.",
+      "e": "英雄 영웅 hero, great man",
+      "lv": ["중학용","5급(4급)"]
+    },
+    {
+      "q": "臺",
+      "sm": "台",
+      "jp": "台",
+      "s": "대",
+	  "k": "대",
+      "m": "platform, *pedestal",
+      "d": "A platform for wrestling. The character 臺 was originally created to mean a watchtower or a high platform for observing the surroundings. It was combines the character 高 (tall building), and the character 至 (‘to reach a high place’). The stage for ninjas is typically a rooftop where ordinary soldiers cannot reach for they are clumsy as lidded crocks because of the armor.",
+      "e": "舞臺 무대 stage",
+      "lv": ["","2급(특급II)"]
+    },
+    {
+      "q": "怠",
+      "s": "태",
+	  "k": "게으를",
+      "m": "idle, remiss. *neglect",
+      "d": "Putting someone on a pedestal and being negligent towards oneself is a direct way to the broken heart for if you neglect yourself, another one will also do so.",
+      "e": "倦怠 권태 boredom, ennui; 懶怠 나태 idleness, laziness",
+      "lv": ["고등용","3급(2급)"]
+    },
+    {
+      "q": "治",
+      "s": "치",
+	  "k": "다스릴",
+      "m": "reign, govern, administrate",
+      "d": "Reign is literally what Poseidon does from his water pedestal.",
+      "e": "治療 치료 treatment, cure; 政治 정치 politics",
+      "lv": ["중학용","4급II(3급II)"]
+    },
+    {
+      "q": "冶",
+      "s": "야",
+	  "k": "풀무",
+      "m": "fuse metals, *metallurgy",
+      "d": "The secrets of metallurgy and smithing: get your redhot metal and bang it against the pedestal as an anvil. Then cool it quickly with lots of ice.",
+      "e": "陶冶 도야 training, cultivation; 冶하다 야하다 gaudy, showy",
+      "lv": ["","1급(특급)"]
+    },
+    {
+      "q": "始",
+      "s": "시",
+	  "k": "비로소",
+      "m": "commence",
+      "d": "Pygmalion started with a simple woman statue on a pedestal, but how did it end?",
+      "e": "始作 시작 beginning, start",
+      "lv": ["중학용","6급II(5급II)"]
+    },
+    {
+      "q": "胎",
+      "s": "태",
+	  "k": "아이",
+      "m": "unborn child, embryo, fetus. *womb",
+      "d": "Fetus is like a part of the mother's body which is only a platform for the development of the new life.",
+      "e": "落胎 낙태 abortion; 受胎 수태 conception, impregnation",
+      "lv": ["","2급(1급)"]
+    },
+    {
+      "q": "窓",
+      "s": "창",
+	  "k": "창",
+      "m": "window",
+      "d": "When I looked through my girlfriends window... I saw her legs and elbows wrapped around another man... it broke my heart.",
+      "e": "窓門 창문 window",
+      "lv": ["중학용","6급II(5급II)"]
+    },
+    {
+      "q": "去",
+      "s": "거",
+	  "k": "갈",
+      "m": "go away, depart",
+      "d": "This is a pictograph of an ancient guy, buried beneath the soil. His body is all but gone. A lone elbow is all that remains!",
+      "e": "過去 과거 the past",
+      "lv": ["중학용","5급(4급)"]
+    },
+    {
+      "q": "法",
+      "s": "법",
+	  "k": "법",
+      "m": "method, rule, law",
+      "d": "French government have an efficient repressive method : they throw high pressure <b>water</b>(氵) on the protestors until they're all <b>gone</b> (去).",
+      "e": "方法 방법 way, method",
+      "lv": ["중학용","5급II(4급II)"]
+    },
+    {
+      "q": "-+厶",
+      "s": "굉",
+      "m": "forearm, *wall",
+      "d": "The elbow hanging under a ceiling will become our element for a wall.",
+      "e": ""
+    },
+    {
+      "q": "會",
+      "sm": "会",
+      "jp": "会",
+      "s": "회",
+	  "k": "모일",
+      "m": "gather, meet",
+      "d": "This is a full version of the character 亼.<br>会: We had ourmeetings under such a small <b>umbrella</b> that we poked our elbows in one another's flanks.<br>會: <b>Formerly</b> we held our meetings under the <b>umbrella</b> on the child playground.",
+      "e": "敎會 교회 church; 會談 회담 conversation, talk, conference",
+      "lv": ["중학용","6급II(5급II)"]
+    },
+    {
+      "q": "至",
+      "s": "지",
+	  "k": "이를",
+      "m": "reach, arrive; extremely, *climax",
+      "d": "Sexual climaxes don't always happen on the bed; they sometimes happen against a wall or on the ground!.",
+      "e": "甚至於 심지어 even; 至高 지고 sublimity, supremacy",
+      "lv": ["중학용","4급II(3급II)"]
+    },
+    {
+      "q": "室",
+      "s": "실",
+	  "k": "집",
+      "m": "room",
+      "d": "You book a room in a love hotel called 'Climax House'.",
+      "e": "居室 거실 living room; 敎室 교실 classroom",
+      "lv": ["중학용","8급(6급II)"]
+    },
+    {
+      "q": "到",
+      "s": "도",
+	  "k": "이를",
+      "m": "arrive",
+      "d": "Just as we were about to climax her father arrived with a sword.",
+      "e": "到着 도착 arrival",
+      "lv": ["중학용","5급II(4급II)"]
+    },
+    {
+      "q": "致",
+      "s": "치",
+	  "k": "이를",
+      "m": "send, deliver, *doth",
+      "d": "To reach climax I doth the bidding of my dominatrix taskmaster.",
+      "e": "景致 경치 scenery, view, landscape",
+      "lv": ["중학용","5급(4급)"]
+    },
+    {
+      "q": "互",
+      "s": "호",
+	  "k": "서로",
+      "m": "mutually",
+      "d": "The 69 position allows both parties to mutually give themselves pleasure.",
+      "e": "相互 상호 reciprocity, mutuality",
+      "lv": ["고등용","3급(2급)"]
+    },
+    {
+      "q": "亠+厶",
+      "s": "",
+      "m": "*infant",
+      "d": "This primitive can be seen as an abbreviation of the full primitive for child 子.",
+      "e": ""
+    },
+    {
+      "q": "棄",
+      "sm": "弃",
+      "s": "기",
+	  "k": "버릴",
+      "m": "reject, abandon",
+      "d": "A terrible image of an abandoned infant. Here he is in his little car seat buckled to a tree.",
+      "e": "抛棄 포기 giving up; 暴棄 포기 giving up, abandonment, renouncement",
+      "lv": ["고등용","3급(2급)"]
+    },
+    {
+      "q": "育",
+      "s": "육",
+	  "k": "기를",
+      "m": "bring up, educate",
+      "d": "Bringing up an infant requires months of hard work about his soul and body.",
+      "e": "敎育 교육 education, schooling",
+      "lv": ["중학용","7급(6급)"]
+    },
+    {
+      "q": "撤",
+      "s": "철",
+	  "k": "거둘",
+      "m": "remove, withdraw",
+      "d": "A taskmaster brings up his infant by threatening to remove a finger as punishment.",
+      "e": "撤去 철거 demolition; 撤收 철수 withdrawal, removal, evacuation",
+      "lv": ["","2급(1급)"]
+    },
+    {
+      "q": "充",
+      "s": "충",
+	  "k": "채울",
+      "m": "fill, be full, supply, *allot",
+      "d": "Each infant gets its very own pair of human legs, allotted by God.",
+      "e": "充分하다 충분하다 enough, sufficient",
+      "lv": ["중학용","5급II(4급II)"]
+    },
+    {
+      "q": "銃",
+      "sm": "铳",
+      "s": "총",
+	  "k": "총",
+      "m": "gun",
+      "d": "What is a gun but a device for allotting pieces of metal? One for you - BANG!...One for you - BANG!...One for you - BANG!...One for you - BANG!...etc.",
+      "e": "銃 총 gun; 銃彈 총탄 ball, bullet",
+      "lv": ["고등용","4급II(3급II)"]
+    },
+    {
+      "q": "硫",
+      "s": "류,유",
+	  "k": "유황",
+      "m": "sulfur",
+      "d": "Sulphur is like a rock, but it can stink like a stream of infant doodie.",
+      "e": "硫黃 유황 sulfur",
+      "lv": ["","2급(1급)"]
+    },
+    {
+      "q": "流",
+      "s": "류",
+	  "k": "흐를",
+      "m": "flow, drift, *current",
+      "d": "The best way to deal with a stream of infant doodie is watery current.",
+      "e": "流行 유행 fashion, trend; 本流 본류 mainstream",
+      "lv": ["중학용","5급II(4급II)"]
+    },
+    {
+      "q": "允",
+      "s": "윤,연",
+	  "k": "맏",
+      "m": "grant, allow, *license",
+      "d": "To obtain a royal permission it is necessary to touch the ground with knees and elbows.",
+      "e": "允許 윤허 royal sanction/permission",
+      "lv": ["","2급(특급II)"]
+    },
+    {
+      "q": "唆",
+      "s": "사",
+	  "k": "부추길",
+      "m": "incite, instigate, *tempt",
+      "d": "Prostitutes in Amsterdam have a <b>license</b> to show off their <b>walking legs</b> and <b>tempt</b> customers with their <b>mouths</b>.",
+      "e": "示唆하다 시사하다 suggest, imply; 示唆 시사 suggestion, hint",
+      "lv": ["","2급(1급)"]
+    }
+  ]
+}

@@ -7,79 +7,7 @@ Based on "Remembering the Kanji" by James W. Heisig : A complete course on how n
 	<title>Hanja flash cards</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-	<script src="l2.js"></script>
-	<script src="l3.js"></script>
-	<script src="l4.js"></script>
-	<script src="l5.js"></script>
-	<script src="l6.js"></script>
-	<script src="l7.js"></script>
-	<script src="l8.js"></script>
-	<script src="l9.js"></script>
-	<script src="l10.js"></script>
-	<script src="l11.js"></script>
-	<script src="l12.js"></script>
-	<script src="l13.js"></script>
-	<script src="l14.js"></script>
-	<script src="l15.js"></script>
-	<script src="l16.js"></script>
-	<script src="l17.js"></script>
-	<script src="l18-1.js"></script>
-	<script src="l18-2.js"></script>
-	<script src="l19.js"></script>
-	<script src="l20.js"></script>
-	<script src="l21-1.js"></script>
-	<script src="l21-2.js"></script>
-	<script src="l22-1.js"></script>
-	<script src="l22-2.js"></script>
-	<script src="l23-1.js"></script>
-	<script src="l23-2.js"></script>
-	<script src="l23-3.js"></script>
-	<script src="l23-4.js"></script>
-	<script src="l24.js"></script>
-	<script src="l25-1.js"></script>
-	<script src="l25-2.js"></script>
-	<script src="l26-1.js"></script>
-	<script src="l26-2.js"></script>
-	<script src="l27-1.js"></script>
-	<script src="l27-2.js"></script>
-	<script src="l28.js"></script>
-	<script src="l29-1.js"></script>
-	<script src="l29-2.js"></script>
-	<script src="l30.js"></script>
-	<script src="l31-1.js"></script>
-	<script src="l31-2.js"></script>
-	<script src="l32.js"></script>
-	<script src="l33.js"></script>
-	<script src="l34-1.js"></script>
-	<script src="l34-2.js"></script>
-	<script src="l35.js"></script>
-	<script src="l36-1.js"></script>
-	<script src="l36-2.js"></script>
-	<script src="l37.js"></script>
-	<script src="l38-1.js"></script>
-	<script src="l38-2.js"></script>
-	<script src="l39-1.js"></script>
-	<script src="l39-2.js"></script>
-	<script src="l40-1.js"></script>
-	<script src="l40-2.js"></script>
-	<script src="l41.js"></script>
-	<script src="l42.js"></script>
-	<script src="l43.js"></script>
-	<script src="l44.js"></script>
-	<script src="l45-1.js"></script>
-	<script src="l45-2.js"></script>
-	<script src="l46.js"></script>
-	<script src="l47.js"></script>
-	<script src="l48.js"></script>
-	<script src="l49.js"></script>
-	<script src="l50.js"></script>
-	<script src="l51.js"></script>
-	<script src="l52.js"></script>
-	<script src="l53-1.js"></script>
-	<script src="l53-2.js"></script>
-	<script src="l54.js"></script>
-	<script src="l55.js"></script>
-        <script src="l56.js"></script>
+	<script src="lessons.data.js"></script>
 	<script src="radicals.b64.js"></script>
 	<script>
 window.RADICALS = null;
@@ -195,10 +123,16 @@ function decodeRadicals(bytes) {
 	}
 	return radmap;
 }
-const DATA = [ L2, L3, L4, L5, L6, L7, L8, L9, L10, L11, L12, L13, L14, L15, L16, L17, L18_1, L18_2, L19, L20, L21_1, L21_2, L22_1, L22_2,
-L23_1, L23_2, L23_3, L23_4, L24, L25_1, L25_2, L26_1, L26_2, L27_1, L27_2, L28, L29_1, L29_2, L30, L31_1, L31_2, L32, L33, L34_1, L34_2,
-L35, L36_1, L36_2, L37, L38_1, L38_2, L39_1, L39_2, L40_1, L40_2, L41, L42, L43, L44, L45_1, L45_2, L46, L47, L48, L49, L50, L51, L52, L53_1, L53_2,
-L54, L55, L56 ];
+// Lesson data, unpacked from lessons.data.js (built by build_lessons.py) in onLoad().
+let DATA = [];
+
+async function loadLessons() {
+	const bin = atob(window.LESSONS_GZ);
+	const bytes = new Uint8Array(bin.length);
+	for(let i = 0; i < bin.length; i++) bytes[i] = bin.charCodeAt(i);
+	const stream = new Blob([bytes]).stream().pipeThrough(new DecompressionStream("gzip"));
+	return JSON.parse(await new Response(stream).text());
+}
 
 function shuffle(array) {
 	console.log("Shuffling");
@@ -324,7 +258,7 @@ let answerCount = 0;
 let questionIndex = -1;
 let currentCard = null;
 let lastCard = [];
-let lessons = DATA.slice();
+let lessons = [];
 let data = null;
 const HISTORY_SIZE = 10;
 const LS_VER = "hanja_ver";
@@ -856,7 +790,18 @@ function okLessonsDialog(e) {
 	showCurrentQuestion();
 }
 
-function onLoad() {
+async function onLoad() {
+	try {
+		DATA = await loadLessons();
+	} catch(err) {
+		console.log("Failed to load lesson data:", err);
+		const q = document.getElementById("question");
+		q.innerText = "Cannot load lesson data (lessons.data.js). Run build_lessons.py and use an up-to-date browser.";
+		q.className = '';
+		q.style.display = 'inline';
+		return;
+	}
+	lessons = DATA.slice();
 	for(let k = 0; k < DATA.length; ++k) {
 		for(let q = 0; q < DATA[k]["cards"].length; ++q) {
 			DATA[k]["cards"][q]["lesson"] = DATA[k]["name"];
