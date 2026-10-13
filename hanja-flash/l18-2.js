@@ -8,9 +8,8 @@ const L18_2 =
 			"k": "설",
 			"m": "stand (up); *vase",
 			"d": "This picture of a vase standing up has its meaning extended to represent the general posture of anything standing up.",
-			"e": "設立 설립 establishment, foundation",
-			"lv": ["중학용","7급II(6급)"],
-			"ex": ["국립","國立"]
+			"e": "國立 국립 national; 設立 설립 establishment, foundation",
+			"lv": ["중학용","7급II(6급)"]
 		},
 		{
 			"q": "泣",
@@ -19,8 +18,7 @@ const L18_2 =
 			"m": "*cry, sob, weep",
 			"d": "One <b>cries</b> and <b>cries</b> until one is standing up knee-deep in <b>water</b> (or until one has a <b>vase</b>-full of <b>water</b>).",
 			"e": "泣訴하다 읍소하다 implore with tears",
-			"lv": ["중학용","3급(2급)"],
-			"ex": ["읍소","泣訴"]
+			"lv": ["중학용","3급(2급)"]
 		},
 		{
 			"q": "章",
@@ -28,9 +26,8 @@ const L18_2 =
 			"k": "글",
 			"m": "composition, chapter, sentence; *badge",
 			"d": "Try to imagine a club <b>badge</b> pinned to your lapel in the form of a mammoth <b>sunflower</b> protruding from a wee little <b>vase</b>.",
-			"e": "文章 문장 writing, composition, sentence; 徽章 휘장 badge",
-			"lv": ["중학용","6급(5급)"],
-			"ex": ["도장","圖章"]
+			"e": "圖章 도장 seal, stamp; 文章 문장 writing, composition, sentence; 徽章 휘장 badge",
+			"lv": ["중학용","6급(5급)"]
 		},
 		{
 			"q": "競",
@@ -39,8 +36,7 @@ const L18_2 =
 			"m": "compete, vie",
 			"d": "Two <b>teenagers</b> are seen here <b>standing up</b> to one another, <b>vying</b> for the attention of their peers.",
 			"e": "競技 경기 contest, competition",
-			"lv": ["중학용","5급(4급)"],
-			"ex": ["경기","競技"]
+			"lv": ["중학용","5급(4급)"]
 		},
 		{
 			"q": "帝",
@@ -49,8 +45,7 @@ const L18_2 =
 			"m": "supreme ruler, *sovereign",
 			"d": "The crazy sovereign stands up from his throne, wearing nothing but a crown and a towel. That's why they try to keep him locked up in the castle away from the public.",
 			"e": "帝國 제국 empire; 皇帝 황제 emperor",
-			"lv": ["중학용","4급(3급)"],
-			"ex": ["황제","皇帝"]
+			"lv": ["중학용","4급(3급)"]
 		},
 		{
 			"q": "童",
@@ -58,9 +53,8 @@ const L18_2 =
 			"k": "아이",
 			"m": "child, *juvenile",
 			"d": "A <b>juvenile</b> hacker <b>standing</b> on top of a <b>computer</b>, or rather jumping up and down on it, because it refused to come up with the right answer.",
-			"e": "童話 동화 juvenile story, fairy tale",
-			"lv": ["중학용","6급II(5급II)"],
-			"ex": ["아동","兒童"]
+			"e": "兒童 아동 child; 童話 동화 juvenile story, fairy tale",
+			"lv": ["중학용","6급II(5급II)"]
 		},
 		{
 			"q": "瞳",
@@ -69,8 +63,7 @@ const L18_2 =
 			"m": "pupil",
 			"d": "Begin with the double meaning of the key word <b>pupil</b>: “student” and the “the apple of one’s eye.” Now all you have to do is dwell on the phrase “juvenile of one’s eye” (the meaning here) until it provides you with an image.",
 			"e": "瞳孔 동공, 눈 瞳子 눈동자 pupil of the eye",
-			"lv": ["","1급(특급)"],
-			"ex": ["눈동자","눈 瞳子"]
+			"lv": ["","1급(특급)"]
 		},
 		{
 			"q": "鐘",
@@ -78,9 +71,8 @@ const L18_2 =
 			"k": "쇠북",
 			"m": "bell",
 			"d": "This <b>bell</b> is made of cheap metal, and so badly made that when you ring it, it lets out a noise like the “<b>bell</b>owing” of <b>juveniles</b> who aren’t getting their own way.",
-			"e": "鐘塔 종탑 bell tower, bellfry",
-			"lv": ["중학용","특급II(-)"],
-			"ex": ["종","鐘"]
+			"e": "鐘 종 bell; 鐘塔 종탑 bell tower, bellfry",
+			"lv": ["중학용","특급II(-)"]
 		},
 		{
 			"q": "商",
@@ -88,9 +80,8 @@ const L18_2 =
 			"k": "헤아릴",
 			"m": "commerce, *make a deal",
 			"d": "The commerce of vases. Here is a counter desk where four rare vases are exhibited and the seller's mouth that praises the qualities of the ancient vases.",
-			"e": "商業 상업 commerce, trade",
-			"lv": ["중학용","5급II(4급II)"],
-			"ex": ["상품","商品"]
+			"e": "商品 상품 goods, product; 商業 상업 commerce, trade",
+			"lv": ["중학용","5급II(4급II)"]
 		},
 		{
 			"q": "啇",
@@ -124,9 +115,8 @@ const L18_2 =
 			"k": "맞을",
 			"m": "suitable",
 			"d": "Can you imagine anything less <b>suitable</b> to do with one’s precious <b>antiques</b> than to display them in the middle of a crowded <b>roadway</b>? ",
-			"e": "適切 적절 suitable",
-			"lv": ["중학용","4급(3급)"],
-			"ex": ["적당하다","適當 하다"]
+			"e": "適當하다 적당하다 suitable, moderate; 適切 적절 suitable",
+			"lv": ["중학용","4급(3급)"]
 		},
 		{
 			"q": "敵",
@@ -134,9 +124,8 @@ const L18_2 =
 			"k": "대적할",
 			"m": "enemy",
 			"d": "Picture your most precious <b>antique</b> (it doesn’t matter how old it really is, so long as it is the oldest thing you own) being knocked over by your most unlikeable <b>taskmaster</b>, and you have a good picture of how people make themselves <b>enemies</b> for life.",
-			"e": "天敵 천적 natural enemy",
-			"lv": ["중학용","4급II(3급II)"],
-			"ex": ["적","敵"]
+			"e": "敵 적 enemy; 天敵 천적 natural enemy",
+			"lv": ["중학용","4급II(3급II)"]
 		},
 		{
 			"q": "匕",
@@ -153,9 +142,8 @@ const L18_2 =
 			"k": "북녘",
 			"m": "north",
 			"d": "The cold air from the <b>north</b> is so strong that we see <b>two people sitting on the ground</b> back to back, their arms interlocked sothey don’t blow away.",
-			"e": "",
-			"lv": ["중학용","8급(6급II)"],
-			"ex": ["북쪽","北 쪽"]
+			"e": "北쪽 북쪽 north",
+			"lv": ["중학용","8급(6급II)"]
 		},
 		{
 			"q": "背",
@@ -164,8 +152,7 @@ const L18_2 =
 			"m": "back, behind; betray; *stature",
 			"d": "One’s stature is measured according to the “northern-most” part of the body.",
 			"e": "背景 배경 background",
-			"lv": ["고등용","4급II(3급II)"],
-			"ex": ["배경","背景"]
+			"lv": ["고등용","4급II(3급II)"]
 		},
 		{
 			"q": "比",
@@ -174,8 +161,7 @@ const L18_2 =
 			"m": "compare",
 			"d": "With two spoons, one in each hand, you are comparing your mother’s cooking with your mother-in-law’s.",
 			"e": "比較 비교 comparison",
-			"lv": ["중학용","5급(4급)"],
-			"ex": ["비교","比較"]
+			"lv": ["중학용","5급(4급)"]
 		},
 		{
 			"q": "昆",
@@ -184,8 +170,7 @@ const L18_2 =
 			"m": "descendants",
 			"d": "By <b>comparing</b> apes with anthropoids, we not only discover the latter have <b>descended</b> from those progenitors educated in the higher branches, but that the very idea of seeing everything <b>descended</b> from everything else, one way or another, means that there is “nothing new under the <b>sun</b>.”",
 			"e": "昆蟲 곤충 insect, bug",
-			"lv": ["","1급(특급)"],
-			"ex": ["곤충","昆蟲"]
+			"lv": ["","1급(특급)"]
 		},
 		{
 			"q": "皆",
@@ -193,9 +178,8 @@ const L18_2 =
 			"k": "다",
 			"m": "all, everybody",
 			"d": "Think of the housewives in TV commercials “<b>comparing</b> the <b>whiteness</b>” of their laundry across the fence, a typical advertisement for the popular detergent known as <b>All</b>. (If you don’t know the brand, surely you’ve heard the phrases “all-purposedetergent” or “all-temperature detergent.”)",
-			"e": "擧皆 거개 most of, a greate part of",
-			"lv": ["중학용","3급(2급)"],
-			"ex": ["개근","皆勤"]
+			"e": "皆勤 개근 perfect attendance; 擧皆 거개 most of, a greate part of",
+			"lv": ["중학용","3급(2급)"]
 		},
 		{
 			"q": "混",
@@ -203,9 +187,8 @@ const L18_2 =
 			"k": "섞을",
 			"m": "mix",
 			"d": "<b>Mixed</b> marriages, this character suggests, water down the quality of one’s <b>descendants</b> — the oldest racial nonsense in the world!",
-			"e": "混合 혼합 mixing, mixture, compound",
-			"lv": ["중학용","4급(3급)"],
-			"ex": ["혼동","混同"]
+			"e": "混同 혼동 confusion; 混合 혼합 mixing, mixture, compound",
+			"lv": ["중학용","4급(3급)"]
 		},
 		{
 			"q": "曷",
@@ -221,9 +204,8 @@ const L18_2 =
 			"k": "목마를",
 			"m": "thirst",
 			"d": "As you pass by the muchacho taking the <b>siesta</b>, he cries out that he is <b>thirsty</b> and asks for something to drink. So you turn the <b>water</b> hose on him.",
-			"e": "",
-			"lv": ["중학용","3급(2급)"],
-			"ex": ["갈증","渴症"]
+			"e": "渴症 갈증 thirst",
+			"lv": ["중학용","3급(2급)"]
 		},
 		{
 			"q": "謁",
@@ -232,8 +214,7 @@ const L18_2 =
 			"m": "visit, *audience",
 			"d": "Imagine an <b>audience</b> with the emperor or the pope in which all those in attendance are sitting down, leaning against the wall, sleeping like our muchacho on <b>siesta</b> as the honorable host delivers his <b>speech</b>.",
 			"e": "拜謁 배알 audience (with the King)",
-			"lv": ["고등용","3급(2급)"],
-			"ex": ["배알","拜謁"]
+			"lv": ["고등용","3급(2급)"]
 		},
 		{
 			"q": "褐",
@@ -250,8 +231,7 @@ const L18_2 =
 			"m": "shout; *hoarse",
 			"d": "When the muchacho on <b>siesta</b> looks up at you and opens his <b>mouth</b> to talk, his voice is so <b>hoarse</b> that you cannot understand him.",
 			"e": "喝采 갈채 applause, cheers, acclamation",
-			"lv": ["","1급(특급)"],
-			"ex": ["갈채","喝采"]
+			"lv": ["","1급(특급)"]
 		},
 		{
 			"q": "旨",
@@ -259,9 +239,8 @@ const L18_2 =
 			"k": "뜻",
 			"m": "purpose, aim; *delicious",
 			"d": "Something is so downright <b>delicious</b> that one spends the entire <b>day</b> with a <b>spoon</b> in hand gobbling it up.",
-			"e": "本旨 본지 main object",
-			"lv": ["","2급(1급)"],
-			"ex": ["취지","趣旨"]
+			"e": "趣旨 취지 purpose, intent; 本旨 본지 main object",
+			"lv": ["","2급(1급)"]
 		},
 		{
 			"q": "脂",
@@ -270,8 +249,7 @@ const L18_2 =
 			"m": "fat",
 			"d": "This kanji tells us that if you feed the <b>flesh</b> with too many <b>delicious</b> things, it soon picks up a thick layer of <b>fat</b>.",
 			"e": "脂肪 지방 fat",
-			"lv": ["","2급(1급)"],
-			"ex": ["지방","脂肪"]
+			"lv": ["","2급(1급)"]
 		},
 		{
 			"q": "壱/壹",
@@ -279,9 +257,8 @@ const L18_2 =
 			"k": "한",
 			"m": "number one",
 			"d": "In the midst of all the samurai, we notice one in particular <b>sitting on the ground</b> with a <b>crown</b> on his head, indicating that he is “number I” in the current rankings. ",
-			"e": "",
-			"lv": ["","2급(1급)"],
-			"ex": ["일","一/壹"]
+			"e": "一/壹 일 one",
+			"lv": ["","2급(1급)"]
 		},
 		{
 			"q": "𠂉",
@@ -296,9 +273,8 @@ const L18_2 =
 			"k": "매양",
 			"m": "every",
 			"d": "“Behind <b>every</b> successful person lies a woman…,” who usually turns out to be one’s <b>mother</b>!",
-			"e": "每日 매일 every day",
-			"lv": ["중학용","7급II(6급)"],
-			"ex": ["매년","每年"]
+			"e": "每年 매년 every year; 每日 매일 every day",
+			"lv": ["중학용","7급II(6급)"]
 		},
 		{
 			"q": "敏",
@@ -306,9 +282,8 @@ const L18_2 =
 			"k": "민첩할",
 			"m": "agility, *cleverness",
 			"d": "Behind every successful <b>taskmaster</b>, the <b>cleverness</b> of a fox to outwit his charges.",
-			"e": "敏捷 민첩 agility, smartness",
-			"lv": ["고등용","3급(2급)"],
-			"ex": ["과민","過敏"]
+			"e": "過敏 과민 oversensitivity; 敏捷 민첩 agility, smartness",
+			"lv": ["고등용","3급(2급)"]
 		},
 		{
 			"q": "梅",
@@ -317,8 +292,7 @@ const L18_2 =
 			"m": "plum",
 			"d": "Behind every Jack Horner’s piemaker, a tree full of plums.",
 			"e": "梅實 매실 plum, Japanese apricot",
-			"lv": ["고등용","3급II(2급)"],
-			"ex": ["매실","梅實"]
+			"lv": ["고등용","3급II(2급)"]
 		},
 		{
 			"q": "海",
@@ -326,9 +300,8 @@ const L18_2 =
 			"k": "바다",
 			"m": "sea",
 			"d": "Behind every drop of water, a sea from which all water originally came.",
-			"e": "海岸 해안 seashore",
-			"lv": ["중학용","7급II(6급)"],
-			"ex": ["해외","海外"]
+			"e": "海外 해외 overseas; 海岸 해안 seashore",
+			"lv": ["중학용","7급II(6급)"]
 		},
 		{
 			"q": "乞",
@@ -336,9 +309,8 @@ const L18_2 =
 			"k": "빌",
 			"m": "beg",
 			"d": "See someone <b>lying down</b> in a public place with a <b>hook</b> in place of a hand, begging a morsel of rice or a few pence.",
-			"e": "乞人 걸인 beggar",
-			"lv": ["고등용","3급(2급)"],
-			"ex": ["구걸","求乞"]
+			"e": "求乞 구걸 begging; 乞人 걸인 beggar",
+			"lv": ["고등용","3급(2급)"]
 		},
 		{
 			"q": "乾",
@@ -346,9 +318,8 @@ const L18_2 =
 			"k" : "하늘/마를",
 			"m": "dry, drought",
 			"d": "In times of <b>drought</b> anything at all will do. Here we see the victims <b>begging</b> for just a little <b>mist</b> for relief.",
-			"e": "乾燥 건조 dryness, drying, aridity",
-			"lv": ["중학용","3급II(2급)"],
-			"ex": ["건전지","乾電池"]
+			"e": "乾電池 건전지 battery; 乾燥 건조 dryness, drying, aridity",
+			"lv": ["중학용","3급II(2급)"]
 		},
 		{
 			"q": "复",
@@ -364,9 +335,8 @@ const L18_2 =
 			"k": "배",
 			"m": "stomach, belly, *abdomen",
 			"d": "If you double back (fold over) most animals in the middle, the part of the body where the crease comes is the abdomen.",
-			"e": "割腹 할복 disembowelment, self-disembowelment",
-			"lv": ["고등용","3급II(2급)"],
-			"ex": ["복통","腹痛"]
+			"e": "腹痛 복통 stomachache; 割腹 할복 disembowelment, self-disembowelment",
+			"lv": ["고등용","3급II(2급)"]
 		},
 		{
 			"q": "複",
@@ -374,9 +344,8 @@ const L18_2 =
 			"k": "겹옷",
 			"m": "repeat, *duplicate, overlap",
 			"d": "In its original and etymologically transparent sense, to duplicate something means to double it back with a fold, like the fold of a <b>cloak</b>.",
-			"e": "複製 복제 duplication",
-			"lv": ["고등용","4급(3급)"],
-			"ex": ["복잡하다","複雜 하다"]
+			"e": "複雜하다 복잡하다 complicated; 複製 복제 duplication",
+			"lv": ["고등용","4급(3급)"]
 		},
 		{
 			"q": "欠 (缺)",
@@ -393,8 +362,7 @@ const L18_2 =
 			"m": "blow",
 			"d": "To blow is really no more than a deliberate effort to make one’s <b>mouth</b> <b>lack</b> all the air that is in it.",
 			"e": "鼓吹 고취 inspiration",
-			"lv": ["중학용","3급II(2급)"],
-			"ex": ["고취","鼓吹"]
+			"lv": ["중학용","3급II(2급)"]
 		},
 		{
 			"q": "炊",
@@ -402,9 +370,8 @@ const L18_2 =
 			"k": "불 땔",
 			"m": "cook",
 			"d": "Blowing to the fire to make it bigger in order to cook barbeque.",
-			"e": "自炊하다 자취하다 cook for oneself",
-			"lv": ["","2급(1급)"],
-			"ex": ["취사","炊事"]
+			"e": "炊事 취사 cooking; 自炊하다 자취하다 cook for oneself",
+			"lv": ["","2급(1급)"]
 		},
 		{
 			"q": "歌",
@@ -413,8 +380,7 @@ const L18_2 =
 			"m": "song",
 			"d": "The song in this kanji is being sung by a chorus line of <b>can-can</b> girls. Why it should be eliciting nothing but yawning from the audience, I leave to you to decide.",
 			"e": "歌手 가수 singer",
-			"lv": ["중학용","7급(6급)"],
-			"ex": ["가수","歌手"]
+			"lv": ["중학용","7급(6급)"]
 		},
 		{
 			"q": "軟",
@@ -422,9 +388,8 @@ const L18_2 =
 			"k": "연할",
 			"m": "soft",
 			"d": "If the cushions of one’s car are too soft, one may begin yawning at the wheel.",
-			"e": "軟하다 연하다 soft, tender",
-			"lv": ["고등용","3급II(2급)"],
-			"ex": ["연두색","軟豆色"]
+			"e": "軟豆色 연두색 light green; 軟하다 연하다 soft, tender",
+			"lv": ["고등용","3급II(2급)"]
 		},
 		{
 			"q": "次",
@@ -432,9 +397,8 @@ const L18_2 =
 			"k": "버금",
 			"m": "order, sequence, *next, second",
 			"d": "This key word connotes the “next in line” of a succession of people or things. Let there be a lack of <b>ice</b> on the hottest day of summer, and you stand impatiently in line waiting for the distributor to call out “Next!”",
-			"e": "次次 차차 gradually, step by step",
-			"lv": ["중학용","4급II(3급II)"],
-			"ex": ["차례","次例"]
+			"e": "次例 차례 order, turn; 次次 차차 gradually, step by step",
+			"lv": ["중학용","4급II(3급II)"]
 		},
 		{
 			"q": "茨",
@@ -452,8 +416,7 @@ const L18_2 =
 			"m": "property, wealth, *assets",
 			"d": "The first <b>shells</b> (money) you earn, you use to pay your debts. From then on, the <b>next</b> shells you accumulate become your <b>assets.</b>",
 			"e": "資格 자격 capacity, right, qualification, license",
-			"lv": ["고등용","4급(3급)"],
-			"ex": ["자격","資格"]
+			"lv": ["고등용","4급(3급)"]
 		},
 		{
 			"q": "姿",
@@ -462,8 +425,7 @@ const L18_2 =
 			"m": "one's manner, bearing, *figure",
 			"d": "This kanji depicts a woman’s <b>figure</b> as a sort of <b>second</b> self. ",
 			"e": "姿勢 자세 posture, pose; 姿態 자태 figure, shape",
-			"lv": ["고등용","4급(3급)"],
-			"ex": ["자세","姿勢"]
+			"lv": ["고등용","4급(3급)"]
 		},
 		{
 			"q": "諮",
@@ -472,8 +434,7 @@ const L18_2 =
 			"m": "consult with",
 			"d": "To seek the <b>words</b> of a <b>second mouth</b> is to <b>consult with</b> someone about something.",
 			"e": "諮問 자문 request for advice, consultation",
-			"lv": ["","2급(1급)"],
-			"ex": ["자문","諮問"]
+			"lv": ["","2급(1급)"]
 		}
 	]
 };

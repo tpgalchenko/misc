@@ -8,8 +8,7 @@ const L53_2 = {
       "m": "class, category; *belong",
       "d": "These bugs <b>belong</b> to an extremist group promoting insect independence. They are parading the <b>flag</b> of their group, the Nationalist <b>gnats</b>, and wearing explosives <b>belts</b> for their planned terrorist war.",
       "e": "屬하다 속하다 belong to; 金屬 금속 metal",
-      "lv": ["고등용","4급(3급)"],
-      "ex": ["속하다","屬 하다"]
+      "lv": ["고등용","4급(3급)"]
     },
     {
       "q": "嘱/囑",
@@ -18,8 +17,7 @@ const L53_2 = {
       "m": "order, tell, instruct, *entrust",
       "d": "Entrust is to confer trust in someone else. My mouth belongs 屬 to you and your secret is safely entrusted with me.",
       "e": "委囑 위촉 commission, entrusting, request",
-      "lv": ["","1급(특급)"],
-      "ex": ["위촉","委囑"]
+      "lv": ["","1급(특급)"]
     },
     {
       "q": "偶",
@@ -28,8 +26,7 @@ const L53_2 = {
       "m": "meet, come across, encounter, *accidentally",
       "d": "The person on the left is familiar. As for the right side, we may combine the insect with a brain (observe the writing) and a belt to create the Talking Cricket who served as Pinocchio’s conscience. (The belt is there because he pulls it off to give unrepentant little Pinocchio a bit of “strap” now and again.)",
       "e": "偶像 우상 idol, image; 偶發 우발 accidental occurence; 偶然 우연 chance, accident",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["우연","偶然"]
+      "lv": ["고등용","3급II(2급)"]
     },
     {
       "q": "遇",
@@ -38,8 +35,7 @@ const L53_2 = {
       "m": "meet, come across, encounter; *interview",
       "d": "Pinocchio came across the Talking Cricket when walking along the road from school to home. The cricket teaches him to meet and treat people wisely.",
       "e": "境遇 경우 occasion, time, circumstances; 不遇 불우 misfortune, ill fortune/luck",
-      "lv": ["중학용","4급(3급)"],
-      "ex": ["경우","境遇"]
+      "lv": ["중학용","4급(3급)"]
     },
     {
       "q": "愚",
@@ -47,9 +43,8 @@ const L53_2 = {
       "k": "어리석을",
       "m": "stupid, foolish",
       "d": "'Don't be foolish!' - says Talking Cricket as he lashes Pinocchio with his belt - 'Follow logic, like me, not your heart.'",
-      "e": "愚鈍 우둔 stipidity, siliness, asininity",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["우직하다","愚直 하다"]
+      "e": "愚直하다 우직하다 simple and honest; 愚鈍 우둔 stipidity, siliness, asininity",
+      "lv": ["고등용","3급II(2급)"]
     },
     {
       "q": "隅",
@@ -74,9 +69,8 @@ const L53_2 = {
       "k": "거스를",
       "m": "disobey, rebel; rebel, traitor; *inverted",
       "d": "A mountain goat is so disobedient that it walks straight up the inclined roads that normal animals wouldn't even attempt.",
-      "e": "逆賊 역적 rebel, traitor; 逆하다 역하다 sickening, nauseating, revolting",
-      "lv": ["중학용","4급II(3급II)"],
-      "ex": ["역경","逆境"]
+      "e": "逆境 역경 adversity; 逆賊 역적 rebel, traitor; 逆하다 역하다 sickening, nauseating, revolting",
+      "lv": ["중학용","4급II(3급II)"]
     },
     {
       "q": "塑",
@@ -85,8 +79,7 @@ const L53_2 = {
       "m": "to model in clay",
       "d": "A legend says that if you model a mountain goat (with tail and everything) from dirt and leave to the light of the moon on the 朔, the dirt will became flesh.",
       "e": "塑造 소조 modeling, molding; 彫塑 조소 plastic arts, carving and modeling",
-      "lv": ["","1급(특급)"],
-      "ex": ["소조","塑造"]
+      "lv": ["","1급(특급)"]
     },
     {
       "q": "遡",
@@ -95,8 +88,7 @@ const L53_2 = {
       "m": "go upstream",
       "d": "On the first day of the month, all the salmon go upstream, up the road, to the mating grounds.",
       "e": "遡及 소급 retroaction, retroactivity",
-      "lv": ["","1급(특급)"],
-      "ex": ["소급","遡及"]
+      "lv": ["","1급(특급)"]
     },
     {
       "q": "岡",
@@ -113,8 +105,7 @@ const L53_2 = {
       "m": "steel",
       "d": "Mount Fuji is completely made up of a metal known as steel.",
       "e": "鐵鋼 철강 steel",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["철강","鐵鋼"]
+      "lv": ["고등용","3급II(2급)"]
     },
     {
       "q": "綱",
@@ -123,8 +114,7 @@ const L53_2 = {
       "m": "heavy rope, hawser",
       "d": "Spiderman saves Japan from floating away by tying Mt. Fuji to mainland Asia using a hawser made of web.",
       "e": "紀綱 기강 official discipline, public order; 大綱 대강 an outline, a summary, roughly, about, generally",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["대강","大綱"]
+      "lv": ["고등용","3급II(2급)"]
     },
     {
       "q": "剛",
@@ -132,9 +122,8 @@ const L53_2 = {
       "k": "굳셀",
       "m": "hard, tough, rigid, *sturdy",
       "d": "Mount Fuji is very sturdy, you can hit it all day with a saber and it wont even wobble.",
-      "e": "剛하다 강하다 strong, robust, stout; 剛斷 강단 decisiveness, determination, perseverance, tenacity",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["강직하다","剛直 하다"]
+      "e": "剛直하다 강직하다 upright; 剛하다 강하다 strong, robust, stout; 剛斷 강단 decisiveness, determination, perseverance, tenacity",
+      "lv": ["고등용","3급II(2급)"]
     },
     {
       "q": "缶",
@@ -151,9 +140,8 @@ const L53_2 = {
       "k": "질그릇",
       "m": "pottery",
       "d": "Pottery was the pinnacle 阝of food storage in ancient times (the amphora), but nowadays it's bound 勹 to be the tin can 缶.",
-      "e": "陶醉 도취 intoxication; 陶工 도공 potter, ceramist",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["도자기","陶瓷器"]
+      "e": "陶瓷器 도자기 ceramics, pottery; 陶醉 도취 intoxication; 陶工 도공 potter, ceramist",
+      "lv": ["고등용","3급II(2급)"]
     },
     {
       "q": "䍃",
@@ -169,9 +157,8 @@ const L53_2 = {
       "k": "흔들",
       "m": "wag, shake, *swing",
       "d": "I swing my fingers back and forth, trying to fend off the attacking condor.",
-      "e": "動搖 동요 shake, quake, tremble; 搖動 요동 shaking, rolling, jolting",
-      "lv": ["고등용","3급(2급)"],
-      "ex": ["요란","搖亂/擾亂"]
+      "e": "搖亂/擾亂 요란 noise, clamor; 動搖 동요 shake, quake, tremble; 搖動 요동 shaking, rolling, jolting",
+      "lv": ["고등용","3급(2급)"]
     },
     {
       "q": "謡/謠",
@@ -180,8 +167,7 @@ const L53_2 = {
       "m": "sing, folksong, *Noh chanting",
       "d": "Noh chanting is simply words which sound like that a vulture would make.",
       "e": "歌謠 가요 song, ballad; 民謠 민요 folk song, popular ballad",
-      "lv": ["고등용","4급II(3급II)"],
-      "ex": ["가요","歌謠"]
+      "lv": ["고등용","4급II(3급II)"]
     },
     {
       "q": "鬱",
@@ -190,8 +176,7 @@ const L53_2 = {
       "m": "moody; *gloom",
       "d": "In the middle of the <b>gloomy</b> grove 林 you find a tin can 缶, containing a beautiful crown 冖, and a flask with very nice-smelling fragrant herbs 鬯! You feel so happy and lucky after finding these interesting items... but suddenly, they start changing shape 彡 in your hands... and turn into ashes! So, in similar fashion, your feelings, and the shape 彡 of your face, go from happy to really <b>gloomy</b>... and now you truly understand why this place is called the <b>gloomy</b> grove.",
       "e": "憂鬱 우울 melancholy, depression, gloom, blues",
-      "lv": ["","2급(1급)"],
-      "ex": ["우울","憂鬱"]
+      "lv": ["","2급(1급)"]
     },
     {
       "q": "就",
@@ -199,9 +184,8 @@ const L53_2 = {
       "k": "나아갈",
       "m": "to approach, near; concerning",
       "d": "In the <b>capital</b> they have been having hearings concerning bioethics and bioengineering they call as their first witness a <b>chihuahua</b> with one <b>human leg</b>.",
-      "e": "就業 취업 commencement of work; 去就 거취 one's course of action, attitude, manner",
-      "lv": ["중학용","4급(3급)"],
-      "ex": ["취직","就職"]
+      "e": "就職 취직 getting a job; 就業 취업 commencement of work; 去就 거취 one's course of action, attitude, manner",
+      "lv": ["중학용","4급(3급)"]
     },
     {
       "q": "蹴",
@@ -209,9 +193,8 @@ const L53_2 = {
       "k": "찰",
       "m": "*kick, tread on",
       "d": "The soccer player was <b>concerned</b> that his <b>peg leg</b> would affect his ability to <b>kick</b>.",
-      "e": "蹴球 축구 soccer, footbal",
-      "lv": ["","2급(1급)"],
-      "ex": ["축구공","蹴球 공"]
+      "e": "蹴球공 축구공 soccer ball; 蹴球 축구 soccer, footbal",
+      "lv": ["","2급(1급)"]
     },
     {
       "q": "豸",
@@ -219,8 +202,7 @@ const L53_2 = {
       "k": "벌레",
       "m": "*skunk",
       "d": "This primitive represents a skunk by combining the claw with the first part of the element for a sow. Note how the final stroke of claw is turned and lengthened to double up with the first stroke of the sow.",
-      "e": "",
-      "ex": ["해태","獬豸▽"]
+      "e": "獬豸 해태 haetae (mythical lion)"
     },
     {
       "q": "懇",
@@ -228,9 +210,8 @@ const L53_2 = {
       "k": "간절할",
       "m": "sincere, earnest, cordial, *sociable",
       "d": "The skunk is very sociable at the party, telling everyone all about his silver heart.",
-      "e": "懇切히 간절히 eagerly, ardently, heartily, sincerely; 懇談 간담 chat, friendly talk",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["간절하다","懇切 하다"]
+      "e": "懇切하다 간절하다 earnest; 懇切히 간절히 eagerly, ardently, heartily, sincerely; 懇談 간담 chat, friendly talk",
+      "lv": ["고등용","3급II(2급)"]
     },
     {
       "q": "墾",
@@ -239,8 +220,7 @@ const L53_2 = {
       "m": "cultivate, to farm land; *groundbreaking",
       "d": "It was the groundbreaking of the new farm, but there was an uninvited guest to the ceremony. It was a famous skunk, the one with the familiar silver stripe. The feet of the crowd rushing from the ceremony site churned up the soil very nicely. The ceremony was ruined but the groundbreaking was a great success.",
       "e": "開墾 개간 land clearing, reclamation, bringing under cultivation",
-      "lv": ["","1급(특급)"],
-      "ex": ["개간","開墾"]
+      "lv": ["","1급(특급)"]
     },
     {
       "q": "貌",
@@ -249,8 +229,7 @@ const L53_2 = {
       "m": "appearance, *countenance",
       "d": "You should have seen the shocked <b>countenance</b> on the girl's face when she saw the <b>skunk</b> nibbling away at the <b>white human legs</b> of the corpse she found in the woods. (Because of that, and the smell of course).",
       "e": "外貌 외모 external features, appearance",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["외모","外貌"]
+      "lv": ["고등용","3급II(2급)"]
     },
     {
       "q": "免",
@@ -258,8 +237,7 @@ const L53_2 = {
       "k": "면할",
       "m": "spare, excuse from, evade; *rabbit",
       "d": "Obviously this is the rabbit from Alice, excusing himself and rushing away on his legs, as he has a binding day schedule. This is at the same time an image, with bound=ears, day=head and legs are just legs. The image is used in 兎",
-      "e": "免하다 면하다 escape, be saved from, evade; 免許 면허 permission, license",
-      "ex": ["면허","免許"]
+      "e": "免하다 면하다 escape, be saved from, evade; 免許 면허 permission, license"
     },
     {
       "q": "兎/兔",
@@ -277,8 +255,7 @@ const L53_2 = {
       "m": "flee, escape, *elude",
       "d": "Alice is following Mr. Rabbit on the road. Mr. Rabbit flashes her in a lewd way and disappears, completely eluding her.",
       "e": "獨逸 독일 Germany; 逸脫 일탈 deviation, departure, breakaway",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["독일","獨逸"]
+      "lv": ["고등용","3급II(2급)"]
     },
     {
       "q": "晚",
@@ -295,8 +272,7 @@ const L53_2 = {
       "m": "endeavor, *exertion",
       "d": "The energizer bunny's exertion of power keeps going and going...",
       "e": "勤勉 근면 diligence, industry, hard work",
-      "lv": ["중학용","4급(3급)"],
-      "ex": ["근면","勤勉"]
+      "lv": ["중학용","4급(3급)"]
     },
     {
       "q": "象",
@@ -304,9 +280,8 @@ const L53_2 = {
       "k": "코끼리",
       "m": "*elephant, figure, image",
       "d": "An elephant has huge ears, like a rabbit, and a big, fat body, like a sow.",
-      "e": "對象 대상 object, subject, target; 形象/形像 형상 shape, form",
-      "lv": ["고등용","4급(3급)"],
-      "ex": ["상징","象徵"]
+      "e": "象徵 상징 symbol; 對象 대상 object, subject, target; 形象/形像 형상 shape, form",
+      "lv": ["고등용","4급(3급)"]
     },
     {
       "q": "像",
@@ -314,9 +289,8 @@ const L53_2 = {
       "k": "모양",
       "m": "picture, image, figure, *statue",
       "d": "In India, you see a lot of <b>statues</b> of the Hindu god Ganesha. Easy to recognize: he's the <b>person</b> with the <b>elephant</b> head.",
-      "e": "影像 영상 image, phantom; 佛像 불상 a Buddhist image/statue",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["상상","想像"]
+      "e": "想像 상상 imagination; 影像 영상 image, phantom; 佛像 불상 a Buddhist image/statue",
+      "lv": ["고등용","3급II(2급)"]
     }
   ]
 };

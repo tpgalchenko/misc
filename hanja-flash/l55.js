@@ -16,9 +16,8 @@ const L55 = {
       "k": "펼",
       "m": "perform, exercise",
       "d": "At the kabuki play performance, the tiger mask wearing performer is scared of water.",
-      "e": "演出 연출 direction, production; 公演 공연 public performance",
-      "lv": ["고등용","4급II(3급II)"],
-      "ex": ["연극","演劇"]
+      "e": "演劇 연극 play, drama; 演出 연출 direction, production; 公演 공연 public performance",
+      "lv": ["고등용","4급II(3급II)"]
     },
     {
       "q": "辰",
@@ -27,8 +26,7 @@ const L55 = {
       "m": "*sign of the dragon",
       "d": "The <b>sign of the dragon</b> was carved into the <b>cliff</b> face with two <b>hairpins</b> (-+𧘇) that were abandoned in the sand below.",
       "e": "日辰 일진 day's fortune; 生辰 생신 birthday",
-      "lv": ["중학용","3급II(2급)"],
-      "ex": ["생신","生辰"]
+      "lv": ["중학용","3급II(2급)"]
     },
     {
       "q": "辱",
@@ -37,8 +35,7 @@ const L55 = {
       "m": "humiliate, insult, abuse; *embarass",
       "d": "It is embarassing to have a tattoo 'sign of dragon' but it is more so to have a picture glued on the skip instead of a real tattoo.",
       "e": "辱 욕 scolding, reprimand, rebuke, shame, disgrace, insult, humiliation",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["욕","辱"]
+      "lv": ["고등용","3급II(2급)"]
     },
     {
       "q": "震",
@@ -47,8 +44,7 @@ const L55 = {
       "m": "shake, *quake",
       "d": "When heavy rains disturb a dragon hiding under the earth, an earthquake may result.",
       "e": "地震 지진 earthquake",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["지진","地震"]
+      "lv": ["고등용","3급II(2급)"]
     },
     {
       "q": "振",
@@ -56,9 +52,8 @@ const L55 = {
       "k": "떨칠",
       "m": "shake",
       "d": "If you're talking to someone and notice that his fingers are starting to shake, it's often a sign of the dragon being behind you where the other person can see him coming.",
-      "e": "振子 진자 pendulum",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["진동","振動"]
+      "e": "振動 진동 vibration; 振子 진자 pendulum",
+      "lv": ["고등용","3급II(2급)"]
     },
     {
       "q": "娠",
@@ -67,8 +62,7 @@ const L55 = {
       "m": "pregnant, *with child",
       "d": "A woman who is with child can't be sacrificed to the dragon; virgins only need apply.",
       "e": "姙娠/妊娠 임신 pregnancy",
-      "lv": ["","1급(특급)"],
-      "ex": ["임신","妊娠/姙娠"]
+      "lv": ["","1급(특급)"]
     },
     {
       "q": "唇",
@@ -84,9 +78,8 @@ const L55 = {
       "k": "농사",
       "m": "agriculture",
       "d": "The crops are starting to <b>bend</b> 曲 with their own weight, as <b>agriculture</b> is well under way under the <b>sign of the dragon</b> 辰 (late Spring).",
-      "e": "農事 농사 agriculture, farming",
-      "lv": ["중학용","7급II(6급)"],
-      "ex": ["농민","農民"]
+      "e": "農民 농민 farmer; 農事 농사 agriculture, farming",
+      "lv": ["중학용","7급II(6급)"]
     },
     {
       "q": "濃",
@@ -95,8 +88,7 @@ const L55 = {
       "m": "thick, strong, *concentrated",
       "d": "Water extracted from agricultural products makes them concentrated.",
       "e": "濃度 농도 density, concentration, intensity",
-      "lv": ["","2급(1급)"],
-      "ex": ["농도","濃度"]
+      "lv": ["","2급(1급)"]
     },
     {
       "q": "关",
@@ -112,9 +104,8 @@ const L55 = {
       "k": "보낼",
       "m": "send off",
       "d": "After worshipping the golden calf, God sent the Jews on a long road through the wilderness.",
-      "e": "郵送 우송 mail",
-      "lv": ["중학용","4급II(3급II)"],
-      "ex": ["방송","放送"]
+      "e": "放送 방송 broadcasting; 郵送 우송 mail",
+      "lv": ["중학용","4급II(3급II)"]
     },
     {
       "q": "関/關",
@@ -123,8 +114,7 @@ const L55 = {
       "m": "relation, *connection",
       "d": "The golden calf is sent off to the gates of Hell for it's connection to false idols.<br>In the old days, criminals with connections to particularly harsh crimes were strung together (聯), had their ears cut off, then sent out through the city gates. They were never seen again.",
       "e": "關係 관계 relation, relationship; 關心 관심 interest, concern",
-      "lv": ["중학용","5급II(4급II)"],
-      "ex": ["관심","關心"]
+      "lv": ["중학용","5급II(4급II)"]
     },
     {
       "q": "咲/笑",
@@ -133,8 +123,7 @@ const L55 = {
       "m": "smile,blossom",
       "d": "Evil laughs and blossoms from the mouths of those who worship the golden calf.",
       "e": "微笑 미소 smile",
-      "lv": ["중학용","4급II(3급II)"],
-      "ex": ["미소","微笑"]
+      "lv": ["중학용","4급II(3급II)"]
     },
     {
       "q": "鬼",
@@ -143,8 +132,7 @@ const L55 = {
       "m": "ghost",
       "d": "A ghost, or oni, has a single horn sticking out of the its forehead (the drop) and carries a huge club in the crook of its elbow. It wanders on its human legs, searching for skulls to smash open and brains to devour.",
       "e": "鬼神 귀신 ghost",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["귀신","鬼神"]
+      "lv": ["고등용","3급II(2급)"]
     },
     {
       "q": "醜",
@@ -152,9 +140,8 @@ const L55 = {
       "k": "추할",
       "m": "ugly",
       "d": "Drink enough whisky and not even an ghost looks ugly any more...",
-      "e": "醜하다 추하다 ugly, bad, indecent, ignoble",
-      "lv": ["고등용","3급(2급)"],
-      "ex": ["추남","醜男"]
+      "e": "醜男 추남 ugly man; 醜하다 추하다 ugly, bad, indecent, ignoble",
+      "lv": ["고등용","3급(2급)"]
     },
     {
       "q": "魂",
@@ -162,9 +149,8 @@ const L55 = {
       "k": "넋",
       "m": "spirit, *soul",
       "d": "When we die, our <b>soul</b> rises up in a <b>ghost</b>like <b>rising cloud</b> 云 of mist up to heaven.",
-      "e": "魂나다 혼나다 to get frightened out of one's wits, be startled",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["영혼","靈魂"]
+      "e": "靈魂 영혼 soul; 魂나다 혼나다 to get frightened out of one's wits, be startled",
+      "lv": ["고등용","3급II(2급)"]
     },
     {
       "q": "魔",
@@ -172,9 +158,8 @@ const L55 = {
       "k": "마귀",
       "m": "demon, evil spirits, *witch",
       "d": "The witch sold me some hemp that made me see ghosts.",
-      "e": "魔鬼 마귀 evil spirit, devil, demon, Satan",
-      "lv": ["","2급(1급)"],
-      "ex": ["악마","惡魔"]
+      "e": "惡魔 악마 devil; 魔鬼 마귀 evil spirit, devil, demon, Satan",
+      "lv": ["","2급(1급)"]
     },
     {
       "q": "魅",
@@ -183,8 +168,7 @@ const L55 = {
       "m": "fascination",
       "d": "Even in these modern times our <b>fascination</b> with <b>ghosts</b> has <b>not yet</b> ended.",
       "e": "魅力 매력 charm, bewitching, fascination",
-      "lv": ["","2급(1급)"],
-      "ex": ["매력","魅力"]
+      "lv": ["","2급(1급)"]
     },
     {
       "q": "塊",
@@ -193,8 +177,7 @@ const L55 = {
       "m": "piece, lump, *clod",
       "d": "A golem - an ghost creature made of soil.",
       "e": "金塊 금괴 lump/nugger of gold",
-      "lv": ["고등용","3급(2급)"],
-      "ex": ["금괴","金塊"]
+      "lv": ["고등용","3급(2급)"]
     },
     {
       "q": "襲",
@@ -202,9 +185,8 @@ const L55 = {
       "k": "엄습할",
       "m": "raid, attack",
       "d": "One needs a fire-proof <b>garment</b> to <b>attack</b> a <b>dragon</b> 龍.",
-      "e": "掩襲 엄습 surprise/sudden attack",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["기습","奇襲"]
+      "e": "奇襲 기습 surprise attack; 掩襲 엄습 surprise/sudden attack",
+      "lv": ["고등용","3급II(2급)"]
     }
   ]
 };

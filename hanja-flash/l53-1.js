@@ -16,8 +16,7 @@ const L53_1 = {
       "m": "nest",
       "d": "If only there had been a wise owl nesting in the tree of forbidden fruit to warn Eve about the snake.",
       "e": "巢窟 소굴 den, haunt, nest; 卵巢 난소 ovary, ovarium",
-      "lv": ["","2급(특급II)"],
-      "ex": ["난소","卵巢"]
+      "lv": ["","2급(특급II)"]
     },
     {
       "q": "単/單",
@@ -25,9 +24,8 @@ const L53_1 = {
       "k": "홑",
       "m": "single, only, lone, *simple",
       "d": "For <b>owls</b>, finding a <b>needle</b> in a <b>rice field</b> is <b>simple</b> (much better eyesight than us humans).",
-      "e": "簡單 간단 simplicity, brevity",
-      "lv": ["중학용","4급II(3급II)"],
-      "ex": ["단순","單純"]
+      "e": "單純 단순 simplicity; 簡單 간단 simplicity, brevity",
+      "lv": ["중학용","4급II(3급II)"]
     },
     {
       "q": "戦/戰",
@@ -35,9 +33,8 @@ const L53_1 = {
       "k": "싸움",
       "m": "war",
       "d": "What started out as a <b>simple fiesta</b>, turned into a full-scale <b>war</b> after arguments about whose potato salad was the best.",
-      "e": "戰爭 전쟁 war, warfare",
-      "lv": ["중학용","6급II(5급II)"],
-      "ex": ["도전","挑戰"]
+      "e": "挑戰 도전 challenge; 戰爭 전쟁 war, warfare",
+      "lv": ["중학용","6급II(5급II)"]
     },
     {
       "q": "禅/禪",
@@ -46,8 +43,7 @@ const L53_1 = {
       "m": "meditation, contemplation, *Zen",
       "d": "Knowing Zen’s emphasis on “nothingness,” it’s not hard to envision a zen alter being quite clean and simple.",
       "e": "坐禪 좌선 Zen meditation, sitting in Buddhist meditation",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["좌선","坐禪"]
+      "lv": ["고등용","3급II(2급)"]
     },
     {
       "q": "弾/彈",
@@ -55,9 +51,8 @@ const L53_1 = {
       "k": "탄알",
       "m": "bullet",
       "d": "Hunting with a bow is too complicated. I'm switching to something simpler - using a bullet.",
-      "e": "爆彈 폭탄 bomb, bombshell",
-      "lv": ["고등용","4급(3급)"],
-      "ex": ["탄력","彈力"]
+      "e": "彈力 탄력 elasticity; 爆彈 폭탄 bomb, bombshell",
+      "lv": ["고등용","4급(3급)"]
     },
     {
       "q": "桜/櫻",
@@ -75,8 +70,7 @@ const L53_1 = {
       "m": "animal",
       "d": "In the rice field, you hear a chattering sound... underneath is a huge underground cavity where the beast lives...",
       "e": "野獸 야수 a wild animal/beast; 禽獸 금수 birds and animals, brute, beast",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["금수","禽獸"]
+      "lv": ["고등용","3급II(2급)"]
     },
     {
       "q": "脳/腦",
@@ -85,8 +79,7 @@ const L53_1 = {
       "m": "brain",
       "d": "The brain is the part of the body that can give you the wisdom of the owl... or the wickedness of the villain. The brain is also the source of the uninterrupted flood of ideas and thoughts.",
       "e": "腦 brain; 頭腦 두뇌 brain",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["뇌","腦"]
+      "lv": ["고등용","3급II(2급)"]
     },
     {
       "q": "悩/惱",
@@ -94,9 +87,8 @@ const L53_1 = {
       "k": "번뇌할",
       "m": "angered, filled with hate, *trouble",
       "d": "The flood of thoughts flowing out of the brain is the primary reason for our troubles and afflicted state of mind.",
-      "e": "煩惱 번뇌 worldly desires/passions, affliction, anguish",
-      "lv": ["고등용","3급(2급)"],
-      "ex": ["고뇌","苦惱"]
+      "e": "苦惱 고뇌 anguish; 煩惱 번뇌 worldly desires/passions, affliction, anguish",
+      "lv": ["고등용","3급(2급)"]
     },
     {
       "q": "厳/嚴",
@@ -105,8 +97,7 @@ const L53_1 = {
       "m": "rigorous, *stern",
       "d": "You remember of course the daring 敢 fella who had his ear pierced and went standing in front of the taskmaster. The taskmasters punishment was very stern/strict. Fella thrown of the cliff, where the owls are ready to feast. No funny guy doing that anymore.",
       "e": "嚴하다 엄하다 severe, strict, stern, austere, rigorous; 嚴格 엄격 strictness, sterness, severity, rigor, austerity",
-      "lv": ["중학용","4급(3급)"],
-      "ex": ["엄격","嚴格"]
+      "lv": ["중학용","4급(3급)"]
     },
     {
       "q": "鎖",
@@ -115,8 +106,7 @@ const L53_1 = {
       "m": "lock, padlock, *chain",
       "d": "The <b>chain</b> on this chainsaw is made of <b>little</b> metal <b>shells</b>.",
       "e": "連鎖 연쇄 chain, links, series; 閉鎖 폐쇄 closing, closure, shutdown",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["폐쇄","閉鎖"]
+      "lv": ["고등용","3급II(2급)"]
     },
     {
       "q": "挙/擧",
@@ -125,8 +115,7 @@ const L53_1 = {
       "m": "raise",
       "d": "At the old bestowal (與), I eagerly raised my hand, even though I'm too old for that.",
       "e": "選擧 선거 election; 擧皆 거개 most of, the greater part of, mainly",
-      "lv": ["중학용","5급(4급)"],
-      "ex": ["선거","選擧"]
+      "lv": ["중학용","5급(4급)"]
     },
     {
       "q": "誉/譽",
@@ -135,8 +124,7 @@ const L53_1 = {
       "m": "reputation",
       "d": "The authorities are eager to <b>bestow</b> <b>fame and reputation</b> in exchange for the right <b>words</b>.",
       "e": "名譽 명예 honor, fame, reputation",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["명예","名譽"]
+      "lv": ["고등용","3급II(2급)"]
     },
     {
       "q": "鼠",
@@ -153,9 +141,8 @@ const L53_1 = {
       "k": "사냥",
       "m": "game hunting",
       "d": "wild dogs are having fun by game-hunting rats by the river ignoring the flood.",
-      "e": "狩獵 수렵 hunting",
-      "lv": ["고등용","3급(2급)"],
-      "ex": ["섭렵","涉獵"]
+      "e": "涉獵 섭렵 extensive reading; 狩獵 수렵 hunting",
+      "lv": ["고등용","3급(2급)"]
     },
     {
       "q": "鳥",
@@ -163,9 +150,8 @@ const L53_1 = {
       "k": "새",
       "m": "bird",
       "d": "Dove, one, tail feathers. The character from which we derived the primitive meaning of dove. Note the lengthening of the second stroke.",
-      "e": "白鳥 백조 swan",
-      "lv": ["중학용","4급II(3급II)"],
-      "ex": ["일석이조","一石二鳥"]
+      "e": "一石二鳥 일석이조 two birds with one stone; 白鳥 백조 swan",
+      "lv": ["중학용","4급II(3급II)"]
     },
     {
       "q": "鳴",
@@ -174,8 +160,7 @@ const L53_1 = {
       "m": "cry of bird or animal, *chirp",
       "d": "A chirp is quite simply the sound that comes from the mouth of birds.",
       "e": "共鳴 공명 unison, echo, response; 悲鳴 비명 scream, shrill, cry, shriek",
-      "lv": ["중학용","4급(3급)"],
-      "ex": ["비명","悲鳴"]
+      "lv": ["중학용","4급(3급)"]
     },
     {
       "q": "鶴",
@@ -183,9 +168,8 @@ const L53_1 = {
       "k": "학",
       "m": "crane",
       "d": "During the construction of the <b>turkey house</b> 隺, there was a mistake and instead of ordering a metal <b>crane</b>, they got a <b>bird crane</b>! Nonetheless, it was happy to help wherever it could.",
-      "e": "鶴 학 crane; 紅鶴 홍학 flamingo",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["군계일학","群鷄一鶴"]
+      "e": "群鷄一鶴 군계일학 outstanding person; 鶴 학 crane; 紅鶴 홍학 flamingo",
+      "lv": ["고등용","3급II(2급)"]
     },
     {
       "q": "烏",
@@ -193,9 +177,8 @@ const L53_1 = {
       "k": "까마귀",
       "m": "crow",
       "d": "As crows are all black, it's hard to see where their eyes are (black on black), so a stroke is removed from the part in the pictograph where the eyes would be.",
-      "e": "烏合之卒 오합지졸 disorderly crowd, mob",
-      "lv": ["중학용","3급II(2급)"],
-      "ex": ["오골계","烏骨鷄"]
+      "e": "烏骨鷄 오골계 silky fowl; 烏合之卒 오합지졸 disorderly crowd, mob",
+      "lv": ["중학용","3급II(2급)"]
     },
     {
       "q": "蔦",
@@ -221,8 +204,7 @@ const L53_1 = {
       "m": "chicken",
       "d": "The vulture's husband is a chicken...heck...who am I to judge their interspecies love? They're both birds so its cool.",
       "e": "鷄卵 계란 chicken egg",
-      "lv": ["중학용","4급(3급)"],
-      "ex": ["계란","鷄卵"]
+      "lv": ["중학용","4급(3급)"]
     },
     {
       "q": "島",
@@ -231,8 +213,7 @@ const L53_1 = {
       "m": "island",
       "d": "From the bird's point of view, an island is a mountain in the middle of water and it is very suitable for resting its tired tail feathers.",
       "e": "半島 반도 peninsula",
-      "lv": ["중학용","5급(4급)"],
-      "ex": ["반도","半島"]
+      "lv": ["중학용","5급(4급)"]
     },
     {
       "q": "爰",
@@ -249,9 +230,8 @@ const L53_1 = {
       "k": "따뜻할",
       "m": "warmth",
       "d": "Ducks migrate south for the winter... they follow the warmth of the sun.",
-      "e": "暖房 난방 heating",
-      "lv": ["중학용","4급II(3급II)"],
-      "ex": ["난로","暖爐/煖爐"]
+      "e": "暖爐/煖爐 난로 stove, heater; 暖房 난방 heating",
+      "lv": ["중학용","4급II(3급II)"]
     },
     {
       "q": "媛",
@@ -260,8 +240,7 @@ const L53_1 = {
       "m": "beautiful woman",
       "d": "You want to know about a beautiful woman? There's a woman that's so beautiful, the birds migrate to her instead of the sun!",
       "e": "才媛 재원 talanted/intelligent girl/woman",
-      "lv": ["","2급(특급II)"],
-      "ex": ["재원","才媛"]
+      "lv": ["","2급(특급II)"]
     },
     {
       "q": "援",
@@ -269,9 +248,8 @@ const L53_1 = {
       "k": "도울",
       "m": "aid, assist; lead, *abet",
       "d": "The migrating ducks left a little early this year, leaving one duck behind. He gives them the finger and says thanks: 'Thanks for the support, assholes!'",
-      "e": "救援 구원 relief, rescue, salvation; 支援 지원 support, backing, aid",
-      "lv": ["고등용","4급(3급)"],
-      "ex": ["응원","應援"]
+      "e": "應援 응원 cheering, support; 救援 구원 relief, rescue, salvation; 支援 지원 support, backing, aid",
+      "lv": ["고등용","4급(3급)"]
     },
     {
       "q": "緩",
@@ -279,9 +257,8 @@ const L53_1 = {
       "k": "느릴",
       "m": "slow, leisurely, postpone, *slacken",
       "d": "Oh no Spiderman has some migrating ducks stuck in his web, he has to slacken it so they can get out.",
-      "e": "緩行 완행 slow motion",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["완화","緩和"]
+      "e": "緩和 완화 relief, easing; 緩行 완행 slow motion",
+      "lv": ["고등용","3급II(2급)"]
     }
   ]
 };

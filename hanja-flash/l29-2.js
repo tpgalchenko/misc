@@ -7,9 +7,8 @@ const L29_2 = {
 	  "k": "자",
       "m": "shaku",
       "d": "Chinese measure approx. 'foot'.<br><b>*</b>As a primitive, this will mean the <b>shakuhachi flute</b>",
-      "e": "尺度 척도 a measure, a scale, a criterion",
-      "lv": ["중학용","3급II(2급)"],
-      "ex": ["월척","越尺"]
+      "e": "越尺 월척 big fish (over one cheok); 尺度 척도 a measure, a scale, a criterion",
+      "lv": ["중학용","3급II(2급)"]
     },
     {
       "q": "尽/盡",
@@ -17,9 +16,8 @@ const L29_2 = {
 	  "k": "다할",
       "m": "exhaust",
       "d": "This old Japanese man totally exhausted himself giving a winter-time performance of shakuhachi. That winter was so cold, the shakuhachi was getting clogged with ice as the man was playing. ",
-      "e": "消盡 소진 exhaustion, vanishing completely",
-      "lv": ["중학용","4급(3급)"],
-      "ex": ["매진","賣盡"]
+      "e": "賣盡 매진 sold out; 消盡 소진 exhaustion, vanishing completely",
+      "lv": ["중학용","4급(3급)"]
     },
     {
       "q": "辛",
@@ -28,8 +26,7 @@ const L29_2 = {
       "m": "bitter; *spicy",
       "d": "This character pictures food whose taste is so hot and spicy that it makes the hairs on your body stand up as straight as needles.",
       "e": "辛辣 신랄 sharp, bitter, severe, harsh; 艱辛히 간신히 barely, hardly, labouriously",
-      "lv": ["중학용","3급(2급)"],
-      "ex": ["간신히","艱辛 히"]
+      "lv": ["중학용","3급(2급)"]
     },
     {
       "q": "睪",
@@ -46,8 +43,7 @@ const L29_2 = {
       "m": "*swamp; grace, brillance",
       "d": "You're hiding from the enemy underwater in a swamp. To breathe, you have your shakuhachi flute poking up through the surface of the water.<br>A spy does not hesitate to hide in water, even in a swamp to be able to spy on.",
       "e": "惠澤 혜택 benefit, boon, favor, grace; 德澤 덕택 indebtness, favor, grace, help; 潤澤 윤택 gloss, luster",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["덕택","德澤"]
+      "lv": ["고등용","3급II(2급)"]
     },
     {
       "q": "訳/譯",
@@ -56,8 +52,7 @@ const L29_2 = {
       "m": "translate",
       "d": "You cannot pretend to translate into words the melody of the shakuhachi!<br>A perfect spy like James Bond does not need a translator, he speaks all languages.",
       "e": "飜譯 (翻譯) 번역 translation",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["번역","飜譯/翻譯"]
+      "lv": ["고등용","3급II(2급)"]
     },
     {
       "q": "択/擇",
@@ -66,8 +61,7 @@ const L29_2 = {
       "m": "choose",
       "d": "The fingers on the Shakuhachi 'choose' the notes.<br>The fingers of the spy scan over the walls to find the secret niches where the important documents are hidden.",
       "e": "選擇 선택 choice, selection",
-      "lv": ["고등용","4급(3급)"],
-      "ex": ["선택","選擇"]
+      "lv": ["고등용","4급(3급)"]
     },
     {
       "q": "昼/晝",
@@ -76,8 +70,7 @@ const L29_2 = {
       "m": "daytime",
       "d": "Roosters in Japan are very civilised, they play the shakuhachi at nightbreak to signify the beginning of daytime.<br>It is best to take a brush to study at the nightbreak to profit of the daylight to the maximum.",
       "e": "白晝 백주 broad daylight",
-      "lv": ["중학용","6급(5급)"],
-      "ex": ["백주","白晝"]
+      "lv": ["중학용","6급(5급)"]
     },
     {
       "q": "戸/戶",
@@ -85,9 +78,8 @@ const L29_2 = {
 	  "k": "집",
       "m": "*door; household",
       "d": "If you are too poor to afford a door, you can just hang a flag instead (noren).",
-      "e": "門戶 문호 door; 富戶 부호 a rich man",
-      "lv": ["중학용","4급II(3급II)"],
-      "ex": ["호","戶"]
+      "e": "戶 호 house, household; 門戶 문호 door; 富戶 부호 a rich man",
+      "lv": ["중학용","4급II(3급II)"]
     },
     {
       "q": "肩",
@@ -96,8 +88,7 @@ const L29_2 = {
       "m": "shoulder",
       "d": "The shoulder is the best part of the body to bash a door open with (Don't ever try this. Use your foot).",
       "e": "肩章 견장 shoulder strap, epaulet",
-      "lv": ["고등용","3급(2급)"],
-      "ex": ["견장","肩章"]
+      "lv": ["고등용","3급(2급)"]
     },
     {
       "q": "房",
@@ -105,9 +96,8 @@ const L29_2 = {
 	  "k": "방",
       "m": "building, room; *tassel",
       "d": "A huge building with many doors and many rooms, a true maze. No compass will help to get out, but a tassel can help to catch a wind and find a direction out.",
-      "e": "廚房 주방 kitchen; 冷房 냉방 cold room, air conditioning",
-      "lv": ["중학용","4급II(3급II)"],
-      "ex": ["노래방","노래 房"]
+      "e": "노래房 노래방 karaoke room; 廚房 주방 kitchen; 冷房 냉방 cold room, air conditioning",
+      "lv": ["중학용","4급II(3급II)"]
     },
     {
       "q": "扇",
@@ -116,8 +106,7 @@ const L29_2 = {
       "m": "*fan; door panel",
       "d": "A door panel flaps and produces a stream of air not worse than a large fan of feathers.",
       "e": "扇風機 선풍기 electric fan",
-      "lv": ["","1급(특급)"],
-      "ex": ["선풍기","扇風機"]
+      "lv": ["","1급(특급)"]
     },
     {
       "q": "炉/爐",
@@ -126,8 +115,7 @@ const L29_2 = {
       "m": "*hearth, fireplace",
       "d": "- Honey? Do we have any wood left for the hearth?<br>- Aagh, just use the frickin' door!",
       "e": "暖爐 (煖爐) 난로 stove, heater, fireplace; 火爐 화로 brazier, fire pot/box",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["난로","暖爐/煖爐"]
+      "lv": ["고등용","3급II(2급)"]
     },
     {
       "q": "戻/戾",
@@ -135,9 +123,8 @@ const L29_2 = {
 	  "k": "어그러질",
       "m": "perverse, recalcitrant; *re-",
       "d": "The St. Bernard dog whining at the door of his master’s house in order to re-enter / re-turn inside, but the perverse master enjoys the dog's pain.",
-      "e": "返戾하다 반려하다 to return/reject a document without approval",
-      "lv": ["","1급(특급)"],
-      "ex": ["불려-","拂戾"]
+      "e": "拂戾 불려- refund; 返戾하다 반려하다 to return/reject a document without approval",
+      "lv": ["","1급(특급)"]
     },
     {
       "q": "涙/淚",
@@ -146,8 +133,7 @@ const L29_2 = {
       "m": "tears",
       "d": "The story of Hachiko: the faithfull dog who still waited for his master to return long after he had died. Brings a tear to the eye.",
       "e": "催淚彈 최루탄 tear bomb/shell",
-      "lv": ["고등용","3급(2급)"],
-      "ex": ["최루탄","催淚彈"]
+      "lv": ["고등용","3급(2급)"]
     },
     {
       "q": "雇",
@@ -155,9 +141,8 @@ const L29_2 = {
 	  "k": "품 팔",
       "m": "employ",
       "d": "Our company has no standards. We'll employ any turkey who walks in the door.",
-      "e": "雇傭 고용 employment, engagement",
-      "lv": ["","2급(1급)"],
-      "ex": ["고용","雇用"]
+      "e": "雇用 고용 employment; 雇傭 고용 employment, engagement",
+      "lv": ["","2급(1급)"]
     },
     {
       "q": "顧",
@@ -166,8 +151,7 @@ const L29_2 = {
       "m": "look back",
       "d": "The people we employ are always turning their heads to look back. They don't want to be caught playing solitare on company time.",
       "e": "顧客 고객 customer, client; 回顧 회고 recollection, restrospection",
-      "lv": ["고등용","3급(2급)"],
-      "ex": ["고객","顧客"]
+      "lv": ["고등용","3급(2급)"]
     },
     {
       "q": "啓",
@@ -176,8 +160,7 @@ const L29_2 = {
       "m": "open, *disclose",
       "d": "It's best not to disclose what you were forced to do with your mouth behind closed doors for your taskmaster.",
       "e": "啓發 계발 enlightment, illumination, edification, education, development; 啓示 계시 revelation (religious)",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["계발","啓發"]
+      "lv": ["고등용","3급II(2급)"]
     }
   ]
 };

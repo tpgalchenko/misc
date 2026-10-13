@@ -16,9 +16,8 @@ const L23_3 = {
 	  "k": "던질",
       "m": "throw",
       "d": "A slingshot - it's a crotch (originally a tree branch) that sends missile projectiles flying into/like the wind",
-      "e": "投射 투사 projection, throwing",
-      "lv": ["중학용","4급(3급)"],
-      "ex": ["투자","投資"]
+      "e": "投資 투자 investment; 投射 투사 projection, throwing",
+      "lv": ["중학용","4급(3급)"]
     },
     {
       "q": "没/沒",
@@ -26,9 +25,8 @@ const L23_3 = {
 	  "k": "빠질",
       "m": "drown",
       "d": "A water missile? A torpedo! And when it hits it's target? The ship collapses then sinks and everyone drowns!",
-      "e": "水沒 수몰 submergence; 沒入 몰입 immersion, absorption",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["몰락","沒落"]
+      "e": "沒落 몰락 downfall; 水沒 수몰 submergence; 沒入 몰입 immersion, absorption",
+      "lv": ["고등용","3급II(2급)"]
     },
     {
       "q": "設",
@@ -36,9 +34,8 @@ const L23_3 = {
 	  "k": "베풀",
       "m": "*establish; display",
       "d": "In Roman tradition, a 'trophy' was a monument or <b>display made</b> from the actual captured <b>arms</b> and armor of a defeated enemy force. Unlike modern trophies which are prizes for competitions, Roman tropaea were powerful symbols equivalent to <b>words</b> glorifying the military victory and imperial power.",
-      "e": "設立 설립 establishment, foundation",
-      "lv": ["중학용","4급II(3급II)"],
-      "ex": ["건설","建設"]
+      "e": "建設 건설 construction; 設立 설립 establishment, foundation",
+      "lv": ["중학용","4급II(3급II)"]
     },
     {
       "q": "撃/擊",
@@ -47,8 +44,7 @@ const L23_3 = {
       "m": "strike, attack, *beat",
       "d": "An attack of greek chariots carrying heros with spears in theirs hand.",
       "e": "攻擊 공격 attack, assault",
-      "lv": ["고등용","4급(3급)"],
-      "ex": ["공격","攻擊"]
+      "lv": ["고등용","4급(3급)"]
     },
     {
       "q": "殼",
@@ -57,8 +53,7 @@ const L23_3 = {
       "m": "shell, hull, *husk",
       "d": "husk or shell. Japan's recent history in a nutshell: first the samurai became superfluous and then the Eurpeans started to use fireguns and to launch missiles.",
       "e": "地殼 지각 earth crust, lithosphere; 甲殼類 갑각류 crustacea",
-      "lv": ["","1급(특급)"],
-      "ex": ["갑각류","甲殼類"]
+      "lv": ["","1급(특급)"]
     },
     {
       "q": "支",
@@ -66,9 +61,8 @@ const L23_3 = {
 	  "k": "지탱할",
       "m": "pay; support; *branch",
       "d": "Checking my balance at the bank <b>branch</b> always feels like a <b>needle</b> to the <b>crotch</b>. Where will I find money to <b>pay</b> my bills and <b>support</b> my family?",
-      "e": "支撑 지탱 support; 支拂 지불 payment",
-      "lv": ["중학용","4급II(3급II)"],
-      "ex": ["지급","支給"]
+      "e": "支給 지급 payment; 支撑 지탱 support; 支拂 지불 payment",
+      "lv": ["중학용","4급II(3급II)"]
     },
     {
       "q": "技",
@@ -76,9 +70,8 @@ const L23_3 = {
 	  "k": "재주",
       "m": "skill",
       "d": "Monkey's skill to grasp and to hop over the branches is excellent.",
-      "e": "技術 기술 art, skill",
-      "lv": ["중학용","5급(4급)"],
-      "ex": ["경기","競技"]
+      "e": "競技 경기 game, match; 技術 기술 art, skill",
+      "lv": ["중학용","5급(4급)"]
     },
     {
       "q": "枝",
@@ -86,9 +79,8 @@ const L23_3 = {
 	  "k": "가지",
       "m": "branch, *bough",
       "d": "The tree's primary branch is known as the bough.",
-      "e": "枝葉 지엽 branches and leaves, minor details",
-      "lv": ["중학용","3급II(2급)"],
-      "ex": ["금지옥엽","金枝玉葉"]
+      "e": "金枝玉葉 금지옥엽 precious child; 枝葉 지엽 branches and leaves, minor details",
+      "lv": ["중학용","3급II(2급)"]
     },
     {
       "q": "肢",
@@ -97,8 +89,7 @@ const L23_3 = {
       "m": "limb",
       "d": "Limb is a 'branch' of the body.",
       "e": "四肢 사지 limbs",
-      "lv": ["","1급(특급)"],
-      "ex": ["사지","四肢"]
+      "lv": ["","1급(특급)"]
     },
     {
       "q": "圣",
@@ -123,8 +114,7 @@ const L23_3 = {
       "m": "stem, *stalk",
       "d": "A flower's stalk can be seen as connecting the flower to the soil, or again the soil to the flower. It depends on how you look at it.<br>A flower's stem is a channel for its juices, hidden 'undeground' streams.",
       "e": "陰莖 음경 penis",
-      "lv": ["","1급(특급)"],
-      "ex": ["음경","陰莖"]
+      "lv": ["","1급(특급)"]
     },
     {
       "q": "怪",
@@ -133,8 +123,7 @@ const L23_3 = {
       "m": "strange, unusual, *suspicious",
       "d": "Sherlock Holmes as state of mind - Sherlock holds up a thread and tells Watson: 'My, this thread obviously comes from the same spool as this suspect's shirt! What a suspicious fact...'",
       "e": "怪物 괴물 monster, mysterious man",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["괴물","怪物"]
+      "lv": ["고등용","3급II(2급)"]
     },
     {
       "q": "軽/輕",
@@ -142,9 +131,8 @@ const L23_3 = {
 	  "k": "가벼울",
       "m": "lightly",
       "d": "Shuttle flying lightly between the threads of a weaving machine.",
-      "e": "輕하다 경하다 light, not heavy, trivial, not serious",
-      "lv": ["중학용","5급(4급)"],
-      "ex": ["경멸","輕蔑"]
+      "e": "輕蔑 경멸 contempt; 輕하다 경하다 light, not heavy, trivial, not serious",
+      "lv": ["중학용","5급(4급)"]
     },
     {
       "q": "叔",
@@ -152,9 +140,8 @@ const L23_3 = {
 	  "k": "아저씨",
       "m": "father's young brother, *uncle",
       "d": "Now read the character as a set of instructions to locate the younger siblings of your parents in your family tree, starting from yourself: If you go up to the row (generation) <b>above</b>, to your parents, then the younger siblings of your parents are the <b>littler</b> ones as that sprang from the same <b>crotch</b>.",
-      "e": "外叔 외숙 a brother of one's mother, uncle",
-      "lv": ["중학용","4급(3급)"],
-      "ex": ["외숙모","外叔母"]
+      "e": "外叔母 외숙모 maternal uncle's wife; 外叔 외숙 a brother of one's mother, uncle",
+      "lv": ["중학용","4급(3급)"]
     },
     {
       "q": "寂",
@@ -162,9 +149,8 @@ const L23_3 = {
 	  "k": "고요할",
       "m": "still, quiet, *loneliness",
       "d": "This obviously refers to <b>uncle</b> Scrooge. Remember before he started to hang out with his nephews, he lived all alone in a huge <b>house</b>, old and broken because of the <b>loneliness</b>.",
-      "e": "寂寂하다 적적하다 lonely, forlorn deserted",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["정적","靜寂"]
+      "e": "靜寂 정적 silence, stillness; 寂寂하다 적적하다 lonely, forlorn deserted",
+      "lv": ["고등용","3급II(2급)"]
     },
     {
       "q": "淑",
@@ -173,8 +159,7 @@ const L23_3 = {
       "m": "pure, virtuous; *graceful",
       "d": "Your uncle’s bellyflop into the water is far from graceful.",
       "e": "淑女 숙녀 lady, gentlewoman",
-      "lv": ["중학용","3급II(2급)"],
-      "ex": ["숙녀","淑女"]
+      "lv": ["중학용","3급II(2급)"]
     },
     {
       "q": "督",
@@ -183,8 +168,7 @@ const L23_3 = {
       "m": "supervise, direct, *coach",
       "d": "A good coach is like an uncle who keeps an eye out for you, a Sauron's eye that sees everything.",
       "e": "基督敎 기독교 Christinanity, Christian religion; 監督 감독 supervision, direction",
-      "lv": ["고등용","4급II(3급II)"],
-      "ex": ["감독","監督"]
+      "lv": ["고등용","4급II(3급II)"]
     },
     {
       "q": "反",
@@ -193,8 +177,7 @@ const L23_3 = {
       "m": "reverse, opposite, anti-",
       "d": "Despite their stunning similarity, this is not a 友 (friend), but the opposite: An anti-friend! Instead of always being at your side he throws you off a <b>cliff</b>.",
       "e": "反對 반대 the reverse, the opposite, the contrary",
-      "lv": ["중학용","6급II(5급II)"],
-      "ex": ["반대","反對"]
+      "lv": ["중학용","6급II(5급II)"]
     },
     {
       "q": "坂",
@@ -203,8 +186,7 @@ const L23_3 = {
       "m": "hillside, *slope",
       "d": "A slope is anti-flat soil.",
       "e": "九折坂 구절판 a korean dish; 山坂 산판 forest resrve",
-      "lv": ["","특급II(-)"],
-      "ex": ["구절판","九折坂"]
+      "lv": ["","특급II(-)"]
     },
     {
       "q": "板",
@@ -212,9 +194,8 @@ const L23_3 = {
 	  "k": "널빤지",
       "m": "plank, board",
       "d": "Trees are definitely anti-plank. They're even having a protest. Ironically the signs are still made of paper.",
-      "e": "看板 간판 signboard, billboard",
-      "lv": ["고등용","5급(4급)"],
-      "ex": ["칠판","漆板"]
+      "e": "漆板 칠판 blackboard; 看板 간판 signboard, billboard",
+      "lv": ["고등용","5급(4급)"]
     },
     {
       "q": "返",
@@ -222,9 +203,8 @@ const L23_3 = {
 	  "k": "돌이킬",
       "m": "return, revert",
       "d": "Going the road-way in the opposite direction means returning back.",
-      "e": "返品 반품 returned goods",
-      "lv": ["고등용","3급(2급)"],
-      "ex": ["반납","返納"]
+      "e": "返納 반납 return (of borrowed item); 返品 반품 returned goods",
+      "lv": ["고등용","3급(2급)"]
     },
     {
       "q": "販",
@@ -232,9 +212,8 @@ const L23_3 = {
 	  "k": "팔",
       "m": "marketing",
       "d": "The goal of marketing is to get people who are naturally anti-buying to spend their shells (money).",
-      "e": "販賣 판매 sale, selling, marketing",
-      "lv": ["고등용","3급(2급)"],
-      "ex": ["자판기","自販機"]
+      "e": "自販機 자판기 vending machine; 販賣 판매 sale, selling, marketing",
+      "lv": ["고등용","3급(2급)"]
     },
     {
       "q": "爪",
@@ -251,9 +230,8 @@ const L23_3 = {
 	  "k": "온당할",
       "m": "satisfactory, appropriate; *gentle",
       "d": "A comb made of vulture's claws was a satisfactory solution for stone age women.",
-      "e": "妥結 타결 compromise settlement, agreement",
-      "lv": ["고등용","3급(2급)"],
-      "ex": ["타협","妥協"]
+      "e": "妥協 타협 compromise; 妥結 타결 compromise settlement, agreement",
+      "lv": ["고등용","3급(2급)"]
     },
     {
       "q": "孚",
@@ -271,8 +249,7 @@ const L23_3 = {
       "m": "*milk, suckle, breast",
       "d": "Fledglings are hooked by mother's milk like addicts.",
       "e": "牛乳 우유 milk",
-      "lv": ["고등용","4급(3급)"],
-      "ex": ["우유","牛乳"]
+      "lv": ["고등용","4급(3급)"]
     },
     {
       "q": "浮",
@@ -280,9 +257,8 @@ const L23_3 = {
 	  "k": "뜰",
       "m": "float",
       "d": "Ducklings floating around in the water.",
-      "e": "浮標 부표 buoy",
-      "lv": ["중학용","3급II(2급)"],
-      "ex": ["부각","浮刻"]
+      "e": "浮刻 부각 highlighting, relief; 浮標 부표 buoy",
+      "lv": ["중학용","3급II(2급)"]
     },
 	{
 		"q" : "淫",
@@ -291,8 +267,7 @@ const L23_3 = {
 		"m" : "obscene, licentious, lewd",
 		"d" : "The <b>porter</b> is <b>lewd</b> like hell. If a female guest tries to enter the hotel, he throws himself on her like a <b>vulture</b>. Therefore it is highly recommended for the ladies to bring some cold <b>water</b> and pour it over him to cool him down.",
 		"e" : "姦淫 간음 adultery, fornication; 賣淫 매음 prostitution",
-		"lv": ["고등용","3급II(2급)"],
-		"ex": ["간음","姦淫"]
+		"lv": ["고등용","3급II(2급)"]
 	},
     {
       "q": "将/將",
@@ -301,8 +276,7 @@ const L23_3 = {
       "m": "going to, future. general, *leader",
       "d": "A great <b>leader</b> must have three things: the robustness of a <b>turtles shell</b>. The shrewdness of a <b>vulture</b>. People that will stick to him like <b>glue</b> and follow him anywhere.",
       "e": "將來 장래 future; 將校 장교 officer; 將帥 장수 commander, general",
-      "lv": ["중학용","4급II(3급II)"],
-      "ex": ["장래","將來"]
+      "lv": ["중학용","4급II(3급II)"]
     },
     {
       "q": "奨/奬",
@@ -311,8 +285,7 @@ const L23_3 = {
       "m": "encourage, *exhort",
       "d": "A great <b>leader</b> will always exhort his followers to go forth and do <b>great and big</b> things.",
       "e": "奬學金 장학금 scholarship; 奬勵 장려 encouragement, stimulation",
-      "lv": ["고등용","4급(3급)"],
-      "ex": ["장학금","奬學金"]
+      "lv": ["고등용","4급(3급)"]
     },
     {
       "q": "采",
@@ -321,8 +294,7 @@ const L23_3 = {
       "m": "dig up, *grab",
       "d": "The swooping vulture grabs his prey from the tree.",
       "e": "喝采 갈채 applause, cheers, ovation; 風采 풍채 one's appearance, air",
-      "lv": ["","2급(특급II)"],
-      "ex": ["갈채","喝采"]
+      "lv": ["","2급(특급II)"]
     },
     {
       "q": "採",
@@ -330,9 +302,8 @@ const L23_3 = {
 	  "k": "캘",
       "m": "dig up, *pick",
       "d": "Picking fruits from tree may become quite an exploit if a vulture sits on the tree and bites the fingers stretching out to pick a fruit.",
-      "e": "採取 채취 picking, gathering",
-      "lv": ["중학용","4급(3급)"],
-      "ex": ["채택","採擇"]
+      "e": "採擇 채택 adoption, selection; 採取 채취 picking, gathering",
+      "lv": ["중학용","4급(3급)"]
     },
     {
       "q": "菜",
@@ -340,9 +311,8 @@ const L23_3 = {
 	  "k": "나물",
       "m": "vegetable",
       "d": "Even a vulture may need vegetables if it is sick. In this case it digs out the healing roots and picks the healing grass.",
-      "e": "菜食 채식 vegetable",
-      "lv": ["중학용","3급II(2급)"],
-      "ex": ["야채","野菜"]
+      "e": "野菜 야채 vegetables; 菜食 채식 vegetable",
+      "lv": ["중학용","3급II(2급)"]
     },
     {
       "q": "爫+冖",
@@ -357,9 +327,8 @@ const L23_3 = {
 	  "k": "받을",
       "m": "receive, *accept",
       "d": "A birdhouse is a whorehouse that will accept any crotch.",
-      "e": "受動 수동 passivity",
-      "lv": ["중학용","4급II(3급II)"],
-      "ex": ["수용","受容"]
+      "e": "受容 수용 acceptance; 受動 수동 passivity",
+      "lv": ["중학용","4급II(3급II)"]
     },
     {
       "q": "授",
@@ -367,9 +336,8 @@ const L23_3 = {
 	  "k": "줄",
       "m": "give to; *impart",
       "d": "'Please accept this finger' - you say, imparting it to your yakuza boss.",
-      "e": "授業 수업 teaching, class, lessons",
-      "lv": ["중학용","4급II(3급II)"],
-      "ex": ["교수","敎授"]
+      "e": "敎授 교수 professor; 授業 수업 teaching, class, lessons",
+      "lv": ["중학용","4급II(3급II)"]
     },
     {
       "q": "愛",
@@ -378,8 +346,7 @@ const L23_3 = {
       "m": "love",
       "d": "Love is not only walking about cinemas and cafes but also hiding in a birdhouse to feel the warmth of your lovers' heart.",
       "e": "愛人 애인 lover",
-      "lv": ["중학용","6급(5급)"],
-      "ex": ["애인","愛人"]
+      "lv": ["중학용","6급(5급)"]
     },
     {
       "q": "曖",
@@ -387,9 +354,8 @@ const L23_3 = {
 	  "k": "희미할",
       "m": "obscure, dim, ambiguous, unclear",
       "d": "Love can outshine the sun and blind your vision to make it unclear and obscure your judgement.",
-      "e": "曖昧 애매 vagueness, ambiguity, obscurity",
-      "lv": ["","1급(특급)"],
-      "ex": ["애매하다","曖昧 하다"]
+      "e": "曖昧하다 애매하다 ambiguous; 曖昧 애매 vagueness, ambiguity, obscurity",
+      "lv": ["","1급(특급)"]
     }
   ]
 };

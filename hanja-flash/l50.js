@@ -16,8 +16,7 @@ const L50 = {
       "m": "shield",
       "d": "This is a magic shield with ten eyes which have the power to drag the victim towards it.",
       "e": "矛盾 모순 contradiction",
-      "lv": ["","2급(1급)"],
-      "ex": ["모순","矛盾"]
+      "lv": ["","2급(1급)"]
     },
     {
       "q": "循",
@@ -26,8 +25,7 @@ const L50 = {
       "m": "turn, wander about",
       "d": "A warrior with a shield wanders about patrolling and watching the environs through a hole in his shield.",
       "e": "循環 순환 circulation, cycle",
-      "lv": ["고등용","3급(2급)"],
-      "ex": ["순환","循環"]
+      "lv": ["고등용","3급(2급)"]
     },
     {
       "q": "派",
@@ -35,9 +33,8 @@ const L50 = {
       "k": "갈래",
       "m": "school of thought, sect, branch, *faction",
       "d": "The radical faction is almost eliminated, sir. They're living in the sewers full of dirty <b>water</b> dressed in <b>rags</b> and <b>dragging</b> their supplies.",
-      "e": "右派 우파 the right wing, the Right; 派送 파송/派遣 파견 dispatch, sending someone",
-      "lv": ["고등용","4급(3급)"],
-      "ex": ["파출소","派出所"]
+      "e": "派出所 파출소 police box; 右派 우파 the right wing, the Right; 派送 파송/派遣 파견 dispatch, sending someone",
+      "lv": ["고등용","4급(3급)"]
     },
     {
       "q": "脈",
@@ -45,9 +42,8 @@ const L50 = {
       "k": "혈맥",
       "m": "blood vessel, vein",
       "d": "To get blood drawn from a vein you present the part of the body to the nurse, and they drag an alcohol swab (rag) across the vein.",
-      "e": "血脈 혈맥 blood vessel, family blood, lineage; 脈絡 맥락 veins, system of veins, coherence, logical connection, context",
-      "lv": ["고등용","4급II(3급II)"],
-      "ex": ["맥","脈"]
+      "e": "脈 맥 pulse, vein; 血脈 혈맥 blood vessel, family blood, lineage; 脈絡 맥락 veins, system of veins, coherence, logical connection, context",
+      "lv": ["고등용","4급II(3급II)"]
     },
     {
       "q": "衆",
@@ -55,9 +51,8 @@ const L50 = {
       "k": "무리",
       "m": "masses",
       "d": "When the <b>masses</b> are hurt, say in a natural disaster like an earthquake, they can be seen everywhere <b>dragging</b> their <b>bloody rags</b>.",
-      "e": "公衆 공중 the public; 大衆 대중 masses (of people)",
-      "lv": ["중학용","4급II(3급II)"],
-      "ex": ["공중전화","公衆電話"]
+      "e": "公衆電話 공중전화 public telephone; 公衆 공중 the public; 大衆 대중 masses (of people)",
+      "lv": ["중학용","4급II(3급II)"]
     },
     {
       "q": "逓/遞",
@@ -65,9 +60,8 @@ const L50 = {
       "k": "갈마들",
       "m": "hand over, *parcel post; substitute",
       "d": "People complained about the delivery methods of UPS after finding out that they loaded <b>parcel post</b> onto a <b>towel</b> and <b>dragged</b> it down the <b>road</b>.<br>In the old days, deliverying <b>parcel post</b> was far more hazardous. Sometimes you had to <b>drag</b> a <b>tiger</b> 虎 down the <b>old road</b>. Most delivery men didn't last long.",
-      "e": "交遞/交替 교체 alternation, change; 郵遞 우체 mail/postal service",
-      "lv": ["고등용","3급(2급)"],
-      "ex": ["우체국","郵遞局"]
+      "e": "郵遞局 우체국 post office; 交遞/交替 교체 alternation, change; 郵遞 우체 mail/postal service",
+      "lv": ["고등용","3급(2급)"]
     },
     {
       "q": "段",
@@ -76,8 +70,7 @@ const L50 = {
       "m": "section, piece, division; *grade",
       "d": "The kanji connoting rank or class shows us a new element on the left: the familiar primitive for staples with an additional stroke cutting through the vertical stroke. It is easiest in these cases to make a primitive related to what we already know. Hence, we call it a <b>staple gun</b>. This is a military-<b>grade staple gun</b>! It can be loaded with real <b>missiles</b>.",
       "e": "階段 계단 stairs; 段階 단계 level, rank, grade, step, stage, phase",
-      "lv": ["고등용","4급(3급)"],
-      "ex": ["계단","階段"]
+      "lv": ["고등용","4급(3급)"]
     },
     {
       "q": "鍛",
@@ -86,8 +79,7 @@ const L50 = {
       "m": "forge",
       "d": "As a discriminating metalsmith, I use the highest grade metals when forging such precision devices as staple guns and missiles.",
       "e": "鍛鍊 단련 termper, forging, training, discipline",
-      "lv": ["","2급(1급)"],
-      "ex": ["단련","鍛鍊"]
+      "lv": ["","2급(1급)"]
     },
     {
       "q": "后",
@@ -96,8 +88,7 @@ const L50 = {
       "m": "empress",
       "d": "Tell the empress to <b>F</b>uck off and leave me alone.",
       "e": "后妃 후비/王后 왕후 empress, queen",
-      "lv": ["","2급(특급II)"],
-      "ex": ["왕후","王后"]
+      "lv": ["","2급(특급II)"]
     },
     {
       "q": "𠃌",
@@ -113,9 +104,8 @@ const L50 = {
       "k": "헛보일",
       "m": "illusion, fantasy, phantasm",
       "d": "After the play, The Phantasm of the Opera hangs up his cape on a clothes hanger and returns to his cocoon to sleep.",
-      "e": "夢幻 몽환 dreams and phantasma, fantasy",
-      "lv": ["","2급(1급)"],
-      "ex": ["환상","幻想"]
+      "e": "幻想 환상 fantasy; 夢幻 몽환 dreams and phantasma, fantasy",
+      "lv": ["","2급(1급)"]
     },
     {
       "q": "司",
@@ -123,9 +113,8 @@ const L50 = {
       "k": "맡을",
       "m": "take charge of, manage, *director",
       "d": "Every director is the same 同. But this director, this one, he's different.",
-      "e": "上司 상사 one's superior, boss; 司法 사법 the administration of justice, judicature; 司書 사서 librarian",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["사회자","司會者"]
+      "e": "司會者 사회자 host, MC; 上司 상사 one's superior, boss; 司法 사법 the administration of justice, judicature; 司書 사서 librarian",
+      "lv": ["고등용","3급II(2급)"]
     },
     {
       "q": "伺",
@@ -142,9 +131,8 @@ const L50 = {
       "k": "말",
       "m": "words. phrase, expression; *parts of speech",
       "d": "The big mouthed diretor is even picky about the parts of speech you use, shouting, 'More verbs! Less adjectives!' and such all the time.",
-      "e": "歌詞 가사 the words, the text, the libretto; 名詞 명사 noun",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["사연","辭緣/詞緣"]
+      "e": "辭緣/詞緣 사연 story, circumstances; 歌詞 가사 the words, the text, the libretto; 名詞 명사 noun",
+      "lv": ["고등용","3급II(2급)"]
     },
     {
       "q": "飼",
@@ -153,8 +141,7 @@ const L50 = {
       "m": "raise animals, feed; domesticate",
       "d": "After a pride of hungry lions <b>ate</b> the <b>director</b>, the producer decided to tone down his documentary and film <b>domesticated</b> cats instead.",
       "e": "飼育 사육 breeding/raising of cattle; 飼料 사료 feed, forage",
-      "lv": ["","2급(1급)"],
-      "ex": ["사육","飼育"]
+      "lv": ["","2급(1급)"]
     },
     {
       "q": "嗣",
@@ -163,8 +150,7 @@ const L50 = {
       "m": "to connect, inherit, *heir",
       "d": "The director's mouth dropped open as he flipped through the scrapbook of properties he was about to become heir to.",
       "e": "後嗣 후사 successor, inheritor, heir(ess)",
-      "lv": ["","1급(특급)"],
-      "ex": ["후사","後嗣"]
+      "lv": ["","1급(특급)"]
     },
     {
       "q": "舟",
@@ -172,9 +158,8 @@ const L50 = {
       "k": "배",
       "m": "boat",
       "d": "This kanji is a pictograph of a two story boat seen from the front. The glass canopy is the body of the boat. The drop on top is the chimney. The horizontal line is the ceiling/floor between the the 1st/2nd floor. Finally, the two drops in the middle are the lights on the decks.",
-      "e": "",
-      "lv": ["고등용","3급(2급)"],
-      "ex": ["일엽편주","一葉片舟"]
+      "e": "一葉片舟 일엽편주 a small boat",
+      "lv": ["고등용","3급(2급)"]
     },
     {
       "q": "舶",
@@ -183,8 +168,7 @@ const L50 = {
       "m": "large, ocean-going vessel, *liner",
       "d": "The most famous <b>liner</b> is the Titanic, which struck an iceberg and sunk. Just imagine that huge <b>liner</b> strucking an even huger mass of <b>white</b> ice.",
       "e": "船舶 선박 vessel, ship, seacraft",
-      "lv": ["","2급(1급)"],
-      "ex": ["선박","船舶"]
+      "lv": ["","2급(1급)"]
     },
     {
       "q": "航",
@@ -193,8 +177,7 @@ const L50 = {
       "m": "sail, *navigate",
       "d": "A sail-<b>boat</b> needs a good wind to <b>navigate</b>, but what about a <b>whirlwind</b>?",
       "e": "航空 항공 aviation, flight, aerial navigation; 航海 항해 sea voyage/navigation/sailing",
-      "lv": ["고등용","4급II(3급II)"],
-      "ex": ["항공","航空"]
+      "lv": ["고등용","4급II(3급II)"]
     },
     {
       "q": "舷",
@@ -212,8 +195,7 @@ const L50 = {
       "m": "sort, kind, category; *carrier",
       "d": "In general, carrier boats have missiles.",
       "e": "一般(의) 일반(의) general, universal, generic, common, widespread",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["일반","一般"]
+      "lv": ["고등용","3급II(2급)"]
     },
     {
       "q": "盤",
@@ -221,9 +203,8 @@ const L50 = {
       "k": "소반",
       "m": "*tray, plate, dish",
       "d": "What do you call a <b>carrier</b> of <b>dishes</b>? A <b>tray</b>.",
-      "e": "鍵盤 건반 keyboard, clavier; 骨盤 골반 pelvis, basin; 錚盤 쟁반 tray, server, platter",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["기반","基盤"]
+      "e": "基盤 기반 foundation, base; 鍵盤 건반 keyboard, clavier; 骨盤 골반 pelvis, basin; 錚盤 쟁반 tray, server, platter",
+      "lv": ["고등용","3급II(2급)"]
     },
     {
       "q": "搬",
@@ -232,8 +213,7 @@ const L50 = {
       "m": "transfer, move, shift, *conveyor",
       "d": "When workers neglect workplace safety, their <b>fingers</b> get cut off and carried away by the <b>conveyor</b> belt, which looks like a 'finger <b<carrier</b>' in that case.",
       "e": "運搬 운반 transportation, conveyance, transport",
-      "lv": ["","2급(1급)"],
-      "ex": ["운반","運搬"]
+      "lv": ["","2급(1급)"]
     },
     {
       "q": "船",
@@ -241,9 +221,8 @@ const L50 = {
       "k": "배",
       "m": "ship",
       "d": "A ship is a boat so big, it makes a river look like a gully.",
-      "e": "汽船 기선 steamship/boat; 貨物船 화물선 cargo boat",
-      "lv": ["중학용","5급(4급)"],
-      "ex": ["풍선","風船"]
+      "e": "風船 풍선 balloon; 汽船 기선 steamship/boat; 貨物船 화물선 cargo boat",
+      "lv": ["중학용","5급(4급)"]
     },
     {
       "q": "艦",
@@ -251,9 +230,8 @@ const L50 = {
       "k": "싸움배",
       "m": "warship",
       "d": "The <b>warship</b> towers over the smaller benign <b>boats</b>, <b>overseeing</b> their safe path from port to port.",
-      "e": "艦隊 함대 fleet, flotilla; 艦長 함장 captain of a warship",
-      "lv": ["","2급(1급)"],
-      "ex": ["군함","軍艦"]
+      "e": "軍艦 군함 warship; 艦隊 함대 fleet, flotilla; 艦長 함장 captain of a warship",
+      "lv": ["","2급(1급)"]
     },
     {
       "q": "艇",
@@ -262,8 +240,7 @@ const L50 = {
       "m": "small boat, *rowboat",
       "d": "In venice, the <b>boat</b> used by the <b>courts</b> to transport criminals is a <b>rowboat</b>.",
       "e": "高速艇 고속정 high-speed boat; 救命艇 구명정 lifeboat, rescue boat",
-      "lv": ["","2급(1급)"],
-      "ex": ["고속정","高速艇"]
+      "lv": ["","2급(1급)"]
     },
     {
       "q": "瓜",
@@ -271,9 +248,8 @@ const L50 = {
       "k": "오이",
       "m": "*melon, gourd, cucumber",
       "d": "If you <b>claw</b> at a girls <b>瓜elons</b>, she is gonna give you the <b>elbow</b>.",
-      "e": "木果 모과 the fruit of a Chinese quince",
-      "lv": ["","2급(1급)"],
-      "ex": ["모과","木▽瓜"]
+      "e": "木瓜 모과 quince; 木果 모과 the fruit of a Chinese quince",
+      "lv": ["","2급(1급)"]
     },
     {
       "q": "弧",
@@ -282,8 +258,7 @@ const L50 = {
       "m": "wooden bow, *arc, crescent",
       "d": "When you use a bow to shoot a melon, the arc varies depending on how far away you are.",
       "e": "括弧 괄호 parentheses",
-      "lv": ["","1급(특급)"],
-      "ex": ["괄호","括弧"]
+      "lv": ["","1급(특급)"]
     },
     {
       "q": "孤",
@@ -292,8 +267,7 @@ const L50 = {
       "m": "*orphan, solitary",
       "d": "An orphan will never know the joys on sucking on his mother's melons...",
       "e": "孤獨 고독 solitude, lonelines; 孤兒 고아 orphan",
-      "lv": ["고등용","4급(3급)"],
-      "ex": ["고독","孤獨"]
+      "lv": ["고등용","4급(3급)"]
     }
   ]
 };

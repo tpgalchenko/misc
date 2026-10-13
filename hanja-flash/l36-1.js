@@ -17,8 +17,7 @@ const L36_1 = {
       "m": "weave",
       "d": "Spiderman weaves his way through the skyline while listening to his theme song on his ipod. It is played, of course, by kazoos.",
       "e": "紡織 방직 spinning and weaving; 組織 조직 organization, formation; 織女 직녀 Jiknyeo",
-      "lv": ["고등용","4급(3급)"],
-      "ex": ["조직","組織"]
+      "lv": ["고등용","4급(3급)"]
     },
     {
       "q": "繕",
@@ -27,8 +26,7 @@ const L36_1 = {
       "m": "repair, mend, *darning",
       "d": "After a day being <b>virtuouos</b> and keeping the city safe, Spiderman's outfit is in need of some <b>repair</b>. Luckily, as he can shoot out threads <b>darning</b> is very easy for him to do.",
       "e": "修繕 수선 repair, mending",
-      "lv": ["","2급(1급)"],
-      "ex": ["수선","修繕"]
+      "lv": ["","2급(1급)"]
     },
     {
       "q": "縮",
@@ -36,9 +34,8 @@ const L36_1 = {
       "k": "줄일",
       "m": "shrink",
       "d": "After spending the night at an inn, spider man discovered to his dismay that his costume had shrunk in the wash, and no longer fit!",
-      "e": "萎縮 위축 withering, shrinkage, contraction",
-      "lv": ["고등용","4급(3급)"],
-      "ex": ["축소","縮小"]
+      "e": "縮小 축소 reduction; 萎縮 위축 withering, shrinkage, contraction",
+      "lv": ["고등용","4급(3급)"]
     },
     {
       "q": "繁",
@@ -46,8 +43,7 @@ const L36_1 = {
       "k": "번성할",
       "m": "luxuriant",
       "d": "<b>Spiderman</b> showed up huge <b>cleverness</b> and skillfullness in weaving a big tapestry picturing a <b>luxuriant</b> garden. Every taskmaster of the spiderman is very proud of his achievement.",
-      "e": "繁盛 번성 prosperity, thrift, luxuriance of growth",
-      "ex": ["번화하다","繁華 하다"]
+      "e": "繁華하다 번화하다 bustling; 繁盛 번성 prosperity, thrift, luxuriance of growth"
     },
     {
       "q": "縦/縱",
@@ -56,8 +52,7 @@ const L36_1 = {
       "m": "indulge in, give free reign to; *vertical",
       "d": "When <b>Spider-man</b> does his amazing <b>vertical</b> wall climbing, a throng of photographers <b>accompanies</b> him to get a good shot of the action.",
       "e": "操縱 조종 operation, handling; 縱的 종적 longitudinal, lengthwise, vertical",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["조종","操縱"]
+      "lv": ["고등용","3급II(2급)"]
     },
     {
       "q": "緻",
@@ -65,9 +60,8 @@ const L36_1 = {
       "k": "빽빽할",
       "m": "*fine; dense",
       "d": "The fibers that Spiderman ejects are so strong and <b>fine</b> that he can <b>reach</b> (致) to the top of any building without stairs and without being detected.",
-      "e": "緻密 치밀 minuteness, fineness, delicacy",
-      "lv": ["","1급(특급)"],
-      "ex": ["치밀하다","緻密 하다"]
+      "e": "緻密하다 치밀하다 meticulous; 緻密 치밀 minuteness, fineness, delicacy",
+      "lv": ["","1급(특급)"]
     },
     {
       "q": "線",
@@ -76,8 +70,7 @@ const L36_1 = {
       "m": "thread, *line, wire",
       "d": "<b>Spiderman</b> does a hot <b>spring</b> tour of Japan using the train lines. You can see the <b>Spidey</b> costume hanging on the washing <b>line</b> as he enjoys the onsen.",
       "e": "視線 시선 one's eyes, one's gaze; 路線 노선 route, line",
-      "lv": ["중학용","6급II(5급II)"],
-      "ex": ["노선","路線"]
+      "lv": ["중학용","6급II(5급II)"]
     },
     {
       "q": "綻",
@@ -85,9 +78,8 @@ const L36_1 = {
       "k": "터질",
       "m": "come apart at the seams",
       "d": "Even though his costume is <b>coming apart at the seams</b> as he chases the bad guys, <b>Spiderman</b> is still <b>determined</b> to catch them.",
-      "e": "破綻 파탄 failure, rupture, bankruptcy",
-      "lv": ["","1급(특급)"],
-      "ex": ["탄로","綻露"]
+      "e": "綻露 탄로 exposure (of secret); 破綻 파탄 failure, rupture, bankruptcy",
+      "lv": ["","1급(특급)"]
     },
     {
       "q": "締",
@@ -96,8 +88,7 @@ const L36_1 = {
       "m": "tie, join; *tighten",
       "d": "<b>Spiderman</b> managed to get behind the odious <b>sovereign</b>. Spidey has <b>tightend</b> a web around the sovereing's throat. As long as the sovereign says what spidey whispers, he will be fine. Sovereign yelping : 'We will draw our troops back! and we will spend more money on healthcare, schools and less on wars!' Spidey whispering: ' If you continue at this pace, you might be doing good things and the people will like you.'",
       "e": "締結 체결 conclusion (of a contract)",
-      "lv": ["","2급(1급)"],
-      "ex": ["체결","締結"]
+      "lv": ["","2급(1급)"]
     },
     {
       "q": "維",
@@ -106,8 +97,7 @@ const L36_1 = {
       "m": "maintain, preserve; *fiber",
       "d": "Spider-man wants to maintain his beloved turkey by his side, so he ejects a fiber that ties the turkey's leg up.",
       "e": "維持 유지 maintenance, preservation;",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["유지","維持"]
+      "lv": ["고등용","3급II(2급)"]
     },
     {
       "q": "羅",
@@ -116,8 +106,7 @@ const L36_1 = {
       "m": "net for catching birds; *gauze",
       "d": "Gauze is a net of fiber.",
       "e": "羅列 나열 marshalling, array; 新羅 신라 Sylla",
-      "lv": ["고등용","4급II(3급II)"],
-      "ex": ["나열","羅列"]
+      "lv": ["고등용","4급II(3급II)"]
     },
     {
       "q": "練/鍊",
@@ -126,8 +115,7 @@ const L36_1 = {
       "m": "practice",
       "d": "Spidey stays on the east side of the city to practice. The West Side is too dangerous.",
       "e": "練習/鍊習 연습 practice, exercises",
-      "lv": ["중학용","5급II(4급II)"],
-      "ex": ["연습","練習/鍊習"]
+      "lv": ["중학용","5급II(4급II)"]
     },
     {
       "q": "緒/緖",
@@ -135,9 +123,8 @@ const L36_1 = {
       "k": "실마리",
       "m": "end of thread, *thong/lash",
       "d": "One end of a <b>straps/thread/string</b> attached to the <b>puppet</b> but who hides on the other end of the thread? I have no clue.",
-      "e": "情緖 정서 emotion, feeling, sentiment; 端緖 단서 clue, key",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["서론","序論/緖論"]
+      "e": "序論/緖論 서론 introduction; 情緖 정서 emotion, feeling, sentiment; 端緖 단서 clue, key",
+      "lv": ["고등용","3급II(2급)"]
     },
     {
       "q": "続/續",
@@ -146,8 +133,7 @@ const L36_1 = {
       "m": "continue",
       "d": "Spiderman's comics continue to sell after several decades. (Even the goofy samurai with his log-crown toys is selling spiderman).",
       "e": "繼續 계속, 持續 지속 continuance, continuation",
-      "lv": ["중학용","4급II(3급II)"],
-      "ex": ["계속","繼續"]
+      "lv": ["중학용","4급II(3급II)"]
     },
     {
       "q": "絵/繪",
@@ -156,8 +142,7 @@ const L36_1 = {
       "m": "drawing, *picture",
       "d": "There's never a <b>picture</b> of <b>Spiderman</b> <b>meeting</b> Peter Parker... I wonder why?",
       "e": "繪畫 회화 pictures, paintings, drawings",
-      "lv": ["","1급(특급)"],
-      "ex": ["회화","繪畫"]
+      "lv": ["","1급(특급)"]
     },
     {
       "q": "統",
@@ -166,8 +151,7 @@ const L36_1 = {
       "m": "govern, command; *overall",
       "d": "According to Greek mythology, there's a thread alloted to everyone, and its length is the overall determinant, the governing of your fate.",
       "e": "傳統 전통 tradition; 統一 통일 unity, consolidation",
-      "lv": ["중학용","4급II(3급II)"],
-      "ex": ["전통","傳統"]
+      "lv": ["중학용","4급II(3급II)"]
     },
     {
       "q": "絞",
@@ -176,8 +160,7 @@ const L36_1 = {
       "m": "*strangle",
       "d": "Spiderman hates going to parties and having to <b>mingle</b>. He wants to strangle someone after just a little small talk.",
       "e": "絞殺 교살 stangulation",
-      "lv": ["","2급(1급)"],
-      "ex": ["교살","絞殺"]
+      "lv": ["","2급(1급)"]
     },
     {
       "q": "給",
@@ -186,8 +169,7 @@ const L36_1 = {
       "m": "give; *salary",
       "d": "Spiderman wanted to be a <b>salary</b>man, but the suit just didn't <b>fit</b> him.",
       "e": "月給 월급 monthly salary",
-      "lv": ["중학용","5급(4급)"],
-      "ex": ["월급","月給"]
+      "lv": ["중학용","5급(4급)"]
     },
     {
       "q": "絡",
@@ -196,8 +178,7 @@ const L36_1 = {
       "m": "enmesh, *entwine",
       "d": "When threads become entwined, each thread is tangled to another.",
       "e": "脈絡 맥락 context, coherence; 連絡/聯絡 연락 connection, contact, touch",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["연락","連絡/聯絡"]
+      "lv": ["고등용","3급II(2급)"]
     },
     {
       "q": "結",
@@ -205,9 +186,8 @@ const L36_1 = {
       "k": "맺을",
       "m": "tie",
       "d": "Spiderman's typical morning: He takes shower and sprays his favourite perfume with an <b>aerosol can</b>, then Mary Jane would <b>tie</b> Spidey's <b>tie</b> for him on his way out to work every day, giving him a kiss and saying '<b>Good Luck!</b>'",
-      "e": "連結 연결 connection, coupling, linking",
-      "lv": ["중학용","5급II(4급II)"],
-      "ex": ["결과","結果"]
+      "e": "結果 결과 result; 連結 연결 connection, coupling, linking",
+      "lv": ["중학용","5급II(4급II)"]
     },
     {
       "q": "終",
@@ -216,8 +196,7 @@ const L36_1 = {
       "m": "end",
       "d": "This winter is so cold that spiderman's web gets brittle! Could this be the end of spiderman?",
       "e": "最終 최종 the last, the end",
-      "lv": ["중학용","5급(4급)"],
-      "ex": ["최종","最終"]
+      "lv": ["중학용","5급(4급)"]
     },
     {
       "q": "級",
@@ -225,9 +204,8 @@ const L36_1 = {
       "k": "등급",
       "m": "rank, *class",
       "d": "If you are part of a <b>class</b> system you will always <b>reach out</b> for any <b>thread</b> of hope to pull yourself to a higher <b>class</b>.",
-      "e": "階級 계급 class, estate, rank, grade",
-      "lv": ["고등용","6급(5급)"],
-      "ex": ["고급","高級"]
+      "e": "高級 고급 high-class; 階級 계급 class, estate, rank, grade",
+      "lv": ["고등용","6급(5급)"]
     },
     {
       "q": "紀",
@@ -235,9 +213,8 @@ const L36_1 = {
       "k": "벼리",
       "m": "record, annal, *chonicle",
       "d": "While <b>記</b> takes just notes, 紀 <b>chronicles</b> the <b>thread</b> of history.",
-      "e": "紀綱 기강 discipline, public order; 世紀 세기 century",
-      "lv": ["고등용","4급(3급)"],
-      "ex": ["기념","紀念/記念"]
+      "e": "紀念/記念 기념 commemoration; 紀綱 기강 discipline, public order; 世紀 세기 century",
+      "lv": ["고등용","4급(3급)"]
     },
     {
       "q": "紅",
@@ -245,9 +222,8 @@ const L36_1 = {
       "k": "붉을",
       "m": "red, vermillion, *crimson",
       "d": "<b>Spiderman</b> <b>crafted</b> a <b>crimson</b> costume to fight crime in.",
-      "e": "紅色 홍색 red",
-      "lv": ["중학용","4급(3급)"],
-      "ex": ["홍차","紅茶"]
+      "e": "紅茶 홍차 black tea; 紅色 홍색 red",
+      "lv": ["중학용","4급(3급)"]
     },
     {
       "q": "納",
@@ -255,9 +231,8 @@ const L36_1 = {
       "k": "들일",
       "m": "admit, accept; *settlement",
       "d": "Spiderman is encouraged by his lawyers to make a settlement after he accidentally traps the wrong person inside his spiderweb for days.",
-      "e": "歸納 귀납 induction, generalization; 納期 납기 time for payment",
-      "lv": ["고등용","4급(3급)"],
-      "ex": ["반납","返納"]
+      "e": "返納 반납 return (of borrowed item); 歸納 귀납 induction, generalization; 納期 납기 time for payment",
+      "lv": ["고등용","4급(3급)"]
     },
     {
       "q": "紡",
@@ -265,9 +240,8 @@ const L36_1 = {
       "k": "길쌈",
       "m": "weave, *spinning",
       "d": "Spiderman is spinning around, shooting webs in every direction.",
-      "e": "紡織 방직 spinning and weaving",
-      "lv": ["","2급(1급)"],
-      "ex": ["방적","紡績"]
+      "e": "紡績 방적 spinning; 紡織 방직 spinning and weaving",
+      "lv": ["","2급(1급)"]
     },
     {
       "q": "紛",
@@ -276,8 +250,7 @@ const L36_1 = {
       "m": "in disorder, tangled; *distract",
       "d": "Spiderman found an entangled hank of thread. He cuts it into many parts and then ties up again to make a single thread.",
       "e": "紛糾 분규 complication(s), entanglement, confusion, disorder; 紛失 분실 loss, losing",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["분실","紛失"]
+      "lv": ["고등용","3급II(2급)"]
     },
     {
       "q": "紹",
@@ -286,8 +259,7 @@ const L36_1 = {
       "m": "*introduce",
       "d": "Spiderman seduces all the girls he's introduced to.",
       "e": "紹介 소개 introduction, presentation",
-      "lv": ["","2급(1급)"],
-      "ex": ["소개","紹介"]
+      "lv": ["","2급(1급)"]
     },
     {
       "q": "経/經",
@@ -296,8 +268,7 @@ const L36_1 = {
       "m": "classic works, *sutra; pass through",
       "d": "The word ‘sutra’ literally means a rope or thread that holds things together. Here we see that it is a spool that is holding the threads together",
       "e": "經濟 경제 economics; 經驗 경험 experience",
-      "lv": ["중학용","4급II(3급II)"],
-      "ex": ["경험","經驗"]
+      "lv": ["중학용","4급II(3급II)"]
     },
     {
       "q": "紳",
@@ -306,8 +277,7 @@ const L36_1 = {
       "m": "gentry, *sire",
       "d": "Monkeys are very adept at swinging around trees. But when they met Spiderman, who could swing around even better than they could, they all quickly addressed him as <b>sire</b>.",
       "e": "紳士 신사 gentlemen",
-      "lv": ["","2급(1급)"],
-      "ex": ["신사","紳士"]
+      "lv": ["","2급(1급)"]
     },
     {
       "q": "約",
@@ -316,8 +286,7 @@ const L36_1 = {
       "m": "treaty, agreement, *promise",
       "d": "A promise is as fragile as a thread, but if broken, it can fill a ladle with tears.",
       "e": "約束 약속 promise, agreement",
-      "lv": ["중학용","5급II(4급II)"],
-      "ex": ["약속","約束"]
+      "lv": ["중학용","5급II(4급II)"]
     },
     {
       "q": "細",
@@ -325,9 +294,8 @@ const L36_1 = {
       "k": "가늘",
       "m": "fine, thin, *dainty",
       "d": "Dainty women would always rather work with thread than in a field.",
-      "e": "細胞 세포 cell; 微細 미세 minuteness, fineness",
-      "lv": ["중학용","4급II(3급II)"],
-      "ex": ["자세히","仔細/子細 히"]
+      "e": "仔細히/子細히 자세히 in detail; 細胞 세포 cell; 微細 미세 minuteness, fineness",
+      "lv": ["중학용","4급II(3급II)"]
     }
   ]
 };

@@ -25,9 +25,8 @@ const L40_2 = {
       "k": "벌",
       "m": "bee",
       "d": "I got stung by an insect walking through the bushes, I think it was a bee.",
-      "e": "",
-      "lv": ["고등용","3급(2급)"],
-      "ex": ["봉기","蜂起"]
+      "e": "蜂起 봉기 uprising",
+      "lv": ["고등용","3급(2급)"]
     },
     {
       "q": "縫",
@@ -35,9 +34,8 @@ const L40_2 = {
       "k": "꿰맬",
       "m": "*sew, mend",
       "d": "Good thing I brought some <b>thread</b>, cause I need to <b>sew</b> my pants that I tore up <b>walking</b> through the <b>bushes</b> before we hit the <b>road</b> to go back down the mountain.",
-      "e": "縫合 봉합 suture, seam; 裁縫 재봉 sewing, needlework",
-      "lv": ["","2급(1급)"],
-      "ex": ["봉제","縫製"]
+      "e": "縫製 봉제 sewing; 縫合 봉합 suture, seam; 裁縫 재봉 sewing, needlework",
+      "lv": ["","2급(1급)"]
     },
     {
       "q": "拝/拜",
@@ -46,8 +44,7 @@ const L40_2 = {
       "m": "*worship, do obeisance, bow",
       "d": "I put my <b>fingers</b> together in <b>worship</b> of the <b>bush</b> that hangs from the <b>ceiling</b> - that wonderful mistletoe which has gotten me kissed by many a girl.",
       "e": "歲拜 세배 formal bow of respect to one's elders on New Year' Day; 禮拜 예배 worship, church service",
-      "lv": ["중학용","4급II(3급II)"],
-      "ex": ["세배","歲拜"]
+      "lv": ["중학용","4급II(3급II)"]
     },
     {
       "q": "寿/壽",
@@ -55,9 +52,8 @@ const L40_2 = {
       "k": "목숨",
       "m": "*longevity, old age, lifespan",
       "d": "In an attempt to increase a <b>bush</b>'s <b>longevity</b>, an incompetent gardener <b>glues</b> all the leaves back on that have fallen off. Maybe he should have tried watering it instead.",
-      "e": "長壽 장수 long life, longevity",
-      "lv": ["중학용","3급II(2급)"],
-      "ex": ["수명","壽命"]
+      "e": "壽命 수명 lifespan; 長壽 장수 long life, longevity",
+      "lv": ["중학용","3급II(2급)"]
     },
     {
       "q": "鋳/鑄",
@@ -66,8 +62,7 @@ const L40_2 = {
       "m": "casting, melt, coin",
       "d": "Casting things in metal improves their longevity.",
       "e": "鑄貨/鑄錢 주화/주전 coin",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["주화","鑄貨"]
+      "lv": ["고등용","3급II(2급)"]
     },
     {
       "q": "耒",
@@ -84,9 +79,8 @@ const L40_2 = {
       "k": "문서",
       "m": "enroll",
       "d": "Once upon a time, in order to enroll in a Christian school you had to answer a series of questions to ensure that you were really Christian. For example, the principal might show you a picture of a Christmas tree and a picture of some bamboo and ask you which one is most suitable for decoration at Christmas time.",
-      "e": "符籍 부적 amulet, charm; 書籍 서적 book",
-      "lv": ["고등용","4급(3급)"],
-      "ex": ["국적","國籍"]
+      "e": "國籍 국적 nationality; 符籍 부적 amulet, charm; 書籍 서적 book",
+      "lv": ["고등용","4급(3급)"]
     },
     {
       "q": "𡗗",
@@ -102,9 +96,8 @@ const L40_2 = {
       "k": "봄",
       "m": "springtime",
       "d": "In the springtime bonsai get plenty of sun.",
-      "e": "靑春 청춘 one's youth, the springtime of life",
-      "lv": ["중학용","7급(6급)"],
-      "ex": ["사춘기","思春期"]
+      "e": "思春期 사춘기 puberty; 靑春 청춘 one's youth, the springtime of life",
+      "lv": ["중학용","7급(6급)"]
     },
     {
       "q": "椿",
@@ -113,8 +106,7 @@ const L40_2 = {
       "m": "*camelia; father; a plant with white flowers",
       "d": "The tree of spring. Fact: Camellia are highly valued in Japan and elsewhere for their very early flowering, often among the first flowers to appear in the late winter [early spring?].",
       "e": "椿府丈 춘부장 your honoured father",
-      "lv": ["","2급(특급II)"],
-      "ex": ["춘부장","椿府丈"]
+      "lv": ["","2급(특급II)"]
     },
     {
       "q": "泰",
@@ -123,8 +115,7 @@ const L40_2 = {
       "m": "great, exalted, big; *peaceful",
       "d": "If you look into Japanese gardens they seem so peaceful - with their small bonsais and the white stones looking like rice grains.",
       "e": "泰山 태산 a great/big/high mountain; 泰然 태연 calm, composed, imperturbable; 泰國 태국 Thailand",
-      "lv": ["중학용","3급II(2급)"],
-      "ex": ["태국","泰國"]
+      "lv": ["중학용","3급II(2급)"]
     },
     {
       "q": "奏",
@@ -133,8 +124,7 @@ const L40_2 = {
       "m": "memorialize emperor; *play music",
       "d": "When you play music to them, your bonsai will grow like they are in heaven.",
       "e": "演奏 연주 (musical) performance, recital",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["연주","演奏"]
+      "lv": ["고등용","3급II(2급)"]
     },
     {
       "q": "実/實",
@@ -143,8 +133,7 @@ const L40_2 = {
       "m": "reality",
       "d": "Bonsais are grown in a house, away from the harsh reality of the real world where they wouldn't survive.",
       "e": "誠實 성실 sincerity, honesty, integrity; 實踐 실천 practice; 事實 사실 fact",
-      "lv": ["중학용","5급II(4급II)"],
-      "ex": ["사실","事實"]
+      "lv": ["중학용","5급II(4급II)"]
     },
     {
       "q": "十+丿",
@@ -161,8 +150,7 @@ const L40_2 = {
       "m": "offer, *dedicate",
       "d": "To join the temple, you have to <b>dedicate</b> yourself to raising <b>bonsai</b> for enlightenment, and <b>cornstalks</b> for sustenance.",
       "e": "奉仕 봉사 service, attendance",
-      "lv": ["중학용","5급II(4급II)"],
-      "ex": ["봉사","奉仕"]
+      "lv": ["중학용","5급II(4급II)"]
     },
     {
       "q": "俸",
@@ -170,9 +158,8 @@ const L40_2 = {
       "k": "녹",
       "m": "*stipend, wages, salary",
       "d": "<b>Chuck Norris</b> receives a <b>stipend</b> to <b>dedicate</b> 奉 himself to the Bowflex. Oh, how the mighty have fallen!",
-      "e": "俸給 봉급 salary, pay, wages",
-      "lv": ["","2급(1급)"],
-      "ex": ["연봉","年俸"]
+      "e": "年俸 연봉 annual salary; 俸給 봉급 salary, pay, wages",
+      "lv": ["","2급(1급)"]
     },
     {
       "q": "棒",
@@ -181,8 +168,7 @@ const L40_2 = {
       "m": "*rod, stick, club",
       "d": "The wood from this tree is dedicated to making rods to flog naughty kids.",
       "e": "棍棒 곤봉 club, cudgel; 綿棒 면봉 cotton swab (on a stick)",
-      "lv": ["","1급(특급)"],
-      "ex": ["곤봉","棍棒"]
+      "lv": ["","1급(특급)"]
     },
     {
       "q": "堇",
@@ -199,8 +185,7 @@ const L40_2 = {
       "m": "*discreet, prudent, cautious",
       "d": "Muttering words of gratitude for a wonderful meal, I discreetly slipped my cabbage under the table for the dog.",
       "e": "謹審 근심 anxiety, concertn, solicitude; 謹愼 근신 good behaviour/conduct, prudence, discretion",
-      "lv": ["고등용","3급(2급)"],
-      "ex": ["근신","謹愼"]
+      "lv": ["고등용","3급(2급)"]
     },
     {
       "q": "僅",
@@ -209,8 +194,7 @@ const L40_2 = {
       "m": "only, merely, just; *trifle",
       "d": "For Chuck Norris swallowing a whole cabbage is no more than a trifle.",
       "e": "僅少하다 근소하다 few, little, trifling, scanty; 僅僅이 근근이 barely, hardly, just, only",
-      "lv": ["고등용","3급(2급)"],
-      "ex": ["근근","僅僅"]
+      "lv": ["고등용","3급(2급)"]
     },
     {
       "q": "勤",
@@ -219,8 +203,7 @@ const L40_2 = {
       "m": "diligence",
       "d": "Growing cabbages takes muscle and diligence.",
       "e": "勤務 근무 service, duty, work; 出勤 출근 attendance, going to work; being on the job",
-      "lv": ["중학용","4급(3급)"],
-      "ex": ["출근","出勤"]
+      "lv": ["중학용","4급(3급)"]
     },
     {
       "q": "廿+口+夫",
@@ -236,9 +219,8 @@ const L40_2 = {
       "k": "한수/한나라",
       "m": "Sino-, chinese",
       "d": "In the water between Japan and China, the Sino- side has put scarecrows in the water to try and keep the Japanese away.",
-      "e": "漢字 한자 Chinese character",
-      "lv": ["중학용","7급II(6급)"],
-      "ex": ["한강","漢江"]
+      "e": "漢江 한강 Han River; 漢字 한자 Chinese character",
+      "lv": ["중학용","7급II(6급)"]
     },
     {
       "q": "嘆",
@@ -246,9 +228,8 @@ const L40_2 = {
       "k": "탄식할",
       "m": "sigh",
       "d": "A sigh escapes the mouth of the scarecrow, who laments: '...if I only had a brain, I could learn kanji'.",
-      "e": "嘆息/歎息 탄식 sigh, lamentation",
-      "lv": ["","특급II(-)"],
-      "ex": ["감탄","感歎/感嘆"]
+      "e": "感歎/感嘆 감탄 admiration; 嘆息/歎息 탄식 sigh, lamentation",
+      "lv": ["","특급II(-)"]
     },
     {
       "q": "難",
@@ -257,8 +238,7 @@ const L40_2 = {
       "m": "difficult",
       "d": "It is difficult for a scarecrow to scare a turkey or else they would've been called scareturkeys.",
       "e": "困難 곤란 difficulty, hardship, trouble; 非難 비난 (adverse) criticism, blame, reproach",
-      "lv": ["중학용","4급II(3급II)"],
-      "ex": ["곤란","困難▽"]
+      "lv": ["중학용","4급II(3급II)"]
     },
     {
       "q": "卄+干",
@@ -274,9 +254,8 @@ const L40_2 = {
       "k": "빛날",
       "m": "splendor",
       "d": "I could not find the needle in the heap of silage but was surprised to find a flower of great splendor growing there.",
-      "e": "昇華 승화 sublimation; 榮華 영화 prosperity, opulence",
-      "lv": ["중학용","4급(3급)"],
-      "ex": ["화려하다","華麗 하다"]
+      "e": "華麗하다 화려하다 splendid, colorful; 昇華 승화 sublimation; 榮華 영화 prosperity, opulence",
+      "lv": ["중학용","4급(3급)"]
     },
     {
       "q": "垂",
@@ -285,8 +264,7 @@ const L40_2 = {
       "m": "*droop, hang, suspend",
       "d": "For an old man with a walking stick, even a drop of silage to carry on his back will make him droop low down to the floor.",
       "e": "垂直 수직 perpendicularity, verticality; 懸垂幕 현수막 drop curtain, banner, placard",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["수직","垂直"]
+      "lv": ["고등용","3급II(2급)"]
     },
     {
       "q": "唾",
@@ -295,8 +273,7 @@ const L40_2 = {
       "m": "saliva, spit",
       "d": "When some people are sleeping, their mouths droop open, and saliva drips out.",
       "e": "唾棄하다 타기하다 detest, hate, abominate, abhor; 唾液 타액 spit, saliva",
-      "lv": ["","1급(특급)"],
-      "ex": ["타액","唾液"]
+      "lv": ["","1급(특급)"]
     },
     {
       "q": "睡",
@@ -304,9 +281,8 @@ const L40_2 = {
       "k": "졸음",
       "m": "*drowsy, sleep, doze",
       "d": "Our <b>eyes</b> <b>droop</b> 垂 when we are <b>drowsy</b>.",
-      "e": "睡眠 수면 sleep, slumber",
-      "lv": ["고등용","3급(2급)"],
-      "ex": ["수면제","睡眠劑"]
+      "e": "睡眠劑 수면제 sleeping pill; 睡眠 수면 sleep, slumber",
+      "lv": ["고등용","3급(2급)"]
     },
     {
       "q": "錘",
@@ -315,8 +291,7 @@ const L40_2 = {
       "m": "*spindle, balance weight on scale",
       "d": "Wasn't it a cursed spindle that Sleeping Beauty pricked her finger on? Therefore the spindle was the metal that caused her to droop and eventually sleep for 100 years.",
       "e": "錘 추 scale weight, fishing sinker/weight; 時計錘 시계추 clock pendulum",
-      "lv": ["","1급(특급)"],
-      "ex": ["추","錘"]
+      "lv": ["","1급(특급)"]
     },
     {
       "q": "乗/乘",
@@ -325,8 +300,7 @@ const L40_2 = {
       "m": "ride",
       "d": "In the near future, we hope to ride on biomass fueled vehicles. Good news for those who have wheat silage surplus.<br>I took my ride too see the wheat fields to the north.",
       "e": "乘客 승객 passenger; 搭乘 탑승 boarding, riding",
-      "lv": ["중학용","3급II(2급)"],
-      "ex": ["승객","乘客"]
+      "lv": ["중학용","3급II(2급)"]
     },
     {
       "q": "剰/剩",
@@ -335,8 +309,7 @@ const L40_2 = {
       "m": "surplus, leftovers",
       "d": "If there is a surplus of people on the ride, they may just need to get rid of a few passengers using a saber.",
       "e": "剩餘 잉여 surplus, remainder; 過剩 과잉 excess, suplus, superfluity",
-      "lv": ["","1급(특급)"],
-      "ex": ["과잉","過剩"]
+      "lv": ["","1급(특급)"]
     }
   ]
 };

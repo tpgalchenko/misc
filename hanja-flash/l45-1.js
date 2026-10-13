@@ -16,8 +16,7 @@ const L45_1 = {
       "m": "*carve, decorate",
       "d": "Start with a <b>circumference</b> and <b>carve</b> away until you get the <b>shape</b> you want.",
       "e": "彫塑 조소 the plastic arts, carving and modeling;  彫刻 조각 sculpture, engraving, carving",
-      "lv": ["","2급(1급)"],
-      "ex": ["조각","彫刻/雕刻"]
+      "lv": ["","2급(1급)"]
     },
     {
       "q": "形",
@@ -25,9 +24,8 @@ const L45_1 = {
       "k": "모양",
       "m": "shape",
       "d": "Shadow theatre requires two hands to make numerous shapes.",
-      "e": "形象 형상 shape, form; 形成 형성 formation, evolution",
-      "lv": ["중학용","6급II(5급II)"],
-      "ex": ["인형","人形"]
+      "e": "人形 인형 doll; 形象 형상 shape, form; 形成 형성 formation, evolution",
+      "lv": ["중학용","6급II(5급II)"]
     },
     {
       "q": "影",
@@ -36,8 +34,7 @@ const L45_1 = {
       "m": "shadow",
       "d": "The sun over the capital cast a shadow with a bizarre shape.",
       "e": "影響 영향 influence, effect; 撮影 촬영 photographing, filming",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["영향","影響"]
+      "lv": ["고등용","3급II(2급)"]
     },
     {
       "q": "杉",
@@ -54,9 +51,8 @@ const L45_1 = {
       "k": "채색",
       "m": "coloring",
       "d": "When coloring something in you grab 采 the crayon of choice to fill in the shapes.",
-      "e": "彩色 채색 coloring, coloration; 水彩 수채 aquarelle, aquarelle painting",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["색채","色彩"]
+      "e": "色彩 색채 color, hue; 彩色 채색 coloring, coloration; 水彩 수채 aquarelle, aquarelle painting",
+      "lv": ["고등용","3급II(2급)"]
     },
     {
       "q": "彰",
@@ -65,8 +61,7 @@ const L45_1 = {
       "m": "clear, manifest, *patent",
       "d": "The shape of a sheriff's badge makes it patent who he is.",
       "e": "表彰 표창 commendation, honouring, awarding",
-      "lv": ["","2급(1급)"],
-      "ex": ["표창","表彰"]
+      "lv": ["","2급(1급)"]
     },
     {
       "q": "彦/彥",
@@ -83,9 +78,8 @@ const L45_1 = {
       "k": "낯",
       "m": "face",
       "d": "The lad jumps off the cliff, breaks his head, and smashes his face.",
-      "e": "顏色 안색 face color, expression; 洗顏 세안 eyewashing",
-      "lv": ["중학용","3급II(2급)"],
-      "ex": ["안색","顔色"]
+      "e": "顔色 안색 complexion; 顏色 안색 face color, expression; 洗顏 세안 eyewashing",
+      "lv": ["중학용","3급II(2급)"]
     },
     {
       "q": "須",
@@ -94,8 +88,7 @@ const L45_1 = {
       "m": "ought",
       "d": "One ought to use his head to do things right. It is indispensable so as not to pull his hair afterwards out of his head (hence changing its shape).",
       "e": "必須(의) 필수(의) indispensable, essential, mandatory",
-      "lv": ["중학용","3급(2급)"],
-      "ex": ["필수","必須"]
+      "lv": ["중학용","3급(2급)"]
     },
     {
       "q": "膨",
@@ -104,8 +97,7 @@ const L45_1 = {
       "m": "swell",
       "d": "An injured body part may swell. It will begin to throb like a bass drum and will change shape.",
       "e": "膨脹 팽창 swelling, inflation, expansion, dilation, growth",
-      "lv": ["","1급(특급)"],
-      "ex": ["팽창","膨脹"]
+      "lv": ["","1급(특급)"]
     },
     {
       "q": "参/參",
@@ -114,8 +106,7 @@ const L45_1 = {
       "m": "take part in, intervene; *visit",
       "d": "Three drunks at a bar, all 'bending elbows' over their cocktails, are participating in a lively conversation.",
       "e": "參與 참여 participation; 參加 참가 participation (in a contest); 參考 참고 reference, consultation",
-      "lv": ["중학용","5급II(4급II)"],
-      "ex": ["참가","參加"]
+      "lv": ["중학용","5급II(4급II)"]
     },
     {
       "q": "惨/慘",
@@ -123,9 +114,8 @@ const L45_1 = {
       "k": "참혹할",
       "m": "sad, pitiful, *wretched; cruel",
       "d": "The hangover is a pitiful state after three companions spent an drinking evening together. The headache is but cruel.",
-      "e": "慘酷 참혹 misery, wretchedness; cruelty, brutality",
-      "lv": ["고등용","3급(2급)"],
-      "ex": ["비참하다","悲慘 하다"]
+      "e": "悲慘하다 비참하다 miserable; 慘酷 참혹 misery, wretchedness; cruelty, brutality",
+      "lv": ["고등용","3급(2급)"]
     },
     {
       "q": "修",
@@ -133,9 +123,8 @@ const L45_1 = {
       "k": "닦을",
       "m": "study, repair, cultivate; *discipline",
       "d": "Chuck Norris teaches some discipline to the evil taskmaster, hitting him with his walking stick until both the taskmaster and the stick are well bent out of shape.",
-      "e": "修理 수리 repair, mending; 修習 수습 apprenticeship, probation",
-      "lv": ["중학용","4급II(3급II)"],
-      "ex": ["수리비","修理費"]
+      "e": "修理費 수리비 repair cost; 修理 수리 repair, mending; 修習 수습 apprenticeship, probation",
+      "lv": ["중학용","4급II(3급II)"]
     },
     {
       "q": "珍",
@@ -143,9 +132,8 @@ const L45_1 = {
       "k": "보배",
       "m": "precious, valuable, *rare",
       "d": "It's rare to see the king carrying his own parasol - typically he gets one of his attendants to do it for him. [Umbrella over shape = parasol]",
-      "e": "珍景 something rare and wonderful, a miracle; 珍貴하다 진귀하다 rare and precious/valuable",
-      "lv": ["고등용","4급(3급)"],
-      "ex": ["진풍경","珍風景"]
+      "e": "珍風景 진풍경 rare sight; 珍景 something rare and wonderful, a miracle; 珍貴하다 진귀하다 rare and precious/valuable",
+      "lv": ["고등용","4급(3급)"]
     },
     {
       "q": "診",
@@ -154,8 +142,7 @@ const L45_1 = {
       "m": "medical checkup",
       "d": "At my last check-up, the doctor said to me: 'Start carrying a parasol, or you might get skin cancer. You've been tanning too much!' [Umbrella over shape = parasol].",
       "e": "診脈 진맥 feeling the pulse for diagnosis; 診斷 진단 diagnosis",
-      "lv": ["","2급(1급)"],
-      "ex": ["진단","診斷"]
+      "lv": ["","2급(1급)"]
     },
     {
       "q": "文",
@@ -163,9 +150,8 @@ const L45_1 = {
       "k": "글월",
       "m": "literature, writing, *sentence; *plaid",
       "d": "The teacher puts a tophat on all pupils with gramatically correct sentences, while the rest are left with a big red X on their homework.",
-      "e": "文法 문법 grammar",
-      "lv": ["중학용","7급(6급)"],
-      "ex": ["문화","文化"]
+      "e": "文化 문화 culture; 文法 문법 grammar",
+      "lv": ["중학용","7급(6급)"]
     },
     {
       "q": "対/對",
@@ -173,9 +159,8 @@ const L45_1 = {
       "k": "대할",
       "m": "correct, right; facing, opposed, *vis-a-vis",
       "d": "Civilization is opposed to barbarity by means of holding fast to the literature and culture like being glued.<br>A sad example of what happens when the old go versus the young. They ended upside down in the row, glued to the dirt.",
-      "e": "對하다 대하다 to face, to confront, to be opposite to",
-      "lv": ["중학용","6급II(5급II)"],
-      "ex": ["대답","對答"]
+      "e": "對答 대답 answer; 對하다 대하다 to face, to confront, to be opposite to",
+      "lv": ["중학용","6급II(5급II)"]
     },
     {
       "q": "紋",
@@ -184,8 +169,7 @@ const L45_1 = {
       "m": "line, streak, stripe; wrinkle; *family crest",
       "d": "On <b>Spiderman's</b> <b>family crest</b> reads the <b>sentence</b>: 'With great power, comes great responsibility'... in Latin of course.",
       "e": "紋章 문장 crest of arms, family insignia, coat of arms; 波紋 파문 ripple, ring on the water; 指紋 지문 fingerprint, dactylogram",
-      "lv": ["","3급II(2급)"],
-      "ex": ["파문","波紋"]
+      "lv": ["","3급II(2급)"]
     },
     {
       "q": "蚊",
@@ -203,8 +187,7 @@ const L45_1 = {
       "m": "mottled, striped, *speckled",
       "d": "The sentences exchanged between the two kings got more and more heated, finally leading to a fight which left the whole area speckled with blood.",
       "e": "斑指 반지 (finger) ring; 斑點 반점 spot, speck, speckle, fleck",
-      "lv": ["","1급(특급)"],
-      "ex": ["반지","半指/斑指"]
+      "lv": ["","1급(특급)"]
     },
     {
       "q": "/ |",
@@ -220,9 +203,8 @@ const L45_1 = {
       "k": "가지런할",
       "m": "even, uniform, of equal length, *adjusted",
       "d": "The sentence was adjusted to fit in between the two fenceposts.",
-      "e": "一劑히 일제히 all together, all at once",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["일제히","一齊 히"]
+      "e": "一齊히 일제히 all at once; 一劑히 일제히 all together, all at once",
+      "lv": ["고등용","3급II(2급)"]
     },
     {
       "q": "剤/劑",
@@ -230,9 +212,8 @@ const L45_1 = {
       "k": "약제",
       "m": "medicine, drug, *dose",
       "d": "The pharmacist adjusted 斉 the size of the medicine dose with his knife刂.",
-      "e": "藥劑 약제 medicine, drug; 洗劑 세제 detergent, cleanser, detersive",
-      "lv": ["","2급(1급)"],
-      "ex": ["소화제","消化劑"]
+      "e": "消化劑 소화제 digestive medicine; 藥劑 약제 medicine, drug; 洗劑 세제 detergent, cleanser, detersive",
+      "lv": ["","2급(1급)"]
     },
     {
       "q": "済/濟",
@@ -240,9 +221,8 @@ const L45_1 = {
       "k": "건널",
       "m": "help; ferry, cross; *finish",
       "d": "When you finish hard exercise, drink some water and rest until your heart rate and breathing have adjusted and become even again.",
-      "e": "經濟 경제 economy; 決濟 결제 settlement, liquidation; 共濟 공제 mutual aid; 未濟 미제 unfinished",
-      "lv": ["고등용","4급II(3급II)"],
-      "ex": ["제주도","濟州道"]
+      "e": "濟州道 제주도 Jeju Island; 經濟 경제 economy; 決濟 결제 settlement, liquidation; 共濟 공제 mutual aid; 未濟 미제 unfinished",
+      "lv": ["고등용","4급II(3급II)"]
     },
     {
       "q": "斎/齋",
@@ -251,8 +231,7 @@ const L45_1 = {
       "m": "vegetarian diet, to fast, abstain; study; *purification",
       "d": "The religious purification rite required you to enter between the doorposts, walk up to the altar and recite the sacred sentence.",
       "e": "齋밥 잿밥 (boiled) rice offered to Buddha; 書齋 서재 a study, a library",
-      "lv": ["","1급(특급)"],
-      "ex": ["서재","書齋"]
+      "lv": ["","1급(특급)"]
     },
     {
       "q": "粛/肅",
@@ -260,9 +239,8 @@ const L45_1 = {
       "k": "엄숙할",
       "m": "pay respects, reverently, *solemn",
       "d": "Even though it's a maddening task, the monks stay solemn as they rake rice between the fenceposts.<br>The solemn old cleaner rakes the arm-wrestling table in between bouts.",
-      "e": "嚴肅 엄숙 solemnity, dignity, gravity",
-      "lv": ["고등용","4급(3급)"],
-      "ex": ["엄숙하다","嚴肅 하다"]
+      "e": "嚴肅하다 엄숙하다 solemn; 嚴肅 엄숙 solemnity, dignity, gravity",
+      "lv": ["고등용","4급(3급)"]
     },
     {
       "q": "X",
@@ -278,9 +256,8 @@ const L45_1 = {
       "k": "보루",
       "m": "rampart, military wall; *baseball bases",
       "d": "Playing baseball in a rice field with sparklers stuck into the ground to act as bases.<br>Anyone old enough to play baseball knows that a baseball field has three bases on the ground.",
-      "e": "堡壘 보루 fort, fortress, rampart, stronghold",
-      "lv": ["","1급(특급)"],
-      "ex": ["도루","盜壘"]
+      "e": "盜壘 도루 stolen base; 堡壘 보루 fort, fortress, rampart, stronghold",
+      "lv": ["","1급(특급)"]
     },
     {
       "q": "楽/樂",
@@ -288,9 +265,8 @@ const L45_1 = {
       "k": "노래",
       "m": "happy, glad, enjoyable; *music",
       "d": "The most amazing new bird has been found: it's white and produces the most beautiful music. It sits in trees all day and shoots out sparks as it sings.<br>The old women working at the top of the <b>tree</b> sing some merry <b>music</b> as they rob the silkworms of their <b>white cocoons</b> to make t-shirts and other crap.",
-      "e": "音樂 음악 music; 安樂 안락 comfort, ease",
-      "lv": ["중학용","6급II(5급II)"],
-      "ex": ["악기","樂器"]
+      "e": "樂器 악기 musical instrument; 音樂 음악 music; 安樂 안락 comfort, ease",
+      "lv": ["중학용","6급II(5급II)"]
     },
     {
       "q": "薬/藥",
@@ -298,9 +274,8 @@ const L45_1 = {
       "k": "약",
       "m": "drug, medicine",
       "d": "Old age medicine involved using flowers and shaman music and dances as treatment.",
-      "e": "藥劑 약제 medicine, drug; 痲藥 마약 narcotic, drug",
-      "lv": ["중학용","6급II(5급II)"],
-      "ex": ["약국","藥局"]
+      "e": "藥局 약국 pharmacy; 藥劑 약제 medicine, drug; 痲藥 마약 narcotic, drug",
+      "lv": ["중학용","6급II(5급II)"]
     },
     {
       "q": "率",
@@ -309,8 +284,7 @@ const L45_1 = {
       "m": "to lead; *ratio, rate, limit",
       "d": "When I first started downloading torrents, I thought that ratios were very mysterious 玄 . Now I keep a sparkling ten to one ratio!",
       "e": "比率 비율 ratio, rate, proportion; 食率 식솔 family member; 率直 솔직 straightforwardness, frankness",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["비율","比率"]
+      "lv": ["고등용","3급II(2급)"]
     },
     {
       "q": "渋/澁",
@@ -318,9 +292,8 @@ const L45_1 = {
       "k": "껄끄러울",
       "m": "*astringent; harsh, uneven, rough",
       "d": "You ate something astringent? Quickly drink this water here to stop the sparkly sensation.",
-      "e": "難澁 난삽 difficulty",
-      "lv": ["","1급(특급)"],
-      "ex": ["난삽하다","難澁 하다"]
+      "e": "難澁하다 난삽하다 obscure, difficult; 難澁 난삽 difficulty",
+      "lv": ["","1급(특급)"]
     },
     {
       "q": "摂/攝",
@@ -329,8 +302,7 @@ const L45_1 = {
       "m": "take in, absorb, *vicarious",
       "d": "A man was taken into hospital with hearing loss and a burned finger after a sparkler accident, his company started looking for a (vicarious) deputy.",
       "e": "攝理 섭리 providence, dispensation; 攝氏 섭씨 centigrade, Celsius",
-      "lv": ["고등용","3급(2급)"],
-      "ex": ["섭씨","攝氏"]
+      "lv": ["고등용","3급(2급)"]
     }
   ]
 };

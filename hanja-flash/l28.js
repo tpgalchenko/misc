@@ -22,9 +22,8 @@ const L28 = {
 	  "k": "-써",
       "m": "by means of",
       "d": "Picture a person dragging a plow behind, and the drop of sweat which falls from his brow as he does his work. Think of him (or her, for that matter) making a living “by means of the sweat of their brows.”",
-      "e": "以上 이상 the above",
-      "lv": ["중학용","5급II(4급II)"],
-      "ex": ["이후","以後"]
+      "e": "以後 이후 after, since; 以上 이상 the above",
+      "lv": ["중학용","5급II(4급II)"]
     },
     {
       "q": "似",
@@ -32,9 +31,8 @@ const L28 = {
 	  "k": "같을",
       "m": "similar",
       "d": "A <b>person</b> can become quite <b>similar</b> to <b>Chuck Norris</b> <b>by means of</b> plastic surgery but his roundhouse-kick is inimitable.",
-      "e": "類似 유사 resemblance, similarity",
-      "lv": ["고등용","3급(2급)"],
-      "ex": ["흡사","恰似"]
+      "e": "恰似 흡사 closely resembling; 類似 유사 resemblance, similarity",
+      "lv": ["고등용","3급(2급)"]
     },
     {
       "q": "并",
@@ -50,9 +48,8 @@ const L28 = {
 	  "k": "아우를",
       "m": "combine, *join",
       "d": "Most people need two hands to join together pieces of a puzzle. Chuck Norris just roundhouse-kicks the puzzle, and the pieces join themselves.",
-      "e": "倂合/合倂 병합/합병 union, combination, merger",
-      "lv": ["","2급(1급)"],
-      "ex": ["병설","竝設/倂設"]
+      "e": "竝設/倂設 병설 annexation, attached; 倂合/合倂 병합/합병 union, combination, merger",
+      "lv": ["","2급(1급)"]
     },
     {
       "q": "瓦",
@@ -61,8 +58,7 @@ const L28 = {
       "m": "tile",
       "d": "Horror scene: hanging from the ceiling, a plough and fishhook dripping with blood down onto the <b>tiled</b> bathroom floor.",
       "e": "瓦解 와해 collapse, fall, breakup",
-      "lv": ["중학용","3급II(2급)"],
-      "ex": ["와해","瓦解"]
+      "lv": ["중학용","3급II(2급)"]
     },
     {
       "q": "瓶/甁",
@@ -70,9 +66,8 @@ const L28 = {
 	  "k": "병",
       "m": "jug, bottle, *flower pot",
       "d": "A flower pot that has been dropped on the floor is like a puzzle of ceramic tiles to glue together.",
-      "e": "甁 bottle, jar; 花甁 화병 flower vase",
-      "lv": ["","1급(특급)"],
-      "ex": ["꽃병","꽃 甁"]
+      "e": "꽃甁 꽃병 vase; 甁 bottle, jar; 花甁 화병 flower vase",
+      "lv": ["","1급(특급)"]
     },
     {
       "q": "宮",
@@ -80,9 +75,8 @@ const L28 = {
 	  "k": "집",
       "m": "palace, temple, *shinto shrine",
       "d": "A friend of mine made up a rhyme for this one: 'house with a spine, Shinto shrine'!",
-      "e": "迷宮 미궁 labyrinth, maze; 景福宮 경복궁 Gyeongbokgung Palace",
-      "lv": ["고등용","4급II(3급II)"],
-      "ex": ["고궁","古宮"]
+      "e": "古宮 고궁 ancient palace; 迷宮 미궁 labyrinth, maze; 景福宮 경복궁 Gyeongbokgung Palace",
+      "lv": ["고등용","4급II(3급II)"]
     },
     {
       "q": "営/營",
@@ -91,8 +85,7 @@ const L28 = {
       "m": "manage, operate; encampment; *occupation",
       "d": "Keeping the fire in a temple is the primary, the backbone occupation of one who operates it.",
       "e": "經營 경영 management, administration; 運營 운영 management, administration",
-      "lv": ["고등용","4급(3급)"],
-      "ex": ["경영","經營"]
+      "lv": ["고등용","4급(3급)"]
     },
     {
       "q": "善",
@@ -101,8 +94,7 @@ const L28 = {
       "m": "good, *virtuous",
       "d": "Imagine a priest's teaching: To achieve virtue one must first submit himself as a <b>sheep</b> to God's flock, rejecting the <b>horns</b> of Satan and resisting the <b>mouth</b> of Hell.",
       "e": "改善 개선 improvement; 最善 최선 the best",
-      "lv": ["중학용","5급(4급)"],
-      "ex": ["최선","最善"]
+      "lv": ["중학용","5급(4급)"]
     },
     {
       "q": "膳",
@@ -111,8 +103,7 @@ const L28 = {
       "m": "meals, provisions, board; *dining tray",
       "d": "The <b>virtuous</b> vegan will not touch this meals/dining tray because it has had a piece of <b>meat</b> on it.",
       "e": "膳物 선물 present, gift",
-      "lv": ["","1급(특급)"],
-      "ex": ["선물","膳物"]
+      "lv": ["","1급(특급)"]
     },
     {
       "q": "年",
@@ -120,9 +111,8 @@ const L28 = {
 	  "k": "해",
       "m": "year",
       "d": "In an odd fashion, the kanji for year joins together the element for horse, on the top, and the right half of the element for sun-glasses. Think of it as a horse wearing sunglasses with one of the lenses popped out.",
-      "e": "年末 연말 the end of the year",
-      "lv": ["중학용","8급(6급II)"],
-      "ex": ["내년","來年"]
+      "e": "來年 내년 next year; 年末 연말 the end of the year",
+      "lv": ["중학용","8급(6급II)"]
     },
     {
       "q": "夜",
@@ -130,9 +120,8 @@ const L28 = {
 	  "k": "밤",
       "m": "night",
       "d": "At <b>night</b>, <b>Chuck Norris</b> dons his <b>top hat</b>, takes a stroll with his <b>walking legs</b> and is back before he drips a single <b>drop</b> of sweat.",
-      "e": "夜景 야경 nocturnal view",
-      "lv": ["중학용","6급(5급)"],
-      "ex": ["야간","夜間"]
+      "e": "夜間 야간 nighttime; 夜景 야경 nocturnal view",
+      "lv": ["중학용","6급(5급)"]
     },
     {
       "q": "液",
@@ -141,8 +130,7 @@ const L28 = {
       "m": "juice, *fluid",
       "d": "A wet dream........water fluid that comes out at night....",
       "e": "液體 액체 liquid, fluid",
-      "lv": ["","4급II(3급II)"],
-      "ex": ["액체","液體"]
+      "lv": ["","4급II(3급II)"]
     },
     {
       "q": "塚/冢",
@@ -168,9 +156,8 @@ const L28 = {
 	  "k": "화폐",
       "m": "cash",
       "d": "A counterfeiter is using a <b>shredder</b> to shred a <b>towel</b> in order to print up some <b>cash</b> for he needs some rag paper.",
-      "e": "貨幣 화폐 currency, money, coin",
-      "lv": ["고등용","3급(2급)"],
-      "ex": ["지폐","紙幣"]
+      "e": "紙幣 지폐 paper money; 貨幣 화폐 currency, money, coin",
+      "lv": ["고등용","3급(2급)"]
     },
     {
       "q": "蔽",
@@ -179,8 +166,7 @@ const L28 = {
       "m": "cover over",
       "d": "You cover over the shredder with flowers when the FBI comes a-knockin'.",
       "e": "隱蔽 은폐 concealment, hiding, suppression",
-      "lv": ["고등용","3급(2급)"],
-      "ex": ["은폐","隱蔽"]
+      "lv": ["고등용","3급(2급)"]
     },
     {
       "q": "弊",
@@ -188,9 +174,8 @@ const L28 = {
 	  "k": "폐단/해질",
       "m": "evil, wrong, bad; *abuse",
       "d": "Shoving someone's hands into a shredder surely counts as abuse.",
-      "e": "弊端 폐단 an evil, an abuse; a vice",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["폐해","弊害"]
+      "e": "弊害 폐해 harmful effect; 弊端 폐단 an evil, an abuse; a vice",
+      "lv": ["고등용","3급II(2급)"]
     },
     {
       "q": "喚",
@@ -198,9 +183,8 @@ const L28 = {
 	  "k": "부를",
       "m": "call, invite; *yell",
       "d": "4 St. Bernard dogs bound up together yell and call for help, their mouths just won't close.",
-      "e": "喚起 환기 awakening, evocation, arouse; 召喚 소환 a summons, a call",
-      "lv": ["","1급(특급)"],
-      "ex": ["사환","使喚"]
+      "e": "使喚 사환 errand boy; 喚起 환기 awakening, evocation, arouse; 召喚 소환 a summons, a call",
+      "lv": ["","1급(특급)"]
     },
     {
       "q": "換",
@@ -209,8 +193,7 @@ const L28 = {
       "m": "exchange, *interchange",
       "d": "On the snap of your fingers, the four St. Bernard dogs bound up interchange places in your sled's harness.",
       "e": "交換 교환 exchange, interchange, swap",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["교환","交換"]
+      "lv": ["고등용","3급II(2급)"]
     },
     {
       "q": "融",
@@ -219,8 +202,7 @@ const L28 = {
       "m": "melt, fuse; *dissolve",
       "d": "Pretty much anything will <b>dissolve</b> in acid and Coca Cola is very acidic. Try it at home. Put <b>one</b> <b>mouth</b>ful of Coke in a glass <b>hood</b> with <b>four nails</b>, by next morning they will have dissolved. Then drop in an <b>insect</b> and watch that dissolve too. ",
       "e": "金融 금융 finance, monetary circulation",
-      "lv": ["","2급(1급)"],
-      "ex": ["금융","金融"]
+      "lv": ["","2급(1급)"]
     }
   ]
 };

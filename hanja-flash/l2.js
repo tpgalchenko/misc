@@ -9,8 +9,7 @@ const L2 =
 			"m": "rice field",
 			"d": "Several plots of a large rice field",
 			"e": "油田 유전 oil land",
-			"lv": ["중학용","4급II(3급II)"],
-			"ex": ["대전","大田"]
+			"lv": ["중학용","4급II(3급II)"]
 		},
 		{
 			"q": "古",
@@ -18,9 +17,8 @@ const L2 =
 			"k": "옛",
 			"m": "old",
 			"d": "A tombstone with a cross",
-			"e": "古典 고전 classics",
-			"lv": ["중학용","6급(5급)"],
-			"ex": ["고궁","古宮"]
+			"e": "古宮 고궁 ancient palace, 古典 고전 classics",
+			"lv": ["중학용","6급(5급)"]
 		},
 		{
 			"q": "吾",
@@ -28,7 +26,7 @@ const L2 =
 			"k": "나",
 			"m": "I,we",
 			"d": "Five senses/mouths",
-			"e": " 吾不關焉 오불관언 detached/unconcerned air",
+			"e": "吾不關焉 오불관언 detached/unconcerned air",
 			"lv": ["중학용","3급(2급)"]
 		},
 		{
@@ -38,8 +36,7 @@ const L2 =
 			"m": "risk, to bear",
 			"d": "Looking at the sun is risk",
 			"e": "冒險 모험 adventure",
-			"lv": ["고등용","3급(2급)"],
-			"ex": ["모험","冒險"]
+			"lv": ["고등용","3급(2급)"]
 		},
 		{
 			"q": "昌",
@@ -47,9 +44,8 @@ const L2 =
 			"k": "창성할",
 			"m": "prosperous",
 			"d": "Two suns in the sky - sunny time",
-			"e": "昌盛 창성 propsperity; 繁昌 번창 prosperity, flourish",
-			"lv": ["중학용","3급II(2급)"],
-			"ex": ["번창","繁昌"]
+			"e": "昌盛 창성 prosperity; 繁昌 번창 prosperity, flourish",
+			"lv": ["중학용","3급II(2급)"]
 		},
 		{
 			"q": "朋",
@@ -66,9 +62,8 @@ const L2 =
 			"k": "밝을",
 			"m": "bright",
 			"d": "Sun and moon",
-			"e": "分明 분명 clearness",
-			"lv": ["중학용","6급II(5급II)"],
-			"ex": ["설명","說明"]
+			"e": "說明 설명 explanation; 分明 분명 clearness",
+			"lv": ["중학용","6급II(5급II)"]
 		},
 		{
 			"q": "唱",
@@ -77,8 +72,7 @@ const L2 =
 			"m": "chant",
 			"d": "Two mouths wagging tongues and a choirmaster making no noise",
 			"e": "合唱 합창 chorus",
-			"lv": ["중학용","5급(4급)"],
-			"ex": ["합창","合唱"]
+			"lv": ["중학용","5급(4급)"]
 		},
 		{
 			"q": "晶",
@@ -86,9 +80,8 @@ const L2 =
 			"k": "맑을",
 			"m": "sparkle/clear",
 			"d": "A crystal sparkling on all sides",
-			"e": "結晶 결정 crystal",
-			"lv": ["","2급(특급II)"],
-			"ex": ["액정","液晶"]
+			"e": "液晶 액정 liquid crystal; 結晶 결정 crystal",
+			"lv": ["","2급(특급II)"]
 		},
 		{
 			"q": "品",
@@ -96,9 +89,8 @@ const L2 =
 			"k": "물건",
 			"m": "goods",
 			"d": "Consumers' mouths",
-			"e": "品質 품질 quality",
-			"lv": ["중학용","5급II(4급II)"],
-			"ex": ["식품","食品"]
+			"e": "食品 식품 food; 品質 품질 quality",
+			"lv": ["중학용","5급II(4급II)"]
 		},
 		{
 			"q": "呂",
@@ -116,8 +108,7 @@ const L2 =
 			"m": "early",
 			"d": "A sunflower - early riser in the garden, the sun favors its namesake",
 			"e": "早期 조기 early stage",
-			"lv": ["중학용","4급II(3급II)"],
-			"ex": ["조기","早期"]
+			"lv": ["중학용","4급II(3급II)"]
 		},
 		{
 			"q": "旭",
@@ -134,9 +125,8 @@ const L2 =
 			"k": "눈",
 			"m": "eye",
 			"d": "Eyeball",
-			"e": "目標 목표 target",
-			"lv": ["중학용","6급(5급)"],
-			"ex": ["목적","目的"]
+			"e": "目的 목적 purpose; 目標 목표 target",
+			"lv": ["중학용","6급(5급)"]
 		},
 		{
 			"q": "世",
@@ -144,9 +134,8 @@ const L2 =
 			"k": "인간",
 			"m": "world, life, *generation",
 			"d": "A generation is a period of thirty years - three times ten",
-			"e": "萬世 만세 eternity",
-			"lv": ["중학용","7급II(6급)"],
-			"ex": ["세계","世界"]
+			"e": "世界 세계 world; 萬世 만세 eternity",
+			"lv": ["중학용","7급II(6급)"]
 		},
 		{
 			"q": "胃",
@@ -154,9 +143,8 @@ const L2 =
 			"k": "위장",
 			"m": "stomach",
 			"d": "Flesh nourishing the brain.",
-			"e": "胃腸 위장 stomach and intestines; 胃炎 위염 gastritis",
-			"lv": ["고등용","3급II(2급)"],
-			"ex": ["비위","脾胃"]
+			"e": "脾胃 비위 taste, temper; 胃腸 위장 stomach and intestines; 胃炎 위염 gastritis",
+			"lv": ["고등용","3급II(2급)"]
 		},
 		{
 			"q": "旦",
@@ -165,8 +153,7 @@ const L2 =
 			"m": "morning, *nightbreak",
 			"d": "Sun rising above the floor",
 			"e": "一旦 일단 first, beforehand",
-			"lv": ["고등용","3급II(2급)"],
-			"ex": ["일단","一旦"]
+			"lv": ["고등용","3급II(2급)"]
 		},
 		{
 			"q": "胆",
@@ -192,8 +179,7 @@ const L2 =
 			"m": "concave",
 			"d": "-",
 			"e": "凹凸 요철 unevenness, irregularities",
-			"lv": ["","1급(특급)"],
-			"ex": ["요철","凹凸"]
+			"lv": ["","1급(특급)"]
 		},
 		{
 			"q": "凸",
@@ -202,8 +188,7 @@ const L2 =
 			"m": "convex",
 			"d": "-",
 			"e": "凹凸 요철 unevenness, irregularities",
-			"lv": ["","1급(특급)"],
-			"ex": ["요철","凹凸"]
+			"lv": ["","1급(특급)"]
 		}
 	]
 };

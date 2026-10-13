@@ -9,8 +9,7 @@ const L12 =
 			"m": "insert, put in, *jammed in",
 			"d": "Someone shoves his <b>walking stick</b> into a slot in the umbrella stand at the door, but it gets jammed into an umbrella frame since the slot has been already occupied. Try to imagine the two parties tugging at their respective properties like two kids on a wishbone, creating a scene at the entrance of an elegant restaurant.",
 			"e": " 紹介 소개 introduction",
-			"lv": ["고등용","3급II(2급)"],
-			"ex": ["소개","紹介"]
+			"lv": ["고등용","3급II(2급)"]
 		},
 		{
 			"q": "界",
@@ -19,8 +18,7 @@ const L12 =
 			"m": "boundary, *world",
 			"d": "The world gets jammed with more and more people. Imagine yourself taking an air flight over a <b>world</b> so densely populated that every bit of it is sectioned off like a gigantic <b>checkerboard (the rice fields)</b>. If you look closely at the character, you should be able to see a kind of movement taking place as still more is being jammed into that already narrow space.",
 			"e": "世界 세계 the world",
-			"lv": ["중학용","6급II(5급II)"],
-			"ex": ["세계","世界"]
+			"lv": ["중학용","6급II(5급II)"]
 		},
 		{
 			"q": "茶",
@@ -44,9 +42,8 @@ const L12 =
 			"k": "합할",
 			"m": "unite, *fit",
 			"d": "A meeting of mouths — a romantic kiss. We know what happens when there is no meeting of minds and when people’s ideas don’t <b>fit</b>, but try to imagine what would happen to a poor couple whose mouths didn’t <b>fit</b>.",
-			"e": "複合 복합 composition, complex",
-			"lv": ["중학용","6급(5급)"],
-			"ex": ["결합","結合"]
+			"e": "結合 결합 combination, union; 複合 복합 composition, complex",
+			"lv": ["중학용","6급(5급)"]
 		},
 		{
 			"q": "塔",
@@ -55,8 +52,7 @@ const L12 =
 			"m": "pagoda",
 			"d": "A great <b>pagoda</b> built up of <b>dirt</b> and <b>flowers</b> made to fit together. Flowers by the tens of thousands are fitted together for the roofing of each of the layers.",
 			"e": "塔 탑 tower, pagoda",
-			"lv": ["고등용","3급II(2급)"],
-			"ex": ["탑","塔"]
+			"lv": ["고등용","3급II(2급)"]
 		},
 		{
 			"q": "王",
@@ -65,8 +61,7 @@ const L12 =
 			"m": "king",
 			"d": "King's scepter.",
 			"e": "王 왕 king",
-			"lv": ["중학용","8급(6급II)"],
-			"ex": ["왕","王"]
+			"lv": ["중학용","8급(6급II)"]
 		},
 		{
 			"q": "玉",
@@ -74,9 +69,8 @@ const L12 =
 			"k": "구슬",
 			"m": "bead, jade, *jewel, *ball",
 			"d": "Note the <b>drop</b> in the king's <b>scepter</b>. It is a precious jewel handed down from of old as a symbol of his wealth and power.",
-			"e": "玉 옥",
-			"lv": ["중학용","4급II(3급II)"],
-			"ex": ["금지옥엽","金枝玉葉"]
+			"e": "金枝玉葉 금지옥엽 precious child; 玉 옥",
+			"lv": ["중학용","4급II(3급II)"]
 		},
 		{
 			"q": "宝/寶",
@@ -85,8 +79,7 @@ const L12 =
 			"m": "treasure",
 			"d": "When I found the 'old treasure' that had been hidden in my house, I immediately put those jewels in a tin can and took them to the pawn shop to get some money.",
 			"e": "寶物 보물 treasure, valuables",
-			"lv": ["고등용","4급II(3급II)"],
-			"ex": ["보물","寶物"]
+			"lv": ["고등용","4급II(3급II)"]
 		},
 		{
 			"q": "珠",
@@ -94,9 +87,8 @@ const L12 =
 			"k": "구슬",
 			"m": "bead, *pearl",
 			"d": "The most enormous pearl you have ever seen, a great <b>vermilion</b>-colored <b>ball</b> sitting on your ring and making it extremely difficult to move without falling over from the weight of the thing.",
-			"e": "珍珠 진주 pearl",
-			"lv": ["고등용","3급II(2급)"],
-			"ex": ["묵주","默珠"]
+			"e": "默珠 묵주 rosary; 珍珠 진주 pearl",
+			"lv": ["고등용","3급II(2급)"]
 		},
 		{
 			"q": "現",
@@ -104,9 +96,8 @@ const L12 =
 			"k": "나타날",
 			"m": "appear, *present",
 			"d": "A crystal <b>ball</b> in which we see the things going on at the <b>present</b> in faraway places.",
-			"e": "現代 현대 present age/day",
-			"lv": ["중학용","6급II(5급II)"],
-			"ex": ["현금","現金"]
+			"e": "現金 현금 cash; 現代 현대 present age/day",
+			"lv": ["중학용","6급II(5급II)"]
 		},
 		{
 			"q": "狂",
@@ -115,8 +106,7 @@ const L12 =
 			"m": "mad, lunatic",
 			"d": "Oh no ! A pack of dogs has bitten the king. He has turned into a rabid lunatic!",
 			"e": "狂人 광인 madman, lunatic; 熱狂 열광 ethusiasm, frenzy",
-			"lv": ["고등용","3급II(2급)"],
-			"ex": ["열광","熱狂"]
+			"lv": ["고등용","3급II(2급)"]
 		},
 		{
 			"q": "皇",
@@ -124,9 +114,8 @@ const L12 =
 			"k": "임금",
 			"m": "emperor",
 			"d": "The white bird perched above the king, elevating him to imperial heights, is the messenger he sends back and forth to the gods to request advice and special favors, something that white birds have long done in folklore through out the world.",
-			"e": "皇國 황국 empire",
-			"lv": ["중학용","3급II(2급)"],
-			"ex": ["황제","皇帝"]
+			"e": "皇帝 황제 emperor; 皇國 황국 empire",
+			"lv": ["중학용","3급II(2급)"]
 		},
 		{
 			"q": "呈",
@@ -134,9 +123,8 @@ const L12 =
 			"k": "드릴",
 			"m": "give, *display",
 			"d": "The mouth of the king is displaying his bling.",
-			"e": "露呈 노정 exposure, disclosure",
-			"lv": ["","2급(1급)"],
-			"ex": ["증정","贈呈"]
+			"e": "贈呈 증정 presentation, gift; 露呈 노정 exposure, disclosure",
+			"lv": ["","2급(1급)"]
 		},
 		{
 			"q": "全",
@@ -144,9 +132,8 @@ const L12 =
 			"k": "온전할",
 			"m": "keep whole or intact, *whole",
 			"d": "Wholeness suggests physical and spiritual health, “having your act together.” The kanji-image depicts being “king under your own umbrella,” that is, giving order to your own life.",
-			"e": "全部 전부 whole, total",
-			"lv": ["중학용","7급II(6급)"],
-			"ex": ["전체","全體"]
+			"e": "全體 전체 whole, entirety; 全部 전부 whole, total",
+			"lv": ["중학용","7급II(6급)"]
 		},
 		{
 			"q": "栓",
@@ -154,9 +141,8 @@ const L12 =
 			"k": "마개",
 			"m": "plug",
 			"d": "Imagine a <b>tree</b> with a faucet in the side out of which tennis <b>balls</b> are flowing, bouncing all over the ground by the hundreds. You fight your way up to it and shove your giant beach <b>umbrella</b> into the tree to <b>plug</b> it up.",
-			"e": "",
-			"lv": ["","1급(특급)"],
-			"ex": ["소화전","消火栓"]
+			"e": "消火栓 소화전 fire hydrant",
+			"lv": ["","1급(특급)"]
 		},
 		{
 			"q": "理",
@@ -164,9 +150,8 @@ const L12 =
 			"k": "다스릴 ",
 			"m": "to govern, *logic",
 			"d": "Logic is something like a central <b>jewel</b> in a <b>computer</b>, like the jewels in old clocks that keep them running smoothly. Try to picture yourself making your way through all the RAMs and ROMs and approaching this shining jewel, a chorus of voices and a blast of trumpets in the background heralding the great seat of all-knowing logic.",
-			"e": "合理的 합리적 rational, reasonable",
-			"lv": ["중학용","6급II(5급II)"],
-			"ex": ["이유","理由"]
+			"e": "理由 이유 reason; 合理的 합리적 rational, reasonable",
+			"lv": ["중학용","6급II(5급II)"]
 		},
 		{
 			"q": "主",
@@ -174,9 +159,8 @@ const L12 =
 			"k": "임금/주인",
 			"m": "lord",
 			"d": "Every person is a bit (or drop) of a king in one’s own environment.",
-			"e": "民主 민주 democracy",
-			"lv": ["중학용","7급(6급)"],
-			"ex": ["주로","主 로"]
+			"e": "主로 주로 mainly; 民主 민주 democracy",
+			"lv": ["중학용","7급(6급)"]
 		},
 		{
 			"q": "注",
@@ -184,9 +168,8 @@ const L12 =
 			"k": "부을",
 			"m": "pour",
 			"d": "Picture pouring water from a lighted candlestick.",
-			"e": "注目 주목 attention, remark",
-			"lv": ["중학용","6급II(5급II)"],
-			"ex": ["주문","注文"]
+			"e": "注文 주문 order; 注目 주목 attention, remark",
+			"lv": ["중학용","6급II(5급II)"]
 		},
 		{
 			"q": "柱",
@@ -194,9 +177,8 @@ const L12 =
 			"k": "기둥",
 			"m": "pillar",
 			"d": "The pillar referred to here is the wooden beam that stands at the entrance to a traditional Japanese house. Carve it in imagination into the shape of a gigantic candlestick and your work is done.",
-			"e": "支柱 지주 prop, support",
-			"lv": ["고등용","3급II(2급)"],
-			"ex": ["문설주","門 설 柱"]
+			"e": "門설柱 문설주 doorpost; 支柱 지주 prop, support",
+			"lv": ["고등용","3급II(2급)"]
 		},
 		{
 			"q": "金",
@@ -222,8 +204,7 @@ const L12 =
 			"m": "bowl",
 			"d": "Let bowl suggest a large and heavy golden bowl into which you are throwing all the books you own to mash them into pulp, for some outrageous reason you will have to think up yourself.",
 			"e": "沙鉢 사발 (china) bowl",
-			"lv": ["","2급(특급II)"],
-			"ex": ["사발","沙鉢"]
+			"lv": ["","2급(특급II)"]
 		},
 		{
 			"q": "銅",
@@ -231,9 +212,8 @@ const L12 =
 			"k": "구리",
 			"m": "cupper",
 			"d": "Picture an order of monks serving as chaplains for the police force. Their special habit, made of protective metal, is distinguished by a row of copper buttons just like the “cops” they serve.",
-			"e": "銅像 동상 bronze statue",
-			"lv": ["고등용","4급II(3급II)"],
-			"ex": ["동메달","銅 medal"]
+			"e": "銅 동메달 bronze medal; 銅像 동상 bronze statue",
+			"lv": ["고등용","4급II(3급II)"]
 		},
 		{
 			"q": "釣",
@@ -250,9 +230,8 @@ const L12 =
 			"k": "바늘",
 			"m": "needle",
 			"d": "A set of solid gold darning needles.",
-			"e": "時針 시침 hour hand",
-			"lv": ["중학용","4급(3급)"],
-			"ex": ["방침","方針"]
+			"e": "方針 방침 policy; 時針 시침 hour hand",
+			"lv": ["중학용","4급(3급)"]
 		},
 		{
 			"q": "銘",
@@ -261,8 +240,7 @@ const L12 =
 			"m": "carve in, inscribe, *inscription",
 			"d": "An inscription of the name you ask the jeweler to carve on a gold bracelet or inside a gold ring to identify its owner or communicate some sentimental message.",
 			"e": "感銘 감명 deep impression",
-			"lv": ["고등용","3급II(2급)"],
-			"ex": ["감명","感銘"]
+			"lv": ["고등용","3급II(2급)"]
 		},
 		{
 			"q": "鎮/鎭",
@@ -270,9 +248,8 @@ const L12 =
 			"k": "진압할",
 			"m": "suppress, *tranquillize",
 			"d": "The first lie-detector machines of the 20th century worked by wiring pieces of metal to the body to measure the amount of sweat produced when questions were asked. It was discovered that nervousness produced more sweat, indicating subconscious reactions when the truth was getting too close for comfort. Nowadays, people can take drugs to tranquillize them to neutralize the effect of the device, which is why other means have had to be developed.",
-			"e": "鎭撫 진무 pacification, placating; 鎭壓 진압 suppression, repression, subjugation",
-			"lv": ["고등용","3급II(2급)"],
-			"ex": ["진통제","鎭痛劑"]
+			"e": "鎭痛劑 진통제 painkiller; 鎭撫 진무 pacification, placating; 鎭壓 진압 suppression, repression, subjugation",
+			"lv": ["고등용","3급II(2급)"]
 		}
 	]
 };

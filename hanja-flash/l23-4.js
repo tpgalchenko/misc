@@ -15,9 +15,8 @@ const L23_4 = {
 	  "k": "아닐",
       "m": "not, negative; *dollar",
       "d": "A log tied up tightly.",
-      "e": "弗 dollar",
-      "lv": ["","2급(1급)"],
-      "ex": ["불소","弗素"]
+      "e": "弗素 불소 fluorine; 弗 dollar",
+      "lv": ["","2급(1급)"]
     },
     {
       "q": "払/拂",
@@ -26,8 +25,7 @@ const L23_4 = {
       "m": "shake off, brush away; *pay",
       "d": "Shaking off something that binds - paying off debts. One uses its fingers to untie the bound log.<br>You're at a restaurant and raise your finger to indicate to the waiter that you want to pay. Your friend elbows you in the ribs -- it's his shout, and he insists on taking care of the bill.",
       "e": "支拂 지불 payment, payoff",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["지불","支拂"]
+      "lv": ["고등용","3급II(2급)"]
     },
     {
       "q": "黃",
@@ -35,9 +33,8 @@ const L23_4 = {
 	  "k": "누를",
       "m": "yellow",
       "d": "The character depicts a person wearing a round ornament called a 패옥 (佩玉) around their waist. The meaning of the golden paeok expanded, it came to mean ‘yellow’ or ‘turning yellow’, and since gold is the color of the emperor, it also came to mean ‘emperor’.",
-      "e": "朱黃 주황 orange color",
-      "lv": ["중학용","6급(5급)"],
-      "ex": ["주황색","朱黃色"]
+      "e": "朱黃色 주황색 orange (color); 朱黃 주황 orange color",
+      "lv": ["중학용","6급(5급)"]
     },
     {
       "q": "広/廣",
@@ -45,9 +42,8 @@ const L23_4 = {
 	  "k": "넓을",
       "m": "wide, broad",
       "d": "The emperor's house is a wide and comfortable cave, no one hurts another with elbows in a crowded house. There is enough of 'elbow room'.",
-      "e": "廣場 광장 open space, public square",
-      "lv": ["중학용","5급II(4급II)"],
-      "ex": ["광고","廣告"]
+      "e": "廣告 광고 advertisement; 廣場 광장 open space, public square",
+      "lv": ["중학용","5급II(4급II)"]
     },
     {
       "q": "勾",
@@ -64,9 +60,8 @@ const L23_4 = {
 	  "k": "넓힐",
       "m": "broaden, expand",
       "d": "Zooming in an image on a screen with fingers makes the image expand and enlarge.",
-      "e": "擴張 확장 extension, expansion, enlargement",
-      "lv": ["고등용","3급(2급)"],
-      "ex": ["확산","擴散"]
+      "e": "擴散 확산 spread, diffusion; 擴張 확장 extension, expansion, enlargement",
+      "lv": ["고등용","3급(2급)"]
     },
     {
       "q": "鉱/鑛",
@@ -74,9 +69,8 @@ const L23_4 = {
 	  "k": "쇳돌",
       "m": "mineral, ore",
       "d": "<b>Metal</b> is a general term for a <b>wide</b> range of <b>minerals</b>.",
-      "e": "鑛物 광물 mineral",
-      "lv": ["고등용","4급(3급)"],
-      "ex": ["광부","鑛夫"]
+      "e": "鑛夫 광부 miner; 鑛物 광물 mineral",
+      "lv": ["고등용","4급(3급)"]
     },
     {
       "q": "弁/瓣",
@@ -94,8 +88,7 @@ const L23_4 = {
       "m": "masculine, male; hero",
       "d": "The role of a male is hunting, so here is a hero coming home with a turkey shot and hang by his side, he treads victoriously and bends his elbow to show a mighty biceps.",
       "e": "英雄 영웅 hero, great man",
-      "lv": ["중학용","5급(4급)"],
-      "ex": ["영웅","英雄"]
+      "lv": ["중학용","5급(4급)"]
     },
     {
       "q": "台/臺",
@@ -112,9 +105,8 @@ const L23_4 = {
 	  "k": "게으를",
       "m": "idle, remiss. *neglect",
       "d": "Putting someone on a pedestal and being negligent towards oneself is a direct way to the broken heart for if you neglect yourself, another one will also do so.",
-      "e": "懶怠 나태 idleness, laziness",
-      "lv": ["고등용","3급(2급)"],
-      "ex": ["권태","倦怠"]
+      "e": "倦怠 권태 boredom, ennui; 懶怠 나태 idleness, laziness",
+      "lv": ["고등용","3급(2급)"]
     },
     {
       "q": "治",
@@ -122,9 +114,8 @@ const L23_4 = {
 	  "k": "다스릴",
       "m": "reign, govern, administrate",
       "d": "Reign is literally what Poseidon does from his water pedestal.",
-      "e": "政治 정치 politics",
-      "lv": ["중학용","4급II(3급II)"],
-      "ex": ["치료","治療"]
+      "e": "治療 치료 treatment, cure; 政治 정치 politics",
+      "lv": ["중학용","4급II(3급II)"]
     },
     {
       "q": "冶",
@@ -133,8 +124,7 @@ const L23_4 = {
       "m": "fuse metals, *metallurgy",
       "d": "The secrets of metallurgy and smithing: get your redhot metal and bang it against the pedestal as an anvil. Then cool it quickly with lots of ice.",
       "e": "陶冶 도야 training, cultivation; 冶하다 야하다 gaudy, showy",
-      "lv": ["","1급(특급)"],
-      "ex": ["야하다","冶 하다"]
+      "lv": ["","1급(특급)"]
     },
     {
       "q": "始",
@@ -143,8 +133,7 @@ const L23_4 = {
       "m": "commence",
       "d": "Pygmalion started with a simple woman statue on a pedestal, but how did it end?",
       "e": "始作 시작 beginning, start",
-      "lv": ["중학용","6급II(5급II)"],
-      "ex": ["시작","始作"]
+      "lv": ["중학용","6급II(5급II)"]
     },
     {
       "q": "胎",
@@ -152,9 +141,8 @@ const L23_4 = {
 	  "k": "아이",
       "m": "unborn child, embryo, fetus. *womb",
       "d": "Fetus is like a part of the mother's body which is only a platform for the development of the new life.",
-      "e": "受胎 수태 conception, impregnation",
-      "lv": ["","2급(1급)"],
-      "ex": ["낙태","落胎"]
+      "e": "落胎 낙태 abortion; 受胎 수태 conception, impregnation",
+      "lv": ["","2급(1급)"]
     },
     {
       "q": "窓",
@@ -163,8 +151,7 @@ const L23_4 = {
       "m": "window",
       "d": "When I looked through my girlfriends window... I saw her legs and elbows wrapped around another man... it broke my heart.",
       "e": "窓門 창문 window",
-      "lv": ["중학용","6급II(5급II)"],
-      "ex": ["창문","窓門"]
+      "lv": ["중학용","6급II(5급II)"]
     },
     {
       "q": "去",
@@ -173,8 +160,7 @@ const L23_4 = {
       "m": "go away, depart",
       "d": "This is a pictograph of an ancient guy, buried beneath the soil. His body is all but gone. A lone elbow is all that remains!",
       "e": "過去 과거 the past",
-      "lv": ["중학용","5급(4급)"],
-      "ex": ["과거","過去"]
+      "lv": ["중학용","5급(4급)"]
     },
     {
       "q": "法",
@@ -183,8 +169,7 @@ const L23_4 = {
       "m": "method, rule, law",
       "d": "French government have an efficient repressive method : they throw high pressure <b>water</b>(氵) on the protestors until they're all <b>gone</b> (去).",
       "e": "方法 방법 way, method",
-      "lv": ["중학용","5급II(4급II)"],
-      "ex": ["방법","方法"]
+      "lv": ["중학용","5급II(4급II)"]
     },
     {
       "q": "-+厶",
@@ -199,9 +184,8 @@ const L23_4 = {
 	  "k": "모일",
       "m": "gather, meet",
       "d": "This is a full version of the character 亼.<br>会: We had ourmeetings under such a small <b>umbrella</b> that we poked our elbows in one another's flanks.<br>會: <b>Formerly</b> we held our meetings under the <b>umbrella</b> on the child playground.",
-      "e": "會談 회담 conversation, talk, conference",
-      "lv": ["중학용","6급II(5급II)"],
-      "ex": ["교회","敎會"]
+      "e": "敎會 교회 church; 會談 회담 conversation, talk, conference",
+      "lv": ["중학용","6급II(5급II)"]
     },
     {
       "q": "至",
@@ -209,9 +193,8 @@ const L23_4 = {
 	  "k": "이를",
       "m": "reach, arrive; extremely, *climax",
       "d": "Sexual climaxes don't always happen on the bed; they sometimes happen against a wall or on the ground!.",
-      "e": "至高 지고 sublimity, supremacy",
-      "lv": ["중학용","4급II(3급II)"],
-      "ex": ["심지어","甚至於"]
+      "e": "甚至於 심지어 even; 至高 지고 sublimity, supremacy",
+      "lv": ["중학용","4급II(3급II)"]
     },
     {
       "q": "室",
@@ -219,9 +202,8 @@ const L23_4 = {
 	  "k": "집",
       "m": "room",
       "d": "You book a room in a love hotel called 'Climax House'.",
-      "e": "敎室 교실 classroom",
-      "lv": ["중학용","8급(6급II)"],
-      "ex": ["거실","居室"]
+      "e": "居室 거실 living room; 敎室 교실 classroom",
+      "lv": ["중학용","8급(6급II)"]
     },
     {
       "q": "到",
@@ -230,8 +212,7 @@ const L23_4 = {
       "m": "arrive",
       "d": "Just as we were about to climax her father arrived with a sword.",
       "e": "到着 도착 arrival",
-      "lv": ["중학용","5급II(4급II)"],
-      "ex": ["도착","到着"]
+      "lv": ["중학용","5급II(4급II)"]
     },
     {
       "q": "致",
@@ -240,8 +221,7 @@ const L23_4 = {
       "m": "send, deliver, *doth",
       "d": "To reach climax I doth the bidding of my dominatrix taskmaster.",
       "e": "景致 경치 scenery, view, landscape",
-      "lv": ["중학용","5급(4급)"],
-      "ex": ["경치","景致"]
+      "lv": ["중학용","5급(4급)"]
     },
     {
       "q": "互",
@@ -250,8 +230,7 @@ const L23_4 = {
       "m": "mutually",
       "d": "The 69 position allows both parties to mutually give themselves pleasure.",
       "e": "相互 상호 reciprocity, mutuality",
-      "lv": ["고등용","3급(2급)"],
-      "ex": ["상호","相互"]
+      "lv": ["고등용","3급(2급)"]
     },
     {
       "q": "亠+厶",
@@ -266,9 +245,8 @@ const L23_4 = {
 	  "k": "버릴",
       "m": "reject, abandon",
       "d": "A terrible image of an abandoned infant. Here he is in his little car seat buckled to a tree.",
-      "e": "暴棄 포기 giving up, abandonment, renouncement",
-      "lv": ["고등용","3급(2급)"],
-      "ex": ["포기","抛棄"]
+      "e": "抛棄 포기 giving up; 暴棄 포기 giving up, abandonment, renouncement",
+      "lv": ["고등용","3급(2급)"]
     },
     {
       "q": "育",
@@ -277,8 +255,7 @@ const L23_4 = {
       "m": "bring up, educate",
       "d": "Bringing up an infant requires months of hard work about his soul and body.",
       "e": "敎育 교육 education, schooling",
-      "lv": ["중학용","7급(6급)"],
-      "ex": ["교육","敎育"]
+      "lv": ["중학용","7급(6급)"]
     },
     {
       "q": "撤",
@@ -286,9 +263,8 @@ const L23_4 = {
 	  "k": "거둘",
       "m": "remove, withdraw",
       "d": "A taskmaster brings up his infant by threatening to remove a finger as punishment.",
-      "e": "撤收 철수 withdrawal, removal, evacuation",
-      "lv": ["","2급(1급)"],
-      "ex": ["철거","撤去"]
+      "e": "撤去 철거 demolition; 撤收 철수 withdrawal, removal, evacuation",
+      "lv": ["","2급(1급)"]
     },
     {
       "q": "充",
@@ -297,8 +273,7 @@ const L23_4 = {
       "m": "fill, be full, supply, *allot",
       "d": "Each infant gets its very own pair of human legs, allotted by God.",
       "e": "充分하다 충분하다 enough, sufficient",
-      "lv": ["중학용","5급II(4급II)"],
-      "ex": ["충분하다","充分 하다"]
+      "lv": ["중학용","5급II(4급II)"]
     },
     {
       "q": "銃",
@@ -306,9 +281,8 @@ const L23_4 = {
 	  "k": "총",
       "m": "gun",
       "d": "What is a gun but a device for allotting pieces of metal? One for you - BANG!...One for you - BANG!...One for you - BANG!...One for you - BANG!...etc.",
-      "e": "銃彈 총탄 ball, bullet",
-      "lv": ["고등용","4급II(3급II)"],
-      "ex": ["총","銃"]
+      "e": "銃 총 gun; 銃彈 총탄 ball, bullet",
+      "lv": ["고등용","4급II(3급II)"]
     },
     {
       "q": "硫",
@@ -325,9 +299,8 @@ const L23_4 = {
 	  "k": "흐를",
       "m": "flow, drift, *current",
       "d": "The best way to deal with a stream of infant doodie is watery current.",
-      "e": "本流 본류 mainstream",
-      "lv": ["중학용","5급II(4급II)"],
-      "ex": ["유행","流行"]
+      "e": "流行 유행 fashion, trend; 本流 본류 mainstream",
+      "lv": ["중학용","5급II(4급II)"]
     },
     {
       "q": "允",
@@ -344,9 +317,8 @@ const L23_4 = {
 	  "k": "부추길",
       "m": "incite, instigate, *tempt",
       "d": "Prostitutes in Amsterdam have a <b>license</b> to show off their <b>walking legs</b> and <b>tempt</b> customers with their <b>mouths</b>.",
-      "e": "示唆 시사 suggestion, hint",
-      "lv": ["","2급(1급)"],
-      "ex": ["시사하다","示唆 하다"]
+      "e": "示唆하다 시사하다 suggest, imply; 示唆 시사 suggestion, hint",
+      "lv": ["","2급(1급)"]
     }
   ]
 };

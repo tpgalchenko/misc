@@ -7,9 +7,8 @@ const L34_2 = {
       "k": "아버지",
       "m": "father",
       "d": "The kindness and hard work of the ideal father is seen in this abbreviation of the taskmaster that leaves off his rod or whip (the first stroke) and replaces it with the sweat of the father’sbrow (the two drops at the top).",
-      "e": "父母 부모 parents",
-      "lv": ["중학용","8급(6급II)"],
-      "ex": ["부모님","父母 님"]
+      "e": "父母님 부모님 parents; 父母 부모 parents",
+      "lv": ["중학용","8급(6급II)"]
     },
     {
       "q": "釜",
@@ -18,8 +17,7 @@ const L34_2 = {
       "m": "cauldron",
       "d": "Your father uses his legs to stop himself from being put in a metal cauldron.",
       "e": "釜山 부산 Busan",
-      "lv": ["","2급(특급II)"],
-      "ex": ["부산","釜山"]
+      "lv": ["","2급(특급II)"]
     },
     {
       "q": "交",
@@ -27,9 +25,8 @@ const L34_2 = {
       "k": "사귈",
       "m": "*mingle, exchange, communicate",
       "d": "Even though your <b>father</b> is an old man, he can't give up his party lifestyle. Once a week he still dons his cool TOP HAT (well, it was cool 40 years ago) and goes out on the town to <b>mingle</b> with the ladies.",
-      "e": "交換 교환 exchange, swap",
-      "lv": ["중학용","6급(5급)"],
-      "ex": ["교통","交通"]
+      "e": "交通 교통 traffic, transportation; 交換 교환 exchange, swap",
+      "lv": ["중학용","6급(5급)"]
     },
     {
       "q": "効/效",
@@ -38,8 +35,7 @@ const L34_2 = {
       "m": "efficacious; *merit",
       "d": "<b>Mingling</b> with the <b>powerful</b> can bring you success, bypassing the need for any <b>merit</b>.",
       "e": "效果 효과 effect, avail, result",
-      "lv": ["중학용","5급II(4급II)"],
-      "ex": ["효과","效果"]
+      "lv": ["중학용","5급II(4급II)"]
     },
     {
       "q": "較",
@@ -48,8 +44,7 @@ const L34_2 = {
       "m": "compare, *contrast",
       "d": "To compare and contrast cars is a way for men to mingle.",
       "e": "比較 비교 comparison",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["비교","比較"]
+      "lv": ["고등용","3급II(2급)"]
     },
     {
       "q": "校",
@@ -58,8 +53,7 @@ const L34_2 = {
       "m": "school, *exam",
       "d": "The old school is a wooden structure where the students mingle.",
       "e": "學校 학교 school",
-      "lv": ["중학용","8급(6급II)"],
-      "ex": ["학교","學校"]
+      "lv": ["중학용","8급(6급II)"]
     },
     {
       "q": "足",
@@ -67,9 +61,8 @@ const L34_2 = {
       "k": "발",
       "m": "foot, *leg; satisfy",
       "d": "A leg bitten by a mouth will have to be mended.<br><b>*</b> As a primitive on the left, it is amended to 𧾷. Its meaning remains leg, but should be thought of as a wooden leg in order to avoid confusion with other similar elements.",
-      "e": "滿足 만족 satisfaction",
-      "lv": ["중학용","7급II(6급)"],
-      "ex": ["부족","不足"]
+      "e": "不足 부족 shortage; 滿足 만족 satisfaction",
+      "lv": ["중학용","7급II(6급)"]
     },
     {
       "q": "促",
@@ -77,9 +70,8 @@ const L34_2 = {
       "k": "재촉할",
       "m": "urge, press, *stimulate",
       "d": "You stimulate a person by giving him a kick.",
-      "e": "督促 독촉 urge, demand, pressing",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["촉진","促進"]
+      "e": "促進 촉진 promotion, acceleration; 督促 독촉 urge, demand, pressing",
+      "lv": ["고등용","3급II(2급)"]
     },
     {
       "q": "捉",
@@ -88,8 +80,7 @@ const L34_2 = {
       "m": "grasp, seize, *nab",
       "d": "We almost nabbed the pirate. I had my <b>finger</b> on his <b>wooden leg</b>.",
       "e": "捕捉 포착 capture, apprehension",
-      "lv": ["고등용","3급(2급)"],
-      "ex": ["포착","捕捉"]
+      "lv": ["고등용","3급(2급)"]
     },
     {
       "q": "距",
@@ -98,8 +89,7 @@ const L34_2 = {
       "m": "(*long-)distance",
       "d": "You can step a long-distance if you have gigantic wooden legs.",
       "e": "距離 거리 distance",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["거리","距離"]
+      "lv": ["고등용","3급II(2급)"]
     },
     {
       "q": "路",
@@ -107,9 +97,8 @@ const L34_2 = {
       "k": "길",
       "m": "path",
       "d": "On the <b>path</b> to becoming a pirate, <b>each</b> one must gain a <b>wooden leg</b>.",
-      "e": "街路 가로 width, breadth, length; accross; street, avenue; 路線 노선 route, line",
-      "lv": ["중학용","6급(5급)"],
-      "ex": ["도로","道路"]
+      "e": "道路 도로 road; 街路 가로 width, breadth, length; accross; street, avenue; 路線 노선 route, line",
+      "lv": ["중학용","6급(5급)"]
     },
     {
       "q": "露",
@@ -118,8 +107,7 @@ const L34_2 = {
       "m": "*dew; bare",
       "d": "The path is always so wet with dew in the early hours that everyone assumes that it had rained.",
       "e": "露出 노출 exposure, disclosure",
-      "lv": ["중학용","3급II(2급)"],
-      "ex": ["노출","露出"]
+      "lv": ["중학용","3급II(2급)"]
     },
     {
       "q": "跳",
@@ -128,8 +116,7 @@ const L34_2 = {
       "m": "jump, *hop",
       "d": "A turtle with a wooden leg needs to hop to get around.",
       "e": "跳躍 도약 jump, leap",
-      "lv": ["고등용","3급(2급)"],
-      "ex": ["도약","跳躍"]
+      "lv": ["고등용","3급(2급)"]
     },
     {
       "q": "躍",
@@ -138,8 +125,7 @@ const L34_2 = {
       "m": "leap",
       "d": "Well, there are weekdays 曜 and there are laundry days 濯, and on February 29th leap day, the manufacturer recommends servicing or replacing your wooden leg because they tend to wear out every 4 years.",
       "e": "跳躍 도약 jump, leap",
-      "lv": ["고등용","3급(2급)"],
-      "ex": ["도약","跳躍"]
+      "lv": ["고등용","3급(2급)"]
     },
     {
       "q": "践/踐",
@@ -148,8 +134,7 @@ const L34_2 = {
       "m": "tread",
       "d": "Tread carefully when walking on parade floats, so as not to break through the weak plaster with your wooden leg.",
       "e": "實踐 실천 practice",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["실천","實踐"]
+      "lv": ["고등용","3급II(2급)"]
     },
     {
       "q": "踏",
@@ -157,9 +142,8 @@ const L34_2 = {
       "k": "밟을",
       "m": "step",
       "d": "I stepped into a puddle of water with my wooden leg, so I had to leave it out in the sun to dry all day.",
-      "e": "高踏的 고답적 transcending; 踏步 답보 stepping on the same place",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["답사","踏査"]
+      "e": "踏査 답사 field survey; 高踏的 고답적 transcending; 踏步 답보 stepping on the same place",
+      "lv": ["고등용","3급II(2급)"]
     },
     {
       "q": "踪",
@@ -168,8 +152,7 @@ const L34_2 = {
       "m": "footprints, *trail",
       "d": "The trail of the wooden leg religion was very easy to follow, since all its followers have wooden legs.",
       "e": "失踪 실종 disappearance, missing",
-      "lv": ["","1급(특급)"],
-      "ex": ["실종","失踪"]
+      "lv": ["","1급(특급)"]
     },
     {
       "q": "骨",
@@ -177,9 +160,8 @@ const L34_2 = {
       "k": "뼈",
       "m": "bone, *skeleton",
       "d": "This kanji and primitive refers to the part of the body composed of the bones and their joints. The top part of the kanji, terminating in the element for crown, is a pictograph of a bone joint.",
-      "e": "骨髓 골수 bone marrow, medulla, heart; 肋骨 늑골 rib, costa",
-      "lv": ["중학용","4급(3급)"],
-      "ex": ["유골","遺骨"]
+      "e": "遺骨 유골 remains, ashes; 骨髓 골수 bone marrow, medulla, heart; 肋骨 늑골 rib, costa",
+      "lv": ["중학용","4급(3급)"]
     },
     {
       "q": "滑",
@@ -187,9 +169,8 @@ const L34_2 = {
       "k": "미끄러울",
       "m": "slippery",
       "d": "Wet skeletons are notoriously slippery.",
-      "e": "滑走 활주 gliding, sliding",
-      "lv": ["","2급(1급)"],
-      "ex": ["원활","圓滑"]
+      "e": "圓滑 원활 smoothness; 滑走 활주 gliding, sliding",
+      "lv": ["","2급(1급)"]
     },
     {
       "q": "髄/髓",
@@ -198,8 +179,7 @@ const L34_2 = {
       "m": "bone marrow",
       "d": "A skeleton is shuffling along the shoulder of the road, so you pull up next to him and ask where he is going. He says he's going to donate his marrow to the hospital because he got into some financial trouble and lost everything; his marrow is the only thing he still possesses.",
       "e": "骨髓 골수 marrow, medulla; 眞髓 진수 essence, soul, gist, core",
-      "lv": ["","1급(특급)"],
-      "ex": ["골수","骨髓"]
+      "lv": ["","1급(특급)"]
     },
     {
       "q": "咼",
@@ -215,8 +195,7 @@ const L34_2 = {
       "k": "재앙",
       "m": "misfortune, *calamity",
       "d": "The pope fell at the altar and smashed his jawbone. Wine and blood everywhere. What a calamity!",
-      "e": "禍根 화근 the root of evil, a source of calamity",
-      "ex": ["전화위복","轉禍爲福"]
+      "e": "轉禍爲福 전화위복 blessing in disguise; 禍根 화근 the root of evil, a source of calamity"
     },
     {
       "q": "渦",
@@ -225,8 +204,7 @@ const L34_2 = {
       "m": "whirlpool",
       "d": "A whirlpool is water opening its jaws to swallow anything whole.",
       "e": "渦中 와중 the center of vortex, whirlpool",
-      "lv": ["","1급(특급)"],
-      "ex": ["와중","渦中"]
+      "lv": ["","1급(특급)"]
     },
     {
       "q": "鍋",
@@ -243,8 +221,7 @@ const L34_2 = {
       "m": "pass; *overdo",
       "d": "Don't overdo the running. Your jawbone will be hanging open, as you puff and pant your way down the road.",
       "e": "過去 과거 the past; 過程 과정 process",
-      "lv": ["중학용","5급II(4급II)"],
-      "ex": ["과거","過去"]
+      "lv": ["중학용","5급II(4급II)"]
     }
   ]
 };

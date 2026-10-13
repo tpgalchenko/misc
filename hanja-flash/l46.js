@@ -7,9 +7,8 @@ const L46 = {
       "k": "달",
       "m": "sweet, *wicker basket",
       "d": "Little red riding hood is carrying around a wicker basket filled with sweet baked cookies for granny.",
-      "e": "甘蔗 감자 sugarcane; 甘味 감미 sweetness, sweet/sugary taste",
-      "lv": ["중학용","4급(3급)"],
-      "ex": ["감미롭다","甘味 롭다"]
+      "e": "甘味롭다 감미롭다 sweet; 甘蔗 감자 sugarcane; 甘味 감미 sweetness, sweet/sugary taste",
+      "lv": ["중학용","4급(3급)"]
     },
     {
       "q": "紺",
@@ -17,9 +16,8 @@ const L46 = {
       "k": "감색",
       "m": "dark/deep/navy blue",
       "d": "Spiderman looks so sweet in navy blue!",
-      "e": "紺色 감색 dark/deep blue",
-      "lv": ["","1급(특급)"],
-      "ex": ["곤색","紺色 kon"]
+      "e": "紺色 곤색 navy blue; 紺色 감색 dark/deep blue",
+      "lv": ["","1급(특급)"]
     },
     {
       "q": "某",
@@ -28,8 +26,7 @@ const L46 = {
       "m": "certain thing or person, so-and-so",
       "d": "A generic person is described here as having body sort of like a tree trunk and head sort of like a wicker basket.",
       "e": "某 모 certain person; 某種 모종 a certain kind",
-      "lv": ["고등용","3급(2급)"],
-      "ex": ["모","某"]
+      "lv": ["고등용","3급(2급)"]
     },
     {
       "q": "謀",
@@ -37,9 +34,8 @@ const L46 = {
       "k": "꾀",
       "m": "plan, scheme, *conspire",
       "d": "Talking about <b>so-and-so</b> behind their back - this is a conspiracy.",
-      "e": "謀反 모반 treason, rebellion, revolt, conspiracy; 共謀 공모 conspiracy",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["도모","圖謀"]
+      "e": "圖謀 도모 planning, pursuit; 謀反 모반 treason, rebellion, revolt, conspiracy; 共謀 공모 conspiracy",
+      "lv": ["고등용","3급II(2급)"]
     },
     {
       "q": "媒",
@@ -48,8 +44,7 @@ const L46 = {
       "m": "go-between, matchmaker, medium, *mediator",
       "d": "The little girls <b>conspired</b> against their schoolmate and now are having a fight. An adult woman (teacher) has to come between them an serve as a mediator.",
       "e": "媒體 매체 a medium; 仲媒 중매 matchmaking",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["매체","媒體"]
+      "lv": ["고등용","3급II(2급)"]
     },
     {
       "q": "其",
@@ -57,9 +52,8 @@ const L46 = {
       "k": "그(것)",
       "m": "his, her, its, their; that; *chess rook",
       "d": "The character resembles a chess rook.",
-      "e": "",
-      "lv": ["중학용","3급II(2급)"],
-      "ex": ["기간","其間"]
+      "e": "其間 기간 period",
+      "lv": ["중학용","3급II(2급)"]
     },
     {
       "q": "欺",
@@ -68,8 +62,7 @@ const L46 = {
       "m": "deceit",
       "d": "Kasparov practices <b>deceit</b> by grabbing your <b>rook</b> while pretending to <b>yawn</b>.",
       "e": "詐欺 사기 trickery, swindle, trick",
-      "lv": ["고등용","3급(2급)"],
-      "ex": ["사기","詐欺"]
+      "lv": ["고등용","3급(2급)"]
     },
     {
       "q": "棋",
@@ -77,9 +70,8 @@ const L46 = {
       "k": "바둑",
       "m": "chess, *chess piece",
       "d": "Chess piece = wooden rook.",
-      "e": "將棋/將碁 장기 changgi, Korean chess",
-      "lv": ["","2급(1급)"],
-      "ex": ["기사","棋士/碁士"]
+      "e": "棋士/碁士 기사 go player; 將棋/將碁 장기 changgi, Korean chess",
+      "lv": ["","2급(1급)"]
     },
     {
       "q": "旗",
@@ -87,9 +79,8 @@ const L46 = {
       "k": "기",
       "m": "banner, *flag",
       "d": "The United Republic of Chess' national flag is actually a banner with a rook, that way they can hang it at every tournament.",
-      "e": "國旗 국기 national flag",
-      "lv": ["고등용","7급(6급)"],
-      "ex": ["태극기","太極旗"]
+      "e": "太極旗 태극기 Korean national flag; 國旗 국기 national flag",
+      "lv": ["고등용","7급(6급)"]
     },
     {
       "q": "期",
@@ -97,9 +88,8 @@ const L46 = {
       "k": "기약할",
       "m": "period",
       "d": "The slowest remote chess game ever: a one month period between every move.",
-      "e": "期間 기간 period of time, term; 期約 기약 promise, pledge, engagement, appointment",
-      "lv": ["중학용","5급(4급)"],
-      "ex": ["학기","學期"]
+      "e": "學期 학기 semester; 期間 기간 period of time, term; 期約 기약 promise, pledge, engagement, appointment",
+      "lv": ["중학용","5급(4급)"]
     },
     {
       "q": "碁",
@@ -107,9 +97,8 @@ const L46 = {
       "k": "바둑",
       "m": "chess-like game, *Go",
       "d": "Go is chess played with stones.",
-      "e": "將棋/將碁 장기 changgi, Korean chess",
-      "lv": ["","특급II(-)"],
-      "ex": ["기사","棋士/碁士"]
+      "e": "棋士/碁士 기사 go player; 將棋/將碁 장기 changgi, Korean chess",
+      "lv": ["","특급II(-)"]
     },
     {
       "q": "基",
@@ -117,9 +106,8 @@ const L46 = {
       "k": "터",
       "m": "foundation, base, *fundamentals",
       "d": "Fundamentals of chess: use the rooks to protect your ground.",
-      "e": "基礎 기초 foundation, basis",
-      "lv": ["중학용","5급II(4급II)"],
-      "ex": ["기반","基盤"]
+      "e": "基盤 기반 foundation, base; 基礎 기초 foundation, basis",
+      "lv": ["중학용","5급II(4급II)"]
     },
     {
       "q": "甚",
@@ -128,8 +116,7 @@ const L46 = {
       "m": "great extent, considerably, *tremendously",
       "d": "It's a <b>tremendous</b> match between the two <b>chess</b>-players. They are clearly eachother's <b>equal</b> 匹.",
       "e": "甚하다 심하다 extreme, excessive, heavy, intense; 甚至於 심지어 what is worse, worst of all",
-      "lv": ["중학용","3급II(2급)"],
-      "ex": ["심하다","甚 하다"]
+      "lv": ["중학용","3급II(2급)"]
     },
     {
       "q": "勘",
@@ -138,8 +125,7 @@ const L46 = {
       "m": "investigate, compare, *intuition",
       "d": "Intuition is a tremendously powerful resource of the mind.",
       "e": "勘案 감안 consideration, allowance",
-      "lv": ["","1급(특급)"],
-      "ex": ["감안","勘案"]
+      "lv": ["","1급(특급)"]
     },
     {
       "q": "堪",
@@ -148,8 +134,7 @@ const L46 = {
       "m": "withstand",
       "d": "Because I hid myself behind a huge dirt barrier I dug, I was able to withstand the tremendous nuclear blast.",
       "e": "堪當하다 감당하다 be equal to, be capable of carrying out, be up to, be fit for",
-      "lv": ["","1급(특급)"],
-      "ex": ["감당","堪當"]
+      "lv": ["","1급(특급)"]
     },
     {
       "q": "_ + 中",
@@ -166,8 +151,7 @@ const L46 = {
       "m": "expensive, *precious",
       "d": "You put your precious shells (money) into your purse for safekeeping.",
       "e": "貴하다 귀하다 noble, august, rare, scarce, precious, valuable",
-      "lv": ["중학용","5급(4급)"],
-      "ex": ["귀하다","貴 하다"]
+      "lv": ["중학용","5급(4급)"]
     },
    
     {
@@ -176,9 +160,8 @@ const L46 = {
       "k": "남길",
       "m": "leave, *bequeath",
       "d": "When I take the road onto the afterlife I bequeath all my precious things to you.",
-      "e": "遺產 유산 legacy, bequest; 遺體 유체 corpse, (dead) body",
-      "lv": ["중학용","4급(3급)"],
-      "ex": ["유물","遺物"]
+      "e": "遺物 유물 relic; 遺產 유산 legacy, bequest; 遺體 유체 corpse, (dead) body",
+      "lv": ["중학용","4급(3급)"]
     },
     {
       "q": "遣",
@@ -187,8 +170,7 @@ const L46 = {
       "m": "dispatch",
       "d": "Dispatch all cars and <b>chase</b> the <b>maestro</b>! He's gone crazy and stolen a ladies <b>purse</b>!",
       "e": "派遣 파견 dispatch, send someone somewhere",
-      "lv": ["고등용","3급(2급)"],
-      "ex": ["파견","派遣"]
+      "lv": ["고등용","3급(2급)"]
     },
     {
       "q": "潰",
@@ -197,8 +179,7 @@ const L46 = {
       "m": "flooding river; militarily defeat; *defile",
       "d": "Don't defile precious water.",
       "e": "潰滅 궤멸 destruction, annihilation",
-      "lv": ["","1급(특급)"],
-      "ex": ["궤멸","潰滅"]
+      "lv": ["","1급(특급)"]
     },
     {
       "q": "無",
@@ -206,9 +187,8 @@ const L46 = {
       "k": "없을",
       "m": "no/not. have no, *nothingness",
       "d": "In a hot tub you can relax and have your stress vanish into nothingness. The top two strokes show someone reclining, and the next six are a pictograph of an oaken tub ribbed with metal strips, like the kind once used for bathing.",
-      "e": "無料 무료 free of charge; 無視 무시 disregard, neglect",
-      "lv": ["중학용","5급(4급)"],
-      "ex": ["무궁화","無窮花"]
+      "e": "無窮花 무궁화 rose of Sharon; 無料 무료 free of charge; 無視 무시 disregard, neglect",
+      "lv": ["중학용","5급(4급)"]
     },
     {
       "q": "舞",
@@ -217,8 +197,7 @@ const L46 = {
       "m": "dance",
       "d": "Attractive dancers should dance wearing nothing but sunglasses.",
       "e": "舞臺 무대 stage, boards",
-      "lv": ["중학용","4급(3급)"],
-      "ex": ["무대","舞臺"]
+      "lv": ["중학용","4급(3급)"]
     }
   ]
 };

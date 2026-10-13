@@ -17,8 +17,7 @@ const L38_2 = {
       "m": "silver",
       "d": "Silver metal",
       "e": "銀行 은행 bank",
-      "lv": ["중학용","6급(5급)"],
-      "ex": ["은행","銀行"]
+      "lv": ["중학용","6급(5급)"]
     },
     {
       "q": "恨",
@@ -27,8 +26,7 @@ const L38_2 = {
       "m": "hatred, dislike, *resentment",
       "d": "The athlete's state of mind is nothing but resentment after getting the silver medal.",
       "e": "恨 bitter feeling, grudge, spite, hate; 悔恨 회한 remorse, regret",
-      "lv": ["중학용","4급(3급)"],
-      "ex": ["한","恨"]
+      "lv": ["중학용","4급(3급)"]
     },
     {
       "q": "根",
@@ -37,8 +35,7 @@ const L38_2 = {
       "m": "root",
       "d": "At the <b>root</b> of the tree is where I hid all of my silver.",
       "e": "根源 근원 root, origin, source; 根據 근거 ground, basis",
-      "lv": ["중학용","6급(5급)"],
-      "ex": ["근거","根據"]
+      "lv": ["중학용","6급(5급)"]
     },
     {
       "q": "即/卽",
@@ -47,8 +44,7 @@ const L38_2 = {
       "m": "quickly, *instant",
       "d": "He scratches off the silver stamp and discovers that he is an instant winner.<br>I keep a lucky old white spoon to scratch off silver stamps to see if I'm an instant winner.",
       "e": "卽 즉 namely, that is; 卽時 즉시 instantly, promptly",
-      "lv": ["중학용","3급II(2급)"],
-      "ex": ["즉","卽"]
+      "lv": ["중학용","3급II(2급)"]
     },
     {
       "q": "爵",
@@ -56,9 +52,8 @@ const L38_2 = {
       "k": "술잔",
       "m": "feudal title, rank, *baron",
       "d": "A vulture took the baron's eye, so he glued a silver one in its place.",
-      "e": "公爵 공작 prince, duke; 伯爵 백작 count, earl, compte",
-      "lv": ["고등용","3급(2급)"],
-      "ex": ["관작","官爵"]
+      "e": "官爵 관작 government post and rank; 公爵 공작 prince, duke; 伯爵 백작 count, earl, compte",
+      "lv": ["고등용","3급(2급)"]
     },
     {
       "q": "節",
@@ -67,8 +62,7 @@ const L38_2 = {
       "m": "node",
       "d": "Counting the nodes on <b>bamboo</b> is an <b>instant</b> way to tell its age.",
       "e": "句節 구절 phrase, passage; 季節 계절 season",
-      "lv": ["중학용","5급II(4급II)"],
-      "ex": ["계절","季節"]
+      "lv": ["중학용","5급II(4급II)"]
     },
     {
       "q": "退",
@@ -77,8 +71,7 @@ const L38_2 = {
       "m": "step back, *retreat",
       "d": "You see a huge army of people in silver armour on the road so you retreat.",
       "e": "退勤 퇴근 leaving one's office/work; 退役 퇴역 retirement from service",
-      "lv": ["중학용","4급II(3급II)"],
-      "ex": ["퇴근","退勤"]
+      "lv": ["중학용","4급II(3급II)"]
     },
     {
       "q": "限",
@@ -87,8 +80,7 @@ const L38_2 = {
       "m": "boundary, *limit",
       "d": "The speed limit at The Pinnacle is posted on silver signs.",
       "e": "制限 제한 restriction, limit; 限界 한계 limit, boundary",
-      "lv": ["중학용","4급II(3급II)"],
-      "ex": ["제한","制限"]
+      "lv": ["중학용","4급II(3급II)"]
     },
     {
       "q": "眼",
@@ -97,8 +89,7 @@ const L38_2 = {
       "m": "eye, *eyeball",
       "d": "The baron's silver eye was not actually an eyeball.",
       "e": "眼鏡 안경 glasses; 眼科 안과 ophthalmology",
-      "lv": ["중학용","4급II(3급II)"],
-      "ex": ["안경","眼鏡"]
+      "lv": ["중학용","4급II(3급II)"]
     },
     {
       "q": "良",
@@ -107,8 +98,7 @@ const L38_2 = {
       "m": "good, *halo",
       "d": "A <b>drop</b> of <b>silver</b> is <b>good</b>, but a whole bar of it is better! <br><b>*</b> As a primitive, use the image of a saint’s halo. As with silver, when this element is drawn on the left, the penultimate stroke is omitted.",
       "e": "良心 양심 conscience, the inner voice; 改良 개량 improvement, reform",
-      "lv": ["중학용","5급II(4급II)"],
-      "ex": ["양심","良心"]
+      "lv": ["중학용","5급II(4급II)"]
     },
     {
       "q": "朗",
@@ -116,8 +106,7 @@ const L38_2 = {
       "k": "밝을",
       "m": "clear, bright; *melodious",
       "d": "Au clair de la lune",
-      "e": "朗朗하다 낭랑하다 clear and rining, snourous; 明朗 명랑 brightness, cheerfullness, liveliness",
-      "ex": ["낭독","朗讀"]
+      "e": "朗讀 낭독 reading aloud; 朗朗하다 낭랑하다 clear and rining, snourous; 明朗 명랑 brightness, cheerfullness, liveliness"
     },
     {
       "q": "浪",
@@ -125,8 +114,7 @@ const L38_2 = {
       "k": "물결",
       "m": "wave, wasteful, *wandering",
       "d": "Water is a good thing to have when you're out wandering.",
-      "e": "浪漫 낭만 being romantic; 浪費 낭비 waste, extravagance; 放浪 방랑 wandering, roaming, roving",
-      "ex": ["낭비","浪費"]
+      "e": "浪漫 낭만 being romantic; 浪費 낭비 waste, extravagance; 放浪 방랑 wandering, roaming, roving"
     },
     {
       "q": "娘",
@@ -135,8 +123,7 @@ const L38_2 = {
       "m": "woman, *daughter",
       "d": "My daughter is a woman that can do no wrong! Look! There's a halo over her head!",
       "e": "娘子 낭자 polite address to an adult woman",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["낭자","娘子"]
+      "lv": ["고등용","3급II(2급)"]
     },
     {
       "q": "食",
@@ -144,9 +131,8 @@ const L38_2 = {
       "k": "밥/먹을",
       "m": "*eat, food",
       "d": "You don't need silverware when you eat a hamburger under one of those outdoor fast food umbrellas. But don't forget an additional drop of ketchup!",
-      "e": "食堂 식당 dining room, restaurant; 食事 식사 meal, dinner",
-      "lv": ["중학용","7급II(6급)"],
-      "ex": ["간식","間食"]
+      "e": "間食 간식 snack; 食堂 식당 dining room, restaurant; 食事 식사 meal, dinner",
+      "lv": ["중학용","7급II(6급)"]
     },
     {
       "q": "飯",
@@ -154,8 +140,7 @@ const L38_2 = {
       "k": "밥",
       "m": "meal",
       "d": "I'm anti-fastfood. Sit down and eat a real meal!",
-      "e": "飯饌 반찬 side dish",
-      "ex": ["반찬","飯饌"]
+      "e": "飯饌 반찬 side dish"
     },
     {
       "q": "飲/飮",
@@ -164,8 +149,7 @@ const L38_2 = {
       "m": "drink",
       "d": "When you <b>lack</b> <b>food</b>, just <b>drink</b> something to fill you up.",
       "e": "飮料水 음료수 driking water; 飮食 음식 food, meal",
-      "lv": ["중학용","6급II(5급II)"],
-      "ex": ["음료","飮料"]
+      "lv": ["중학용","6급II(5급II)"]
     },
     {
       "q": "飢",
@@ -174,8 +158,7 @@ const L38_2 = {
       "m": "hungry",
       "d": "The smell of cooked <b>food</b> wafts past you in the <b>wind</b>, making your stomach rumble and feeling <b>hungry</b>.",
       "e": "飢餓/饑餓 기아 hunger, starvation; 飢饉/饑饉 기근 famine, dearth, shortage",
-      "lv": ["고등용","3급(2급)"],
-      "ex": ["기아","飢餓/饑餓"]
+      "lv": ["고등용","3급(2급)"]
     },
     {
       "q": "餓",
@@ -184,8 +167,7 @@ const L38_2 = {
       "m": "starve",
       "d": "He was <b>starving</b> for <b>food</b>, but he had too much <b>ego</b> and was too proud to ask for food.",
       "e": "飢餓/饑餓 기아 hunger, starvation; 飢饉/饑饉 기근 famine, dearth, shortage",
-      "lv": ["고등용","3급(2급)"],
-      "ex": ["기아","飢餓/饑餓"]
+      "lv": ["고등용","3급(2급)"]
     },
     {
       "q": "飾",
@@ -194,8 +176,7 @@ const L38_2 = {
       "m": "decorate",
       "d": "We decorate a table before eating by reclining a towel over it.",
       "e": "裝飾 장식 ornament, decoration; 粉飾 분식 makeup, furbelows, ornaments",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["장식","裝飾"]
+      "lv": ["고등용","3급II(2급)"]
     },
     {
       "q": "餌",
@@ -203,9 +184,8 @@ const L38_2 = {
       "k": "떡",
       "m": "bait; *feed",
       "d": "Do you know Mike Tayson favorite feed? Ears! He eats ears!",
-      "e": "食餌 식이 diet",
-      "lv": ["","1급(특급)"],
-      "ex": ["식이 요법","食餌療法"]
+      "e": "食餌療法 식이 요법 diet therapy; 食餌 식이 diet",
+      "lv": ["","1급(특급)"]
     },
     {
       "q": "館",
@@ -213,8 +193,7 @@ const L38_2 = {
       "k": "집",
       "m": "public building, *Bldg.",
       "d": "The <b>bureaucrat</b> never goes out for lunch, always choosing to <b>eat</b> in the <b>Bldg</b>.",
-      "e": "旅館 여관 inn, hotel; 美術館 미술관 art museum",
-      "ex": ["대사관","大使館"]
+      "e": "大使館 대사관 embassy; 旅館 여관 inn, hotel; 美術館 미술관 art museum"
     },
     {
       "q": "餅/餠",
@@ -223,8 +202,7 @@ const L38_2 = {
       "m": "rice-cakes, biscuits, *mochi",
       "d": "<b>Mochi</b> is so difficult to <b>eat</b>, it's a <b>puzzle</b> to me why people eat it.",
       "e": "煎餠 전병 a kind of cake made by mixing various flours",
-      "lv": ["","1급(특급)"],
-      "ex": ["전병","煎餠"]
+      "lv": ["","1급(특급)"]
     },
     {
       "q": "養",
@@ -232,9 +210,8 @@ const L38_2 = {
       "k": "기를",
       "m": "raise, bring up, *foster",
       "d": "You foster ('promote the growth of') a sheep so you can eat it later.",
-      "e": "奉養 봉양 supporting ones's parents; 養母 양모 adoptive mother",
-      "lv": ["중학용","5급II(4급II)"],
-      "ex": ["교양","敎養"]
+      "e": "敎養 교양 culture, refinement; 奉養 봉양 supporting ones's parents; 養母 양모 adoptive mother",
+      "lv": ["중학용","5급II(4급II)"]
     },
     {
       "q": "飽",
@@ -243,8 +220,7 @@ const L38_2 = {
       "m": "sated",
       "d": "My gluttony was only <b>sated</b> after I <b>ate</b> the hamburger and the <b>wrapper</b>!",
       "e": "飽食 포식 gluttony, satiation, engorgement",
-      "lv": ["고등용","3급(2급)"],
-      "ex": ["포식","飽食"]
+      "lv": ["고등용","3급(2급)"]
     },
     {
       "q": "'+无",
@@ -261,8 +237,7 @@ const L38_2 = {
       "m": "already, *previously",
       "d": "At a cheap sleazy diner, the <b>waitress</b> gives you unwashed <b>silverware</b> that was <b>previously</b> used by the <b>previous</b> customer.",
       "e": "旣存의 기존의 existing, established; 旣婚의 기혼의 married",
-      "lv": ["중학용","3급(2급)"],
-      "ex": ["기존","旣存"]
+      "lv": ["중학용","3급(2급)"]
     },
     {
       "q": "概/槪",
@@ -278,8 +253,7 @@ const L38_2 = {
       "k": "분개할",
       "m": "sigh, regret, *rue",
       "d": "If you don't leave some <b>silver</b> as a tip, you will <b>rue</b> the day you earned the <b>resentment</b> of your <b>waitress</b>.",
-      "e": "憤慨/憤愾 분개 indignation, resentment; 慨歎/慨嘆 개탄 deploring, lamentation, regret",
-      "ex": ["감개","感慨"]
+      "e": "感慨 감개 deep emotion; 憤慨/憤愾 분개 indignation, resentment; 慨歎/慨嘆 개탄 deploring, lamentation, regret"
     }
   ]
 };

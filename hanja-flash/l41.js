@@ -7,9 +7,8 @@ const L41 = {
       "k": "이제",
       "m": "now, *clock",
       "d": "My meeting is at 7 - but that's now!",
-      "e": "只今 지금 the present, the present day, now; 今年 금년 this year",
-      "lv": ["중학용","6급II(5급II)"],
-      "ex": ["금방","今方"]
+      "e": "今方 금방 just now, soon; 只今 지금 the present, the present day, now; 今年 금년 this year",
+      "lv": ["중학용","6급II(5급II)"]
     },
     {
       "q": "含",
@@ -18,8 +17,7 @@ const L41 = {
       "m": "hold in mouth, *include",
       "d": "This clock includes a mouth that will tell you what the time is now.",
       "e": "包含 포함 inclusion, comprehension, implication",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["포함","包含"]
+      "lv": ["고등용","3급II(2급)"]
     },
     {
       "q": "貪",
@@ -27,9 +25,8 @@ const L41 = {
       "k": "탐낼",
       "m": "covet",
       "d": "One begins one's life coveting money. One ends one's life coveting time - those precious seconds ticking away on the clock.",
-      "e": "貪내다 탐내다 desire, want, crave for, covet",
-      "lv": ["고등용","3급(2급)"],
-      "ex": ["탐","貪"]
+      "e": "貪 탐 greed; 貪내다 탐내다 desire, want, crave for, covet",
+      "lv": ["고등용","3급(2급)"]
     },
     {
       "q": "吟",
@@ -38,8 +35,7 @@ const L41 = {
       "m": "*versify, sing, recite",
       "d": "A rapper using his mouth to versify with a big clock around his neck: Hickery dickery dock, the mouth spat out the clock...",
       "e": "吟味 음미 appreciation, savoring, enjoying; 呻吟 신음 groan, moan",
-      "lv": ["중학용","3급(2급)"],
-      "ex": ["신음","呻吟"]
+      "lv": ["중학용","3급(2급)"]
     },
     {
       "q": "念",
@@ -48,8 +44,7 @@ const L41 = {
       "m": "*wish; think of, recall",
       "d": "Someone wishing from the bottom of their heart that the clock would stop. A mid-life crisis perhaps.",
       "e": "槪念 개념 notion, general idea, concept; 理念 이념 ideology",
-      "lv": ["중학용","5급II(4급II)"],
-      "ex": ["개념","槪念"]
+      "lv": ["중학용","5급II(4급II)"]
     },
     {
       "q": "捻",
@@ -67,8 +62,7 @@ const L41 = {
       "m": "*harp; Chinese lute or guitar.",
       "d": "A pair of kings exchange gifts: a clock and a harp.",
       "e": "伽倻琴 가야금 kayagum; 琴瑟 금슬 Korean harp and lute; conjugal harmony",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["가야금","伽倻琴"]
+      "lv": ["고등용","3급II(2급)"]
     },
     {
       "q": "陰",
@@ -77,8 +71,7 @@ const L41 = {
       "m": "‘female’ principle; dark, *shade",
       "d": "The only shade at The Pinnacle is in the shadow of the giant clock tower, or from a rising cloud.",
       "e": "陰陽 음양 Um and Yang, the positive and negative, the male and female; 陰曆 음력 lunar calendar",
-      "lv": ["중학용","4급II(3급II)"],
-      "ex": ["음력","陰曆"]
+      "lv": ["중학용","4급II(3급II)"]
     },
     {
       "q": "予/豫",
@@ -96,8 +89,7 @@ const L41 = {
       "m": "serial order, sequence; *preface",
       "d": "The preface to all human history was written beforehand in caves.",
       "e": "秩序 질서 (public) order, discipline, system; 順序 순서 order, sequence; 序說 서설 preface, introduction",
-      "lv": ["중학용","5급(4급)"],
-      "ex": ["순서","順序"]
+      "lv": ["중학용","5급(4급)"]
     },
     {
       "q": "預",
@@ -106,8 +98,7 @@ const L41 = {
       "m": "*deposit; prepare, arrange",
       "d": "Depositing money into your savings account is something you do beforehand if you use your head.",
       "e": "預金 예금 deposit, bank account; ",
-      "lv": ["","2급(1급)"],
-      "ex": ["예금","預金"]
+      "lv": ["","2급(1급)"]
     },
     {
       "q": "野",
@@ -115,9 +106,8 @@ const L41 = {
       "k": "들",
       "m": "plains",
       "d": "These days we all work in front of computers. Beforehand we all worked out in the fields, in the plains.",
-      "e": "野生 야생 wildness; 分野 분야 field, sphere, realm; 野菜 야채 vegetables, greens",
-      "lv": ["중학용","6급(5급)"],
-      "ex": ["야구","野球"]
+      "e": "野球 야구 baseball; 野生 야생 wildness; 分野 분야 field, sphere, realm; 野菜 야채 vegetables, greens",
+      "lv": ["중학용","6급(5급)"]
     },
     {
       "q": "兼",
@@ -125,9 +115,8 @@ const L41 = {
       "k": "겸할",
       "m": "unite, combine, *concurrently",
       "d": "A <b>horned</b> bull attacks <b>one</b> gardener. Being ninja-trained, the gardener does not even stop his work, <b>concurrently</b> using his <b>rack</b> to sweep leaves, while using <b>two sticks</b> to topple the <b>legs</b> of the bull.",
-      "e": "兼하다 겸하다 combine, unite",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["겸","兼"]
+      "e": "兼 겸 and, concurrently; 兼하다 겸하다 combine, unite",
+      "lv": ["고등용","3급II(2급)"]
     },
     {
       "q": "嫌",
@@ -136,8 +125,7 @@ const L41 = {
       "m": "*dislike, hate; suspect",
       "d": "Naturally, if you're dating more than one woman concurrently, they will certainly dislike each other!",
       "e": "嫌惡 혐오 hatred, dislike, disgust;  嫌疑 혐의 dislike, aversion, suspicion, charge",
-      "lv": ["고등용","3급(2급)"],
-      "ex": ["혐오","嫌惡"]
+      "lv": ["고등용","3급(2급)"]
     },
     {
       "q": "鎌",
@@ -154,8 +142,7 @@ const L41 = {
       "m": "*self-effacing, humble, modest",
       "d": "When you are self-effacing you use words to concurrently bring yourself down and make yourself look better.",
       "e": "謙遜 겸손 modesty, humility",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["겸손","謙遜/謙巽"]
+      "lv": ["고등용","3급II(2급)"]
     },
     {
       "q": "廉",
@@ -163,8 +150,7 @@ const L41 = {
       "k": "청렴할",
       "m": "*bargain; upright, honorable, honest",
       "d": "Stores don't want you to know it, but if you find the secret cave, they run bargains there concurrently to their regular prices. Such a dishonesty!",
-      "e": "淸廉 청렴 integrity, probity, uprightness",
-      "ex": ["저렴하다","低廉 하다"]
+      "e": "低廉하다 저렴하다 cheap; 淸廉 청렴 integrity, probity, uprightness"
     },
     {
       "q": "西",
@@ -173,8 +159,7 @@ const L41 = {
       "m": "west, *Old West",
       "d": "The old west represented by a completely empty whiskey bottle (cf. 酉).<br>As a primitive, the meaning is expanded to refer to the Old West of cowboy-movie fame: 覀. With the exception of one kanji, given in the following frame, this element always appears at the top of its relative primitives.",
       "e": "西洋 서양  the West, Europe and America, Western countries",
-      "lv": ["중학용","8급(6급II)"],
-      "ex": ["서양","西洋"]
+      "lv": ["중학용","8급(6급II)"]
     },
     {
       "q": "価/價",
@@ -182,9 +167,8 @@ const L41 = {
       "k": "값",
       "m": "value",
       "d": "When <b>Chuck Norris</b> was in the <b>old west</b> as a cowboy, the <b>value</b> of the reward on his head (dead or alive!) was extremely high, but nobody could ever claim it.",
-      "e": "價値 가치 value, worth, merit; 評價 평가 valuation, estimation",
-      "lv": ["중학용","5급II(4급II)"],
-      "ex": ["가격","價格"]
+      "e": "價格 가격 price; 價値 가치 value, worth, merit; 評價 평가 valuation, estimation",
+      "lv": ["중학용","5급II(4급II)"]
     },
     {
       "q": "要",
@@ -192,9 +176,8 @@ const L41 = {
       "k": "요긴할",
       "m": "*need, necessary",
       "d": "In the Old West, women were needed because nobody knew how to cook or clean.",
-      "e": "需要 수요 demand, request; 綱要 강요",
-      "lv": ["중학용","5급II(4급II)"],
-      "ex": ["중요","重要"]
+      "e": "重要 중요 importance; 需要 수요 demand, request; 綱要 강요",
+      "lv": ["중학용","5급II(4급II)"]
     },
     {
       "q": "腰",
@@ -203,8 +186,7 @@ const L41 = {
       "m": "*loin(s), waist, kidney",
       "d": "After being sat down in the office too long, loin is the part of the body that needs massaging.",
       "e": "腰痛 요통 lumbago, pain in loins",
-      "lv": ["고등용","3급(2급)"],
-      "ex": ["요통","腰痛"]
+      "lv": ["고등용","3급(2급)"]
     },
     {
       "q": "票",
@@ -212,9 +194,8 @@ const L41 = {
       "k": "표",
       "m": "*ballot; slip of paper or bamboo. ticket",
       "d": "In the Old West there were no ballot boxes. Afraid of fraud and fighting among the gunslingers, the ballots were posted into a slot in the top of the local church altar instead. They may have been rough, but the cowboys wouldn't fight in the church.",
-      "e": "票 표 card, label, ticket; 手票 수표 (bank) check, cheque",
-      "lv": ["고등용","4급II(3급II)"],
-      "ex": ["우표","郵票"]
+      "e": "郵票 우표 postage stamp; 票 표 card, label, ticket; 手票 수표 (bank) check, cheque",
+      "lv": ["고등용","4급II(3급II)"]
     },
     {
       "q": "漂",
@@ -223,8 +204,7 @@ const L41 = {
       "m": "*drift, float",
       "d": "Picture a drifting lifeboat, water splashing over the side, and the occupants holding a ballot to decide who to eat next.",
       "e": "漂流 표류 drift, drifting, adrift; 漂白 표백 bleaching, decoloration",
-      "lv": ["고등용","3급(2급)"],
-      "ex": ["표류","漂流"]
+      "lv": ["고등용","3급(2급)"]
     },
     {
       "q": "標",
@@ -233,8 +213,7 @@ const L41 = {
       "m": "*signpost; mark, label, sign",
       "d": "Trees were frequenly used as signposts in those days, indicating where one had to go to cast their ballots.",
       "e": "目標 목표 mark, sign, target, goal; 座標 좌표 coordinates",
-      "lv": ["고등용","4급(3급)"],
-      "ex": ["목표","目標"]
+      "lv": ["고등용","4급(3급)"]
     },
     {
       "q": "栗",
@@ -242,9 +221,8 @@ const L41 = {
       "k": "밤",
       "m": "chestnut",
       "d": "Chestnut tree, west nut tree.",
-      "e": "",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["이율곡","李栗谷"]
+      "e": "李栗谷 이율곡 Yi Yulgok (philosopher)",
+      "lv": ["고등용","3급II(2급)"]
     },
     {
       "q": "慄",
@@ -252,8 +230,7 @@ const L41 = {
       "k": "떨릴",
       "m": "*shudder, shiver, tremble",
       "d": "You’re in the state of mind of shuddering with fear when the chestnut tree is falling over towards you.",
-      "e": "",
-      "ex": ["전율","戰慄"]
+      "e": "戰慄 전율 shudder, thrill"
     },
     {
       "q": "遷",
@@ -261,9 +238,8 @@ const L41 = {
       "k": "옮길",
       "m": "transition, move, shift",
       "d": "Since the days of the Old West, traveling has transitioned from trying not to step on big snakes to driving on big roads.",
-      "e": "遷都 천도 the transfer of the capital; 左遷 좌천 degradation, downgrading, demotion",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["변천","變遷"]
+      "e": "變遷 변천 change, transition; 遷都 천도 the transfer of the capital; 左遷 좌천 degradation, downgrading, demotion",
+      "lv": ["고등용","3급II(2급)"]
     },
     {
       "q": "覆",
@@ -271,9 +247,8 @@ const L41 = {
       "k": "뒤집힐/덮을",
       "m": "*capsize; cover",
       "d": "The U.S.S. <b>Old West</b> has <b>capsized</b>, and all the cowboys on board are trying to <b>restore</b> her upright.",
-      "e": "顚覆 전복 overthrow, overturn, capsizal; 腹面 복면 mask, veil",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["번복","飜覆/翻覆"]
+      "e": "飜覆/翻覆 번복 reversal; 顚覆 전복 overthrow, overturn, capsizal; 腹面 복면 mask, veil",
+      "lv": ["고등용","3급II(2급)"]
     },
     {
       "q": "煙",
@@ -282,8 +257,7 @@ const L41 = {
       "m": "smoke",
       "d": "In the old west people not only fired up and smoked tobacco filling the air with its smoke but they chewed it too, spitting it on the ground.",
       "e": "禁煙 금연 no smoking; 煙氣 연기 smoke, fumes",
-      "lv": ["중학용","4급II(3급II)"],
-      "ex": ["금연","禁煙"]
+      "lv": ["중학용","4급II(3급II)"]
     },
     {
       "q": "南",
@@ -291,9 +265,8 @@ const L41 = {
       "k": "남녘",
       "m": "south",
       "d": "Some people can only find happiness through the southern regions below their belt.",
-      "e": "南美 남미 South America",
-      "lv": ["중학용","8급(6급II)"],
-      "ex": ["남산","南山"]
+      "e": "南山 남산 Namsan (mountain in Seoul); 南美 남미 South America",
+      "lv": ["중학용","8급(6급II)"]
     },
     {
       "q": "楠",
@@ -309,8 +282,7 @@ const L41 = {
       "k": "드릴",
       "m": "offering",
       "d": "A South Korean street vendor is offering chihuahua snacks.",
-      "e": "獻血 헌혈 blood donation; 獻金 헌금 a gift of money, contribution, donation, offering",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["공헌","貢獻"]
+      "e": "貢獻 공헌 contribution; 獻血 헌혈 blood donation; 獻金 헌금 a gift of money, contribution, donation, offering",
+      "lv": ["고등용","3급II(2급)"]
     }  ]
 };

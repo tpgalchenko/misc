@@ -7,9 +7,8 @@ const L36_2 = {
       "k": "묶을",
       "m": "*accumulate",
       "d": "When you accumulate knowledge in your brain, neural pathways are constructed. All those pathways end up like a huge ball of thread tangled together. The more knowledge you accumulate the more threads you throw into the mix!",
-      "e": "累計 누계 the total amount, sum; 累積 누적 accumulation",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["누","累"]
+      "e": "累 누 trouble, burden; 累計 누계 the total amount, sum; 累積 누적 accumulation",
+      "lv": ["고등용","3급II(2급)"]
     },
     {
       "q": "索",
@@ -18,8 +17,7 @@ const L36_2 = {
       "m": "large rope, cable, *cord",
       "d": "Spiderman has been captured and given the ultimate torture: they forced a crown of needles on his head and attached it to an electrical cord, which they are about to plug into an outlet...",
       "e": "檢索 검색 quest, search; 索莫하다 삭막하다 dim, vague",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["검색","檢索"]
+      "lv": ["고등용","3급II(2급)"]
     },
     {
       "q": "総/總",
@@ -27,9 +25,8 @@ const L36_2 = {
       "k": "합할",
       "m": "collect, overall, *general",
       "d": "Spiderman could not achieve general acceptance by the media even after winning the public's heart.",
-      "e": "總角 총각  unmarried man, bachelor; 總計 총계 the total (amount/sum)",
-      "lv": ["고등용","4급II(3급II)"],
-      "ex": ["총리","總理"]
+      "e": "總理 총리 prime minister; 總角 총각  unmarried man, bachelor; 總計 총계 the total (amount/sum)",
+      "lv": ["고등용","4급II(3급II)"]
     },
     {
       "q": "綿",
@@ -37,9 +34,8 @@ const L36_2 = {
       "k": "솜",
       "m": "cotton",
       "d": "Cotton is the preferred thread for making white towels.",
-      "e": "綿棒 면봉 cotton swab; 石綿 석면 asbestos",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["면","綿"]
+      "e": "綿 면 cotton; 綿棒 면봉 cotton swab; 石綿 석면 asbestos",
+      "lv": ["고등용","3급II(2급)"]
     },
     {
       "q": "絹",
@@ -47,9 +43,8 @@ const L36_2 = {
       "k": "비단",
       "m": "silk",
       "d": "Spider-man loves to run his mouth all over Mary Jane's silky flesh.",
-      "e": "絹織物 견직물 silk fabrics",
-      "lv": ["고등용","3급(2급)"],
-      "ex": ["견","絹"]
+      "e": "絹 견 silk; 絹織物 견직물 silk fabrics",
+      "lv": ["고등용","3급(2급)"]
     },
     {
       "q": "繰",
@@ -67,8 +62,7 @@ const L36_2 = {
       "m": "continue, maintain; *inherit",
       "d": "Spider-Man is hooked on rice - it's all he inherited from his Uncle Ben. ",
       "e": "繼續 계속 continuation; 繼承 계승 succession, inheritance",
-      "lv": ["고등용","4급(3급)"],
-      "ex": ["계속","繼續"]
+      "lv": ["고등용","4급(3급)"]
     },
     {
       "q": "緑/綠",
@@ -77,8 +71,7 @@ const L36_2 = {
       "m": "green",
       "d": "A little broom used for preparing Japanese green tea.",
       "e": "綠色 green color",
-      "lv": ["중학용","6급(5급)"],
-      "ex": ["녹색","綠色"]
+      "lv": ["중학용","6급(5급)"]
     },
     {
       "q": "縁/緣",
@@ -86,9 +79,8 @@ const L36_2 = {
       "k": "인연",
       "m": "hem, margin; *affinity",
       "d": "There once was a lonely little pig that constantly followed Spiderman, always nuzzling his leg and oinking tenderly. Spiderman finally caved in and decided to keep the little pig under one condition: the pig was to take a broom and sweep up all of Spiderman's leftover threads after having fought crime. The pig felt such affinity for Spiderman, he happily accepted—and did a good job too.",
-      "e": "因緣 인연 connection, relation, affinity",
-      "lv": ["고등용","4급(3급)"],
-      "ex": ["사연","辭緣/詞緣"]
+      "e": "辭緣/詞緣 사연 story, circumstances; 因緣 인연 connection, relation, affinity",
+      "lv": ["고등용","4급(3급)"]
     },
     {
       "q": "網",
@@ -97,8 +89,7 @@ const L36_2 = {
       "m": "net, *netting, web",
       "d": "Sadly, sometimes <b>nettings</b> have a <b>thread</b> so strong, the net gets caught like a <b>hood</b> on an <b>animal's horns</b>, and stays there until the poor thing <b>perishes</b>.",
       "e": "網 망 net; 網膜 망막 retina",
-      "lv": ["","2급(1급)"],
-      "ex": ["망","網"]
+      "lv": ["","2급(1급)"]
     },
     {
       "q": "緊",
@@ -107,8 +98,7 @@ const L36_2 = {
       "m": "tight, *tense",
       "d": "Spiderman is slave to his crotch, literally, because of that tight leotard he uses. If he get's just a little too excited in public, the situation would become very tense.",
       "e": "緊하다 긴하다 important, vital, indispensable; 緊張 긴장 strain, tension",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["긴장","緊張"]
+      "lv": ["고등용","3급II(2급)"]
     },
     {
       "q": "紫",
@@ -117,8 +107,7 @@ const L36_2 = {
       "m": "purple",
       "d": "Why is your ass purple? Well, I stopped and sat for a bit on a pile of thread... (I guess it was freshly dyed).",
       "e": "紫朱色 자주색 purple, violet",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["자주색","紫朱色"]
+      "lv": ["고등용","3급II(2급)"]
     },
     {
       "q": "縛",
@@ -127,8 +116,7 @@ const L36_2 = {
       "m": "to tie, *truss",
       "d": "Because people are so afraid of the procedure, string has to be used by the acunpunturist to truss up his victims, er, patients.",
       "e": "束縛 속박 binding, restraint, yoke; 結縛 결박 binding, tying",
-      "lv": ["","1급(특급)"],
-      "ex": ["결박","結縛"]
+      "lv": ["","1급(특급)"]
     },
     {
       "q": "縄/繩",
@@ -137,8 +125,7 @@ const L36_2 = {
       "m": "string, cord, *straw rope",
       "d": "The tortoise has escaped! We tied it up with a straw rope, but all that's left of the rope are some torn threads, and the unbound tortoise is nowhere to be found.",
       "e": "捕繩 포승 a rope for tying up criminals",
-      "lv": ["","2급(특급II)"],
-      "ex": ["포승","捕繩"]
+      "lv": ["","2급(특급II)"]
     },
     {
       "q": "幺",
@@ -155,8 +142,7 @@ const L36_2 = {
       "m": "infancy",
       "d": "In its infancy, a butterfly is protected by a cocoon, as it doesn't yet have any power of its own.",
       "e": "幼稚園 유치원 kindergarten",
-      "lv": ["중학용","3급II(2급)"],
-      "ex": ["유치원","幼稚園"]
+      "lv": ["중학용","3급II(2급)"]
     },
     {
       "q": "後",
@@ -164,9 +150,8 @@ const L36_2 = {
       "k": "뒤",
       "m": "behind, after",
       "d": "Column of walking legs (caterpillar) getting into a cocoon, about to leave its past self behind.",
-      "e": "後年 후년 the year after next",
-      "lv": ["중학용","7급II(6급)"],
-      "ex": ["오후","午後"]
+      "e": "午後 오후 afternoon; 後年 후년 the year after next",
+      "lv": ["중학용","7급II(6급)"]
     },
     {
       "q": "幽",
@@ -175,8 +160,7 @@ const L36_2 = {
       "m": "quiet, dark, *faint",
       "d": "In secluded mountain ravines, firefly cocoons glow faintly in the dark like ghosts.",
       "e": "幽靈 유령 ghost, apparition; 幽谷 유곡 deep ravine",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["유곡","幽谷"]
+      "lv": ["고등용","3급II(2급)"]
     },
     {
       "q": "幾",
@@ -185,8 +169,7 @@ const L36_2 = {
       "m": "how many; *abacus",
       "d": "At the Mexican <b>fiesta</b>, there is a <b>coccoon</b> eating competition. <b>How many</b> coccoons can one <b>person</b> eat? No one has managed more than two before giving up...",
       "e": "幾何學 기하학 geometry; 幾微/機微 기미 touch, dash, shade, suspicion, signs, indication",
-      "lv": ["중학용","3급(2급)"],
-      "ex": ["기미","幾微/機微"]
+      "lv": ["중학용","3급(2급)"]
     },
     {
       "q": "機",
@@ -194,9 +177,8 @@ const L36_2 = {
       "k": "틀",
       "m": "machine, *mechanism",
       "d": "An abacus is a mechanism made of wood used to calculate how many 'anythings'.",
-      "e": "機械 기계 machine, gin, mechanism; 契機 계기 chance, occasion, opportunity",
-      "lv": ["고등용","4급(3급)"],
-      "ex": ["기회","機會"]
+      "e": "機會 기회 opportunity; 機械 기계 machine, gin, mechanism; 契機 계기 chance, occasion, opportunity",
+      "lv": ["고등용","4급(3급)"]
     },
     {
       "q": "畿",
@@ -205,8 +187,7 @@ const L36_2 = {
       "m": "imperial domain; *capital suburbs",
       "d": "People aside, I wonder how many rice fields there are in the capital suburbs.",
       "e": "京畿道 경기도 gyeonggi-do",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["경기도","京畿道"]
+      "lv": ["고등용","3급II(2급)"]
     },
     {
       "q": "玄",
@@ -215,8 +196,7 @@ const L36_2 = {
       "m": "deep, profound, *misterious",
       "d": "The invisible man in his top hat and cocoon of white bandages is the most mysterious man in the world.",
       "e": " 玄關 현관 entrance, porch, front door; 玄米 현미 unpolished rice",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["현관","玄關"]
+      "lv": ["고등용","3급II(2급)"]
     },
     {
       "q": "畜",
@@ -224,9 +204,8 @@ const L36_2 = {
       "k": "짐승",
       "m": "livestock",
       "d": "This mysterious rice field grows not only rice, but livestock too! Picture little pigs and chickens growing right out of the ground, among the rice plants. How bizarre!",
-      "e": "牧畜 목축 stock-farming, cattle breeding; 畜產 축산 stock raising/breeding",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["가축","家畜"]
+      "e": "家畜 가축 livestock; 牧畜 목축 stock-farming, cattle breeding; 畜產 축산 stock raising/breeding",
+      "lv": ["고등용","3급II(2급)"]
     },
     {
       "q": "蓄",
@@ -235,8 +214,7 @@ const L36_2 = {
       "m": "store, save, *amass",
       "d": "One sneaky farmer wanted to <b>amass</b> a large collection of <b>livestock</b>. We all know that cows like to eat <b>flowers</b>, so he planted lines of flowers leading to his own fields. The livestock followed the lines, eating the flowers one by one, and amassed in his field.",
       "e": "貯蓄 저축 saving(s)",
-      "lv": ["고등용","4급II(3급II)"],
-      "ex": ["저축","貯蓄"]
+      "lv": ["고등용","4급II(3급II)"]
     },
     {
       "q": "弦",
@@ -245,8 +223,7 @@ const L36_2 = {
       "m": "*bowstring, cresent",
       "d": "A <b>bow</b> with a <b>mysterious</b> invisible <b>bowstring</b>.",
       "e": "上弦달 상현달 waxing cresent moon; 下弦달 하현달 waning moon",
-      "lv": ["","2급(1급)"],
-      "ex": ["상현달","上弦 달"]
+      "lv": ["","2급(1급)"]
     },
     {
       "q": "擁",
@@ -255,8 +232,7 @@ const L36_2 = {
       "m": "hug",
       "d": "My fingers have a magic touch: everything I hug mysteriously turns into a turkey.",
       "e": "抱擁 포옹 embrace, hug; 擁護 옹호 protection, defense",
-      "lv": ["고등용","3급(2급)"],
-      "ex": ["포옹","抱擁"]
+      "lv": ["고등용","3급(2급)"]
     },
     {
       "q": "滋",
@@ -265,8 +241,7 @@ const L36_2 = {
       "m": "grow, increase; *nourishing",
       "d": "Water is doubly mysterious. It's in all our nourishment...and yet, it's really not nourishing at all.",
       "e": "滋養 자양 nourishment, nutrition, alimentation; 滋養分 자양분 nutritive element",
-      "lv": ["","2급(특급II)"],
-      "ex": ["자양분","滋養分"]
+      "lv": ["","2급(특급II)"]
     },
     {
       "q": "慈",
@@ -274,9 +249,8 @@ const L36_2 = {
       "k": "사랑",
       "m": "kind, charitable, *mercy",
       "d": "Mercy is a doubly mysterious turn of the heart. On the one hand, everybody wants it, but on the other hardly anybody gives it.",
-      "e": "慈悲 자비 mercy, benevolence",
-      "lv": ["중학용","3급II(2급)"],
-      "ex": ["자선","慈善"]
+      "e": "慈善 자선 charity; 慈悲 자비 mercy, benevolence",
+      "lv": ["중학용","3급II(2급)"]
     },
     {
       "q": "磁",
@@ -284,9 +258,8 @@ const L36_2 = {
       "k": "자석",
       "m": "magnet",
       "d": "A magnet is a rock with two sides; one that mysteriously pushes and one that pulls; doubly mysterious.",
-      "e": "磁石 자석 magnet",
-      "lv": ["","2급(1급)"],
-      "ex": ["백자","白瓷/白磁"]
+      "e": "白瓷/白磁 백자 white porcelain; 磁石 자석 magnet",
+      "lv": ["","2급(1급)"]
 	},
 	{
 		"q" : "系",
@@ -295,8 +268,7 @@ const L36_2 = {
 		"m" : "system, link, *lineage, *DNA",
 		"d" : "The single stroke added to the beginning of the primitive for thread gives the image of threads woven into a single cord. Hence the meaning, lineage.<br><b>*</b>As a primitive, we shall give this kanji the meaning of <b>yarn</b>, as the uniting of many threads into a single strand is most obvious with yarn.",
 		"e" : "體系 체계 system, organization",
-		"lv": ["고등용","4급(3급)"],
-		"ex": ["체계","體系"]
+		"lv": ["고등용","4급(3급)"]
 	},
     {
       "q": "係",
@@ -305,8 +277,7 @@ const L36_2 = {
       "m": "bind, tie up, *person in charge",
       "d": "Chuck Norris is always the person in charge! it's written in his DNA!",
       "e": "關係 관계 relation, relationship",
-      "lv": ["고등용","4급II(3급II)"],
-      "ex": ["관계","關係"]
+      "lv": ["고등용","4급II(3급II)"]
     },
     {
       "q": "孫",
@@ -314,9 +285,8 @@ const L36_2 = {
       "k": "손자",
       "m": "grandchild",
       "d": "Your grandchild is the child of your DNA.",
-      "e": "孫子 손자 grandchild; 子孫 자손 sons and grandsons, descendant(s)",
-      "lv": ["중학용","6급(5급)"],
-      "ex": ["손녀","孫女"]
+      "e": "孫女 손녀 granddaughter; 孫子 손자 grandchild; 子孫 자손 sons and grandsons, descendant(s)",
+      "lv": ["중학용","6급(5급)"]
     },
 	{
 		"q": "県/縣",
@@ -333,8 +303,7 @@ const L36_2 = {
       "m": "suspend",
       "d": "The prefecture has suspended all research into inheritable (DNA/lineage) heart disease.",
       "e": "懸案 현안 pending problem, question",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["현안","懸案"]
+      "lv": ["고등용","3급II(2급)"]
     },
     {
       "q": "遜",
@@ -343,8 +312,7 @@ const L36_2 = {
       "m": "modest",
       "d": "My parents aren't at all modest about their grandchildren, at every opportunity they take them on the road showing them off to their friends!",
       "e": "謙遜/謙巽 겸손 humble, modest",
-      "lv": ["","1급(특급)"],
-      "ex": ["겸손","謙遜/謙巽"]
+      "lv": ["","1급(특급)"]
     },
   ]
 };

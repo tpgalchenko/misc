@@ -9,8 +9,7 @@ const L21_1 =
 			"m": "also, *scorpion",
 			"d": "This primitive is a pictograph of the <b>scorpion</b>, the first 2 strokes representing its head and pincers, the last stroke its barbed tail, in which you may recognize the <b>fishhook</b>.",
 			"e": "及其也 급기야 at last, finally, in the end",
-			"lv": ["중학용","3급(2급)"],
-			"ex": ["급기야","及其也"]
+			"lv": ["중학용","3급(2급)"]
 		},
 		{
 			"q": "地",
@@ -18,9 +17,8 @@ const L21_1 =
 			"k": "땅",
 			"m": "soil, *ground",
 			"d": "<b>Scropion</b> is an <b>earth</b> animal.",
-			"e": "地域 지역 area, region",
-			"lv": ["중학용","7급(6급)"],
-			"ex": ["지하","地下"]
+			"e": "地下 지하 underground; 地域 지역 area, region",
+			"lv": ["중학용","7급(6급)"]
 		},
 		{
 			"q": "池",
@@ -28,9 +26,8 @@ const L21_1 =
 			"k": "못",
 			"m": "pool, *pond",
 			"d": "A <b>scorpion</b> letting its venom out <b>drop by drop</b> until it has made a whole <b>pond</b> of the stuff.",
-			"e": "貯水池 저수지 water resevoir",
-			"lv": ["고등용","3급II(2급)"],
-			"ex": ["건전지","乾電池"]
+			"e": "乾電池 건전지 battery; 貯水池 저수지 water resevoir",
+			"lv": ["고등용","3급II(2급)"]
 		},
 		{
 			"q": "虫/蟲",
@@ -47,9 +44,8 @@ const L21_1 =
 			"k": "반딧불이",
 			"m": "glow-worm, lightning bug",
 			"d": "A <b>glow-worm</b> who shines so bright to set a <b>house</b> on <b>fire</b>.",
-			"e": "螢光 형광 fluorescence",
-			"lv": ["고등용","3급(2급)"],
-			"ex": ["형광등","螢光燈"]
+			"e": "螢光燈 형광등 fluorescent lamp; 螢光 형광 fluorescence",
+			"lv": ["고등용","3급(2급)"]
 		},
 		{
 			"q": "蛇",
@@ -57,9 +53,8 @@ const L21_1 =
 			"k": "뱀",
 			"m": "snake",
 			"d": "A <b>snake</b> is a <b>larva</b> grew up so as to leave its cocoon-<b>house</b> drilling a way out with a <b>spoon</b>.",
-			"e": "蛇足 사족 'snake's legs', redundant, superfluent",
-			"lv": ["고등용","3급II(2급)"],
-			"ex": ["독사","毒蛇"]
+			"e": "毒蛇 독사 venomous snake; 蛇足 사족 'snake's legs', redundant, superfluent",
+			"lv": ["고등용","3급II(2급)"]
 		},
 		{
 			"q": "虹",
@@ -68,8 +63,7 @@ const L21_1 =
 			"m": "rainbow",
 			"d": "A <b>rainbow</b> is not the light refracted by water drops but by the wings of <b>insects</b>, it's their <b>craft</b>, their job.",
 			"e": "虹彩 홍채 iris",
-			"lv": ["","1급(특급)"],
-			"ex": ["홍채","虹彩"]
+			"lv": ["","1급(특급)"]
 		},
 		{
 			"q": "蝶",
@@ -78,8 +72,7 @@ const L21_1 =
 			"m": "butterfly",
 			"d": "<b>Butterflies</b> must be the greatest pest to the <b>trees</b> since they eat up all <b>generations</b> of <b>tree</b> leaves.",
 			"e": "蝶泳 접영 butterfly stroke (swimming technique)",
-			"lv": ["고등용","3급(2급)"],
-			"ex": ["접영","蝶泳"]
+			"lv": ["고등용","3급(2급)"]
 		},
 		{
 			"q": "独/獨",
@@ -87,9 +80,8 @@ const L21_1 =
 			"k": "홀로",
 			"m": "alone, single",
 			"d": "A <b>dog</b> is so <b>lonely</b>, that the only joy it has is to collect <b>insects</b> in a <b>bag</b> and to stare at them (<b>eye</b>).",
-			"e": "獨立 독립 independence, self-reliance",
-			"lv": ["중학용","5급II(4급II)"],
-			"ex": ["독일","獨逸"]
+			"e": "獨逸 독일 Germany; 獨立 독립 independence, self-reliance",
+			"lv": ["중학용","5급II(4급II)"]
 		},
 		{
 			"q": "蚕/蠶",
@@ -97,9 +89,8 @@ const L21_1 =
 			"k": "지렁이/누에",
 			"m": "*silkworm",
 			"d": "Heavens are no more than a blue silk carpet created by silkworms.",
-			"e": "",
-			"lv": ["","2급(1급)"],
-			"ex": ["양잠","養蠶"]
+			"e": "養蠶 양잠 sericulture",
+			"lv": ["","2급(1급)"]
 		},
 		{
 			"q": "風",
@@ -107,9 +98,8 @@ const L21_1 =
 			"k": "바람",
 			"m": "wind",
 			"d": "Only <b>wind</b> can save us from the swarms of gnats, those most <b>ordinary 凡</b> of <b>insects</b>.",
-			"e": "颱風 태풍 typhoon",
-			"lv": ["중학용","6급II(5급II)"],
-			"ex": ["소풍","逍風/消風"]
+			"e": "逍風/消風 소풍 picnic; 颱風 태풍 typhoon",
+			"lv": ["중학용","6급II(5급II)"]
 		},
 		{
 			"q": "己",
@@ -117,9 +107,8 @@ const L21_1 =
 			"k": "몸",
 			"m": "self, *snake",
 			"d": "The deep-down inner structure of the human person that mythology has often depicted is a snake, which is what the kanji shows pictographically.",
-			"e": "自己 자기 self, oneself; 利己的 이기적 egoistic",
-			"lv": ["중학용","5급II(4급II)"],
-			"ex": ["자기소개","自己紹介"]
+			"e": "自己紹介 자기소개 self-introduction; 自己 자기 self, oneself; 利己的 이기적 egoistic",
+			"lv": ["중학용","5급II(4급II)"]
 		},
 		{
 			"q": "起",
@@ -128,8 +117,7 @@ const L21_1 =
 			"m": "rise, stand up; begin",
 			"d": "If you wake up and see a <b>snake</b>, <b>stand up</b> and <b>run</b>!",
 			"e": "起立 기립 rising, standing up",
-			"lv": ["중학용","4급II(3급II)"],
-			"ex": ["기립","起立"]
+			"lv": ["중학용","4급II(3급II)"]
 		},
 		{
 			"q": "妃",
@@ -138,8 +126,7 @@ const L21_1 =
 			"m": "wife; *queen",
 			"d": "Cleopatre wanted to be Cesar's queen, but ended up with a suicide employing venomous snakes.",
 			"e": "王妃 왕비 queen",
-			"lv": ["고등용","3급II(2급)"],
-			"ex": ["왕비","王妃"]
+			"lv": ["고등용","3급II(2급)"]
 		},
 		{
 			"q": "改",
@@ -147,9 +134,8 @@ const L21_1 =
 			"k": "고칠",
 			"m": "improve, *reform",
 			"d": "If you want to improve the world, start with becoming a good <b>taskmaster</b> for your<b>self</b>.",
-			"e": "改善 개선 improvement, reform",
-			"lv": ["중학용","5급(4급)"],
-			"ex": ["개혁","改革"]
+			"e": "改革 개혁 reform; 改善 개선 improvement, reform",
+			"lv": ["중학용","5급(4급)"]
 		},
 		{
 			"q": "記",
@@ -157,9 +143,8 @@ const L21_1 =
 			"k": "기록할",
 			"m": "record, remember",
 			"d": "If one wants to remember some words, he has better write them down in a record.",
-			"e": "記錄 기록 record, archives",
-			"lv": ["중학용","7급II(6급)"],
-			"ex": ["기억","記憶"]
+			"e": "記憶 기억 memory; 記錄 기록 record, archives",
+			"lv": ["중학용","7급II(6급)"]
 		},
 		{
 			"q": "包",
@@ -168,8 +153,7 @@ const L21_1 =
 			"m": "wrap, bundle, pack",
 			"d": "A bundle of snakes.",
 			"e": "小包 소포 package, parcel; 包裝 포장 packing, packaging",
-			"lv": ["고등용","4급II(3급II)"],
-			"ex": ["소포","小包"]
+			"lv": ["고등용","4급II(3급II)"]
 		},
 		{
 			"q": "胞",
@@ -177,9 +161,8 @@ const L21_1 =
 			"k": "세포",
 			"m": "womb, *placenta",
 			"d": "Womb is the part of the body that wraps up child body.",
-			"e": "細胞 세포 cell; 同胞 동포 fellow countrymen, compatriot",
-			"lv": ["고등용","4급(3급)"],
-			"ex": ["교포","僑胞"]
+			"e": "僑胞 교포 overseas Korean; 細胞 세포 cell; 同胞 동포 fellow countrymen, compatriot",
+			"lv": ["고등용","4급(3급)"]
 		},
 		{
 			"q": "砲",
@@ -187,9 +170,8 @@ const L21_1 =
 			"k": "대포",
 			"m": "*cannon",
 			"d": "A cannon is a metal wrapping for the cannonballs made of stones although a temporary one, just for few seconds.",
-			"e": "砲丸 포환 cannonball; 大砲 대포 gun, cannon",
-			"lv": ["","4급II(3급II)"],
-			"ex": ["거포","巨砲"]
+			"e": "巨砲 거포 big gun, slugger; 砲丸 포환 cannonball; 大砲 대포 gun, cannon",
+			"lv": ["","4급II(3급II)"]
 		},
 		{
 			"q": "泡",
@@ -197,9 +179,8 @@ const L21_1 =
 			"k": "거품",
 			"m": "bubble",
 			"d": "Bubbles wrap up a fast stream of water.",
-			"e": "水泡 수포 bubbles, foam",
-			"lv": ["","1급(특급)"],
-			"ex": ["기포","氣泡"]
+			"e": "氣泡 기포 bubble; 水泡 수포 bubbles, foam",
+			"lv": ["","1급(특급)"]
 		},
 		{
 			"q": "亀/龜",
@@ -208,8 +189,7 @@ const L21_1 =
 			"m": "*tortoise; burst",
 			"d": "Side view of a tortoise.",
 			"e": "龜鑑 귀감 model, example",
-			"lv": ["고등용","3급(2급)"],
-			"ex": ["귀감","龜鑑"]
+			"lv": ["고등용","3급(2급)"]
 		},
 		{
 			"q": "电/電",
@@ -217,9 +197,8 @@ const L21_1 =
 			"k": "번개",
 			"m": "lightning, *electricity",
 			"d": "A lightning spreading in the rain (like an eel 电).",
-			"e": "電子 전자 electron",
-			"lv": ["중학용","7급II(6급)"],
-			"ex": ["전화","電話"]
+			"e": "電話 전화 telephone; 電子 전자 electron",
+			"lv": ["중학용","7급II(6급)"]
 		},
 		{
 			"q": "竜/龍",
@@ -227,9 +206,8 @@ const L21_1 =
 			"k": "용",
 			"m": "dragon",
 			"d": "Snake with a comb and a body of three segments who comes out of a magical vase under full moon.",
-			"e": "恐龍 공룡 dinosaur",
-			"lv": ["고등용","4급(3급)"],
-			"ex": ["용","龍"]
+			"e": "龍 용 dragon; 恐龍 공룡 dinosaur",
+			"lv": ["고등용","4급(3급)"]
 		},
 		{
 			"q": "滝/瀧",
@@ -254,9 +232,8 @@ const L21_1 =
 			"k": "돼지",
 			"m": "*pork, small pig",
 			"d": "A flesh of sow.",
-			"e": "",
-			"lv": ["고등용","3급(2급)"],
-			"ex": ["돈가스","豚 ton kasu"]
+			"e": "豚가스 돈가스 pork cutlet",
+			"lv": ["고등용","3급(2급)"]
 		},
 		{
 			"q": "逐",
@@ -264,9 +241,8 @@ const L21_1 =
 			"k": "쫓을",
 			"m": "chase, expel, *pursue",
 			"d": "Pigs hit the road.",
-			"e": "逐出 축출 driving out, expulsion",
-			"lv": ["고등용","3급(2급)"],
-			"ex": ["각축","角逐"]
+			"e": "角逐 각축 competition, rivalry; 逐出 축출 driving out, expulsion",
+			"lv": ["고등용","3급(2급)"]
 		},
 		{
 			"q": "遂",
@@ -275,8 +251,7 @@ const L21_1 =
 			"m": "finally; *consummate",
 			"d": "Finally the pig has got away while parting the grass (八).",
 			"e": "遂行 수행 accomplishment, execution",
-			"lv": ["고등용","3급(2급)"],
-			"ex": ["수행","遂行"]
+			"lv": ["고등용","3급(2급)"]
 		},
 		{
 			"q": "家",
@@ -285,8 +260,7 @@ const L21_1 =
 			"m": "house",
 			"d": "This kanji recalls the times when the “domestic” animals were, as the word itself suggests, really kept in the house.",
 			"e": "家族 가족 family, household, kinsfolk",
-			"lv": ["중학용","7급II(6급)"],
-			"ex": ["가족","家族"]
+			"lv": ["중학용","7급II(6급)"]
 		},
 		{
 			"q": "嫁",
@@ -294,9 +268,8 @@ const L21_1 =
 			"k": "시집갈",
 			"m": "marry into, give a daughter in marriage",
 			"d": "The kanji in this frame demonstrates the traditional Japanese approach to marriage: it is the woman who leaves her family for another household, thus marrying into a man’s family.",
-			"e": "出嫁 출가 a womans's being married and leaving home",
-			"lv": ["","1급(특급)"],
-			"ex": ["개가","改嫁"]
+			"e": "改嫁 개가 remarriage (of a woman); 出嫁 출가 a womans's being married and leaving home",
+			"lv": ["","1급(특급)"]
 		},
 		{
 			"q": "豪",
@@ -304,9 +277,8 @@ const L21_1 =
 			"k": "호걸",
 			"m": "hero, *overpowering",
 			"d": "One of the Hercules' tall exploits is capturing the Erymanthian boar. It was a reason to crown him and to call hero.",
-			"e": "豪傑 호걸 hero, great man",
-			"lv": ["고등용","3급II(2급)"],
-			"ex": ["호우","豪雨"]
+			"e": "豪雨 호우 heavy rain; 豪傑 호걸 hero, great man",
+			"lv": ["고등용","3급II(2급)"]
 		},
 		{
 			"q": "-+勿",
@@ -329,9 +301,8 @@ const L21_1 =
 			"k": "창자",
 			"m": "intestines",
 			"d": "A piggy bank is has no intestines, for its flesh has been removed to give place for our savings.",
-			"e": "胃腸 위장 stomach and intestines",
-			"lv": ["고등용","4급(3급)"],
-			"ex": ["장","腸"]
+			"e": "腸 장 intestines; 胃腸 위장 stomach and intestines",
+			"lv": ["고등용","4급(3급)"]
 		},
 		{
 			"q": "場",
@@ -339,9 +310,8 @@ const L21_1 =
 			"k": "마당",
 			"m": "location",
 			"d": "Location indicates the mound of soil that hides a piggy bank full of coins.",
-			"e": "場所 장소 place, spot",
-			"lv": ["중학용","7급II(6급)"],
-			"ex": ["공장","工場"]
+			"e": "工場 공장 factory; 場所 장소 place, spot",
+			"lv": ["중학용","7급II(6급)"]
 		},
 		{
 			"q": "湯",
@@ -349,9 +319,8 @@ const L21_1 =
 			"k": "끓일",
 			"m": "hot water, soup, broth",
 			"d": "The savings of a piggy bank is only enough to get a soup.",
-			"e": "溫湯 온탕 hot water of the SPA",
-			"lv": ["고등용","3급II(2급)"],
-			"ex": ["갈비탕","갈비 湯"]
+			"e": "갈비湯 갈비탕 short rib soup; 溫湯 온탕 hot water of the SPA",
+			"lv": ["고등용","3급II(2급)"]
 		}
 	]
 };

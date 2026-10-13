@@ -7,9 +7,8 @@ const L23_1 = {
 	  "k": "손",
       "m": "hand",
       "d": "Pictograph of a hand. There's another variant of the kanji 扌 that appears always to the left, let's call it 'fingers'.",
-      "e": "手巾 수건 towel, facecloth; 洗手 세수 wash one's face and hands",
-      "lv": ["중학용","7급II(6급)"],
-      "ex": ["가수","歌手"]
+      "e": "歌手 가수 singer; 手巾 수건 towel, facecloth; 洗手 세수 wash one's face and hands",
+      "lv": ["중학용","7급II(6급)"]
     },
     {
       "q": "看",
@@ -17,9 +16,8 @@ const L23_1 = {
 	  "k": "볼",
       "m": "*watch over, examine",
       "d": "Picture a lifeguard standing in his tower with his hand over his eyes, watching over the swimmers below.",
-      "e": "看護 간호 nursing, care of the sick",
-      "lv": ["중학용","4급(3급)"],
-      "ex": ["간호사","看護師"]
+      "e": "看護師 간호사 nurse; 看護 간호 nursing, care of the sick",
+      "lv": ["중학용","4급(3급)"]
     },
     {
       "q": "摩",
@@ -28,8 +26,7 @@ const L23_1 = {
       "m": "chafe, rub",
       "d": "To chafe the hemp hand cream.",
       "e": "摩擦 마찰 rubbing, chafing, friction, discord",
-      "lv": ["","2급(1급)"],
-      "ex": ["마찰","摩擦"]
+      "lv": ["","2급(1급)"]
     },
     {
       "q": "我",
@@ -38,8 +35,7 @@ const L23_1 = {
       "m": "ego",
       "d": "Birthday party is a <b>fiesta</b> of the <b>ego</b>. There's a birthday party tradition to have the one who celebrates birthday seated on a chair, then the guests unite and using their <b>hands</b> raise the chair up the number of times equal to the age.",
       "e": "自我 자아 ego, self-esteem",
-      "lv": ["중학용","3급II(2급)"],
-      "ex": ["자아","自我"]
+      "lv": ["중학용","3급II(2급)"]
     },
     {
       "q": "義",
@@ -47,9 +43,8 @@ const L23_1 = {
 	  "k": "옳을",
       "m": "righteousness",
       "d": "Righteous Christians are sheeps with egos",
-      "e": "義務 의무 duty, obligation",
-      "lv": ["중학용","4급II(3급II)"],
-      "ex": ["강의","講義"]
+      "e": "講義 강의 lecture; 義務 의무 duty, obligation",
+      "lv": ["중학용","4급II(3급II)"]
     },
     {
       "q": "議",
@@ -58,8 +53,7 @@ const L23_1 = {
       "m": "consult, discuss, *deliberation",
       "d": "The members of the Roman senate spoke a lot of <b>words</b> so that the <b>discussion</b> should lead to the <b>righteous</b> conclusion.",
       "e": "會議 회의 meeting, conference, council",
-      "lv": ["중학용","4급II(3급II)"],
-      "ex": ["회의","會議"]
+      "lv": ["중학용","4급II(3급II)"]
     },
     {
       "q": "犠/犧",
@@ -68,8 +62,7 @@ const L23_1 = {
       "m": "sacrifice",
       "d": "It was ancient custom to sacrifice cows and sheeps to receive gods' blessing and assurance of own righteousness.",
       "e": "犧牲 희생 sacrifice",
-      "lv": ["","1급(특급)"],
-      "ex": ["희생","犧牲"]
+      "lv": ["","1급(특급)"]
     },
     {
       "q": "抹",
@@ -77,9 +70,8 @@ const L23_1 = {
 	  "k": "지울",
       "m": "wipe off, erase, *rub",
       "d": "When you're cold, your <b>rub</b> your <b>fingers</b> over your <b>extremities</b> vigorously to warm up a bit.",
-      "e": "抹消 말소 erasure, obliteration, cancel",
-      "lv": ["","1급(특급)"],
-      "ex": ["말살","抹殺/抹摋"]
+      "e": "抹殺/抹摋 말살 obliteration; 抹消 말소 erasure, obliteration, cancel",
+      "lv": ["","1급(특급)"]
     },
 	{
 	   "q": "拭",
@@ -88,8 +80,7 @@ const L23_1 = {
 	   "m" : "wipe away",
 	   "d" : "Why carry a handkerchief? I wipe my nose finger-style.",
 	   "e" : "拂拭 불식 wipe away, sweep off, eradicate",
-	   "lv": ["","1급(특급)"],
-	   "ex": ["불식","拂拭"]
+	   "lv": ["","1급(특급)"]
 	},
 	{
 	   "q" : "拉",
@@ -97,8 +88,7 @@ const L23_1 = {
 	   "k": "끌",
 	   "m" : "pull, drag, *yank",
 	   "d" : "He quickly yanked his fingers out of the vase. Maybe no one noticed the attempt to steal the cookies...",
-	   "e" : " 拉致 납치 kidnapping, abduction",
-	   "ex": ["납치","拉致"]
+	   "e" : " 拉致 납치 kidnapping, abduction"
 	},
     {
       "q": "抱",
@@ -106,9 +96,8 @@ const L23_1 = {
 	  "k": "안을",
       "m": "embrace",
       "d": "Wrap in arms = embrace.",
-      "e": "抱擁 포옹 embrace",
-      "lv": ["중학용","3급(2급)"],
-      "ex": ["포부","抱負"]
+      "e": "抱負 포부 ambition; 抱擁 포옹 embrace",
+      "lv": ["중학용","3급(2급)"]
     },
     {
       "q": "搭",
@@ -117,8 +106,7 @@ const L23_1 = {
       "m": "to board",
       "d": "Welcome aboard the pagoda tour. Attention! Make sure there is NO DIRT ON YOUR FINGERS when you board! The pagoda was recently cleaned.",
       "e": "搭乘 탑승 boarding, getting on board",
-      "lv": ["","1급(특급)"],
-      "ex": ["탑승","搭乘"]
+      "lv": ["","1급(특급)"]
     },
     {
       "q": "抄",
@@ -127,8 +115,7 @@ const L23_1 = {
       "m": "seize, *extract",
       "d": "One cannot grasp all the salt from a pack with two fingers, but extract a few.",
       "e": "抄本 초본 extract, abstract, abridged transcript",
-      "lv": ["고등용","3급(2급)"],
-      "ex": ["초본","抄本"]
+      "lv": ["고등용","3급(2급)"]
     },
     {
       "q": "抗",
@@ -137,8 +124,7 @@ const L23_1 = {
       "m": "resist, oppose, *confront",
       "d": "To resist a whirlwind use your fingers to clasp anything fixed and to keep your top hat on.",
       "e": "抗議 항의 protest; 對抗 대항 opposition, confrontation",
-      "lv": ["고등용","4급(3급)"],
-      "ex": ["항의","抗議"]
+      "lv": ["고등용","4급(3급)"]
     },
     {
       "q": "批",
@@ -147,8 +133,7 @@ const L23_1 = {
       "m": "criticize",
       "d": "To criticize is to compare and to point out with index finger the questionable issues.",
       "e": "批判 비판 critisism, comment, critique",
-      "lv": ["고등용","4급(3급)"],
-      "ex": ["비판","批判"]
+      "lv": ["고등용","4급(3급)"]
     },
     {
       "q": "招",
@@ -156,9 +141,8 @@ const L23_1 = {
 	  "k": "부를",
       "m": "*beckon, summon",
       "d": "Beckoning with the index finger: come here!",
-      "e": "招待 초대 invitation",
-      "lv": ["중학용","4급(3급)"],
-      "ex": ["초대장","招待狀"]
+      "e": "招待狀 초대장 invitation card; 招待 초대 invitation",
+      "lv": ["중학용","4급(3급)"]
     },
     {
       "q": "拓",
@@ -167,8 +151,7 @@ const L23_1 = {
       "m": "expand, open up",
       "d": "Rocks and stones are a nuisance on a new plot of land used for cultivation. There is no other way to make it suitable for agriculture but to pick up all the rocks and stones with your hands and to remove them.",
       "e": "開拓 개척 reclamation, clearing of a land, bringing under cultivation",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["개척","開拓"]
+      "lv": ["고등용","3급II(2급)"]
     },
     {
       "q": "拍",
@@ -177,8 +160,7 @@ const L23_1 = {
       "m": "*clap, tap",
       "d": "Child game with small images of Donald Duck, aircrafts or cars that were inside the chewing gum wrapper: put the images in a pile with <b>white</b> empty side upwards, then <b>clap</b> with a hand on the pile and see which images has been turned and show the image upwards. The sheets with images upwards are the gain in the round.",
       "e": "拍手 박수 hand clapping",
-      "lv": ["고등용","4급(3급)"],
-      "ex": ["박수","拍手"]
+      "lv": ["고등용","4급(3급)"]
     },
     {
       "q": "打",
@@ -186,9 +168,8 @@ const L23_1 = {
 	  "k": "칠 ",
       "m": "strike, hit",
       "d": "In order to drive a <b>nail</b> or a spike in one has to hold it first with his <b>fingers</b> upright and then <b>strike</b> with a hammer. Take care not to strike your fingers!",
-      "e": "打字 타자 typing on a keyboard/typewriter",
-      "lv": ["중학용","5급(4급)"],
-      "ex": ["타격","打擊"]
+      "e": "打擊 타격 blow, hit; 打字 타자 typing on a keyboard/typewriter",
+      "lv": ["중학용","5급(4급)"]
     },
     {
       "q": "拘",
@@ -197,8 +178,7 @@ const L23_1 = {
       "m": "restrain, *arrest",
       "d": "While a policemen <b>arrests</b> a criminal he cuffs the criminal's hands and recites Miranda warning: predefined <b>phrases</b> about the person's rights.",
       "e": "拘束 구속 restriction, constraint, arrest, confinement",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["구속","拘束"]
+      "lv": ["고등용","3급II(2급)"]
     },
     {
       "q": "捨",
@@ -206,9 +186,8 @@ const L23_1 = {
 	  "k": "버릴",
       "m": "discard",
       "d": "The wicked witch from Hansel and Gretel only likes the meaty parts of kids. Outside her candy <b>cottage</b>, you can see a pile of <b>discarded</b> <b>fingers</b>.",
-      "e": "取捨 취사 selection, election",
-      "lv": ["고등용","3급(2급)"],
-      "ex": ["고사하다","姑捨 하다"]
+      "e": "姑捨하다 고사하다 let alone; 取捨 취사 selection, election",
+      "lv": ["고등용","3급(2급)"]
     },
     {
       "q": "拐",
@@ -217,8 +196,7 @@ const L23_1 = {
       "m": "kidnap, abduct",
       "d": "Kidnapping goes like this, after you kidnap somebody, you hold a dagger before the mouth of the victim and have him talk so that people know he's still alive. Then you send one of his fingers to let 'em know your serious intentions.",
       "e": "誘拐 유괴 kidnapping, abduction",
-      "lv": ["","1급(특급)"],
-      "ex": ["유괴","誘拐"]
+      "lv": ["","1급(특급)"]
     },
     {
       "q": "摘",
@@ -227,8 +205,7 @@ const L23_1 = {
       "m": "pick, *pinch",
       "d": "My grandma used to pinch my cheeks with her antique fingers.",
       "e": "指摘 지적 indication",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["지적","指摘"]
+      "lv": ["고등용","3급II(2급)"]
     },
     {
       "q": "挑",
@@ -237,8 +214,7 @@ const L23_1 = {
       "m": "load up on shoulders, carry, *challenge",
       "d": "The rabbit pointed his <b>finger</b> at the <b>turtle</b> and said: 'I <b>challenge</b> you for a race!' The rest is history...",
       "e": "挑戰 도전 challenge",
-      "lv": ["고등용","3급(2급)"],
-      "ex": ["도전","挑戰"]
+      "lv": ["고등용","3급(2급)"]
     },
     {
       "q": "指",
@@ -247,8 +223,7 @@ const L23_1 = {
       "m": "indicate, point, *to finger",
       "d": "Look over there, I'm pointing out something so delicious that you want to lick your fingers.",
       "e": "半指 반지 (finger)ring; 指摘 지적 indication",
-      "lv": ["중학용","4급II(3급II)"],
-      "ex": ["반지","半指/斑指"]
+      "lv": ["중학용","4급II(3급II)"]
     },
     {
       "q": "持",
@@ -256,9 +231,8 @@ const L23_1 = {
 	  "k": "가질",
       "m": "*hold, sustain",
       "d": "At Buddhist temples monks pray holding and fingering prayer beads.",
-      "e": "持續 지속 continuation",
-      "lv": ["중학용","4급(3급)"],
-      "ex": ["소지품","所持品"]
+      "e": "所持品 소지품 belongings; 持續 지속 continuation",
+      "lv": ["중학용","4급(3급)"]
     },
     {
       "q": "括",
@@ -266,9 +240,8 @@ const L23_1 = {
 	  "k": "묶을",
       "m": "include, embrace; *fasten",
       "d": "Teacher was always telling us to fasten our lips by pulling a zipper shut with our fingers. It always frightened me because I imagined getting my tongue stuck in the zipper.",
-      "e": "括弧 괄호 parentheses, brackets",
-      "lv": ["","1급(특급)"],
-      "ex": ["개괄적","槪括的"]
+      "e": "槪括的 개괄적 general, overall; 括弧 괄호 parentheses, brackets",
+      "lv": ["","1급(특급)"]
     },
     {
       "q": "揮",
@@ -277,8 +250,7 @@ const L23_1 = {
       "m": "brandish",
       "d": "A military leader in his chariot is brandishing his finger at the enemy, crying 'chaaaaaaaaarrrgggeeee!'",
       "e": "發揮 발휘 demonstration, manifestation, display",
-      "lv": ["고등용","4급(3급)"],
-      "ex": ["발휘","發揮"]
+      "lv": ["고등용","4급(3급)"]
     },
     {
       "q": "推",
@@ -286,9 +258,8 @@ const L23_1 = {
 	  "k": "밀",
       "m": "push; *conjecture",
       "d": "In mathematics, a conjecture is a mathematical statement which has been proposed as a true statement, but which no one has yet been able to prove or disprove. Have you heard of the Finger-Turkey conjecture ? It states that if turkeys had fingers, they would be able to count.",
-      "e": "推測 추측 conjecture; 推敲 퇴고 polish, elaboration",
-      "lv": ["중학용","4급(3급)"],
-      "ex": ["추진","推進"]
+      "e": "推進 추진 promotion, propulsion; 推測 추측 conjecture; 推敲 퇴고 polish, elaboration",
+      "lv": ["중학용","4급(3급)"]
     },
     {
       "q": "揚",
@@ -297,8 +268,7 @@ const L23_1 = {
       "m": "let fly, *hoist",
       "d": "There are few reasons to take the <b>piggy bank</b> in <b>hands</b>. The most important is to <b>let it fly</b> against the wall.",
       "e": "抑揚 억양 intonation, modulation; 揭揚하다 게양하다 put up, hoist",
-      "lv": ["중학용","3급II(2급)"],
-      "ex": ["억양","抑揚"]
+      "lv": ["중학용","3급II(2급)"]
     },
     {
       "q": "提",
@@ -307,8 +277,7 @@ const L23_1 = {
       "m": "hold/lift in hand, *propose",
       "d": "He nervously fiddled with the velvet box, his trembling <b>fingers</b> almost fumbling it open before he could propose. 'I just want things to be <b>just so</b>,' he whispered to himself, wanting the moment to be perfect, a memory they would both cherish.",
       "e": "前提 전제 premise; 提供 제공 supply, offer",
-      "lv": ["고등용","4급II(3급II)"],
-      "ex": ["전제","前提"]
+      "lv": ["고등용","4급II(3급II)"]
     },
     {
       "q": "損",
@@ -317,8 +286,7 @@ const L23_1 = {
       "m": "diminish, impair, *damage",
       "d": "A priceless Ming vase has been <b>damaged</b> because of nervous <b>fingers</b> of a newbie <b>employee</b>.",
       "e": "損害 손해 damage, injury, harm",
-      "lv": ["고등용","4급(3급)"],
-      "ex": ["손해","損害"]
+      "lv": ["고등용","4급(3급)"]
     },
     {
       "q": "拾",
@@ -326,9 +294,8 @@ const L23_1 = {
 	  "k": "주울",
       "m": "pick up, collect",
       "d": "Fingers put together - a gesture to pick something up.",
-      "e": "拾得하다 습득하다 pick up",
-      "lv": ["중학용","3급II(2급)"],
-      "ex": ["뒷수습","뒷 收拾"]
+      "e": "뒷收拾 뒷수습 cleaning up afterwards; 拾得하다 습득하다 pick up",
+      "lv": ["중학용","3급II(2급)"]
     },
     {
       "q": "担/擔",
@@ -336,9 +303,8 @@ const L23_1 = {
 	  "k": "멜",
       "m": "carry, undertake, *shouldering",
       "d": "One of Hercules' labors was to hold the world in his fingers for Atlas and not move until nightbreak, shouldering the considerable burden.<br>A <b>man</b> under a cliff used many <b>words</b> to persuade another one to <b>carry</b> him up the rock using <b>hands</b> and <b>binding</b>.",
-      "e": "負擔 부담 burden, charge, load",
-      "lv": ["고등용","4급II(3급II)"],
-      "ex": ["담당","擔當"]
+      "e": "擔當 담당 charge, responsibility; 負擔 부담 burden, charge, load",
+      "lv": ["고등용","4급II(3급II)"]
     },
     {
       "q": "拠/據",
@@ -347,8 +313,7 @@ const L23_1 = {
       "m": "to base upon, *foothold",
       "d": "If you lose your foothold you will have to hold on for dear life with your fingers as your legs are left dangling in the wind.<br>A rock climber hangs on his <b>fingers</b> over a precipice, where <b>seven</b> wild <b>boars</b> run about. Only magic wand can save him.",
       "e": "根據 근거 ground, basis",
-      "lv": ["고등용","4급(3급)"],
-      "ex": ["근거","根據"]
+      "lv": ["고등용","4급(3급)"]
     },
     {
       "q": "描",
@@ -357,8 +322,7 @@ const L23_1 = {
       "m": "sketch",
       "d": "A sketch of grass seedlings made with fingers on the sand.",
       "e": "描寫 묘사 description, representation",
-      "lv": ["","1급(특급)"],
-      "ex": ["묘사","描寫"]
+      "lv": ["","1급(특급)"]
     },
     {
       "q": "操",
@@ -367,8 +331,7 @@ const L23_1 = {
       "m": "conduct, manage, *manoeuvre",
       "d": "One has to manoeuvre with fingers cautiously to decorate New Year tree with the goods like glass balls.",
       "e": "操心 조심 care, caution",
-      "lv": ["고등용","5급(4급)"],
-      "ex": ["조심","操心"]
+      "lv": ["고등용","5급(4급)"]
     },
     {
       "q": "接",
@@ -376,9 +339,8 @@ const L23_1 = {
 	  "k": "이을",
       "m": "receive; connect, *touch",
       "d": "At a party a woman standing at the entrance and receives the guests, welcomes them, stretches her arms to shake hands.",
-      "e": "待接 대접 treatment, reception; hospitality",
-      "lv": ["중학용","4급II(3급II)"],
-      "ex": ["직접","直接"]
+      "e": "直接 직접 directly; 待接 대접 treatment, reception; hospitality",
+      "lv": ["중학용","4급II(3급II)"]
     },
     {
       "q": "揭",
@@ -387,8 +349,7 @@ const L23_1 = {
       "m": "raise, lift up; *put up notice",
       "d": "As long as no one responds to the published notice, one can continue siesta and sleep having his fingers crosed on the belly.",
       "e": "揭示 게시 notice, placard, bulletin",
-      "lv": ["","2급(1급)"],
-      "ex": ["게시","揭示"]
+      "lv": ["","2급(1급)"]
     },
     {
       "q": "掛",
@@ -396,9 +357,8 @@ const L23_1 = {
 	  "k": "걸",
       "m": "hang, suspend",
       "d": "Naked Tarzan is swinging through the jungle, gripping the ivy with his fingers, his wand hanging out.",
-      "e": "掛鐘 괘종 wall clock",
-      "lv": ["고등용","3급(2급)"],
-      "ex": ["괘념","掛念"]
+      "e": "掛念 괘념 concern, worry; 掛鐘 괘종 wall clock",
+      "lv": ["고등용","3급(2급)"]
     }
   ]
 };

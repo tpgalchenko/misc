@@ -8,9 +8,8 @@ const L21_2 =
 			"k": "양",
 			"m": "sheep",
 			"d": "This pictograph shows the animal horns at the top attached to the head (3rd stroke), the front and back legs (strokes 4 and 5) and body (final stroke).",
-			"e": "羊毛 양모 wool",
-			"lv": ["중학용","4급II(3급II)"],
-			"ex": ["양","羊"]
+			"e": "羊 양 sheep; 羊毛 양모 wool",
+			"lv": ["중학용","4급II(3급II)"]
 		},
 		{
 			"q": "美",
@@ -18,9 +17,8 @@ const L21_2 =
 			"k": "아름다울",
 			"m": "beauty",
 			"d": "Try to think of what the Chinese were on to when they associated the idea of beauty with a large sheep.",
-			"e": "美術 미술 art, fine arts",
-			"lv": ["중학용","6급(5급)"],
-			"ex": ["미국","美國"]
+			"e": "美國 미국 USA; 美術 미술 art, fine arts",
+			"lv": ["중학용","6급(5급)"]
 		},
 		{
 			"q": "洋",
@@ -29,8 +27,7 @@ const L21_2 =
 			"m": "ocean; overseas, foreign, western",
 			"d": "Great Britain imported <b>sheep</b> wool from <b>overseas</b> like Australia and New Zeland.",
 			"e": "海洋 해양 ocean; 西洋 서양 the West, Europe and America",
-			"lv": ["중학용","6급(5급)"],
-			"ex": ["서양","西洋"]
+			"lv": ["중학용","6급(5급)"]
 		},
 		{
 			"q": "詳",
@@ -38,9 +35,8 @@ const L21_2 =
 			"k": "자세할",
 			"m": "detailed",
 			"d": "The sheeps were ofter sacrificed to gods, that is they became a kind of words substitute in the message to gods. He who make sacrifice must be <b>detailed</b> in his message to that the god understood him correctly.",
-			"e": "昭詳하다 소상하다 full, detailed, minute",
-			"lv": ["고등용","3급II(2급)"],
-			"ex": ["상세하다","詳細 하다"]
+			"e": "詳細하다 상세하다 detailed; 昭詳하다 소상하다 full, detailed, minute",
+			"lv": ["고등용","3급II(2급)"]
 		},
 		{
 			"q": "鮮",
@@ -49,8 +45,7 @@ const L21_2 =
 			"m": "fresh",
 			"d": "The meat must be fresh, whether is lamb or fish.",
 			"e": "生鮮 생선 fresh/raw fish; 朝鮮 조선 Korea",
-			"lv": ["중학용","5급II(4급II)"],
-			"ex": ["생선","生鮮"]
+			"lv": ["중학용","5급II(4급II)"]
 		},
 		{
 			"q": "達",
@@ -59,8 +54,7 @@ const L21_2 =
 			"m": "arrive at, reach; *accomplished",
 			"d": "While going to their native sheepfold a herd of sheeps finds a mould of soil that blocks on the road and hinders to reach the goal. The sheeps start stubbornly to run their heads into the mould just to break throught and arrive at home.",
 			"e": "配達 배달 delivery; 達成 달성 accomplishment",
-			"lv": ["중학용","4급II(3급II)"],
-			"ex": ["배달","配達"]
+			"lv": ["중학용","4급II(3급II)"]
 		},
 		{
 			"q": "羨",
@@ -69,8 +63,7 @@ const L21_2 =
 			"m": "envy",
 			"d": "A sheep lacking water envies everyone who drinks.",
 			"e": "羨望 선망 envy",
-			"lv": ["","1급(특급)"],
-			"ex": ["선망","羨望"]
+			"lv": ["","1급(특급)"]
 		},
 		{
 			"q": "羊 + 丿",
@@ -85,9 +78,8 @@ const L21_2 =
 			"k": "다를",
 			"m": "differ, distinction",
 			"d": "There is a huge distinction between WoolCraft and WarCraft.",
-			"e": "差異 차이 difference",
-			"lv": ["고등용","4급(3급)"],
-			"ex": ["차별","差別"]
+			"e": "差別 차별 discrimination; 差異 차이 difference",
+			"lv": ["고등용","4급(3급)"]
 		},
 		{
 			"q": "着",
@@ -96,8 +88,7 @@ const L21_2 =
 			"m": "to stick; *to don",
 			"d": "Donning (putting on) one’s clothes is “pulling the wool over one’s eyes.",
 			"e": "到着 도착 arrival; 着用 착용 put on, wear",
-			"lv": ["중학용","5급II(4급II)"],
-			"ex": ["도착","到着"]
+			"lv": ["중학용","5급II(4급II)"]
 		},
 		{
 			"q": "隹",
@@ -114,8 +105,7 @@ const L21_2 =
 			"m": "only, solely",
 			"d": "The only use of turkey is to fill our mouths at the Thanksgiving day.",
 			"e": "唯一하다 유일하다 sole, only, unique",
-			"lv": ["중학용","3급(2급)"],
-			"ex": ["유일","唯一/惟一"]
+			"lv": ["중학용","3급(2급)"]
 		},
 		{
 			"q": "焦",
@@ -124,8 +114,7 @@ const L21_2 =
 			"m": "burned, charry; anxious",
 			"d": "Impatient like a burned turkey.",
 			"e": "焦點 초점 focus; 焦燥 초조 fretfulness, impatience, irritation",
-			"lv": ["","2급(1급)"],
-			"ex": ["초점","焦點"]
+			"lv": ["","2급(1급)"]
 		},
 		{
 			"q": "礁",
@@ -134,8 +123,7 @@ const L21_2 =
 			"m": "reef",
 			"d": "A reef is a rock that got scorched after a ship wrecked and was burned down by fire.",
 			"e": "暗礁 암초 submerged rocks, unknown reef",
-			"lv": ["","1급(특급)"],
-			"ex": ["암초","暗礁"]
+			"lv": ["","1급(특급)"]
 		},
 		{
 			"q": "集",
@@ -143,9 +131,8 @@ const L21_2 =
 			"k": "모을",
 			"m": "assemble, gather",
 			"d": "A flock of birds gathers on the top of a tree.",
-			"e": "集團 집단 group, mass",
-			"lv": ["중학용","6급II(5급II)"],
-			"ex": ["모집","募集"]
+			"e": "募集 모집 recruitment; 集團 집단 group, mass",
+			"lv": ["중학용","6급II(5급II)"]
 		},
 		{
 			"q": "椎",
@@ -154,8 +141,7 @@ const L21_2 =
 			"m": "sweet oak; vertebra",
 			"d": "This is the kanji for the shii tree, on which shiitake (椎茸) mushrooms grow. Picture a turkey dropping by the shii tree to gobble down some of those sweet oaky (shiitake) mushrooms.",
 			"e": "脊椎 척추 backbone, spine",
-			"lv": ["","1급(특급)"],
-			"ex": ["척추","脊椎"]
+			"lv": ["","1급(특급)"]
 		},
 		{
 			"q": "誰",
@@ -173,8 +159,7 @@ const L21_2 =
 			"m": "approve, ratify; *quasi-",
 			"d": "A frozen turkey in ice is not yet a ready meal for the Thanksgiving day, it still has to be approved by the chief cook.",
 			"e": "批准 비준 ratification",
-			"lv": ["","2급(1급)"],
-			"ex": ["비준","批准"]
+			"lv": ["","2급(1급)"]
 		},
 		{
 			"q": "進",
@@ -183,8 +168,7 @@ const L21_2 =
 			"m": "advance, progress",
 			"d": "Birds can only fly forward, so they are always advancing on their way.",
 			"e": "先進 선진 advanced, superior",
-			"lv": ["중학용","4급II(3급II)"],
-			"ex": ["선진","先進"]
+			"lv": ["중학용","4급II(3급II)"]
 		},
 		{
 			"q": "雑/雜",
@@ -192,9 +176,8 @@ const L21_2 =
 			"k": "섞일",
 			"m": "mixed, *miscellaneous",
 			"d": "Nine birds gathered on top of a tree to make a mess with their cries because of a top hot.",
-			"e": "複雜 복잡 complexity, complication, intricacy",
-			"lv": ["고등용","4급(3급)"],
-			"ex": ["잡지","雜誌"]
+			"e": "雜誌 잡지 magazine; 複雜 복잡 complexity, complication, intricacy",
+			"lv": ["고등용","4급(3급)"]
 		},
 		{
 			"q": "堆",
@@ -202,9 +185,8 @@ const L21_2 =
 			"k": "흙무더기/쌓을",
 			"m": "pile up, store up",
 			"d": "After Thanksgiving, the dismembered half-eaten turkey carcasses are piled high in a mass grave and buried under soil.",
-			"e": "堆積 퇴적 accumulation, pile, heap",
-			"lv": ["","1급(특급)"],
-			"ex": ["퇴비","堆肥"]
+			"e": "堆肥 퇴비 compost; 堆積 퇴적 accumulation, pile, heap",
+			"lv": ["","1급(특급)"]
 		},
 		{
 			"q": "此",
@@ -213,8 +195,7 @@ const L21_2 =
 			"m": "this here",
 			"d": "'<b>This</b> place' is the place where one has come, stopped, sat down.",
 			"e": "如此하다 여차하다 such, (like) this; 於此彼 어차피 anyhow, anyway",
-			"lv": ["중학용","3급II(2급)"],
-			"ex": ["어차피","於此彼"]
+			"lv": ["중학용","3급II(2급)"]
 		},
 		{
 			"q": "雌",
@@ -231,9 +212,8 @@ const L21_2 =
 			"k": "준할",
 			"m": "rule, guideline, standard; *semi-",
 			"d": "Water paths serve as guidelines and crossroads for birds.",
-			"e": "水準 수준 water level; standard",
-			"lv": ["고등용","4급II(3급II)"],
-			"ex": ["준비","準備"]
+			"e": "準備 준비 preparation; 水準 수준 water level; standard",
+			"lv": ["고등용","4급II(3급II)"]
 		},
 		{
 			"q": "奪",
@@ -241,9 +221,8 @@ const L21_2 =
 			"k": "빼앗을",
 			"m": "rob, take by force",
 			"d": "In order to save the turkeys from robbery the guardian St. Bernard dog simply glued the birds to their perches.",
-			"e": "強奪 강탈 extortion, robbery",
-			"lv": ["고등용","3급II(2급)"],
-			"ex": ["박탈","剝奪"]
+			"e": "剝奪 박탈 deprivation; 強奪 강탈 extortion, robbery",
+			"lv": ["고등용","3급II(2급)"]
 		},
 		{
 			"q": "奮",
@@ -252,8 +231,7 @@ const L21_2 =
 			"m": "strive; arouse",
 			"d": "Aroused St. Bernard dog runs about to chase the turkeys that graze on a rice field.",
 			"e": "興奮 흥분 excitement, agitation",
-			"lv": ["고등용","3급II(2급)"],
-			"ex": ["흥분","興奮"]
+			"lv": ["고등용","3급II(2급)"]
 		},
 		{
 			"q": "確",
@@ -261,9 +239,8 @@ const L21_2 =
 			"k": "굳을",
 			"m": "sure, certain",
 			"d": "Turkey's coop is made of rock, so it is assured against bad weather and all other unexpected troubles.",
-			"e": "確認 확인 confirmation, validation",
-			"lv": ["고등용","4급II(3급II)"],
-			"ex": ["정확","正確"]
+			"e": "正確 정확 accuracy; 確認 확인 confirmation, validation",
+			"lv": ["고등용","4급II(3급II)"]
 		},
 		{
 			"q": "午",
@@ -271,9 +248,8 @@ const L21_2 =
 			"k": "낮",
 			"m": "noon",
 			"d": "With a bit of stretching, you might see a horse’s head pointing leftwards in this character. That gives the primary meaning of the Chinese zodiacal sign of the horse, which corresponds to the hour of noon. Note how this kanji primitive differs from that for cow.",
-			"e": "午後 오후 afternoon",
-			"lv": ["중학용","7급II(6급)"],
-			"ex": ["오전","午前"]
+			"e": "午前 오전 morning, a.m.; 午後 오후 afternoon",
+			"lv": ["중학용","7급II(6급)"]
 		},
 		{
 			"q": "許",
@@ -281,9 +257,8 @@ const L21_2 =
 			"k": "허락할",
 			"m": "permit, allow",
 			"d": "Yahoo horses can speak, so a rider must ask for permission if he wants to have a ride.",
-			"e": "許諾 허락 consent, approval",
-			"lv": ["중학용","5급(4급)"],
-			"ex": ["면허","免許"]
+			"e": "免許 면허 license; 許諾 허락 consent, approval",
+			"lv": ["중학용","5급(4급)"]
 		},
 		{
 			"q": "隺",
@@ -314,9 +289,8 @@ const L21_2 =
 			"k": "기쁠",
 			"m": "pleased, glad, *delight",
 			"d": "Flying horses that yawn. A satiated stork yawns from happiness and delight.",
-			"e": "歡心 환심 good graces, favor",
-			"lv": ["중학용","4급(3급)"],
-			"ex": ["환영","歡迎"]
+			"e": "歡迎 환영 welcome; 歡心 환심 good graces, favor",
+			"lv": ["중학용","4급(3급)"]
 		},
 		{
 			"q": "権/權",
@@ -324,9 +298,8 @@ const L21_2 =
 			"k": "저울추/권세",
 			"m": "authority",
 			"d": "Pegasus/stork sits on a tree like a king on his throne and imposes his authority on to the subjects.",
-			"e": "權勢 권세 power, authority",
-			"lv": ["중학용","4급II(3급II)"],
-			"ex": ["권력","權力"]
+			"e": "權力 권력 power; 權勢 권세 power, authority",
+			"lv": ["중학용","4급II(3급II)"]
 		},
 		{
 			"q": "観/觀",
@@ -334,9 +307,8 @@ const L21_2 =
 			"k": "볼",
 			"m": "see, view; *outlook",
 			"d": "Flying horses and storks love to watch Olympic games but each time they arrive there they become the object of overall attention due to their extravagant outlook.",
-			"e": "觀客 관객 spectator, audience; 外觀 외관 external appearance",
-			"lv": ["중학용","5급II(4급II)"],
-			"ex": ["관광","觀光"]
+			"e": "觀光 관광 sightseeing, tourism; 觀客 관객 spectator, audience; 外觀 외관 external appearance",
+			"lv": ["중학용","5급II(4급II)"]
 		},
 		{
 			"q": "羽",
@@ -353,8 +325,7 @@ const L21_2 =
 			"m": "practice, *learn",
 			"d": "By the time you're old and all your feathers have turned white, you should have learned a thing or two.",
 			"e": "復習 복습 review, revision; 學習 학습 learning, study",
-			"lv": ["중학용","6급(5급)"],
-			"ex": ["복습","復習"]
+			"lv": ["중학용","6급(5급)"]
 		},
 		{
 			"q": "翌",
@@ -363,8 +334,7 @@ const L21_2 =
 			"m": "bright, daybreak; *the next (day)",
 			"d": "What will you do the next day as the sun comes up? Piss into a shiny bronze vase with wings.",
 			"e": "翌日 익일 the next day",
-			"lv": ["","1급(특급)"],
-			"ex": ["익일","翌日"]
+			"lv": ["","1급(특급)"]
 		},
 		{
 			"q": "曜",
@@ -373,8 +343,7 @@ const L21_2 =
 			"m": "daylight; *weekday",
 			"d": "As sun rises up a cock cries and flaps its wings : a new day has come.",
 			"e": "曜日 요일 a day of the week",
-			"lv": ["","5급(4급)"],
-			"ex": ["요일","曜日"]
+			"lv": ["","5급(4급)"]
 		},
 		{
 			"q": "濯",
@@ -382,9 +351,8 @@ const L21_2 =
 			"k": "씻을",
 			"m": "laundry",
 			"d": "A bird washes itself by spraying water on itself and then flaps its wings to shake off the water and the dirt. A kind of bird laundry for bird clothes - feathers.",
-			"e": "洗濯 세탁 washing, laundry",
-			"lv": ["고등용","3급(2급)"],
-			"ex": ["세탁기","洗濯機"]
+			"e": "洗濯機 세탁기 washing machine; 洗濯 세탁 washing, laundry",
+			"lv": ["고등용","3급(2급)"]
 		}
 	]
 };

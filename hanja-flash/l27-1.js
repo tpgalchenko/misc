@@ -15,9 +15,8 @@ const L27_1 = {
 	  "k": "도울",
       "m": "assistant, subordinate",
       "d": "A person's left-hand man (or woman) aka, their assistant. Military tradition dictates that lower-ranking soldiers stand on the left, shielding, literally, the superior, leaving the superior's right hand (sword hand) free.",
-      "e": "補佐/輔佐 보좌 assistance, aid",
-      "lv": ["고등용","3급(2급)"],
-      "ex": ["보좌관","補佐官"]
+      "e": "補佐官 보좌관 aide; 補佐/輔佐 보좌 assistance, aid",
+      "lv": ["고등용","3급(2급)"]
     },
     {
       "q": "侶",
@@ -25,9 +24,8 @@ const L27_1 = {
 	  "k": "짝",
       "m": "partner",
       "d": "Partner? P-shah. Chuck Norris has enough spine for two men.",
-      "e": "伴侶 반려 companion, associate, comrade, partner",
-      "lv": ["","1급(특급)"],
-      "ex": ["승려","僧侶"]
+      "e": "僧侶 승려 monk; 伴侶 반려 companion, associate, comrade, partner",
+      "lv": ["","1급(특급)"]
     },
     {
       "q": "但",
@@ -36,8 +34,7 @@ const L27_1 = {
       "m": "however",
       "d": "Most people go to bed at nightbreak. <b>However</b>, Chuck Norris does not. He does not sleep, he waits.",
       "e": "但只 단지 only, merely, just",
-      "lv": ["중학용","3급II(2급)"],
-      "ex": ["단지","但只"]
+      "lv": ["중학용","3급II(2급)"]
     },
     {
       "q": "住",
@@ -45,9 +42,8 @@ const L27_1 = {
 	  "k": "살",
       "m": "dwell",
       "d": "One punch from Mr. <b>Chuck Norris</b> and you'll be off to <b>dwell</b> with the <b>Lord</b> in the afterlife.",
-      "e": "住宅 주택 house residence",
-      "lv": ["중학용","7급(6급)"],
-      "ex": ["주소","住所"]
+      "e": "住所 주소 address; 住宅 주택 house residence",
+      "lv": ["중학용","7급(6급)"]
     },
     {
       "q": "位",
@@ -56,8 +52,7 @@ const L27_1 = {
       "m": "rank",
       "d": "In the military, when a person of higher rank enters the room, you have to stand up.",
       "e": "位置 위치 place, position, situation",
-      "lv": ["중학용","5급(4급)"],
-      "ex": ["위치","位置"]
+      "lv": ["중학용","5급(4급)"]
     },
     {
       "q": "仲",
@@ -66,8 +61,7 @@ const L27_1 = {
       "m": "go-between",
       "d": "Instead of solving international relation crises with diplomatic go-betweens, just send Chuck Norris in the middle so he can calm down the two parties.",
       "e": "仲介 중개 intermediation, mediation, agency",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["중개","仲介"]
+      "lv": ["고등용","3급II(2급)"]
     },
     {
       "q": "体/體",
@@ -75,9 +69,8 @@ const L27_1 = {
 	  "k": "몸",
       "m": "body",
       "d": "Chuck Norris doesn't read books, he simply stares the book down till the information absorbs into his body.",
-      "e": "",
-      "lv": ["중학용","6급II(5급II)"],
-      "ex": ["전체","全體"]
+      "e": "全體 전체 whole, entirety",
+      "lv": ["중학용","6급II(5급II)"]
     },
     {
       "q": "悠",
@@ -85,9 +78,8 @@ const L27_1 = {
 	  "k": "멀",
       "m": "remote, leisurely",
       "d": "<b>Chuck Norris</b> ventured out into a <b>remote</b> and calm area to visit with his wise, old <b>taskmaster</b> who must use now a <b>walking stick</b> to get around and originally gave Chuck Norris the <b>heart</b> to fight crime for the good of the society.",
-      "e": "悠然하다 유연하다 calm, composed, serene",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["유유히","悠悠 히"]
+      "e": "悠悠히 유유히 leisurely; 悠然하다 유연하다 calm, composed, serene",
+      "lv": ["고등용","3급II(2급)"]
     },
     {
       "q": "件",
@@ -95,9 +87,8 @@ const L27_1 = {
 	  "k": "물건",
       "m": "affair, matter",
       "d": "The mad cow epidemic was a very serious affair. Fortunately, Chuck Norris was there, he single-handedly solved the crisis by roundhouse-kicking all the ill cows.",
-      "e": "事件 사건 event, happening, incident",
-      "lv": ["고등용","5급(4급)"],
-      "ex": ["물건","物件"]
+      "e": "物件 물건 thing, goods; 事件 사건 event, happening, incident",
+      "lv": ["고등용","5급(4급)"]
     },
     {
       "q": "仕",
@@ -106,8 +97,7 @@ const L27_1 = {
       "m": "*attend; serve government",
       "d": "Chuck Norris attends samurai school, he is keen on raising good samurais to help him.",
       "e": "奉仕 봉사 service, public duty, attendance",
-      "lv": ["중학용","5급II(4급II)"],
-      "ex": ["봉사","奉仕"]
+      "lv": ["중학용","5급II(4급II)"]
     },
     {
       "q": "他",
@@ -115,9 +105,8 @@ const L27_1 = {
 	  "k": "다를",
       "m": "other",
       "d": "Chuck Norris once kicked a scorpion to the <b>other</b> side of the galaxy. It is still there, as the constellation Scorpio.",
-      "e": "其他 기타 the others, the rest",
-      "lv": ["중학용","5급(4급)"],
-      "ex": ["타인","他人"]
+      "e": "他人 타인 others, other person; 其他 기타 the others, the rest",
+      "lv": ["중학용","5급(4급)"]
     },
     {
       "q": "伏",
@@ -125,9 +114,8 @@ const L27_1 = {
 	  "k": "엎드릴",
       "m": "prostrated, lie hidden",
       "d": "Event Chuck Norris lies prostrated during the sambok dog days.",
-      "e": "三伏 삼복 the dog days (初伏 초복, 中伏 중복, 末伏 말복); 埋伏 매복 ambush",
-      "lv": ["중학용","4급(3급)"],
-      "ex": ["삼복더위","三伏 더위"]
+      "e": "三伏더위 삼복더위 midsummer heat; 三伏 삼복 the dog days (初伏 초복, 中伏 중복, 末伏 말복); 埋伏 매복 ambush",
+      "lv": ["중학용","4급(3급)"]
     },
     {
       "q": "伝/傳",
@@ -135,9 +123,8 @@ const L27_1 = {
 	  "k": "전할",
       "m": "transmit",
       "d": "Chuck Norris transmits messages to Bruce Lee just by farting huge clouds of smoke.<br>Chuck Norris's speciality is roundhouse-kick and he transmits it to his disciples.",
-      "e": "傳達 전달 transmission, communication",
-      "lv": ["중학용","5급II(4급II)"],
-      "ex": ["전하다","傳 하다"]
+      "e": "傳하다 전하다 convey, deliver; 傳達 전달 transmission, communication",
+      "lv": ["중학용","5급II(4급II)"]
     },
     {
       "q": "仏/佛",
@@ -146,8 +133,7 @@ const L27_1 = {
       "m": "Buddha",
       "d": "Chuck Norris is like Buddha who does not care about dollar signs.<br>Out of respect for Buddha, Chuck Norris simply elbows him rather than roundhouse-kicking him in the face. However, the sheer force of Chuck Norris's elbow is still powerful enough to bring Buddha to enlightenment in one blow.",
       "e": "佛敎 불교 Buddhism; 佛語 불어 French language",
-      "lv": ["중학용","4급II(3급II)"],
-      "ex": ["불교","佛敎"]
+      "lv": ["중학용","4급II(3급II)"]
     },
     {
       "q": "休",
@@ -155,9 +141,8 @@ const L27_1 = {
 	  "k": "쉴",
       "m": "rest, stop",
       "d": "Chuck norris rests againsts the tree, but wait, no... the tree rests and stands against him.",
-      "e": "休息 휴식 rest, repose; 休紙 휴지 wastepaper, paper scraps",
-      "lv": ["중학용","7급(6급)"],
-      "ex": ["연휴","連休"]
+      "e": "連休 연휴 consecutive holidays; 休息 휴식 rest, repose; 休紙 휴지 wastepaper, paper scraps",
+      "lv": ["중학용","7급(6급)"]
     },
     {
       "q": "仮",
@@ -174,8 +159,7 @@ const L27_1 = {
       "m": "talent, *performing artist",
       "d": "Chuck Norris didn't branch out into a performing artist... performing arts branched out to him.",
       "e": "伎倆 (技倆) 기량 skill",
-      "lv": ["","1급(특급)"],
-      "ex": ["기량","技倆/伎倆"]
+      "lv": ["","1급(특급)"]
     },
     {
       "q": "伯",
@@ -183,9 +167,8 @@ const L27_1 = {
 	  "k": "맏",
       "m": "older brother, *chief",
       "d": "Among his many honors, Chuck Norris is the first white indian chief.",
-      "e": "伯父 백부 father's eldest brother",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["백모","伯母"]
+      "e": "伯母 백모 aunt (wife of father's elder brother); 伯父 백부 father's eldest brother",
+      "lv": ["고등용","3급II(2급)"]
     },
     {
       "q": "俗",
@@ -193,9 +176,8 @@ const L27_1 = {
 	  "k": "풍속",
       "m": "social customs; *vulgar",
       "d": "Chuck Norris has no problems with valley girls. If he thinks their cleavage is too vulgar, he simply roundhouse-kicks them in the face. Problem solved.",
-      "e": "民俗 민속 folk customs, folkways; 風俗 풍속 manners and customs",
-      "lv": ["중학용","4급II(3급II)"],
-      "ex": ["속담","俗談"]
+      "e": "俗談 속담 proverb; 民俗 민속 folk customs, folkways; 風俗 풍속 manners and customs",
+      "lv": ["중학용","4급II(3급II)"]
     },
     {
       "q": "信",
@@ -203,9 +185,8 @@ const L27_1 = {
 	  "k": "믿을",
       "m": "faith",
       "d": "Everyone has faith in Chuck Norris. If they don't have faith in his words, then they believe in his roundhouse kick.",
-      "e": "迷信 미신 superstition; 狂信 광신 (religious) fanatism",
-      "lv": ["중학용","6급II(5급II)"],
-      "ex": ["신호","信號"]
+      "e": "信號 신호 signal; 迷信 미신 superstition; 狂信 광신 (religious) fanatism",
+      "lv": ["중학용","6급II(5급II)"]
     },
     {
       "q": "佳",
@@ -214,8 +195,7 @@ const L27_1 = {
       "m": "excellent",
       "d": "Chuck Norris received an ivy garland for his excellent exploits.",
       "e": "佳人 가인 beautiful woman; 佳作 가작 a work of merits, a fine work",
-      "lv": ["중학용","3급II(2급)"],
-      "ex": ["가작","佳作"]
+      "lv": ["중학용","3급II(2급)"]
     },
     {
       "q": "依",
@@ -224,8 +204,7 @@ const L27_1 = {
       "m": "reliant, rely on",
       "d": "Chuck Norris is not reliant on garments. He could go around naked and nobody would dare say a thing.",
       "e": "依支 의지 leaning, support, reliance, dependence; 依存 의존 reliance, dependence",
-      "lv": ["중학용","4급(3급)"],
-      "ex": ["의존","依存"]
+      "lv": ["중학용","4급(3급)"]
     },
     {
       "q": "例",
@@ -233,9 +212,8 @@ const L27_1 = {
 	  "k": "법식",
       "m": "example",
       "d": "Chuck Norris made an example of a group of criminals - he delivered one single roundhouse-kick to the entire file of them, stripping each one of skin and flesh until only their bones and swords remained.",
-      "e": "事例 사례 example",
-      "lv": ["중학용","6급(5급)"],
-      "ex": ["차례","次例"]
+      "e": "次例 차례 order, turn; 事例 사례 example",
+      "lv": ["중학용","6급(5급)"]
     },
     {
       "q": "個",
@@ -243,9 +221,8 @@ const L27_1 = {
 	  "k": "낱",
       "m": "individual",
       "d": "Chuck Norris is one hardened indivudual. So hard, in fact, he is in-dividual (as in, indivisible). Ultimate Power.",
-      "e": "個人 개인 an individual, a private person",
-      "lv": ["중학용","4급II(3급II)"],
-      "ex": ["개월","個月"]
+      "e": "個月 개월 months; 個人 개인 an individual, a private person",
+      "lv": ["중학용","4급II(3급II)"]
     },
     {
       "q": "健",
@@ -254,8 +231,7 @@ const L27_1 = {
       "m": "healthy",
       "d": "Chuck Norris has <b>built</b> an all-powerful roundhouse-kick by <b>building</b> a <b>healthy</b> body through nutrition and a <b>healthy</b> mind through focus and meditation. As proof of his <b>healthy</b> roundhouse-kick, he can knock over <b>buildings</b>.",
       "e": "健康 건강 health",
-      "lv": ["고등용","5급(4급)"],
-      "ex": ["건강","健康"]
+      "lv": ["고등용","5급(4급)"]
     },
     {
       "q": "側",
@@ -263,9 +239,8 @@ const L27_1 = {
 	  "k": "곁",
       "m": "side",
       "d": "Chuck Norris's <b>rules</b> are easy to live by, just be on his <b>side</b>.",
-      "e": "側面 측면 side, flank",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["측","側"]
+      "e": "側 측 side; 側面 측면 side, flank",
+      "lv": ["고등용","3급II(2급)"]
     },
     {
       "q": "侍",
@@ -273,9 +248,8 @@ const L27_1 = {
 	  "k": "모실",
       "m": "servant, *waiter; samurai",
       "d": "Chuck Norris disguises himself as a <b>waiter</b> to get himself into the temple.",
-      "e": "侍女 시녀 a waiting woman/maid/attendant",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["내시","內侍"]
+      "e": "內侍 내시 eunuch; 侍女 시녀 a waiting woman/maid/attendant",
+      "lv": ["고등용","3급II(2급)"]
     },
     {
       "q": "停",
@@ -283,9 +257,8 @@ const L27_1 = {
 	  "k": "머무를",
       "m": "halt",
       "d": "Chuck Norris halts in front of the Chuck Norris Pavilion at the World Expo (where you can see statues of Chuck Norris, buy T-Shirts of Chuck Norris...) Then he roundhouse-kicks the pavilion to halt this insolent exhibition. There is only one Chuck Norris.",
-      "e": "停留場 정류장 station, stop; 停止 정지 stoppage, stop, halt, standstill",
-      "lv": ["중학용","5급(4급)"],
-      "ex": ["정거장","停車場"]
+      "e": "停車場 정거장 station, stop; 停留場 정류장 station, stop; 停止 정지 stoppage, stop, halt, standstill",
+      "lv": ["중학용","5급(4급)"]
     },
     {
       "q": "値",
@@ -294,8 +267,7 @@ const L27_1 = {
       "m": "price",
       "d": "When Chuck Norris goes shopping, do not ever talk about the price. Just hand your stuff over to him straight away if you want to survive.",
       "e": "價値 가치 value, worth, merit",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["가치","價値"]
+      "lv": ["고등용","3급II(2급)"]
     },
     {
       "q": "倣",
@@ -304,8 +276,7 @@ const L27_1 = {
       "m": "emulate, imitate",
       "d": "Chuck Norris sets free the criminals who have proved they had changed for good and who said thay were would emulate him.",
       "e": "模倣 모방 imitation, copying, mimicry",
-      "lv": ["고등용","3급(2급)"],
-      "ex": ["모방","模倣/摸倣/摹倣"]
+      "lv": ["고등용","3급(2급)"]
     },
     {
       "q": "傲",
@@ -314,8 +285,7 @@ const L27_1 = {
       "m": "*arrogance, overbearing",
       "d": "Chuck Norris roundhouse kicks the pompous fool into the <b>dirt</b> and tells the kids never to <b>emulate</b> someone who has this mans type of <b>arrogance</b>.",
       "e": "傲氣 오기 competitive spirit; 傲慢 오만 arrogance, insolence",
-      "lv": ["고등용","3급(2급)"],
-      "ex": ["오기","傲氣"]
+      "lv": ["고등용","3급(2급)"]
     },
     {
       "q": "倒",
@@ -323,9 +293,8 @@ const L27_1 = {
 	  "k": "넘어질",
       "m": "overthrow, fall over",
       "d": "Chuck Norris won't be <b>overthrown</b> till the second <b>arrival</b> of the messiah.",
-      "e": "卒倒 졸도 faint, swoom; 倒置 도치 turning upside-down, inversion",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["압도","壓倒"]
+      "e": "壓倒 압도 overwhelming; 卒倒 졸도 faint, swoom; 倒置 도치 turning upside-down, inversion",
+      "lv": ["고등용","3급II(2급)"]
     },
     {
       "q": "偵",
@@ -333,9 +302,8 @@ const L27_1 = {
 	  "k": "염탐할",
       "m": "spy, detective",
       "d": "Chuck Norris is so badass, he doesn't need to hide to <b>spy</b> people. He just stands <b>upright</b> and if someone doesn't act as if he wasn't here, he knocks him over with a head-kick.",
-      "e": "偵察 정찰 scouting, reconnaissance; 探偵 탐정 detective work, espionage, detective, spy",
-      "lv": ["","2급(1급)"],
-      "ex": ["정탐","偵探"]
+      "e": "偵探 정탐 spying; 偵察 정찰 scouting, reconnaissance; 探偵 탐정 detective work, espionage, detective, spy",
+      "lv": ["","2급(1급)"]
     },
     {
       "q": "僧",
@@ -343,9 +311,8 @@ const L27_1 = {
 	  "k": "중",
       "m": "Buddhist priest",
       "d": "Chuck Norris was <b>formerly</b> a Buddhist priest but he tired of a life that didn't involve kicking people in the face.",
-      "e": "승 Buddhist priest",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["승려","僧侶"]
+      "e": "僧侶 승려 monk; 승 Buddhist priest",
+      "lv": ["고등용","3급II(2급)"]
     },
     {
       "q": "億",
@@ -353,9 +320,8 @@ const L27_1 = {
 	  "k": "억",
       "m": "hundred million",
       "d": "A representative of the United States has come up with the <b>idea</b> of using Chuck Norris' face for a <b>hundred million</b> dollars bill. According to experts, one <b>hundred million</b> dollars is the worth estimate for any one of Chuck's <b>ideas</b>.",
-      "e": "億萬 억만 countless numbers, myriads",
-      "lv": ["중학용","5급(4급)"],
-      "ex": ["억","億"]
+      "e": "億 억 hundred million; 億萬 억만 countless numbers, myriads",
+      "lv": ["중학용","5급(4급)"]
     },
     {
       "q": "儀",
@@ -364,8 +330,7 @@ const L27_1 = {
       "m": "ceremony",
       "d": "Chuck Norris observes well ceremonies with righteous people.",
       "e": "禮儀 예의 (good) manners, etiquette, courtesy",
-      "lv": ["고등용","4급(3급)"],
-      "ex": ["예의","禮儀"]
+      "lv": ["고등용","4급(3급)"]
     }
   ]
 };

@@ -8,9 +8,8 @@ const L8 =
 			"k": "내",
 			"m": "stream, *flood",
 			"d": "Ripples",
-			"e": "河川 하천 rivers",
-			"lv": ["중학용","7급(6급)"],
-			"ex": ["인천","仁川"]
+			"e": "仁川 인천 Incheon; 河川 하천 rivers",
+			"lv": ["중학용","7급(6급)"]
 		},
 		{
 			"q": "州",
@@ -18,9 +17,8 @@ const L8 =
 			"k": "고을",
 			"m": "district, *state",
 			"d": "Rivers delimit states - drops of land (little islets)",
-			"e": "濟州道 Jeju island",
-			"lv": ["고등용","5급II(4급II)"],
-			"ex": ["광주","光州"]
+			"e": "光州 광주 Gwangju; 濟州道 Jeju island",
+			"lv": ["고등용","5급II(4급II)"]
 		},
 		{
 			"q": "順",
@@ -29,8 +27,7 @@ const L8 =
 			"m": "obey",
 			"d": "Either one obeys the person who is <b>head</b> of an organization or else obeys by following the <b>stream</b> of opinion (<b>“current”</b> practice, we call it).",
 			"e": "順序 순서 order, sequence",
-			"lv": ["중학용","5급II(4급II)"],
-			"ex": ["순서","順序"]
+			"lv": ["중학용","5급II(4급II)"]
 		},
 		{
 			"q": "水",
@@ -38,9 +35,8 @@ const L8 =
 			"k": "물",
 			"m": "water",
 			"d": "A walking stick being dropped vertically into the water, sending droplets out in all four directions",
-			"e": "香水 향수 perfume",
-			"lv": ["중학용","8급(6급II)"],
-			"ex": ["수영","水泳"]
+			"e": "水泳 수영 swimming; 香水 향수 perfume",
+			"lv": ["중학용","8급(6급II)"]
 		},
 		{
 			"q": "氷",
@@ -49,8 +45,7 @@ const L8 =
 			"m": "ice",
 			"d": "If you hold an icicle up to the light, you can usually see little crystallizations of five-pointed stars inside of it.",
 			"e": "氷山 빙산 iceberg",
-			"lv": ["중학용","5급(4급)"],
-			"ex": ["빙산","氷山"]
+			"lv": ["중학용","5급(4급)"]
 		},
 		{
 			"q": "永",
@@ -59,8 +54,7 @@ const L8 =
 			"m": "eternity",
 			"d": "William Blake said about seeing “infinity in a grain of sand and eternity in an hour”? Well, reading this character from top to bottom, we see “eternity in a drop of water.”",
 			"e": "永遠 영원 eternity",
-			"lv": ["중학용","6급(5급)"],
-			"ex": ["영원","永遠"]
+			"lv": ["중학용","6급(5급)"]
 		},
 		{
 			"q": "泉",
@@ -69,8 +63,7 @@ const L8 =
 			"m": "(water) spring",
 			"d": "<b>White</b> foam over the bubbling spring of <b>water</b>",
 			"e": "溫泉 온천 hot spring",
-			"lv": ["중학용","4급(3급)"],
-			"ex": ["온천","溫泉"]
+			"lv": ["중학용","4급(3급)"]
 		},
 		{
 			"q": "原",
@@ -78,9 +71,8 @@ const L8 =
 			"k": "근원",
 			"m": "origin/foundation, *meadow",
 			"d": "<b>Spring</b> gushing out from between rocks.",
-			"e": "復原 복원 restoration",
-			"lv": ["중학용","5급(4급)"],
-			"ex": ["원리","原理"]
+			"e": "原理 원리 principle; 復原 복원 restoration",
+			"lv": ["중학용","5급(4급)"]
 		},
 		{
 			"q": "願",
@@ -88,9 +80,8 @@ const L8 =
 			"k": "원할",
 			"m": "wish, desire, *petition",
 			"d": "A gigantic Wizard-of-Oz <b>head</b> located in the middle of the flowery <b>meadow</b>. Then just picture people kneeling hopefully before it, petitioning for whatever it is they want. (The scarecrow wanted brains, the lion, courage, and the tin man a heart. What about you?)",
-			"e": "所願 소원 wish, desire",
-			"lv": ["중학용","5급(4급)"],
-			"ex": ["원하다","願 하다"]
+			"e": "願하다 원하다 want; 所願 소원 wish, desire",
+			"lv": ["중학용","5급(4급)"]
 		},
 		{
 			"q": "泳",
@@ -99,8 +90,7 @@ const L8 =
 			"m": "swim",
 			"d": "Children could swim in <b>water</b> just for <b>eternity</b>.",
 			"e": "水泳 수영 swimming, bathing",
-			"lv": ["고등용","3급(2급)"],
-			"ex": ["수영","水泳"]
+			"lv": ["고등용","3급(2급)"]
 		},
 		{
 			"q": "沼",
@@ -126,9 +116,8 @@ const L8 =
 			"k": "강",
 			"m": "large river, *creek",
 			"d": "Water-craft is about digging a path for water stream.",
-			"e": "江岸 강안 banks of river",
-			"lv": ["중학용","7급II(6급)"],
-			"ex": ["강","江"]
+			"e": "江 강 river; 江岸 강안 banks of river",
+			"lv": ["중학용","7급II(6급)"]
 		},
 		{
 			"q": "汁",
@@ -136,9 +125,8 @@ const L8 =
 			"k": "즙",
 			"m": "juice, *soup",
 			"d": "Ten-ingredient soup",
-			"e": "果汁 과즙 fruit juice",
-			"lv": ["","1급(특급)"],
-			"ex": ["즙","汁"]
+			"e": "汁 즙 juice; 果汁 과즙 fruit juice",
+			"lv": ["","1급(특급)"]
 		},
 		{
 			"q": "潮",
@@ -146,9 +134,8 @@ const L8 =
 			"k": "밀물/조수",
 			"m": "tide",
 			"d": "Morning tide",
-			"e": "潮水 조수 tide, tidewater",
-			"lv": ["고등용","4급(3급)"],
-			"ex": ["풍조","風潮"]
+			"e": "風潮 풍조 trend; 潮水 조수 tide, tidewater",
+			"lv": ["고등용","4급(3급)"]
 		},
 		{
 			"q": "源",
@@ -156,9 +143,8 @@ const L8 =
 			"k": "근원",
 			"m": "source",
 			"d": "A source is the place where the <b>water</b> comes from - under the meadow.",
-			"e": "根源 근원 origin, source",
-			"lv": ["고등용","4급(3급)"],
-			"ex": ["자원","資源"]
+			"e": "資源 자원 resources; 根源 근원 origin, source",
+			"lv": ["고등용","4급(3급)"]
 		},
 		{
 			"q": "活",
@@ -167,8 +153,7 @@ const L8 =
 			"m": "to live, *lively",
 			"d": "A lively person is the one who chatters a lot - his <b>tongue</b> babbles and splashes around like flowing <b>water</b>.",
 			"e": "生活 생활 life, existence",
-			"lv": ["중학용","7급II(6급)"],
-			"ex": ["생활","生活"]
+			"lv": ["중학용","7급II(6급)"]
 		},
 		{
 			"q": "消",
@@ -176,9 +161,8 @@ const L8 =
 			"k": "사라질",
 			"m": "disappear, *extinguish",
 			"d": "<b>Water</b> over <b>sparks</b> to extinguish the fire.",
-			"e": "解消 해소 solution, settlement",
-			"lv": ["중학용","6급II(5급II)"],
-			"ex": ["소풍","逍風/消風"]
+			"e": "逍風/消風 소풍 picnic; 解消 해소 solution, settlement",
+			"lv": ["중학용","6급II(5급II)"]
 		},
 		{
 			"q": "況",
@@ -187,8 +171,7 @@ const L8 =
 			"m": "circumstances, *but of course",
 			"d": "A <b>teenager</b> is about to leave for the first date. Mother asks 'Did you have a good <b>shower</b>?' He replies: '<b>But of course</b>...'",
 			"e": "狀況 상황 state of affairs",
-			"lv": ["고등용","4급(3급)"],
-			"ex": ["상황","狀況"]
+			"lv": ["고등용","4급(3급)"]
 		},
 		{
 			"q": "河",
@@ -196,9 +179,8 @@ const L8 =
 			"k": "물",
 			"m": "river",
 			"d": "The <b>water</b> to the left tells us what we are dealing with, and the <b>can</b> at the right tells us that our “little engine that could” has now become amphibious and is chugging down the Mighty Mississip’ like a regular riverboat.",
-			"e": "河口 하구 rivermouth",
-			"lv": ["중학용","5급(4급)"],
-			"ex": ["빙하","氷河"]
+			"e": "氷河 빙하 glacier; 河口 하구 rivermouth",
+			"lv": ["중학용","5급(4급)"]
 		},
 		{
 			"q": "泊",
@@ -206,9 +188,8 @@ const L8 =
 			"k": "머무를",
 			"m": "overnight",
 			"d": "When you stop at an inn for an overnight rest, all you expect is a bit of water for a wash and a set of clean white sheets to wrap your weary bones in.",
-			"e": "外泊 외박 sleeping out (overnight)",
-			"lv": ["고등용","3급(2급)"],
-			"ex": ["숙박","宿泊"]
+			"e": "宿泊 숙박 lodging; 外泊 외박 sleeping out (overnight)",
+			"lv": ["고등용","3급(2급)"]
 		},
 		{
 			"q": "湖",
@@ -217,8 +198,7 @@ const L8 =
 			"m": "lake",
 			"d": "A man having <b>flesh</b> so <b>old</b> and weary to work, so he's set adrift in the <b>waters</b> of a stormy <b>lake</b>.",
 			"e": "湖水 호수 lake",
-			"lv": ["중학용","5급(4급)"],
-			"ex": ["호수","湖水"]
+			"lv": ["중학용","5급(4급)"]
 		},
 		{
 			"q": "測",
@@ -226,9 +206,8 @@ const L8 =
 			"k" : "헤아릴",
 			"m": "measure, *fathom",
 			"d": "To fathom water is to measure its depth.",
-			"e": "推測 추측 conjecture, guess",
-			"lv": ["고등용","4급II(3급II)"],
-			"ex": ["예측","豫測"]
+			"e": "豫測 예측 prediction; 推測 추측 conjecture, guess",
+			"lv": ["고등용","4급II(3급II)"]
 		},
 		{
 			"q": "土",
@@ -236,9 +215,8 @@ const L8 =
 			"k": "흙",
 			"m": "soil",
 			"d": "A mound of soil piled on the ground.",
-			"e": "土壤 토양 soil",
-			"lv": ["중학용","8급(6급II)"],
-			"ex": ["토요일","土曜日"]
+			"e": "土曜日 토요일 Saturday; 土壤 토양 soil",
+			"lv": ["중학용","8급(6급II)"]
 		},
 		{
 			"q": "吐",
@@ -247,8 +225,7 @@ const L8 =
 			"m": "spit",
 			"d": "If you got a <b>mouth</b> full of <b>dirt</b>, you would <b>spit</b> it out as fast",
 			"e": "吐하다 토하다 vomit, spew; 實吐 실토 a true confession",
-			"lv": ["고등용","3급II(2급)"],
-			"ex": ["토하다","吐 하다"]
+			"lv": ["고등용","3급II(2급)"]
 		},
 		{
 			"q": "圧/壓",
@@ -256,9 +233,8 @@ const L8 =
 			"k": "누를",
 			"m": "pressure",
 			"d": "One of the things that causes the erosion of soil is the excessive <b>pressure</b> of the top<b>soil</b> on the lower <b>soil</b>. This can be caused by any number of things from heavy rainfall to heavy buildings to the absence of sufficient deep-rooted vegetation to hold the layers together. Here we see a steep <b>cliff</b> without a tree in sight. The slightest pressure on it will cause a landslide.",
-			"e": "壓迫 압박 pressure, compulsion, coercion",
-			"lv": ["고등용","4급II(3급II)"],
-			"ex": ["압력","壓力"]
+			"e": "壓力 압력 pressure; 壓迫 압박 pressure, compulsion, coercion",
+			"lv": ["고등용","4급II(3급II)"]
 		},
 		{
 			"q": "埼",
@@ -293,8 +269,7 @@ const L8 =
 			"m": "to seal",
 			"d": "Think of the key word seal as referring to a letter you have written and are preparing to close. Instead of using the traditional wax seal, you glue a sprig of <b>ivy</b> on the outside. In this way the elements <b>ivy</b> and <b>glue</b> give you a curious and memorable way <b>to seal</b> your secret letters. ",
 			"e": "封套 봉투 envelope",
-			"lv": ["고등용","3급II(2급)"],
-			"ex": ["봉투","封套"]
+			"lv": ["고등용","3급II(2급)"]
 		},
 		{
 			"q": "涯",
@@ -302,9 +277,8 @@ const L8 =
 			"k": "물가",
 			"m": "shore, bank, *horizon",
 			"d": "After seeing a constant horizon of water, water everywhere for months at sea, could there be anything more delightful to the eyes than to look astern and see the ivy-clad cliffs of land on a new horizon?",
-			"e": "天涯 천애 horizon, skyline",
-			"lv": ["고등용","3급(2급)"],
-			"ex": ["생애","生涯"]
+			"e": "生涯 생애 lifetime; 天涯 천애 horizon, skyline",
+			"lv": ["고등용","3급(2급)"]
 		},
 		{
 			"q": "寺",
@@ -312,9 +286,8 @@ const L8 =
 			"k": "절",
 			"m": "Buddhist temple",
 			"d": "Entering a Buddhist sect means <b>glue</b>ing oneself to a precinct <b>ground</b>.",
-			"e": "寺刹 사찰 Buddhist temple",
-			"lv": ["중학용","4급II(3급II)"],
-			"ex": ["사원","寺院"]
+			"e": "寺院 사원 temple; 寺刹 사찰 Buddhist temple",
+			"lv": ["중학용","4급II(3급II)"]
 		},
 		{
 			"q": "時",
@@ -322,9 +295,8 @@ const L8 =
 			"k": "때",
 			"m": "time",
 			"d": "Zen kõan: time is a sun rising over a Buddhist temple.",
-			"e": "時間 시간 time",
-			"lv": ["중학용","7급II(6급)"],
-			"ex": ["시","時"]
+			"e": "時 시 hour, time; 時間 시간 time",
+			"lv": ["중학용","7급II(6급)"]
 		},
 		{
 			"q": "均",
@@ -332,9 +304,8 @@ const L8 =
 			"k": "고를",
 			"m": "to level",
 			"d": "<b>Soil</b> being scooped up into a <b>ladle</b> and then made level (apparently because one is measuring soil). The excess <b>drops</b> of soil are brushed off the top, which accounts for the added drop at the ladle’s edge. ",
-			"e": "平均 평균 average",
-			"lv": ["중학용","4급(3급)"],
-			"ex": ["균형","均衡"]
+			"e": "均衡 균형 balance; 平均 평균 average",
+			"lv": ["중학용","4급(3급)"]
 		},
 		{
 			"q": "火",
@@ -342,9 +313,8 @@ const L8 =
 			"k": "불",
 			"m": "fire",
 			"d": "Fire",
-			"e": "火山 화산 volcano",
-			"lv": ["중학용","8급(6급II)"],
-			"ex": ["화","火"]
+			"e": "火 화 fire; anger; 火山 화산 volcano",
+			"lv": ["중학용","8급(6급II)"]
 		},
 		{
 			"q": "炎",
@@ -352,9 +322,8 @@ const L8 =
 			"k": "불꽃",
 			"m": "inflammation",
 			"d": "A fore belongs in the hearth, not over it. When the fire spreads to the rest of the house, we have an inflamed house.",
-			"e": "胃炎 위염 gastritis",
-			"lv": ["중학용","3급II(2급)"],
-			"ex": ["비염","鼻炎"]
+			"e": "鼻炎 비염 rhinitis; 胃炎 위염 gastritis",
+			"lv": ["중학용","3급II(2급)"]
 		},
 		{
 			"q": "煩",
@@ -362,9 +331,8 @@ const L8 =
 			"k": "번거로울",
 			"m": "anxiety",
 			"d": "The head is set afire, causing deep torment of spirit (and a whopper of a headache).",
-			"e": "煩悶 번민 worry, suffering(s), affliction",
-			"lv": ["고등용","3급(2급)"],
-			"ex": ["번뇌","煩惱"]
+			"e": "煩惱 번뇌 anguish, worldly passions; 煩悶 번민 worry, suffering(s), affliction",
+			"lv": ["고등용","3급(2급)"]
 		},
 		{
 			"q": "淡",
@@ -372,9 +340,8 @@ const L8 =
 			"k": "맑을",
 			"m": "clear, light, plain, *thin",
 			"d": "A very <b>thin</b> chap passes by and you imagine him suffering from (being <b>inflamed</b> with) de<b>hydra</b>tion (hence the element for <b>water</b>).",
-			"e": "淡水 담수 fresh water",
-			"lv": ["고등용","3급II(2급)"],
-			"ex": ["담백하다","淡白 하다"]
+			"e": "淡白하다 담백하다 light, plain; 淡水 담수 fresh water",
+			"lv": ["고등용","3급II(2급)"]
 		},
 		{
 			"q": "灯",
@@ -399,8 +366,7 @@ const L8 =
 			"m": "disaster",
 			"d": "Nature disasters: floods and fires. To recall the disposition of the elements, think of nature’s solution to nature’s own problem: a great flood pouring down over a great forest fire. ",
 			"e": "火災 화재 fire, blaze",
-			"lv": ["고등용","5급(4급)"],
-			"ex": ["화재","火災"]
+			"lv": ["고등용","5급(4급)"]
 		},
 		{
 			"q": "灰",
@@ -409,8 +375,7 @@ const L8 =
 			"m": "ashes",
 			"d": "The fire, once it has turned to ashes, ends up at the bottom of the cliff.",
 			"e": "灰色 회색 gray color",
-			"lv": ["","4급(3급)"],
-			"ex": ["회색","灰色"]
+			"lv": ["","4급(3급)"]
 		},
 		{
 			"q": "点/點",
@@ -418,9 +383,8 @@ const L8 =
 			"k": "점",
 			"m": "spot",
 			"d": "The black coffee spots can be used for fortune telling.",
-			"e": "",
-			"lv": ["고등용","4급(3급)"],
-			"ex": ["점수","點數"]
+			"e": "點數 점수 score",
+			"lv": ["고등용","4급(3급)"]
 		},
 		{
 			"q": "照",
@@ -428,9 +392,8 @@ const L8 =
 			"k": "비칠",
 			"m": "illuminate",
 			"d": "Oven's fire shines to illuminate.",
-			"e": "照明 조명 illumination, lighting up",
-			"lv": ["고등용","3급II(2급)"],
-			"ex": ["대조","對照"]
+			"e": "對照 대조 contrast; 照明 조명 illumination, lighting up",
+			"lv": ["고등용","3급II(2급)"]
 		},
 		{
 			"q": "魚",
@@ -438,9 +401,8 @@ const L8 =
 			"k": "물고기",
 			"m": "fish",
 			"d": "At first a <b>fish</b> is caught and <b>bound up</b> on a line with its unfortunate school-mates; when the fisherman gets home, he cuts off the head and tosses it, with the entrails, out into the <b>rice fields</b> for fertilizer; and the rest he sets in a skillet over a cooking <b>fire</b> for his supper.",
-			"e": "鰱魚 연어 salmon",
-			"lv": ["중학용","5급(4급)"],
-			"ex": ["광어","廣魚"]
+			"e": "廣魚 광어 flatfish; 鰱魚 연어 salmon",
+			"lv": ["중학용","5급(4급)"]
 		},
 		{
 			"q": "漁",
@@ -448,9 +410,8 @@ const L8 =
 			"k": "고기 잡을",
 			"m": "fishing",
 			"d": "<b>Water</b> is where the <b>fish</b> was happily at home before being fished, disemboweled, and eaten.",
-			"e": "漁業 어업 fishery, fishing industry",
-			"lv": ["중학용","5급(4급)"],
-			"ex": ["어민","漁民"]
+			"e": "漁民 어민 fisherman; 漁業 어업 fishery, fishing industry",
+			"lv": ["중학용","5급(4급)"]
 		}
 	]
 };

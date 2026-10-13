@@ -8,9 +8,8 @@ const L17 =
 			"k": "그칠",
 			"m": "stop, *footprint",
 			"d": "A rather crude drawing of a footprint: the first 3 strokes represent the front of the foot and the last the heel. The big toe (stroke 2 sticking out to the right) on the right indicates that this is a left foot.",
-			"e": "停止 정지 stop, halt, standstill",
-			"lv": ["중학용","5급(4급)"],
-			"ex": ["금지","禁止"]
+			"e": "禁止 금지 prohibition; 停止 정지 stop, halt, standstill",
+			"lv": ["중학용","5급(4급)"]
 		},
 		{
 			"q": "步/歩",
@@ -18,9 +17,8 @@ const L17 =
 			"k": "걸음",
 			"m": "walk",
 			"d": "Footprints that follow one another a <b>few</b> at a time indicate walking.",
-			"e": "散步 산보 walk, stroll",
-			"lv": ["중학용","4급II(3급II)"],
-			"ex": ["횡단보도","橫斷步道"]
+			"e": "橫斷步道 횡단보도 crosswalk; 散步 산보 walk, stroll",
+			"lv": ["중학용","4급II(3급II)"]
 		},
 		{
 			"q": "涉",
@@ -29,8 +27,7 @@ const L17 =
 			"m": "to ford a stream, to wade across",
 			"d": "To ford a body of water means to walk across it.",
 			"e": "干涉 간섭 interference, intervention",
-			"lv": ["고등용","3급(2급)"],
-			"ex": ["간섭","干涉"]
+			"lv": ["고등용","3급(2급)"]
 		},
 		{
 			"q": "頻",
@@ -39,8 +36,7 @@ const L17 =
 			"m": "repeatedly",
 			"d": "The image of something occurring repeatedly, over and over again, is of having one’s <b>head</b> walked on.",
 			"e": "頻度 빈도 frequency",
-			"lv": ["고등용","3급(2급)"],
-			"ex": ["빈도","頻度"]
+			"lv": ["고등용","3급(2급)"]
 		},
 		{
 			"q": "肯",
@@ -48,9 +44,8 @@ const L17 =
 			"k": "즐길",
 			"m": "consent, *agreement",
 			"d": "Seeing footprints on someone’s flesh indicates a rather brutal way of having secured that person’s agreement.",
-			"e": "首肯 수긍 assent, consent",
-			"lv": ["고등용","3급(2급)"],
-			"ex": ["긍정적","肯定的"]
+			"e": "肯定的 긍정적 positive; 首肯 수긍 assent, consent",
+			"lv": ["고등용","3급(2급)"]
 		},
 		{
 			"q": "企",
@@ -58,9 +53,8 @@ const L17 =
 			"k" : "꾀할",
 			"m": "plan a project, *undertake",
 			"d": "Before you undertake any outdoor project in bad weather ask yourself two things:<br>1. Can this be done whilst holding an umbrella?<br>2. Can this wait until it stops raining? Then decide whether to get your umbrella and undertake the task, or stop.",
-			"e": "企劃 기획 plan, project",
-			"lv": ["고등용","3급II(2급)"],
-			"ex": ["기대","期待/企待"]
+			"e": "期待/企待 기대 expectation; 企劃 기획 plan, project",
+			"lv": ["고등용","3급II(2급)"]
 		},
 		{
 			"q": "歴/歷",
@@ -68,9 +62,8 @@ const L17 =
 			"k": "지날",
 			"m": "take place, past; *curriculum",
 			"d": "Instead of the grove making its way slowly through the surface of the cliff as before, here we see it stopped, much the same as a curriculum vitae calls a halt to the calendar and talks only about the past.",
-			"e": "歷歷하다 역력하다 obvious, clear",
-			"lv": ["중학용","5급II(4급II)"],
-			"ex": ["역사","歷史"]
+			"e": "歷史 역사 history; 歷歷하다 역력하다 obvious, clear",
+			"lv": ["중학용","5급II(4급II)"]
 		},
 		{
 			"q": "武",
@@ -79,8 +72,7 @@ const L17 =
 			"m": "warrior",
 			"d": "With a quiver of arrows set on one’s back, the goal of the warrior depicted here is not to attack but merely to stop the attack of others: the oldest excuse in history!",
 			"e": "武器 무기 weapon, arms",
-			"lv": ["중학용","4급II(3급II)"],
-			"ex": ["무기","武器"]
+			"lv": ["중학용","4급II(3급II)"]
 		},
 		{
 			"q": "賦",
@@ -89,8 +81,7 @@ const L17 =
 			"m": "tax, *levy; give",
 			"d": "A certain portion of shells (money) is collected by the warrior from the local villages as he passes through to defray the costs of keeping the land safe, and this is called a levy.",
 			"e": "割賦 할부 allotment, quota",
-			"lv": ["고등용","3급II(2급)"],
-			"ex": ["할부","割賦"]
+			"lv": ["고등용","3급II(2급)"]
 		},
 		{
 			"q": "正",
@@ -98,9 +89,8 @@ const L17 =
 			"k": "바를",
 			"m": "right, proper, correct",
 			"d": "“A journey of a thousand miles begins with a single step,” says the Chinese proverb. Here we see <b>one footprint</b>, complementing that proverb with the sound advice that if the first step is not made correctly, the whole point of the journey will be forfeited. This is the ideal that teachers are supposed to have in <b>correcting</b> their students, and parents in <b>correcting</b> their children.",
-			"e": "正答 정답 corrent answer",
-			"lv": ["중학용","7급II(6급)"],
-			"ex": ["정확","正確"]
+			"e": "正確 정확 accuracy; 正答 정답 corrent answer",
+			"lv": ["중학용","7급II(6급)"]
 		},
 		{
 			"q": "証/證",
@@ -108,9 +98,8 @@ const L17 =
 			"k": "증거",
 			"m": "prove, confirm, *evidence",
 			"d": "Words that testify to the correctness of some fact are classified as evidence.<br>You <b>ascend</b> to the witness stand to testify against the defendant.",
-			"e": "證據 증거 proof, evidence, witness, testimony",
-			"lv": ["중학용","4급(3급)"],
-			"ex": ["신분증","身分證"]
+			"e": "身分證 신분증 ID card; 證據 증거 proof, evidence, witness, testimony",
+			"lv": ["중학용","4급(3급)"]
 		},
 		{
 			"q": "政",
@@ -118,9 +107,8 @@ const L17 =
 			"k": "정사",
 			"m": "politics",
 			"d": "Politics = correct taskmastering. On the one hand, we see the pessimistic wisdom that politics has to do with <b>taskmastering</b>, maneuvering people with or without their will. And on the other, we see the campaign assurances that this duty can be performed <b>correctly</b> if only the right candidate is given a chance.",
-			"e": "政治 정치 politics",
-			"lv": ["중학용","4급II(3급II)"],
-			"ex": ["정당","政黨"]
+			"e": "政黨 정당 political party; 政治 정치 politics",
+			"lv": ["중학용","4급II(3급II)"]
 		},
 		{
 			"q": "疋",
@@ -129,8 +117,7 @@ const L17 =
 			"m": "roll of cloth; foot; *mending; *zoo",
 			"d": "This primitive differs from the kanji for correct only by the movement added to the last two strokes, the “-ing” of mending if you will. But take a more concrete sense, like mending holes in socks.",
 			"e": "疋 필 a roll of cloth",
-			"lv": ["","1급(특급)"],
-			"ex": ["필","疋"]
+			"lv": ["","1급(특급)"]
 		},
 		{
 			"q": "定",
@@ -138,9 +125,8 @@ const L17 =
 			"k": "정할",
 			"m": "decide, fix, *determine",
 			"d": "Determination, in the sense of settling on a certain course of action, is likened here to mending one’s house.",
-			"e": "定義 정의 defition",
-			"lv": ["중학용","6급(5급)"],
-			"ex": ["결정","決定"]
+			"e": "決定 결정 decision; 定義 정의 defition",
+			"lv": ["중학용","6급(5급)"]
 		},
 		{
 			"q": "錠",
@@ -149,8 +135,7 @@ const L17 =
 			"m": "pill, tablet; *lock",
 			"d": "Even if you lock up your <b>gold</b>, a <b>determined</b> thief will get it in the end.",
 			"e": "糖衣錠 당의정 sugarcoated pill",
-			"lv": ["","1급(특급)"],
-			"ex": ["당의정","糖衣錠"]
+			"lv": ["","1급(특급)"]
 		},
 		{
 			"q": "走",
@@ -158,9 +143,8 @@ const L17 =
 			"k": "달릴",
 			"m": "run",
 			"d": "Running, we are told here, mends the soil. Observe in the following frames how this kanji can embrace other elements from below, much the same way as the element for road does; and how, in order to do this, the final stroke needs to be length-ened.",
-			"e": "走行 주행 travelling, covering a disctance",
-			"lv": ["중학용","4급II(3급II)"],
-			"ex": ["완주","完走"]
+			"e": "完走 완주 finishing (a race); 走行 주행 travelling, covering a disctance",
+			"lv": ["중학용","4급II(3급II)"]
 		},
 		{
 			"q": "超",
@@ -168,9 +152,8 @@ const L17 =
 			"k" : "뛰어넘을",
 			"m": "surpass, *transcend",
 			"d": "A successful marathon runner needs to be able to transcend seductions, such as the possibility of rest, shelter from the rain, or a cold beer.",
-			"e": "超人 초인 superman",
-			"lv": ["고등용","3급II(2급)"],
-			"ex": ["초과","超過"]
+			"e": "超過 초과 excess; 超人 초인 superman",
+			"lv": ["고등용","3급II(2급)"]
 		},
 		{
 			"q": "赴",
@@ -179,8 +162,7 @@ const L17 =
 			"m": "come to, arrive at; *proceed",
 			"d": "I've got to run and take a piss before proceeding.",
 			"e": "赴任 부임 proceed to one's new post",
-			"lv": ["고등용","3급(2급)"],
-			"ex": ["부임","赴任"]
+			"lv": ["고등용","3급(2급)"]
 		},
 		{
 			"q": "越",
@@ -188,9 +170,8 @@ const L17 =
 			"k": "넘을",
 			"m": "go beyond, *surpass",
 			"d": "The parade of runners are all trying to <b>surpass</b> each other - and they end up running all the way to Vietnam.",
-			"e": "越南 월남 Vietnam; come south over the border",
-			"lv": ["고등용","3급II(2급)"],
-			"ex": ["우월","優越"]
+			"e": "優越 우월 superiority; 越南 월남 Vietnam; come south over the border",
+			"lv": ["고등용","3급II(2급)"]
 		},
 		{
 			"q": "是",
@@ -199,8 +180,7 @@ const L17 =
 			"m": "yes, indeed, *just so",
 			"d": "Someone spending an entire day at mending one stocking, because they want the job done <b>“just so.”</b> Be sure to make a clear image of a finicky old fusspot to make the abstract idea as concrete as possible.",
 			"e": "亦是 역시 too, also, as well; 或是 혹시 possibly",
-			"lv": ["중학용","4급II(3급II)"],
-			"ex": ["역시","亦是"]
+			"lv": ["중학용","4급II(3급II)"]
 		},
 		{
 			"q": "題",
@@ -208,9 +188,8 @@ const L17 =
 			"k": "제목 ",
 			"m": "forehead; title; *topic",
 			"d": "The <b>topic</b> of the day's newspaper must be placed <b>just so</b> at the top of the <b>page</b> to attract attention. The <b>heading</b> must be click-bait.",
-			"e": "主題 주제 subject",
-			"lv": ["중학용","6급II(5급II)"],
-			"ex": ["문제","問題"]
+			"e": "問題 문제 problem, question; 主題 주제 subject",
+			"lv": ["중학용","6급II(5급II)"]
 		},
 		{
 			"q": "堤",
@@ -218,9 +197,8 @@ const L17 =
 			"k": "둑",
 			"m": "dike",
 			"d": "A dike is a successful bit of engineering only if the amount of <b>earth</b> piled up is measured <b>just so</b> for the height and pressure of the water it is meant to contain",
-			"e": "防波堤 방파제 breakwater",
-			"lv": ["고등용","3급(2급)"],
-			"ex": ["제방","堤防"]
+			"e": "堤防 제방 embankment; 防波堤 방파제 breakwater",
+			"lv": ["고등용","3급(2급)"]
 		},
 		{
 			"q": "廴",
@@ -236,9 +214,8 @@ const L17 =
 			"k": "세울",
 			"m": "*build, erect, establish",
 			"d": "To construct a building, you first draw a set of plans (the <b>writing brush</b>) and then <b>s-t-r-e-t-c-h</b> your drawing out to scale in reality.",
-			"e": "建設 건설 construction, building",
-			"lv": ["중학용","5급(4급)"],
-			"ex": ["건물","建物"]
+			"e": "建物 건물 building; 建設 건설 construction, building",
+			"lv": ["중학용","5급(4급)"]
 		},
 		{
 			"q": "延",
@@ -246,9 +223,8 @@ const L17 =
 			"k": "늘일",
 			"m": "delay, defer, *prolong",
 			"d": "This character is a kind of pictographic image of how prolonging is a clever way of stopping things by trying to stretch them out a little bit at a time (the extra drop at the top of stop). Besure to get a concrete image of this process, by imagining yourself prolonging something you can really, physically, stretch.",
-			"e": "延長 연장 extension, lengthening",
-			"lv": ["고등용","4급(3급)"],
-			"ex": ["연체","延滯"]
+			"e": "延滯 연체 overdue (payment); 延長 연장 extension, lengthening",
+			"lv": ["고등용","4급(3급)"]
 		},
 		{
 			"q": "誕",
@@ -257,8 +233,7 @@ const L17 =
 			"m": "bear children, birth, *nativity",
 			"d": "Think of the feast of Christmas. As the famous poem at the start of St. John’s gospel tells us, the nativity we celebrate at Christmas had its origins at the very start of time and governs all of human history: it represents the <b>prolongation</b> of the eternal <b>Word</b> in time and space.",
 			"e": "誕生 탄생 birth, nativity",
-			"lv": ["고등용","3급(2급)"],
-			"ex": ["탄생","誕生"]
+			"lv": ["고등용","3급(2급)"]
 		},
 		{
 			"q": "礎",
@@ -267,8 +242,7 @@ const L17 =
 			"m": "cornerstone",
 			"d": "A cornerstone as a stone set at the end of a wildlife preserve (the “zoo in the grove”).",
 			"e": "基礎 기초 foundation, basis; 礎石 초석 cornerstone, foundation stone",
-			"lv": ["고등용","3급II(2급)"],
-			"ex": ["기초","基礎"]
+			"lv": ["고등용","3급II(2급)"]
 		},
 		{
 			"q": "婿/壻",
@@ -277,8 +251,7 @@ const L17 =
 			"m": "son-in-law, husband; *bridegroom",
 			"d": "What makes a man a bridegroom is obviously a woman and her dowry, here presented as a small zoo (animals were often used for this purpose in earlier societies) and a month away from it all (the “honeymoon”).",
 			"e": "同壻 동서 the husband of one's wife's sister; the wife of one's husband's brother",
-			"lv": ["","1급(특급)"],
-			"ex": ["동서","同壻"]
+			"lv": ["","1급(특급)"]
 		}
 	]
 };

@@ -16,8 +16,7 @@ const L37 = {
       "m": "decline, retreat, *instead",
       "d": "Gone is the time for stamps - use e-mail instead.",
       "e": "棄却 기각 turning down, rejection, renunciation; 退却 퇴각 retreat, withdrawal, retirement",
-      "lv": ["고등용","3급(2급)"],
-      "ex": ["기각","棄却"]
+      "lv": ["고등용","3급(2급)"]
     },
     {
       "q": "脚",
@@ -26,8 +25,7 @@ const L37 = {
       "m": "leg, foot, *shin",
       "d": "Shins are the part of the body that the Asians traditionally sit on instead of their asses.",
       "e": "脚光 각광 footlights, floats; 行脚 행각 pilgrimage; 脚色 각색 dramatization, arrangement",
-      "lv": ["중학용","3급II(2급)"],
-      "ex": ["각광","脚光"]
+      "lv": ["중학용","3급II(2급)"]
     },
     {
       "q": "卸",
@@ -43,9 +41,8 @@ const L37 = {
       "k": "거느릴",
       "m": "drive, ride; *honorable",
       "d": "An honorable man will not try to cut in front of the line at the wholesale stamp store. (Imagine just how much honor it takes facing those long lines at the post office!)",
-      "e": "制御/制馭 제어 control, governing, management",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["어명","御命"]
+      "e": "御命 어명 royal command; 制御/制馭 제어 control, governing, management",
+      "lv": ["고등용","3급II(2급)"]
     },
     {
       "q": "服",
@@ -53,9 +50,8 @@ const L37 = {
       "k": "옷",
       "m": "*clothing, wear",
       "d": "Modern clothing shows a lot of flesh - some is practically no more than a postage stamp covering your crotch!",
-      "e": "制服 제복 uniform; 克服 극복 victory",
-      "lv": ["중학용","6급(5급)"],
-      "ex": ["양복","洋服"]
+      "e": "洋服 양복 suit; 制服 제복 uniform; 克服 극복 victory",
+      "lv": ["중학용","6급(5급)"]
     },
     {
       "q": "命",
@@ -64,8 +60,7 @@ const L37 = {
       "m": "life, *fate",
       "d": "When you're born, your <b>fate</b> is measured, <b>fitted</b>, and <b>stamped</b> onto your soul. Good luck defying it.",
       "e": "命令 명령 order, command; 生命 생명 (biological) life, soul",
-      "lv": ["중학용","7급(6급)"],
-      "ex": ["명령","命令"]
+      "lv": ["중학용","7급(6급)"]
     },
     {
       "q": "龴",
@@ -82,8 +77,7 @@ const L37 = {
       "m": "command, *order",
       "d": "At the <b>meeting</b> the chairman put a <b>chop-seal</b> mark on the official <b>orders</b>.",
       "e": "命令 명령 order, command; 假令 가령 for example, let's say, if, suppose that",
-      "lv": ["중학용","5급(4급)"],
-      "ex": ["명령","命令"]
+      "lv": ["중학용","5급(4급)"]
     },
     {
       "q": "零",
@@ -91,9 +85,8 @@ const L37 = {
       "k": "떨어질",
       "m": "zero",
       "d": "The amount of people that can order the rain to rain.",
-      "e": "零 영 zero, naught, nought, nothing; 零落 영락 ruin, downfall, distress",
-      "lv": ["고등용","3급(2급)"],
-      "ex": ["영하","零下"]
+      "e": "零下 영하 below zero; 零 영 zero, naught, nought, nothing; 零落 영락 ruin, downfall, distress",
+      "lv": ["고등용","3급(2급)"]
     },
     {
       "q": "齢/齡",
@@ -101,9 +94,8 @@ const L37 = {
       "k": "나이",
       "m": "age",
       "d": "As one reaches a certain <b>age</b>, he probably makes an <b>order</b> for false <b>teeth</b>.",
-      "e": "鶴齡 학령 school age; 高齡 고령 advanced age",
-      "lv": ["","1급(특급)"],
-      "ex": ["연령","年齡"]
+      "e": "年齡 연령 age; 鶴齡 학령 school age; 高齡 고령 advanced age",
+      "lv": ["","1급(특급)"]
     },
     {
       "q": "冷",
@@ -111,9 +103,8 @@ const L37 = {
       "k": "찰",
       "m": "cool",
       "d": "To keep your water <b>cool</b>, just <b>order</b> some <b>ice</b>.",
-      "e": "冷冷하다 냉랭하다 cold, chilly, freezing, cool; 冷藏庫 냉장고 refrigerator",
-      "lv": ["중학용","5급(4급)"],
-      "ex": ["냉면","冷麵"]
+      "e": "冷麵 냉면 cold noodles; 冷冷하다 냉랭하다 cold, chilly, freezing, cool; 冷藏庫 냉장고 refrigerator",
+      "lv": ["중학용","5급(4급)"]
     },
     {
       "q": "領",
@@ -121,9 +112,8 @@ const L37 = {
       "k": "옷깃",
       "m": "collar; lead, guide, *jurisdiction",
       "d": "Orders are given by the head person in any jurisdiction.",
-      "e": "大統領 대통령 president; 領土 영토 territory, dominion, possession",
-      "lv": ["중학용","5급(4급)"],
-      "ex": ["영수증","領收證"]
+      "e": "領收證 영수증 receipt; 大統領 대통령 president; 領土 영토 territory, dominion, possession",
+      "lv": ["중학용","5급(4급)"]
     },
     {
       "q": "鈴",
@@ -131,9 +121,8 @@ const L37 = {
       "k": "방울",
       "m": "small bell",
       "d": "Some restaurants have a small gold bell to call someone to take customers' orders.",
-      "e": "",
-      "lv": ["","1급(특급)"],
-      "ex": ["아령","啞鈴"]
+      "e": "啞鈴 아령 dumbbell",
+      "lv": ["","1급(특급)"]
     },
     {
       "q": "勇",
@@ -141,9 +130,8 @@ const L37 = {
       "k": "날랠",
       "m": "courage",
       "d": "You can get the <b>chop-seal</b> of approval if you show the <b>courage</b> of a real <b>man</b>.",
-      "e": "勇氣 용기 courage, valor",
-      "lv": ["중학용","6급II(5급II)"],
-      "ex": ["용감하다","勇敢 하다"]
+      "e": "勇敢하다 용감하다 brave; 勇氣 용기 courage, valor",
+      "lv": ["중학용","6급II(5급II)"]
     },
     {
       "q": "湧",
@@ -152,8 +140,7 @@ const L37 = {
       "m": "bubble up",
       "d": "The courageous man who went into the water to save a drowning victim couldn't be seen, except by the air that bubbled up.",
       "e": "湧솟음 용솟음 boiling, seething, bubbling up, gush, leap up",
-      "lv": ["","특급II(-)"],
-      "ex": ["용솟음","湧 솟음"]
+      "lv": ["","특급II(-)"]
     },
     {
       "q": "通",
@@ -162,8 +149,7 @@ const L37 = {
       "m": "pass through, communicate, *traffic",
       "d": "They have built a new road downtown. It bypasses all the <b>traffic</b>. If your papers have been <b>chop sealed</b>, you can <b>utilize</b> it.",
       "e": "交通 교통 traffic, transportation, communication; 通行 통행 passing, passage, traffic",
-      "lv": ["중학용","6급(5급)"],
-      "ex": ["교통","交通"]
+      "lv": ["중학용","6급(5급)"]
     },
     {
       "q": "踊",
@@ -172,8 +158,7 @@ const L37 = {
       "m": "jump",
       "d": "One has a wooden leg with a chop-seal at the end. When he needs to utilize the chop-seal to sign a document, he lays the document on the ground and starts jumping and dancing around so as to hit the right spot.",
       "e": "舞踊 무용 dancing, dance",
-      "lv": ["","1급(특급)"],
-      "ex": ["무용","舞踊"]
+      "lv": ["","1급(특급)"]
     },
     {
       "q": "疑",
@@ -181,9 +166,8 @@ const L37 = {
       "k": "의심할",
       "m": "doubt",
       "d": "You come at the <b>zoo</b> entrance. 'Here sir, a <b>spoon</b> to feed the animals.' Ok. 'And a <b>dart</b> (gun) in case stuff go wrong' ....' please <b>chop-seal</b> here for in case of accidents the zoo is not responsible.' 'lion feeding time is. bla bla' You are having serious <b>doubts</b> about if you still want to go into this zoo.",
-      "e": "疑心 의심 doubt, question; 懷疑 회의 doubt, skepticism",
-      "lv": ["고등용","4급(3급)"],
-      "ex": ["의문","疑問"]
+      "e": "疑問 의문 doubt, question; 疑心 의심 doubt, question; 懷疑 회의 doubt, skepticism",
+      "lv": ["고등용","4급(3급)"]
     },
     {
       "q": "擬",
@@ -192,8 +176,7 @@ const L37 = {
       "m": "draft, intend, plan; *mimic",
       "d": "Ask a <b>mimic</b> to give an impression of <b>doubt</b>, and he will no <b>doubt</b> scratch his head with his <b>finger</b>.",
       "e": "模擬 모의 imitation, copy; 擬聲語 의성어 onomatopoeia; 擬態語 의태어 imitative/mimetic word",
-      "lv": ["","1급(특급)"],
-      "ex": ["의성어","擬聲語"]
+      "lv": ["","1급(특급)"]
     },
     {
       "q": "凝",
@@ -201,9 +184,8 @@ const L37 = {
       "k": "엉길",
       "m": "congeal",
       "d": "<b>Congealed</b> food is suspcious and <b>doubtful</b>: does it contain anything but <b>ice</b>?",
-      "e": "凝視 응시 stare, gaze; 凝固 응고 congelation, coagulation, solidification",
-      "lv": ["고등용","3급(2급)"],
-      "ex": ["응결","凝結"]
+      "e": "凝結 응결 condensation; 凝視 응시 stare, gaze; 凝固 응고 congelation, coagulation, solidification",
+      "lv": ["고등용","3급(2급)"]
     },
     {
       "q": "㔾",
@@ -219,9 +201,8 @@ const L37 = {
       "k": "법",
       "m": "model, rule, law, *pattern",
       "d": "This <b>pattern</b> made of <b>bamboo</b> is for a new model of <b>car</b> designed to leave as small an ecological <b>fingerprint</b> as possible.",
-      "e": "範圍 범위 extent, scope, limits",
-      "lv": ["고등용","4급(3급)"],
-      "ex": ["모범","模範"]
+      "e": "模範 모범 model, example; 範圍 범위 extent, scope, limits",
+      "lv": ["고등용","4급(3급)"]
     },
     {
       "q": "犯",
@@ -229,9 +210,8 @@ const L37 = {
       "k": "범할",
       "m": "crime",
       "d": "Crimes can often be solved using the tools of dogs and fingerprints.",
-      "e": "犯하다 범하다 commit, perpertrate, violate, transgress",
-      "lv": ["고등용","4급(3급)"],
-      "ex": ["범죄","犯罪"]
+      "e": "犯罪 범죄 crime; 犯하다 범하다 commit, perpertrate, violate, transgress",
+      "lv": ["고등용","4급(3급)"]
     },
     {
       "q": "氾",
@@ -240,8 +220,7 @@ const L37 = {
       "m": "overflow, inundate, *widespread",
       "d": "The use of watermarks (water + fingerprint) on banknotes is widespread.",
       "e": "氾濫/汎濫 범람 inundation, flooding, overflow",
-      "lv": ["","1급(특급)"],
-      "ex": ["범람","汎濫/氾濫"]
+      "lv": ["","1급(특급)"]
     },
     {
       "q": "厄",
@@ -249,9 +228,8 @@ const L37 = {
       "k": "액",
       "m": "adversity, difficulty, *unlucky",
       "d": "Seeing some finger prints at the edge of a cliff, I wondered who that unlucky person was.",
-      "e": "厄運 액운 misfortune, ills, bad luck; 橫厄 횡액 unforseen/unexpected accident, misfortune",
-      "lv": ["고등용","3급(2급)"],
-      "ex": ["액땜","厄 땜"]
+      "e": "厄땜 액땜 warding off bad luck; 厄運 액운 misfortune, ills, bad luck; 橫厄 횡액 unforseen/unexpected accident, misfortune",
+      "lv": ["고등용","3급(2급)"]
     },
     {
       "q": "危",
@@ -259,9 +237,8 @@ const L37 = {
       "k": "위태할",
       "m": "dangerous",
       "d": "You're bound up by ropes to an unlucky person. It's dangerous, because whatever happens to him will happen to you too.",
-      "e": "危殆하다 위태하다 risky, dangerous, precarious; 危機 위기 crisis, emergency",
-      "lv": ["중학용","4급(3급)"],
-      "ex": ["위험","危險"]
+      "e": "危險 위험 danger; 危殆하다 위태하다 risky, dangerous, precarious; 危機 위기 crisis, emergency",
+      "lv": ["중학용","4급(3급)"]
     },
     {
       "q": "夗",
@@ -277,9 +254,8 @@ const L37 = {
       "k": "완연할",
       "m": "clear, obvious; *address",
       "d": "it is obvious, it is better to turn and toss in your own bed at your own home.<br>Your address should be displayed on your house and mailbox.",
-      "e": "宛然하다 완연하다 distinct, obvious, clear",
-      "lv": ["","1급(특급)"],
-      "ex": ["완연히","宛然 히"]
+      "e": "宛然히 완연히 clearly, distinctly; 宛然하다 완연하다 distinct, obvious, clear",
+      "lv": ["","1급(특급)"]
     },
     {
       "q": "腕",
@@ -288,8 +264,7 @@ const L37 = {
       "m": "wrist, *(fore)arm",
       "d": "The part of the body that is good for writing someone's address down on, when you have no paper at hand. One may even tattoo his own address on his forehand.",
       "e": "手腕 수완 ability, capability, skill; 右腕 우완 right hand",
-      "lv": ["","1급(특급)"],
-      "ex": ["수완","手腕"]
+      "lv": ["","1급(특급)"]
     },
     {
       "q": "苑",
@@ -307,8 +282,7 @@ const L37 = {
       "m": "hatred, enmity, *grudge",
       "d": "I had a little grudge against my ex-girlfriend and her new boyfriend...so I ripped out his heart (like in indiana jones and the temple of doom) and then I left it in her mailbox.",
       "e": "怨望 원망 resentment, grudge, spite, complaint",
-      "lv": ["중학용","4급(3급)"],
-      "ex": ["원망","怨望"]
+      "lv": ["중학용","4급(3급)"]
     },
     {
       "q": "9",
@@ -325,8 +299,7 @@ const L37 = {
       "m": "willow",
       "d": "The weeping willow weeps because its tree friends are being converted into paper for receipts and stamps.",
       "e": "花柳界 화류계 a red-light district, the frivolous community",
-      "lv": ["중학용","4급(3급)"],
-      "ex": ["화류계","花柳界"]
+      "lv": ["중학용","4급(3급)"]
     },
     {
       "q": "卵",
@@ -335,8 +308,7 @@ const L37 = {
       "m": "egg",
       "d": "Sorry folks, but this looks like a pictogram of male private parts, with dots marking the egg-shaped bits.",
       "e": "鷄卵 계란 (chicken) egg",
-      "lv": ["중학용","4급(3급)"],
-      "ex": ["계란","鷄卵"]
+      "lv": ["중학용","4급(3급)"]
     },
     {
       "q": "留",
@@ -344,9 +316,8 @@ const L37 = {
       "k": "머무를",
       "m": "stop, halt, *detain, keep",
       "d": "Got a receipt for that dagger, son? If not, we're going to detain you and send you to work in the rice fields.",
-      "e": "繫留 계류 mooring; 挽留하다 만류하다 detain keep back; 留學 유학 study(ing) abroad",
-      "lv": ["중학용","4급II(3급II)"],
-      "ex": ["유학생","留學生"]
+      "e": "留學生 유학생 student studying abroad; 繫留 계류 mooring; 挽留하다 만류하다 detain keep back; 留學 유학 study(ing) abroad",
+      "lv": ["중학용","4급II(3급II)"]
     },
     {
       "q": "瑠",
@@ -364,8 +335,7 @@ const L37 = {
       "m": "trade",
       "d": "The illegal dagger trade supposes no receipts.",
       "e": "貿易 무역 trade, commerce",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["무역","貿易"]
+      "lv": ["고등용","3급II(2급)"]
     },
     {
       "q": "E",
@@ -382,8 +352,7 @@ const L37 = {
       "m": "print, seal, *stamp",
       "d": "This is how a stapler works: you stamp on it and a staple is being driven into a paper and then it is folded up.",
       "e": "印象 인상 impression; 印刷 인쇄 print, printing, press",
-      "lv": ["중학용","4급II(3급II)"],
-      "ex": ["인쇄","印刷"]
+      "lv": ["중학용","4급II(3급II)"]
     },
     {
       "q": "臼",
@@ -392,8 +361,7 @@ const L37 = {
       "m": "mortar",
       "d": "I removed all the back to back staples and grinded them in a mortar to create metal dust.",
       "e": "脫臼 탈구 dislocation, luxation",
-      "lv": ["","1급(특급)"],
-      "ex": ["탈구","脫臼"]
+      "lv": ["","1급(특급)"]
     },
     {
       "q": "毀",
@@ -410,8 +378,7 @@ const L37 = {
       "m": "thrive, prosper, *entertain",
       "d": "The character represents a wheel of fortune that has been tampered with. On both sides there're staples separating one number’s slot from the next, and between them the character for the same — indicating that it has been fixed to repeat the same number. Beneath is the primitive for a tool, which refers to the wheel itself. All together, a sitting symbol for entertainment, especially if you are the owner of the wheel.",
       "e": "興味 흥미 interest, zest; 興奮 흥분 excitement, excitation, agitation; 餘興 여흥 entertainment, side show",
-      "lv": ["중학용","4급II(3급II)"],
-      "ex": ["흥미","興味"]
+      "lv": ["중학용","4급II(3급II)"]
     }
   ]
 };

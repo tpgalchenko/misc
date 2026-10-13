@@ -14,9 +14,8 @@ const L25_1 = {
 	  "k": "상줄",
       "m": "prize",
       "d": "The prize received is so huge that it is stored in an outhouse, where McDuck can swim in the mountains of money.",
-      "e": "賞金 상금 prize money, award",
-      "lv": ["중학용","5급(4급)"],
-      "ex": ["상","賞"]
+      "e": "賞 상 prize, award; 賞金 상금 prize money, award",
+      "lv": ["중학용","5급(4급)"]
     },
     {
       "q": "党/黨",
@@ -25,8 +24,7 @@ const L25_1 = {
       "m": "party, gang",
       "d": "A <b>party</b> of conspirators gathered in an <b>outhouse</b around an improvisory <b>black</b> furnace.",
       "e": "政黨 정당 political party",
-      "lv": ["고등용","4급II(3급II)"],
-      "ex": ["정당","政黨"]
+      "lv": ["고등용","4급II(3급II)"]
     },
     {
       "q": "堂",
@@ -35,8 +33,7 @@ const L25_1 = {
       "m": "hall, government office/chamber",
       "d": "Roman public offices on the Capitolium land, lots of outhouses for various purposes.",
       "e": "食堂 식당 dining room, buffet",
-      "lv": ["중학용","6급II(5급II)"],
-      "ex": ["식당","食堂"]
+      "lv": ["중학용","6급II(5급II)"]
     },
     {
       "q": "常",
@@ -44,9 +41,8 @@ const L25_1 = {
 	  "k": "떳떳할/항상",
       "m": "usual, common, regular",
       "d": "In Russia the bath-houses are common, they are built as outhouses. There people wear towels instead of usual clothes.",
-      "e": "日常 일상 daily, every day, usually",
-      "lv": ["중학용","4급II(3급II)"],
-      "ex": ["항상","恒常"]
+      "e": "恒常 항상 always; 日常 일상 daily, every day, usually",
+      "lv": ["중학용","4급II(3급II)"]
     },
     {
       "q": "裳",
@@ -55,8 +51,7 @@ const L25_1 = {
       "m": "skirt; clothes",
       "d": "In many cultures women often live in separate rooms. Here we see a special outhouse for woman garment - skirts.",
       "e": "衣裳 의상 clothes, dress",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["의상","衣裳"]
+      "lv": ["고등용","3급II(2급)"]
     },
     {
       "q": "掌",
@@ -65,8 +60,7 @@ const L25_1 = {
       "m": "palm of hand, sole of foot; *manipulate",
       "d": "WC-outhouses are often scary places where one does not want to dirty his hands and must manipulate everything with fingertips against disgust.",
       "e": "掌匣 장갑 gloves",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["장갑","掌匣/掌甲"]
+      "lv": ["고등용","3급II(2급)"]
     },
     {
       "q": "皮",
@@ -75,8 +69,7 @@ const L25_1 = {
       "m": "skin, *pelt",
       "d": "The simplest way to remember this character is to see it as built up from that for branch 支. The first stroke can then stand for something “hanging” down from the branch, namely its bark or pelt.",
       "e": "皮膚 피부 skin",
-      "lv": ["중학용","3급II(2급)"],
-      "ex": ["피부","皮膚"]
+      "lv": ["중학용","3급II(2급)"]
     },
     {
       "q": "波",
@@ -85,8 +78,7 @@ const L25_1 = {
       "m": "waves",
       "d": "If one keeps its hand under the water for a long time, the skin becomes wrinkled, wavy.",
       "e": "波濤 파도 waves, billows, surges",
-      "lv": ["중학용","4급II(3급II)"],
-      "ex": ["파도","波濤"]
+      "lv": ["중학용","4급II(3급II)"]
     },
     {
       "q": "婆",
@@ -95,8 +87,7 @@ const L25_1 = {
       "m": "old woman",
       "d": "Old woman's skin is all wrinkled, like water surface at windy day.",
       "e": "老婆 노파 old woman",
-      "lv": ["","1급(특급)"],
-      "ex": ["노파","老婆"]
+      "lv": ["","1급(특급)"]
     },
     {
       "q": "披",
@@ -105,8 +96,7 @@ const L25_1 = {
       "m": "wear; *expose, reveal",
       "d": "A stone-age woman looks at her reflection in the water and adjusts the pelt she wears with light pinches of fingers.",
       "e": "猖披 창피 shame, disgrace",
-      "lv": ["","1급(특급)"],
-      "ex": ["창피","猖披"]
+      "lv": ["","1급(특급)"]
     },
     {
       "q": "破",
@@ -115,8 +105,7 @@ const L25_1 = {
       "m": "break, ruin, *rend",
       "d": "To peel a stone (to rend its pelt) = to break, to ruin.",
       "e": "破壞 파괴 destruction, demolition",
-      "lv": ["중학용","4급II(3급II)"],
-      "ex": ["파괴","破壞"]
+      "lv": ["중학용","4급II(3급II)"]
     },
     {
       "q": "被",
@@ -125,8 +114,7 @@ const L25_1 = {
       "m": "passive indicator, *incur; put on",
       "d": "One has torn its pelt garment into stripes, sewed them together to make a quilt, then put on and fell asleep.",
       "e": "被害 피해 damage, injury, harm",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["피해","被害"]
+      "lv": ["고등용","3급II(2급)"]
     },
     {
       "q": "歹",
@@ -143,9 +131,8 @@ const L25_1 = {
 	  "k": "잔인할/남을",
       "m": "*remainder; injure, spoil, cruel",
       "d": "The character 戔 composed of the overlapping characters 戈 (spear) means ‘harm.’ The character 殘 expresses the appearance of poking a bone fragment with a spear. It is extremely cruel to poke a spear again into the bones of an already dead person, that is the reaminder of a person.",
-      "e": "殘額 잔액 money left over, the remainder",
-      "lv": ["고등용","4급(3급)"],
-      "ex": ["잔돈","殘 돈"]
+      "e": "殘돈 잔돈 small change; 殘額 잔액 money left over, the remainder",
+      "lv": ["고등용","4급(3급)"]
     },
     {
       "q": "殉",
@@ -154,8 +141,7 @@ const L25_1 = {
       "m": "martyrdom",
       "d": "The martyrdom of the man who withstood his beatings for 10 days until all that remained of him was bones.",
       "e": "殉敎者 순교자 (religious) martyr",
-      "lv": ["고등용","3급(2급)"],
-      "ex": ["순교","殉敎"]
+      "lv": ["고등용","3급(2급)"]
     },
     {
       "q": "殊",
@@ -164,8 +150,7 @@ const L25_1 = {
       "m": "different, special, unusual, *particularly",
       "d": "Bone 歹 is normally white; so a bone that's vermilion 朱 is particularly unusual.",
       "e": "特殊 특수 special, peculiar, particular",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["특수","特殊"]
+      "lv": ["고등용","3급II(2급)"]
     },
     {
       "q": "殖",
@@ -173,9 +158,8 @@ const L25_1 = {
 	  "k": "불릴",
       "m": "breed, spawn; increase, augment",
       "d": "Advertisement for Breast Implants -- Tired of nights all alone? Want to get <b>boned</b> <b>straightaway</b>? <b>AUGMENT</b> your breasts and all your troubles will be solved!",
-      "e": "增殖 증식 increase, multiplication",
-      "lv": ["","2급(1급)"],
-      "ex": ["번식","繁殖/蕃殖/蕃息"]
+      "e": "繁殖/蕃殖/蕃息 번식 breeding, reproduction; 增殖 증식 increase, multiplication",
+      "lv": ["","2급(1급)"]
     },
     {
       "q": "列",
@@ -184,8 +168,7 @@ const L25_1 = {
       "m": "a line, a file; to arange in order",
       "d": "A line of skeletal warriors, all armed with sabers.",
       "e": "列車 열차 (railway) train",
-      "lv": ["중학용","4급II(3급II)"],
-      "ex": ["열차","列車"]
+      "lv": ["중학용","4급II(3급II)"]
     },
     {
       "q": "裂",
@@ -194,8 +177,7 @@ const L25_1 = {
       "m": "split, crack",
       "d": "They tried issuing the skeleton warriors with proper garments to wear, but they kept getting split by the sharp bones or by their sabres. In the end, it was decided they look scarier naked anyway.",
       "e": "分裂 분열 division, disunion, split",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["분열","分裂"]
+      "lv": ["고등용","3급II(2급)"]
     },
     {
       "q": "烈",
@@ -203,8 +185,7 @@ const L25_1 = {
 	  "k": "세찰",
       "m": "violent, vehement, *ardent",
       "d": "A long line, in single file, of ardent admirers, their passion burning like flames for their beloved.",
-      "e": "烈風 열풍 a heavy/severe wind, a gale",
-      "ex": ["강렬하다","強烈 하다"]
+      "e": "強烈하다 강렬하다 intense; 烈風 열풍 a heavy/severe wind, a gale"
     },
     {
       "q": "死",
@@ -213,8 +194,7 @@ const L25_1 = {
       "m": "death",
       "d": "One evening he choked to death on a spoon.",
       "e": "死亡 사망 death, decease",
-      "lv": ["중학용","6급(5급)"],
-      "ex": ["사망","死亡"]
+      "lv": ["중학용","6급(5급)"]
     },
     {
       "q": "葬",
@@ -222,9 +202,8 @@ const L25_1 = {
 	  "k": "장사지낼",
       "m": "interment",
       "d": "There's an open casket at a funeral. The dead body (death) is holding flowers with both of its hands.",
-      "e": "葬禮 장례 funeral",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["장례식","葬禮式"]
+      "e": "葬禮式 장례식 funeral; 葬禮 장례 funeral",
+      "lv": ["고등용","3급II(2급)"]
     },
     {
       "q": "舛",
@@ -242,8 +221,7 @@ const L25_1 = {
       "m": "wink",
       "d": "An owl opened his <b>eye</b> and <b>winked</b> at me from inside his <b>birdhouse</b> - I was so surprised that I <b>blinked</b> behind my <b>sunglasses</b>.",
       "e": "瞬間 순간 moment, instant",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["순간","瞬間"]
+      "lv": ["고등용","3급II(2급)"]
     },
     {
       "q": "耳",
@@ -251,9 +229,8 @@ const L25_1 = {
 	  "k": "귀",
       "m": "ear",
       "d": "",
-      "e": "耳目口鼻 이목구비 ear, eye, mouth and nose; features",
-      "lv": ["중학용","5급(4급)"],
-      "ex": ["이비인후과","耳鼻咽喉科"]
+      "e": "耳鼻咽喉科 이비인후과 ENT clinic; 耳目口鼻 이목구비 ear, eye, mouth and nose; features",
+      "lv": ["중학용","5급(4급)"]
     },
     {
       "q": "取",
@@ -261,9 +238,8 @@ const L25_1 = {
 	  "k": "가질",
       "m": "take, obtain",
       "d": "Taking temperature in a crotch and in an ear.",
-      "e": "採取 채취 picking, gathering, extraction",
-      "lv": ["중학용","4급II(3급II)"],
-      "ex": ["취소","取消"]
+      "e": "取消 취소 cancellation; 採取 채취 picking, gathering, extraction",
+      "lv": ["중학용","4급II(3급II)"]
     },
     {
       "q": "趣",
@@ -272,8 +248,7 @@ const L25_1 = {
       "m": "*gist, what attracts one's attention",
       "d": "The <b>gist</b> of it is this: We <b>take</b> the money and <b>run</b>!",
       "e": "趣味 취미 interest, liking, hobby",
-      "lv": ["고등용","4급(3급)"],
-      "ex": ["취미","趣味"]
+      "lv": ["고등용","4급(3급)"]
     },
     {
       "q": "最",
@@ -281,9 +256,8 @@ const L25_1 = {
 	  "k": "가장",
       "m": "utmost",
       "d": "If you were to pick the <b>utmost</b> celestial body from the sky, it's the <b>sun</b> you'd <b>take</b>.",
-      "e": "最善 최선 the best",
-      "lv": ["중학용","5급(4급)"],
-      "ex": ["최근","最近"]
+      "e": "最近 최근 recently; 最善 최선 the best",
+      "lv": ["중학용","5급(4급)"]
     },
     {
       "q": "撮",
@@ -292,8 +266,7 @@ const L25_1 = {
       "m": "*snapshot; little bit, pinch",
       "d": "Take the <b>utmost</b> care that you don't have your <b>finger</b> in the way when you take a <b>snapshot</b>.",
       "e": "撮影 촬영 photographing, filming",
-      "lv": ["","1급(특급)"],
-      "ex": ["촬영","撮影"]
+      "lv": ["","1급(특급)"]
     },
     {
       "q": "恥",
@@ -301,9 +274,8 @@ const L25_1 = {
 	  "k": "부끄러울",
       "m": "shame, humiliation",
       "d": "She says: 'Shame on you, doctor!' Nowadays you don't check the heart beat by pressing your ear next to my heart (breast!) anymore...",
-      "e": "國恥 국치 national humiliation, disgrace",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["염치","廉恥"]
+      "e": "廉恥 염치 sense of shame; 國恥 국치 national humiliation, disgrace",
+      "lv": ["고등용","3급II(2급)"]
     },
     {
       "q": "職",
@@ -312,8 +284,7 @@ const L25_1 = {
       "m": "post, profession, duty",
       "d": "Buckingham Palace guards are famous for staying at their post no matter what, even if you blow a kazoo in their ear!",
       "e": "職業 직업 occupation, vocation, profession",
-      "lv": ["고등용","4급II(3급II)"],
-      "ex": ["직업","職業"]
+      "lv": ["고등용","4급II(3급II)"]
     },
     {
       "q": "聖",
@@ -321,9 +292,8 @@ const L25_1 = {
 	  "k": "성인",
       "m": "holy",
       "d": "A true holy man uses his ear to listen (i.e., to God or his supplicant) before he opens his mouth to speak, unlike a charlatan who just makes something up. Of course, kings are often true holy men and prophets (e.g., King David in the bible).",
-      "e": "聖人 성인 saint, holy man",
-      "lv": ["중학용","4급II(3급II)"],
-      "ex": ["성당","聖堂"]
+      "e": "聖堂 성당 Catholic church; 聖人 성인 saint, holy man",
+      "lv": ["중학용","4급II(3급II)"]
     },
     {
       "q": "敢",
@@ -332,8 +302,7 @@ const L25_1 = {
       "m": "daring",
       "d": "The daring girl in Catholic school who used a nail 丁 to pierce her ears 耳 was attacked by her taskmaster 攵 of a teacher.",
       "e": "敢히 감히 boldly, daringly",
-      "lv": ["중학용","4급(3급)"],
-      "ex": ["감히","敢 히"]
+      "lv": ["중학용","4급(3급)"]
     },
     {
       "q": "懐/懷",
@@ -341,9 +310,8 @@ const L25_1 = {
 	  "k": "품을",
       "m": "bossom; carry in bossom; *pocket",
       "d": "'New York State of Mind': you need ten eyes to make sure no one will go through your garments and pick your pockets.<br>She had me in her pocket - it was a state of mind that would eventually demolish me..",
-      "e": "懷疑 회의 doubt, incredulity",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["감회","感懷"]
+      "e": "感懷 감회 emotions, reminiscence; 懷疑 회의 doubt, incredulity",
+      "lv": ["고등용","3급II(2급)"]
     },
     {
       "q": "曼",
@@ -361,8 +329,7 @@ const L25_1 = {
       "m": "lazy; arrogant; *ridicule",
       "d": "You may ridicule others because you are so <b>conceited</b> that in your state of mind you are at the center of the mandala.",
       "e": "倨慢 거만 arrogance, insolence",
-      "lv": ["고등용","3급(2급)"],
-      "ex": ["거만","倨慢"]
+      "lv": ["고등용","3급(2급)"]
     },
     {
       "q": "漫",
@@ -371,8 +338,7 @@ const L25_1 = {
       "m": "overflow of water; spreading; *loose",
       "d": "In 만화 comics, boys have their eyes on loose girls' wet crotches all day.",
       "e": "漫畫 만화 comics",
-      "lv": ["고등용","3급(2급)"],
-      "ex": ["만화","漫畫"]
+      "lv": ["고등용","3급(2급)"]
     },
     {
       "q": "買",
@@ -380,9 +346,8 @@ const L25_1 = {
 	  "k": "살",
       "m": "buy",
       "d": "When something catches my eye, I take out a few clams and buy before anybody else does.",
-      "e": "購買 구매 purchase, buying",
-      "lv": ["중학용","5급(4급)"],
-      "ex": ["예매","豫買"]
+      "e": "豫買 예매 advance purchase; 購買 구매 purchase, buying",
+      "lv": ["중학용","5급(4급)"]
     },
     {
       "q": "置",
@@ -391,8 +356,7 @@ const L25_1 = {
       "m": "placement",
       "d": "Working in retail you learn the <b>placement</b> of any item should be at <b>eye</b> level so it's seen <b>straightaway</b>.",
       "e": "位置 위치 place, position",
-      "lv": ["고등용","4급II(3급II)"],
-      "ex": ["위치","位置"]
+      "lv": ["고등용","4급II(3급II)"]
     },
     {
       "q": "罰",
@@ -401,8 +365,7 @@ const L25_1 = {
       "m": "penalty",
       "d": "He missed a penalty in the World Cup final, so he closed his <b>eyes</b>, said a few <b>words</b> to himself and stabbed himself with a <b>sabre</b>.",
       "e": "罰金 벌금 fine, monetary penalty",
-      "lv": ["고등용","4급II(3급II)"],
-      "ex": ["벌금","罰金"]
+      "lv": ["고등용","4급II(3급II)"]
     },
     {
       "q": "寧",
@@ -410,8 +373,7 @@ const L25_1 = {
 	  "k": "편안할",
       "m": "peaceful, comfortable; *rather",
       "d": "I'd <b>rather</b> die <b>peacefully</b> in my <b>house</b> from a <b>heart</b> attack than from a <b>spike</b> in my <b>eye</b> in a <b>street</b>.",
-      "e": "安寧 안녕 peace, tranquility",
-      "ex": ["안녕히","安寧 히"]
+      "e": "安寧히 안녕히 in peace (goodbye); 安寧 안녕 peace, tranquility"
     },
     {
       "q": "濁",
@@ -419,9 +381,8 @@ const L25_1 = {
 	  "k": "흐릴",
       "m": "muddy, turbid; *voiced",
       "d": "The key word for this kanji connotes the “muddying” effect on a soft consonant brought about by vibrating the vocal chords, e.g. in English a “j” is voiced while a “sh” is unvoiced. Water is so muddy that one sees with his own eyes a pack of insects bound up in a globe living in it.",
-      "e": "混濁하다 혼탁하다 turbid, muddy",
-      "lv": ["고등용","3급(2급)"],
-      "ex": ["탁하다","濁 하다"]
+      "e": "濁하다 탁하다 muddy, turbid; 混濁하다 혼탁하다 turbid, muddy",
+      "lv": ["고등용","3급(2급)"]
     },
     {
       "q": "環",
@@ -430,8 +391,7 @@ const L25_1 = {
       "m": "ring, bracelet",
       "d": "The <b>ring</b> of the Lord of the rings decorated with a <b>jewel</b>. The great <b>eye</b> of Sauron searching for the fellowship hiding under the many <b>ceilings</b> during their journey. The fourth and fifth primitives are the <b>mouth</b> of Gollum always mumbling “My preciousss”; and Pippin's <b>scarf</b>! Placement: the eye appears at the top similarly to how the Great Eye of Sauron is perched atop the Dark Tower.",
       "e": "環境 환경 environment, surroundings",
-      "lv": ["고등용","4급(3급)"],
-      "ex": ["환경","環境"]
+      "lv": ["고등용","4급(3급)"]
     },
     {
       "q": "還",
@@ -440,8 +400,7 @@ const L25_1 = {
       "m": "return, *send back",
       "d": "This is the road that Sam and Frodo take to send back the ring to Mount Doom!",
       "e": "還拂 환불 refundment, refund",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["환불","還拂"]
+      "lv": ["고등용","3급II(2급)"]
     },
     {
       "q": "夫",
@@ -450,8 +409,7 @@ const L25_1 = {
       "m": "husband, man",
       "d": "The character 夫 is a combination of the characters 大 (big) and 一 (one). If you look at the character 夫 in oracle bone script, you can see a single stroke drawn on the head of a person. This depicts a hairpin that men used to hold their hair in place. In ancient China, men also wore hairpins in their hair to indicate that they had become adults.",
       "e": "工夫 공부 study, learning",
-      "lv": ["중학용","7급(6급)"],
-      "ex": ["공부","工夫"]
+      "lv": ["중학용","7급(6급)"]
     },
     {
       "q": "扶",
@@ -459,9 +417,8 @@ const L25_1 = {
 	  "k": "도울",
       "m": "aid",
       "d": "When a woman can't open a jar, her <b>husband</b> comes to her aid with his strong <b>fingers</b>.",
-      "e": "扶助 부조 aid, help, gift",
-      "lv": ["중학용","3급II(2급)"],
-      "ex": ["부양","扶養"]
+      "e": "扶養 부양 support (family); 扶助 부조 aid, help, gift",
+      "lv": ["중학용","3급II(2급)"]
     },
     {
       "q": "渓/溪",
@@ -469,9 +426,8 @@ const L25_1 = {
 	  "k": "시내",
       "m": "mountain stream",
       "d": "A <b>husband</b> says there were <b>vultures</b> circling above him for miles, hoping he'd die soon, and were probably disappointed when he finally found <b>water</b> at the <b>mountain stream</b>.",
-      "e": "",
-      "lv": ["중학용","3급II(2급)"],
-      "ex": ["계곡","溪谷"]
+      "e": "溪谷 계곡 valley",
+      "lv": ["중학용","3급II(2급)"]
     },
     {
       "q": "規",
@@ -479,9 +435,8 @@ const L25_1 = {
 	  "k": "법",
       "m": "rules, law; *standard",
       "d": "In the male-dominated world of yesterday, the husband's way of seeing things was considered the standard point of view. Women who dared to disagree were frowned upon.",
-      "e": "規模 규모 rule, pattern; scale, scope",
-      "lv": ["고등용","5급(4급)"],
-      "ex": ["규칙","規則"]
+      "e": "規則 규칙 rule; 規模 규모 rule, pattern; scale, scope",
+      "lv": ["고등용","5급(4급)"]
     },
     {
       "q": "替",
@@ -489,9 +444,8 @@ const L25_1 = {
 	  "k": "바꿀",
       "m": "exchange, replace",
       "d": "The reality TV show where two families exchange the two husbands for a day to see how they manage in another family.",
-      "e": "代替 대체 substitution, replacement",
-      "lv": ["고등용","3급(2급)"],
-      "ex": ["교체","交替/交遞"]
+      "e": "交替/交遞 교체 replacement; 代替 대체 substitution, replacement",
+      "lv": ["고등용","3급(2급)"]
     },
     {
       "q": "賛/贊",
@@ -499,9 +453,8 @@ const L25_1 = {
 	  "k": "도울",
       "m": "help, support; *approve",
       "d": "Out of two potential husbands, which would you approve of? Well, the one with shells (money) of course!!!",
-      "e": "贊同 찬동 approval, support",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["찬성","贊成"]
+      "e": "贊成 찬성 approval, agreement; 贊同 찬동 approval, support",
+      "lv": ["고등용","3급II(2급)"]
     },
     {
       "q": "潜/潛",
@@ -509,9 +462,8 @@ const L25_1 = {
 	  "k": "무자맥질할",
       "m": "hide; *submerge",
       "d": "To <b>submerge</b>, a submarine <b>exchange</b> the content of ballast tanks with either water or air.",
-      "e": "潛水 잠수 diving, submerging",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["잠재력","潛在力"]
+      "e": "潛在力 잠재력 potential; 潛水 잠수 diving, submerging",
+      "lv": ["고등용","3급II(2급)"]
     }
   ]
 };

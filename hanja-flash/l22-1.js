@@ -16,9 +16,8 @@ const L22_1 =
 	  "k": "가로되",
       "m": "sayeth",
       "d": "The key word refers to famous sayings of famous people, and is the origin for the primitive meaning of a tongue wagging in the mouth. The size of this kanji, a relatively rare one, is what distinguishes it from day.",
-      "e": "子曰 자왈 Confucius says",
-      "lv": ["중학용","3급(2급)"],
-      "ex": ["왈가왈부","曰可曰否"]
+      "e": "曰可曰否 왈가왈부 arguing pros and cons; 子曰 자왈 Confucius says",
+      "lv": ["중학용","3급(2급)"]
     },
     {
       "q": "困",
@@ -27,8 +26,7 @@ const L22_1 =
       "m": "surround, beseige, difficult, *quandary",
       "d": "A tree suffering in a quandry is a tree put in a prison.",
       "e": "疲困 피곤 fatigue, weariness",
-      "lv": ["중학용","4급(3급)"],
-      "ex": ["피곤","疲困"]
+      "lv": ["중학용","4급(3급)"]
     },
     {
       "q": "固",
@@ -36,9 +34,8 @@ const L22_1 =
 	  "k": "굳을",
       "m": "become solid, harden",
       "d": "An old hardened criminal who is dying pent up in a prison cell.",
-      "e": "固定 고정 fixation, fixing",
-      "lv": ["중학용","5급(4급)"],
-      "ex": ["고유","固有"]
+      "e": "固有 고유 inherent, native; 固定 고정 fixation, fixing",
+      "lv": ["중학용","5급(4급)"]
     },
     {
       "q": "或",
@@ -47,8 +44,7 @@ const L22_1 =
       "m": "perhaps, maybe",
       "d": "Warriors hold a fiesta and kiss the native ground for having deterred a <b>possible</b> enemy invasion into their castle 囗.",
       "e": "或是 혹시 possibly, by chance, if",
-      "lv": ["중학용","4급(3급)"],
-      "ex": ["혹시","或是"]
+      "lv": ["중학용","4급(3급)"]
     },
     {
       "q": "国/國",
@@ -56,9 +52,8 @@ const L22_1 =
 	  "k": "나라",
       "m": "country",
       "d": "The walls encircle the country's lands/treasures and warriors that defend it from possible enemy invasions.",
-      "e": "韓國 한국 Korea",
-      "lv": ["중학용","8급(6급II)"],
-      "ex": ["국내","國內"]
+      "e": "國內 국내 domestic; 韓國 한국 Korea",
+      "lv": ["중학용","8급(6급II)"]
     },
     {
       "q": "專",
@@ -67,8 +62,7 @@ const L22_1 =
       "m": "monopolize; gather; speciality",
       "d": "Spindle winds a thread into a single, glued-up lump.",
       "e": "專攻 전공 one's speciality/special study",
-      "lv": ["고등용","4급(3급)"],
-      "ex": ["전공","專攻"]
+      "lv": ["고등용","4급(3급)"]
     },
     {
       "q": "団/團",
@@ -76,9 +70,8 @@ const L22_1 =
 	  "k": "둥글",
       "m": "ball, mass, lump, *group",
       "d": "People gather within the city walls to make up a group of defenders.",
-      "e": "集團 집단 group, mass",
-      "lv": ["고등용","5급II(4급II)"],
-      "ex": ["단속","團束"]
+      "e": "團束 단속 crackdown, control; 集團 집단 group, mass",
+      "lv": ["고등용","5급II(4급II)"]
     },
     {
       "q": "因",
@@ -87,8 +80,7 @@ const L22_1 =
       "m": "cause",
       "d": "A man in a bed because of an illness.",
       "e": "要因 요인 primary factor, cause",
-      "lv": ["중학용","5급(4급)"],
-      "ex": ["요인","要因"]
+      "lv": ["중학용","5급(4급)"]
     },
     {
       "q": "姻",
@@ -97,8 +89,7 @@ const L22_1 =
       "m": "relatives by marriage, *matrimony",
       "d": "After matrimonial rituals and banquet the fiance got drunk and fell asleep on the bed. His fiancee sits at his bedside and sheds lonely tears.",
       "e": "婚姻 혼인 marriage",
-      "lv": ["고등용","3급(2급)"],
-      "ex": ["혼인","婚姻"]
+      "lv": ["고등용","3급(2급)"]
     },
     {
       "q": "園",
@@ -106,9 +97,8 @@ const L22_1 =
 	  "k": "동산",
       "m": "*park, garden, orhard",
       "d": "An encircled park where lidded crocks with scarfs are disseminated here and there like antique sculptures.",
-      "e": "公園 공원",
-      "lv": ["중학용","6급(5급)"],
-      "ex": ["동물원","動物園"]
+      "e": "動物園 동물원 zoo; 公園 공원",
+      "lv": ["중학용","6급(5급)"]
     },
     {
       "q": "回",
@@ -116,9 +106,8 @@ const L22_1 =
 	  "k": "돌아올",
       "m": "a time, turn around",
       "d": "A walk around Kaaba stone.",
-      "e": "回敎 회교 islam",
-      "lv": ["중학용","4급II(3급II)"],
-      "ex": ["회","回"]
+      "e": "回 회 time, round; 回敎 회교 islam",
+      "lv": ["중학용","4급II(3급II)"]
     },
     {
       "q": "壇",
@@ -126,9 +115,8 @@ const L22_1 =
 	  "k": "단(壇), 제단(祭壇)",
       "m": "*podium, altar, arena",
       "d": "A ritual is held at the altar placed on a large empty ground. A priest in a top hat (jewish kippah) walks round and round the altar as the night breaks and the sun rises up.",
-      "e": "校壇 교단 the teacher's platform",
-      "lv": ["고등용","5급(4급)"],
-      "ex": ["문단","文壇"]
+      "e": "文壇 문단 literary world; 校壇 교단 the teacher's platform",
+      "lv": ["고등용","5급(4급)"]
     },
     {
       "q": "广",
@@ -145,8 +133,7 @@ const L22_1 =
       "m": "shop, store",
       "d": "The shop of Cumaean Sibyl, fortune-teller is the cave at the Phlegraean Fields.",
       "e": "書店 서점 bookshop",
-      "lv": ["중학용","5급II(4급II)"],
-      "ex": ["서점","書店"]
+      "lv": ["중학용","5급II(4급II)"]
     },
     {
       "q": "庫",
@@ -154,9 +141,8 @@ const L22_1 =
 	  "k": "곳집",
       "m": "armory, treasury, *storehouse",
       "d": "A cave for an expensive car is nothing but a car treasury.",
-      "e": "倉庫 창고 storehouse, warehouse",
-      "lv": ["고등용","4급(3급)"],
-      "ex": ["냉장고","冷藏庫"]
+      "e": "冷藏庫 냉장고 refrigerator; 倉庫 창고 storehouse, warehouse",
+      "lv": ["고등용","4급(3급)"]
     },
     {
       "q": "庭",
@@ -165,8 +151,7 @@ const L22_1 =
       "m": "courtyard",
       "d": "An atrium of a court building - a courtyard.",
       "e": "庭園 정원 garden, park",
-      "lv": ["중학용","6급II(5급II)"],
-      "ex": ["정원","庭園"]
+      "lv": ["중학용","6급II(5급II)"]
     },
     {
       "q": "悳/德",
@@ -175,8 +160,7 @@ const L22_1 =
       "m": "ethics, morality, virtue",
       "d": "Morality is walking on with a straight (直) heart.",
       "e": "德分 덕분 favor, grace, help",
-      "lv": ["중학용","5급II(4급II)"],
-      "ex": ["덕분","德分"]
+      "lv": ["중학용","5급II(4급II)"]
     },
     {
       "q": "聽",
@@ -184,9 +168,8 @@ const L22_1 =
 	  "k": "들을",
       "m": "hear, listen",
       "d": "A porter 壬 lends his ear 耳 in order to listen virtuously 德.",
-      "e": "聽取者 청취자 radio listener",
-      "lv": ["중학용","4급(3급)"],
-      "ex": ["시청률","視聽率"]
+      "e": "視聽率 시청률 viewer ratings; 聽取者 청취자 radio listener",
+      "lv": ["중학용","4급(3급)"]
     },
     {
       "q": "庁/廳",
@@ -195,8 +178,7 @@ const L22_1 =
       "m": "hall, central room; *government office",
       "d": "A government office is where they listen to your complaints. The office nails fast the policies adopted.",
       "e": "市廳 시청 municipal/city office/hall",
-      "lv": ["고등용","4급(3급)"],
-      "ex": ["시청","市廳"]
+      "lv": ["고등용","4급(3급)"]
     },
     {
       "q": "床",
@@ -205,8 +187,7 @@ const L22_1 =
       "m": "bed, couch",
       "d": "The most important wooden thing in a house is certainly the bed, the place to have rest.",
       "e": "冊床 책상 des, writing table; 平床/平牀 평상 flat bench",
-      "lv": ["고등용","4급II(3급II)"],
-      "ex": ["책상","冊床"]
+      "lv": ["고등용","4급II(3급II)"]
     },
     {
       "q": "麻",
@@ -214,9 +195,8 @@ const L22_1 =
 	  "k": "삼",
       "m": "hemp",
       "d": "A secret plantation of hemp in a cave to produce marijuana.",
-      "e": "麻袋 마대 jute bag; 大麻草 대마초 hemp, marijuana",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["마비","痲痹/麻痺"]
+      "e": "痲痹/麻痺 마비 paralysis; 麻袋 마대 jute bag; 大麻草 대마초 hemp, marijuana",
+      "lv": ["고등용","3급II(2급)"]
     },
     {
       "q": "磨",
@@ -225,8 +205,7 @@ const L22_1 =
       "m": "grind, polish, rub",
       "d": "A stone is used to grind the hemp to make the powder to smoke.",
       "e": "磨滅 마멸 wear, defacement, abrasion",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["마멸","磨滅"]
+      "lv": ["고등용","3급II(2급)"]
     },
     {
       "q": "心",
@@ -235,8 +214,7 @@ const L22_1 =
       "m": "heart",
       "d": "In its kanji-form, it appears beneath or to the right of its relative primitive and means the physical organ of the heart. To the left, it is abbreviated to three strokes 忄, and means a wildly emotional state of mind. And finally, at the very bottom, it can take the form 㣺, in which case we give it the meaning of a valentine.",
       "e": "決心 결심 determination, resolution",
-      "lv": ["중학용","7급(6급)"],
-      "ex": ["결심","決心"]
+      "lv": ["중학용","7급(6급)"]
     },
     {
       "q": "忘",
@@ -244,9 +222,8 @@ const L22_1 =
 	  "k": "잊을",
       "m": "forget",
       "d": "To forget is to perish a state of your heart.",
-      "e": "忘年會 망년회 year-end party",
-      "lv": ["중학용","3급(2급)"],
-      "ex": ["건망증","健忘症"]
+      "e": "健忘症 건망증 forgetfulness; 忘年會 망년회 year-end party",
+      "lv": ["중학용","3급(2급)"]
     },
     {
       "q": "忍",
@@ -254,9 +231,8 @@ const L22_1 =
 	  "k": "참을",
       "m": "endure",
       "d": "Blades of pain stab the heart, it bleeds drops of blood but endures.",
-      "e": "忍苦 인고 endurance, stoicism",
-      "lv": ["중학용","3급II(2급)"],
-      "ex": ["인내","忍耐"]
+      "e": "忍耐 인내 patience; 忍苦 인고 endurance, stoicism",
+      "lv": ["중학용","3급II(2급)"]
     },
     {
       "q": "認",
@@ -265,8 +241,7 @@ const L22_1 =
       "m": "recognize, *acknowledge",
       "d": "To endure the words is to acknowledge their truth however hard they are.",
       "e": "認識 인식 awareness, recognition, perception",
-      "lv": ["중학용","4급II(3급II)"],
-      "ex": ["인식","認識"]
+      "lv": ["중학용","4급II(3급II)"]
     },
     {
       "q": "忌",
@@ -274,9 +249,8 @@ const L22_1 =
 	  "k": "꺼릴",
       "m": "jealous, envious; *mourning",
       "d": "Jealousy is a snake at one's heart that bites oneself.",
-      "e": "猜忌心 시기심 jealousy; 忌避 기피 evasion, avoidance; 週忌 주기 anniversary of a persons's death",
-      "lv": ["고등용","3급(2급)"],
-      "ex": ["금기","禁忌"]
+      "e": "禁忌 금기 taboo; 猜忌心 시기심 jealousy; 忌避 기피 evasion, avoidance; 週忌 주기 anniversary of a persons's death",
+      "lv": ["고등용","3급(2급)"]
     },
     {
       "q": "志",
@@ -285,8 +259,7 @@ const L22_1 =
       "m": "purpose, will, *intention",
       "d": "What is in the samurai's heart is in his mind - his intention.",
       "e": "意志 의지 will, volition",
-      "lv": ["중학용","4급II(3급II)"],
-      "ex": ["의지","意志"]
+      "lv": ["중학용","4급II(3급II)"]
     },
     {
       "q": "誌",
@@ -295,8 +268,7 @@ const L22_1 =
       "m": "write down, magazine, *document",
       "d": "The magazine 'Men's health' - words intended for samurais.",
       "e": "雜誌 잡지 magazine",
-      "lv": ["고등용","4급(3급)"],
-      "ex": ["잡지","雜誌"]
+      "lv": ["고등용","4급(3급)"]
     },
     {
       "q": "忠",
@@ -304,9 +276,8 @@ const L22_1 =
 	  "k": "충성",
       "m": "loyalty",
       "d": "Loyalty is keeping someone in the middle of the heart.",
-      "e": "忠誠 충성 loyalty",
-      "lv": ["중학용","4급II(3급II)"],
-      "ex": ["충고","忠告"]
+      "e": "忠告 충고 advice; 忠誠 충성 loyalty",
+      "lv": ["중학용","4급II(3급II)"]
     },
     {
       "q": "串",
@@ -314,8 +285,7 @@ const L22_1 =
 	  "k": "곶",
       "m": "cape; string; relatives; shish kebab",
       "d": "This pictograph of two pieces of meat on a skewer, a shish kebab",
-      "e": "串 곶 cape, headland",
-      "ex": ["곶","串"]
+      "e": "串 곶 cape, headland"
     },
     {
       "q": "患",
@@ -324,8 +294,7 @@ const L22_1 =
       "m": "suffer, worry, *afflicted",
       "d": "If a man is afflicted by a worry or a disease, he feels like his heart is pierced with a skewer like shish kebab.",
       "e": "患者 환자 patient, sufferer",
-      "lv": ["중학용","5급(4급)"],
-      "ex": ["환자","患者"]
+      "lv": ["중학용","5급(4급)"]
     },
     {
       "q": "思",
@@ -333,9 +302,8 @@ const L22_1 =
 	  "k": "생각",
       "m": "think",
       "d": "There are two ways to think for women - with their brains and with their hearts. Men have a third way of thinking but I won't mention that here...",
-      "e": "意思 의사 mind, intent, idea",
-      "lv": ["중학용","5급(4급)"],
-      "ex": ["사춘기","思春期"]
+      "e": "思春期 사춘기 puberty; 意思 의사 mind, intent, idea",
+      "lv": ["중학용","5급(4급)"]
     },
     {
       "q": "恩",
@@ -344,8 +312,7 @@ const L22_1 =
       "m": "kindness, mercy, charity, *grace",
       "d": "The <b>grace</b>, the charity is only true when it is <b>caused</b> by the free movement of the sincere <b>heart</b>.",
       "e": "恩惠 은혜 favor, benefit, blessing",
-      "lv": ["중학용","4급II(3급II)"],
-      "ex": ["은혜","恩惠"]
+      "lv": ["중학용","4급II(3급II)"]
     }
   ]
 };

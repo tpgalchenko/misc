@@ -7,9 +7,8 @@ const L24 = {
 	  "k": "날",
       "m": "go out, *exit",
       "d": "The kanji for exit pictures a series of mountain peaks coming out of the earth.",
-      "e": "出張 출장 business trip",
-      "lv": ["중학용","7급(6급)"],
-      "ex": ["외출","外出"]
+      "e": "外出 외출 going out; 出張 출장 business trip",
+      "lv": ["중학용","7급(6급)"]
     },
     {
       "q": "山",
@@ -17,9 +16,8 @@ const L24 = {
 	  "k": "메",
       "m": "mountain",
       "d": "Note the clearer outline of a triangular mountain here.",
-      "e": "登山 등산 mountain climbing",
-      "lv": ["중학용","8급(6급II)"],
-      "ex": ["남산","南山"]
+      "e": "南山 남산 Namsan (mountain in Seoul); 登山 등산 mountain climbing",
+      "lv": ["중학용","8급(6급II)"]
     },
     {
       "q": "拙",
@@ -27,9 +25,8 @@ const L24 = {
 	  "k": "옹졸할",
       "m": "stupid, clumsy; *bungling",
       "d": "A stupid tailor made a pair of poor gloves such as fingers exit out of the gloves. Really, a bungle.",
-      "e": "拙速 졸속 headlong, hasty",
-      "lv": ["고등용","3급(2급)"],
-      "ex": ["졸고","拙稿"]
+      "e": "拙稿 졸고 my humble writing; 拙速 졸속 headlong, hasty",
+      "lv": ["고등용","3급(2급)"]
     },
     {
       "q": "岩",
@@ -47,8 +44,7 @@ const L24 = {
       "m": "charcoal",
       "d": "Although it is now made artificially, the first charcoal humans encountered was naturally created during forest fires. Therefore, the character 炭 can be said to be a character that expresses the place where charcoal was first created by combining the characters 山 (mountain), 厂 (foothill), and 火 (fire).",
       "e": " 煉炭 연탄 a charcoal briquet",
-      "lv": ["고등용","5급(4급)"],
-      "ex": ["연탄","煉炭"]
+      "lv": ["고등용","5급(4급)"]
     },
     {
       "q": "岐",
@@ -57,8 +53,7 @@ const L24 = {
       "m": "fork in road, branch off",
       "d": "The place a road meets a mountain is a turning point, where the road branches off. One has to decide which branch to follow - left, right or upwards.",
       "e": "岐路 기로 crossroads, turning point",
-      "lv": ["","2급(특급II)"],
-      "ex": ["기로","岐路"]
+      "lv": ["","2급(특급II)"]
     },
     {
       "q": "峠",
@@ -75,8 +70,7 @@ const L24 = {
       "m": "crumble",
       "d": "The Earth lies on three whales, the sky is supported by Atlas, so every mountain is supported by two companions dwarves.",
       "e": "崩壞 붕괴 fall, breakdown, collapse",
-      "lv": ["고등용","3급(2급)"],
-      "ex": ["붕괴","崩壞"]
+      "lv": ["고등용","3급(2급)"]
     },
     {
       "q": "密",
@@ -85,8 +79,7 @@ const L24 = {
       "m": "dense, tight, intimate; *secrecy",
       "d": "Houses in mountains are invariably secret places invariably hard to reach. Think of a Hitler's secret bunker.",
       "e": "祕密 비밀 secret",
-      "lv": ["중학용","4급II(3급II)"],
-      "ex": ["비밀","祕密"]
+      "lv": ["중학용","4급II(3급II)"]
     },
     {
       "q": "蜜",
@@ -94,9 +87,8 @@ const L24 = {
 	  "k": "꿀",
       "m": "honey",
       "d": "Bees are insects invariably true to their home, they bring the collected nectar to the house and produce honey.",
-      "e": "蜜月 밀월 honeymoon",
-      "lv": ["고등용","3급(2급)"],
-      "ex": ["밀감","蜜柑"]
+      "e": "蜜柑 밀감 tangerine; 蜜月 밀월 honeymoon",
+      "lv": ["고등용","3급(2급)"]
     },
     {
       "q": "嵐",
@@ -113,9 +105,8 @@ const L24 = {
 	  "k": "험할",
       "m": "rough, uneven; *promontory",
       "d": "Karadag. Mountainous cape - promontory - is hard to reach and to traverse due to its uneven surface.",
-      "e": "崎嶇 기구 vicissitudes, ups and downs, adversity",
-      "lv": ["","1급(특급)"],
-      "ex": ["기구하다","崎嶇 하다"]
+      "e": "崎嶇하다 기구하다 ill-fated, rough; 崎嶇 기구 vicissitudes, ups and downs, adversity",
+      "lv": ["","1급(특급)"]
     },
     {
       "q": "入",
@@ -123,9 +114,8 @@ const L24 = {
 	  "k": "들",
       "m": "enter",
       "d": "Image of a man going.",
-      "e": "加入 가입 joining, entrance, subscription",
-      "lv": ["중학용","7급(6급)"],
-      "ex": ["입구","入口"]
+      "e": "入口 입구 entrance; 加入 가입 joining, entrance, subscription",
+      "lv": ["중학용","7급(6급)"]
     },
     {
       "q": "込",
@@ -141,9 +131,8 @@ const L24 = {
 	  "k": "나눌",
       "m": "divide",
       "d": "A dagger goes into an apple and divides it in two.",
-      "e": "部分 부분 part, portion",
-      "lv": ["중학용","6급II(5급II)"],
-      "ex": ["기분","氣分"]
+      "e": "氣分 기분 mood, feeling; 部分 부분 part, portion",
+      "lv": ["중학용","6급II(5급II)"]
     },
     {
       "q": "貧",
@@ -151,9 +140,8 @@ const L24 = {
 	  "k": "가난할",
       "m": "poverty",
       "d": "Poverty is the state where one has no money to share with anyone.",
-      "e": "貧富 빈부 wealth and poverty",
-      "lv": ["중학용","4급II(3급II)"],
-      "ex": ["빈곤","貧困"]
+      "e": "貧困 빈곤 poverty; 貧富 빈부 wealth and poverty",
+      "lv": ["중학용","4급II(3급II)"]
     },
     {
       "q": "頒",
@@ -162,8 +150,7 @@ const L24 = {
       "m": "confer, bestow; publish; *partition",
       "d": "What the <b>head</b> <b>promulgates</b>, other <b>parts</b> of the body execute.",
       "e": "頒布 반포 proclamation, promulgation",
-      "lv": ["","1급(특급)"],
-      "ex": ["반포","頒布"]
+      "lv": ["","1급(특급)"]
     },
     {
       "q": "公",
@@ -171,9 +158,8 @@ const L24 = {
 	  "k": "공평할",
       "m": "fair; *public",
       "d": "I always <b>enter</b> the <b>public</b> restrooms opening the doors with my <b>elbows</b> because I don't want to touch the door with my hands.",
-      "e": "公式 공식 formula, formality, official ceremony; 公平 공평 fairness, equitability",
-      "lv": ["중학용","6급II(5급II)"],
-      "ex": ["공무원","公務員"]
+      "e": "公務員 공무원 civil servant; 公式 공식 formula, formality, official ceremony; 公平 공평 fairness, equitability",
+      "lv": ["중학용","6급II(5급II)"]
     },
     {
       "q": "松",
@@ -181,9 +167,8 @@ const L24 = {
 	  "k": "소나무",
       "m": "pine tree",
       "d": "Following up with the 'entering public restrooms' story for the right-hand primitive: public restrooms always reek of pine tree scented disinfectant.",
-      "e": "松津 송진 resin",
-      "lv": ["중학용","4급(3급)"],
-      "ex": ["송편","松 편"]
+      "e": "松편 송편 songpyeon (rice cake); 松津 송진 resin",
+      "lv": ["중학용","4급(3급)"]
     },
     {
       "q": "翁",
@@ -191,9 +176,8 @@ const L24 = {
 	  "k": "늙은이",
       "m": "venerable old man",
       "d": "The venerable old man is using the public restroom in the park where he feeds the pigeons. But, alas, there is no toilet paper! So, he's caught a pigeon and is using it to wipe his bottom.",
-      "e": "老翁 노옹 an elderly gentlemen, an old man",
-      "lv": ["고등용","3급(2급)"],
-      "ex": ["새옹지마","塞翁之馬"]
+      "e": "塞翁之馬 새옹지마 blessing in disguise; 老翁 노옹 an elderly gentlemen, an old man",
+      "lv": ["고등용","3급(2급)"]
     },
     {
       "q": "訟",
@@ -202,8 +186,7 @@ const L24 = {
       "m": "accuse, dispute, *sue",
       "d": "Take care what words you say in public lest you be sued.",
       "e": "訴訟 소송 lawsuit, litigation",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["소송","訴訟"]
+      "lv": ["고등용","3급II(2급)"]
     },
     {
       "q": "谷",
@@ -212,8 +195,7 @@ const L24 = {
       "m": "valley",
       "d": "If you stand on your head and look at this kanji, the image of avalley stands out more clearly: the mouth of the river whose water flows down at the intersection of the two mountains, with the final two strokes adding the element of perspective.",
       "e": "溪谷 계곡 valley, gorge, ravine",
-      "lv": ["중학용","3급II(2급)"],
-      "ex": ["계곡","溪谷"]
+      "lv": ["중학용","3급II(2급)"]
     },
     {
       "q": "浴",
@@ -222,8 +204,7 @@ const L24 = {
       "m": "bathe",
       "d": "Water in the valley - bathing.",
       "e": "沐浴 목욕 bath, bathing",
-      "lv": ["중학용","5급(4급)"],
-      "ex": ["목욕","沐浴"]
+      "lv": ["중학용","5급(4급)"]
     },
     {
       "q": "容",
@@ -232,8 +213,7 @@ const L24 = {
       "m": "looks, appearance, figure; *contain",
       "d": "This character depicts a house so large that it can contain an entire valley.",
       "e": "內容 내용 content(s); 形容 형용 figure, shape; 美容 미용 beauty culture",
-      "lv": ["중학용","4급II(3급II)"],
-      "ex": ["내용","內容"]
+      "lv": ["중학용","4급II(3급II)"]
     },
     {
       "q": "溶",
@@ -241,9 +221,8 @@ const L24 = {
 	  "k": "녹을",
       "m": "melt",
       "d": "A chocolate with filling melts down and lets out the liquor it contains.",
-      "e": "溶解 용해 dissolution, melting",
-      "lv": ["","2급(특급II)"],
-      "ex": ["용매","溶媒"]
+      "e": "溶媒 용매 solvent; 溶解 용해 dissolution, melting",
+      "lv": ["","2급(특급II)"]
     },
     {
       "q": "欲/慾",
@@ -251,9 +230,8 @@ const L24 = {
 	  "k": "욕심",
       "m": "longing",
       "d": "The valley has something my life is lacking.... something I've been longing for... peace and quiet to fill my aching heart.",
-      "e": "意欲 의욕 will, volition, desire",
-      "lv": ["중학용","3급II(2급)"],
-      "ex": ["욕망","欲望/慾望"]
+      "e": "欲望/慾望 욕망 desire; 意欲 의욕 will, volition, desire",
+      "lv": ["중학용","3급II(2급)"]
     },
     {
       "q": "裕",
@@ -261,9 +239,8 @@ const L24 = {
 	  "k": "넉넉할",
       "m": "abundant",
       "d": "She used a cloak to hide her abundant cleavage, so called valley of the chest, from prying eyes.",
-      "e": "富裕 부유 wealth, opulence",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["여유","餘裕"]
+      "e": "餘裕 여유 leisure, spare; 富裕 부유 wealth, opulence",
+      "lv": ["고등용","3급II(2급)"]
     },
     {
       "q": "㕣",
@@ -279,9 +256,8 @@ const L24 = {
 	  "k": "납",
       "m": "lead (metal)",
       "d": "Lead is a very poisonous metal, and should not enter your mouth.",
-      "e": "",
-      "lv": ["고등용","4급(3급)"],
-      "ex": ["연필","鉛筆"]
+      "e": "鉛筆 연필 pencil",
+      "lv": ["고등용","4급(3급)"]
     },
     {
       "q": "沿",

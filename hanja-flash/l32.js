@@ -24,9 +24,8 @@ const L32 = {
       "k": "어긋날",
       "m": "error, blunder, *confused",
       "d": "<b>A long time ago</b>, people of the world got <b>confused</b> because there were so many kinds of <b>metal</b> coins, today we only have the euro.",
-      "e": "錯誤 착오 mistake, error; 倒錯 도착 perversion, inversion",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["착각","錯覺"]
+      "e": "錯覺 착각 illusion, mistake; 錯誤 착오 mistake, error; 倒錯 도착 perversion, inversion",
+      "lv": ["고등용","3급II(2급)"]
     },
     {
       "q": "借",
@@ -34,9 +33,8 @@ const L32 = {
       "k": "빌릴",
       "m": "borrow",
       "d": "Once upon a time, Chuck Norris borrowed something from me. Do you think I'm going to ask for it back? No way!",
-      "e": "借用 차용 borrowing, loan",
-      "lv": ["중학용","3급II(2급)"],
-      "ex": ["차명","借名"]
+      "e": "借名 차명 borrowed name; 借用 차용 borrowing, loan",
+      "lv": ["중학용","3급II(2급)"]
     },
     {
       "q": "惜",
@@ -45,8 +43,7 @@ const L32 = {
       "m": "pity",
       "d": "It's a pity that his state of mind isn't what it was once upon a time. Alzheimers can be very tragic.",
       "e": "惜別 석별 unwillingness to part, to leave",
-      "lv": ["중학용","3급II(2급)"],
-      "ex": ["석별","惜別"]
+      "lv": ["중학용","3급II(2급)"]
     },
     {
       "q": "措",
@@ -55,8 +52,7 @@ const L32 = {
       "m": "place, *set aside",
       "d": "'Once upon a time...' - Oh hell, you're just too old for this. You close your fairy tale book and set it aside, pushing it away with your fingers.",
       "e": "措置 조치 measure, step, arrangement",
-      "lv": ["","2급(1급)"],
-      "ex": ["조치","措置"]
+      "lv": ["","2급(1급)"]
     },
     {
       "q": "散",
@@ -64,9 +60,8 @@ const L32 = {
       "k": "흩을",
       "m": "scatter",
       "d": "The taskmaster is dissatisfied with the meal she's served, and scatters the salad and meat across the floor for the servants to clean up.",
-      "e": "散步 산보 walk, stroll",
-      "lv": ["중학용","4급(3급)"],
-      "ex": ["산책","散策"]
+      "e": "散策 산책 walk, stroll; 散步 산보 walk, stroll",
+      "lv": ["중학용","4급(3급)"]
     },
     {
       "q": "廿",
@@ -91,8 +86,7 @@ const L32 = {
       "m": "numerous; *commoner",
       "d": "Commoners have to huddle in caverns around a campfire, while higher class people get heating and central air conditioning in a hotel.",
       "e": "庶民 서민 commoner, common people",
-      "lv": ["고등용","3급(2급)"],
-      "ex": ["서민","庶民"]
+      "lv": ["고등용","3급(2급)"]
     },
     {
       "q": "遮",
@@ -101,8 +95,7 @@ const L32 = {
       "m": "cover, shield; *intercept",
       "d": "The commoners are revolting! We must intercept them on the road before they reach the castle!",
       "e": "遮斷 차단 interception, isolation; 遮日 차일 sunshade, tent",
-      "lv": ["","2급(1급)"],
-      "ex": ["차단","遮斷"]
+      "lv": ["","2급(1급)"]
     },
     {
       "q": "席",
@@ -111,8 +104,7 @@ const L32 = {
       "m": "seat",
       "d": "If you want to take a seat in the caverns, they're often pretty damp - best to lay down a towel first before getting a wet ass.",
       "e": "座席 좌석 seat; 缺席 결석 absence, nonattendance",
-      "lv": ["중학용","6급(5급)"],
-      "ex": ["결석","缺席"]
+      "lv": ["중학용","6급(5급)"]
     },
     {
       "q": "度",
@@ -120,9 +112,8 @@ const L32 = {
       "k": "법도",
       "m": "degrees",
       "d": "The cave is twenty degrees cooler than the outdoors. Twenty male crotches experience shrinkage.",
-      "e": "程度 정도 degree, extent; 態度 태도 attitude, bearing",
-      "lv": ["중학용","6급(5급)"],
-      "ex": ["속도","速度"]
+      "e": "速度 속도 speed; 程度 정도 degree, extent; 態度 태도 attitude, bearing",
+      "lv": ["중학용","6급(5급)"]
     },
     {
       "q": "渡",
@@ -130,9 +121,8 @@ const L32 = {
       "k": "건널",
       "m": "cross, *transit",
       "d": "This particular form of transit is a ferry (one of the actual meanings of this character). Naturally it can only cross the water if it's not frozen, so the temperature must be above 0 degrees.",
-      "e": "讓渡 양도 transfer, cession",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["부도","不渡"]
+      "e": "不渡 부도 bankruptcy, dishonor (bill); 讓渡 양도 transfer, cession",
+      "lv": ["고등용","3급II(2급)"]
     },
     {
       "q": "卉",
@@ -140,9 +130,8 @@ const L32 = {
       "k": "풀",
       "m": "general term for plants; *haystack",
       "d": "The three needles stacked up give us a haystack (in which it may be harder to find the hay than the needles).",
-      "e": "花𠦄 화훼 flowering plant",
-      "lv": ["","1급(특급)"],
-      "ex": ["화훼","花卉"]
+      "e": "花卉 화훼 flowers and plants; 花𠦄 화훼 flowering plant",
+      "lv": ["","1급(특급)"]
     },
     {
       "q": "奔",
@@ -150,9 +139,8 @@ const L32 = {
       "k": "달릴",
       "m": "run fast, *bustle",
       "d": "Hustle and bustle = a big St. Bernard dog frisking about in a haystack, knocking it down and spreading the hay about, after the field hands just stacked it up.",
-      "e": "奔走하다 분주하다 busy; 狂奔하다 광분하다 rush about, run madly about",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["자유분방","自由奔放"]
+      "e": "自由奔放 자유분방 free-spirited; 奔走하다 분주하다 busy; 狂奔하다 광분하다 rush about, run madly about",
+      "lv": ["고등용","3급II(2급)"]
     },
     {
       "q": "噴",
@@ -161,8 +149,7 @@ const L32 = {
       "m": "erupt",
       "d": "History of Pompei: An unexpect eruption and from the mouths of the volcano come lava that threatens the farmers collecting haystacks in the fields and the fisherman catching shells on the coast.",
       "e": " 噴水 분수 fountain, jet of water",
-      "lv": ["","1급(특급)"],
-      "ex": ["분수","噴水"]
+      "lv": ["","1급(특급)"]
     },
     {
       "q": "墳",
@@ -170,9 +157,8 @@ const L32 = {
       "k": "무덤",
       "m": "tomb",
       "d": "After the eruption all is a tomb. The soil has covered the remains of the farmers gathering haystacks and of the fisherman collecting shells.",
-      "e": "墳墓 분묘 tomb, grave",
-      "lv": ["고등용","3급(2급)"],
-      "ex": ["고분","古墳"]
+      "e": "古墳 고분 ancient tomb; 墳墓 분묘 tomb, grave",
+      "lv": ["고등용","3급(2급)"]
     },
     {
       "q": "憤",
@@ -181,8 +167,7 @@ const L32 = {
       "m": "resent, hate; *aroused",
       "d": "Someone's wild state of mind became aroused and indignant upon finding out that the money he'd hidden under the haystack is gone.",
       "e": "憤怒 분노 anger, rage, fury; 憤하다 분다 vexatious, vexing",
-      "lv": ["고등용","4급(3급)"],
-      "ex": ["분노","憤怒"]
+      "lv": ["고등용","4급(3급)"]
     },
     {
       "q": "尭",
@@ -199,8 +184,7 @@ const L32 = {
       "m": "bake",
       "d": "Ah, there's no better way to bake a pizza than an oven fueled by a burning strawman. And if you listen carefully, there are stifled strawman screams coming from the kitchen.",
       "e": "燒酒 소주 soju; 燃燒 연소 burning, combustion",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["소주","燒酒"]
+      "lv": ["고등용","3급II(2급)"]
     },
     {
       "q": "暁/曉",
@@ -217,9 +201,8 @@ const L32 = {
       "k": "반",
       "m": "half",
       "d": "三 broken in half by a walking stick plunged through the middle.",
-      "e": "半島 반도 peninsula",
-      "lv": ["중학용","6급II(5급II)"],
-      "ex": ["반지","半指/斑指"]
+      "e": "半指/斑指 반지 ring; 半島 반도 peninsula",
+      "lv": ["중학용","6급II(5급II)"]
     },
     {
       "q": "伴",
@@ -227,9 +210,8 @@ const L32 = {
       "k": "짝",
       "m": "companion, *consort",
       "d": "The person who is your consort is most commonly 'your other half'.",
-      "e": "伴侶 반려 companion, associate, comrade, mate",
-      "lv": ["고등용","3급(2급)"],
-      "ex": ["동반","同伴"]
+      "e": "同伴 동반 accompaniment; 伴侶 반려 companion, associate, comrade, mate",
+      "lv": ["고등용","3급(2급)"]
     },
     {
       "q": "畔",
@@ -238,8 +220,7 @@ const L32 = {
       "m": "*paddy ridge, boundary path dividing fields",
       "d": "A paddy ridge divides the rice field in halves.",
       "e": "湖畔 호반 shores of a lake, lakeside;",
-      "lv": ["","1급(특급)"],
-      "ex": ["호반","湖畔"]
+      "lv": ["","1급(특급)"]
     },
     {
       "q": "判",
@@ -247,9 +228,8 @@ const L32 = {
       "k": "판단할",
       "m": "judgement",
       "d": "King solomon was famous for his <b>judgement</b>. Two mothers who came before him to resolve a quarrel about which was the true mother of a baby. when Solomon suggests dividing the living child in two <b>halves</b> with a <b>saber</b>, the true mother is revealed to him because she is willing to give up her child to the lying woman rather than have the child killed.",
-      "e": "判斷 판단 judgement, decision, discretion; 裁判 재판 justice, trial, hearing",
-      "lv": ["중학용","4급(3급)"],
-      "ex": ["비판","批判"]
+      "e": "批判 비판 criticism; 判斷 판단 judgement, decision, discretion; 裁判 재판 justice, trial, hearing",
+      "lv": ["중학용","4급(3급)"]
     },
     {
       "q": "龹/𠔉",
@@ -266,8 +246,7 @@ const L32 = {
       "m": "fist",
       "d": "及 fist* His fist is a <b>quarter</b> the size of his open <b>hand</b>.",
       "e": "跆拳道 태권도 taekwondo",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["태권도","跆拳道"]
+      "lv": ["고등용","3급II(2급)"]
     },
     {
       "q": "券",
@@ -275,9 +254,8 @@ const L32 = {
       "k": "문서",
       "m": "ticket",
       "d": "Entering the movie, the dude asks for your ticket, so he can tear it in half. He looks at you funny when you hand him a ticket already torn in half. He quietly tears the stub into quarters after you show him your dagger with a smile.",
-      "e": "旅券 여권 passport",
-      "lv": ["고등용","4급(3급)"],
-      "ex": ["입장권","入場券"]
+      "e": "入場券 입장권 admission ticket; 旅券 여권 passport",
+      "lv": ["고등용","4급(3급)"]
     },
     {
       "q": "巻/卷",
@@ -286,8 +264,7 @@ const L32 = {
       "m": "scroll",
       "d": "How to make snake maki: Take a snake. Roll it up in rice and nori (seaweed paper) like a scroll. Cut into quarters and serve on a wooden geta with ginger and wasabi.",
       "e": "卷 권 volume (unit)",
-      "lv": ["중학용","4급(3급)"],
-      "ex": ["권","卷"]
+      "lv": ["중학용","4급(3급)"]
     },
     {
       "q": "圏/圈",
@@ -296,8 +273,7 @@ const L32 = {
       "m": "circle; *sphere",
       "d": "The entire <b>sphere</b> of human knowledge used to be <b>pent into</b> the library of Alexandria on <b>scrolls</b>. (oops, but then it all burned).",
       "e": "首都圈 수도권 the national capital/metropolitan area",
-      "lv": ["","2급(1급)"],
-      "ex": ["수도권","首都圈"]
+      "lv": ["","2급(1급)"]
     },
     {
       "q": "勝",
@@ -305,9 +281,8 @@ const L32 = {
       "k": "이길",
       "m": "victory",
       "d": "On the moon it only takes a quarter of your power to accomplish the same victory (because of the low gravity).",
-      "e": "勝利 승리 victory",
-      "lv": ["중학용","6급(5급)"],
-      "ex": ["결승","決勝"]
+      "e": "決勝 결승 final (match); 勝利 승리 victory",
+      "lv": ["중학용","6급(5급)"]
     },
     {
       "q": "藤",
@@ -316,8 +291,7 @@ const L32 = {
       "m": "wisteria",
       "d": "The wisteria is a type of hanging vine covered with flowers. By the light of the quarter moon, the flowers look like clusters of rice grains.",
       "e": "葛藤 갈등 conflict",
-      "lv": ["","2급(1급)"],
-      "ex": ["갈등","葛藤"]
+      "lv": ["","2급(1급)"]
     },
     {
       "q": "謄",
@@ -326,8 +300,7 @@ const L32 = {
       "m": "copy, *facsimile",
       "d": "Sending a facsimile to the moon can be problematic only a quarter of the words actually get there.",
       "e": "謄本 등본 a copy, a transcript, a duplicate",
-      "lv": ["","2급(1급)"],
-      "ex": ["등본","謄本"]
+      "lv": ["","2급(1급)"]
     },
     {
       "q": "片",
@@ -336,8 +309,7 @@ const L32 = {
       "m": "splice, splinter; *one sided",
       "d": "A one-sided romance - he proposes and she says no. In the end what remains are just fragments of the heart.",
       "e": "破片 파편 fragment, chip, splinter; 片紙/便紙 편지 letter",
-      "lv": ["중학용","3급II(2급)"],
-      "ex": ["편지","便紙/片紙"]
+      "lv": ["중학용","3급II(2급)"]
     },
     {
       "q": "版",
@@ -346,8 +318,7 @@ const L32 = {
       "m": "printing block",
       "d": "Printing block has a one-sided anti-image of what's being printed.",
       "e": "出版 출판 publication, publishing",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["출판","出版"]
+      "lv": ["고등용","3급II(2급)"]
     },
     {
       "q": "之",
@@ -355,9 +326,8 @@ const L32 = {
       "k": "갈",
       "m": "*of; go",
       "d": "Of all the kanji, this is the only one 之orro can write.",
-      "e": "感之德之 감지덕지 very thankfully, with deep gratitude",
-      "lv": ["중학용","3급II(2급)"],
-      "ex": ["격세지감","隔世之感"]
+      "e": "隔世之感 격세지감 feeling of a different age; 感之德之 감지덕지 very thankfully, with deep gratitude",
+      "lv": ["중학용","3급II(2급)"]
     },
     {
       "q": "乏",
@@ -365,9 +335,8 @@ const L32 = {
       "k": "모자랄",
       "m": "lack, poor, *destitution",
       "d": "Just one drop (of alcohol) and he starts walking in zig-zags – no wonder Zorro's living in destitution.",
-      "e": "窮乏 궁핍 destitution, want, distress, poverty",
-      "lv": ["","1급(특급)"],
-      "ex": ["결핍","缺乏"]
+      "e": "缺乏 결핍 deficiency; 窮乏 궁핍 destitution, want, distress, poverty",
+      "lv": ["","1급(특급)"]
     },
     {
       "q": "芝",
@@ -376,8 +345,7 @@ const L32 = {
       "m": "*turf",
       "d": "Zorro, with a flower between his teeth for the ladies, defends his turf against evildoers. 'This is my turf! And this...is for the lady.'",
       "e": "靈芝 영지 a bracket fungus of the genus Fomes",
-      "lv": ["","2급(특급II)"],
-      "ex": ["영지","靈芝"]
+      "lv": ["","2급(특급II)"]
     },
     {
       "q": "不",
@@ -385,9 +353,8 @@ const L32 = {
       "k": "아닐",
       "m": "negative",
       "d": "One below zero is a negative number.",
-      "e": "不可 불가 wrong, unfairness, impropriety",
-      "lv": ["중학용","7급II(6급)"],
-      "ex": ["불안","不安"]
+      "e": "不安 불안 anxiety; 不可 불가 wrong, unfairness, impropriety",
+      "lv": ["중학용","7급II(6급)"]
     },
     {
       "q": "否",
@@ -396,8 +363,7 @@ const L32 = {
       "m": "negate",
       "d": "Negative mouths negate everything.",
       "e": "否定 부정 denial, negation; 安否 안부 safety, how a person is",
-      "lv": ["중학용","4급(3급)"],
-      "ex": ["안부","安否"]
+      "lv": ["중학용","4급(3급)"]
     },
     {
       "q": "杯",
@@ -406,8 +372,7 @@ const L32 = {
       "m": "cup, *cupfuls",
       "d": "The maple tree is very negative about it, but the farmer still collects cupfuls of maple syrup from it.",
       "e": "乾杯 건배 toast",
-      "lv": ["중학용","3급(2급)"],
-      "ex": ["건배","乾杯"]
+      "lv": ["중학용","3급(2급)"]
     }
   ]
 };

@@ -16,9 +16,8 @@ const L3 =
 			"k": "스스로",
 			"m": "self , *nose/nostrils",
 			"d": "A nose with a drop beween eyes",
-			"e": "自然 자연 nature",
-			"lv": ["중학용","7급II(6급)"],
-			"ex": ["자유","自由"]
+			"e": "自由 자유 freedom; 自然 자연 nature",
+			"lv": ["중학용","7급II(6급)"]
 		},
 		{
 			"q": "丸",
@@ -26,9 +25,8 @@ const L3 =
 			"k": "둥글",
 			"m": "round, *fat man",
 			"d": "A drop added to nine to make up a round number of ten.",
-			"e": "砲丸 포환 cannonball",
-			"lv": ["고등용","3급(2급)"],
-			"ex": ["환","丸"]
+			"e": "丸 환 pill; 砲丸 포환 cannonball",
+			"lv": ["고등용","3급(2급)"]
 		},
 		{
 			"q": "専/專",
@@ -36,9 +34,8 @@ const L3 =
 			"k": "오로지",
 			"m": "monopolize, *specialty",
 			"d": "After you have chosen your 10 fields of study, measure how good you are at each to find out your specialty.",
-			"e": "專혀 전혀 quite, entirely; 專門 전문 speciality",
-			"lv": ["고등용","4급(3급)"],
-			"ex": ["전공","專攻"]
+			"e": "專攻 전공 major (study); 專혀 전혀 quite, entirely; 專門 전문 speciality",
+			"lv": ["고등용","4급(3급)"]
 		},
 		{
 			"q": "尃",
@@ -55,8 +52,7 @@ const L3 =
 			"m": "wide , *Dr.",
 			"d": "Needle speciality = acupuncture = doctor with dot at the end",
 			"e": "博物館 박물관 museum, 博士 박사 doctor",
-			"lv": ["고등용","4급II(3급II)"],
-			"ex": ["박물관","博物館"]
+			"lv": ["고등용","4급II(3급II)"]
 		},
 		{
 			"q": "上",
@@ -64,9 +60,8 @@ const L3 =
 			"k": "윗",
 			"m": "above",
 			"d": "Magic wand above the floor",
-			"e": "",
-			"lv": ["중학용","7급II(6급)"],
-			"ex": ["세상","世上"]
+			"e": "世上 세상 world",
+			"lv": ["중학용","7급II(6급)"]
 		},
 		{
 			"q": "下",
@@ -74,9 +69,8 @@ const L3 =
 			"k": "아래",
 			"m": "below",
 			"d": "Magic wand hanging below the ceiling",
-			"e": "",
-			"lv": ["중학용","7급II(6급)"],
-			"ex": ["영하","零下"]
+			"e": "零下 영하 below zero",
+			"lv": ["중학용","7급II(6급)"]
 		},
 		{
 			"q": "朝",
@@ -85,8 +79,7 @@ const L3 =
 			"m": "morning",
 			"d": "This <b>morning</b> the <b>sun</b> has come up <b>ten</b> hours 'early'! The <b>moon</b> is still in the sky!",
 			"e": "朝鮮 조선 Korea, 王朝 왕조 king dinasty",
-			"lv": ["중학용","6급(5급)"],
-			"ex": ["왕조","王朝"]
+			"lv": ["중학용","6급(5급)"]
 		},
 		{
 			"q": "白",
@@ -95,8 +88,7 @@ const L3 =
 			"m": "white, *dove/white bird",
 			"d": "A drop of sun",
 			"e": "告白 고백 confession",
-			"lv": ["중학용","8급(6급II)"],
-			"ex": ["고백","告白"]
+			"lv": ["중학용","8급(6급II)"]
 		},
 		{
 			"q": "舌",
@@ -105,8 +97,7 @@ const L3 =
 			"m": "tongue",
 			"d": "A thousand of mouths speaking the same language, sharing a common tongue",
 			"e": "口舌 구설 malicious gossip",
-			"lv": ["중학용","4급(3급)"],
-			"ex": ["구설","口舌"]
+			"lv": ["중학용","4급(3급)"]
 		},
 		{
 			"q": "寸",
@@ -114,9 +105,8 @@ const L3 =
 			"k": "마디",
 			"m": "joint, measurement, *glue",
 			"d": "One drop of a ten (with a hook) = one tenth",
-			"e": "四寸 사촌 cousin",
-			"lv": ["중학용","8급(6급II)"],
-			"ex": ["삼촌","三寸"]
+			"e": "三寸 삼촌 uncle; 四寸 사촌 cousin",
+			"lv": ["중학용","8급(6급II)"]
 		},
 		{
 			"q": "卜",
@@ -125,8 +115,7 @@ const L3 =
 			"m": "divining rod",
 			"d": "Magic wand",
 			"e": "卜債 복채 fee for having one's fortune told",
-			"lv": ["고등용","3급(2급)"],
-			"ex": ["복채","卜債"]
+			"lv": ["고등용","3급(2급)"]
 		},
 		{
 			"q": "升",
@@ -135,8 +124,7 @@ const L3 =
 			"m": "measurin-glass/arise",
 			"d": "A thousand of needles - a drinker's nightmare",
 			"e": "上升/上昇 상승 rise",
-			"lv": ["","2급(1급)"],
-			"ex": ["상승","上昇/上升"]
+			"lv": ["","2급(1급)"]
 		},
 		{
 			"q": "昇",
@@ -144,9 +132,8 @@ const L3 =
 			"k": "오를",
 			"m": "rise up",
 			"d": "The sun rising from a measuring-glass",
-			"e": "昇格 승격 promotion in status",
-			"lv": ["고등용","3급II(2급)"],
-			"ex": ["상승","上昇/上升"]
+			"e": "上昇/上升 상승 rise; 昇格 승격 promotion in status",
+			"lv": ["고등용","3급II(2급)"]
 		},
 		{
 			"q": "占",
@@ -155,8 +142,7 @@ const L3 =
 			"m": "fortune-telling",
 			"d": "Divining rod (fortune) + mouth (telling)",
 			"e": "獨占 독점 monopoly",
-			"lv": ["고등용","4급(3급)"],
-			"ex": ["독점","獨占"]
+			"lv": ["고등용","4급(3급)"]
 		},
 		{
 			"q": "卓",
@@ -164,9 +150,8 @@ const L3 =
 			"k": "높을",
 			"m": "high, *eminent",
 			"d": "World's most eminent magician using sunflower for a magic wand, flower-child",
-			"e": "敎卓 교탁 teacher's/teaching desk",
-			"lv": ["고등용","5급(4급)"],
-			"ex": ["식탁","食卓"]
+			"e": "食卓 식탁 dining table; 敎卓 교탁 teacher's/teaching desk",
+			"lv": ["고등용","5급(4급)"]
 		}
 	]
 };

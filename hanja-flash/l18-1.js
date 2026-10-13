@@ -9,8 +9,7 @@ const L18_1 =
 			"m": "clothes, *garment",
 			"d": "At the top we see the top hat, and at the bottom a pictographic representation of the folds of a garment. 衤 cloak, 𧘇 scarf.",
 			"e": "衣類 의류 clothing, clothes, garment",
-			"lv": ["중학용","6급(5급)"],
-			"ex": ["의류","衣類"]
+			"lv": ["중학용","6급(5급)"]
 		},
 		{
 			"q": "裁",
@@ -18,9 +17,8 @@ const L18_1 =
 			"k": "마를",
 			"m": "cut out, *tailor",
 			"d": "You might think here of garment that have been specially tailored for Thanksgiving celebrations to look like traditional Pilgrim garb.",
-			"e": "獨裁 독재 dictatorship",
-			"lv": ["고등용","3급II(2급)"],
-			"ex": ["재판","裁判"]
+			"e": "裁判 재판 trial; 獨裁 독재 dictatorship",
+			"lv": ["고등용","3급II(2급)"]
 		},
 		{
 			"q": "装/裝",
@@ -28,9 +26,8 @@ const L18_1 =
 			"k": "꾸밀",
 			"m": "decorate, dress, *attire",
 			"d": "“Turtle-samurai” sweater. At the top we see the turtle-samurai and at the bottom the element for garment.",
-			"e": "裝飾 장식 decoration, ornament",
-			"lv": ["고등용","4급(3급)"],
-			"ex": ["포장","包裝"]
+			"e": "包裝 포장 packing, wrapping; 裝飾 장식 decoration, ornament",
+			"lv": ["고등용","4급(3급)"]
 		},
 		{
 			"q": "裏",
@@ -38,9 +35,8 @@ const L18_1 =
 			"k": "속 ",
 			"m": "inside, interior; *back",
 			"d": "An innocent looking top hat and scarf lying there in front of you, turned over, reveal a hidden computer sewn into the back of each—obviously the tools of a master spy. Such experiences teach one always to have a look at the back side of things.",
-			"e": "腦裏 뇌리 brain, mind, memory",
-			"lv": ["고등용","3급II(2급)"],
-			"ex": ["이면지","裏面紙"]
+			"e": "裏面紙 이면지 scrap paper; 腦裏 뇌리 brain, mind, memory",
+			"lv": ["고등용","3급II(2급)"]
 		},
 		{
 			"q": "壊/壞",
@@ -49,8 +45,7 @@ const L18_1 =
 			"m": "crumble, collapse, *demolition",
 			"d": "The right half of this character shows a <b>garment</b> woven so fine that it can pass through the eye of a <b>needle</b>, fittingly draped around the slithering, ethereal form of a poltergeist. In this frame, our eerie visitor brushes its robes against a nearby block of apartments and completely <b>demolishes</b> them, razing them to the ground.",
 			"e": "破壞 파괴 destruction, demolition",
-			"lv": ["고등용","3급II(2급)"],
-			"ex": ["파괴","破壞"]
+			"lv": ["고등용","3급II(2급)"]
 		},
 		{
 			"q": "哀",
@@ -58,9 +53,8 @@ const L18_1 =
 			"k": "슬플",
 			"m": "sad, mournful, *pathetic",
 			"d": "A drunken sod in a tattered top hat and soiled silk scarf with a giant mouth guzzling something or other gives us a pathetic character role in which W. C. Fields might find himself right at home",
-			"e": "哀痛하다 애통하다 sad and painful, grieve, deplore",
-			"lv": ["중학용","3급II(2급)"],
-			"ex": ["희로애락","喜怒▽哀樂"]
+			"e": "喜怒哀樂 희로애락 joy, anger, sorrow and pleasure; 哀痛하다 애통하다 sad and painful, grieve, deplore",
+			"lv": ["중학용","3급II(2급)"]
 		},
 		{
 			"q": "遠",
@@ -69,8 +63,7 @@ const L18_1 =
 			"m": "distant, far",
 			"d": "A <b>distant</b> figure on the road is such a blur it looks like a <b>lidded crock</b> wearing a silk <b>scarf</b>.",
 			"e": "永遠 영원 eternity",
-			"lv": ["중학용","6급(5급)"],
-			"ex": ["영원","永遠"]
+			"lv": ["중학용","6급(5급)"]
 		},
 		{
 			"q": "猿",
@@ -79,8 +72,7 @@ const L18_1 =
 			"m": "ape, *monkey",
 			"d": "This clever little <b>monkey</b> has captured an entire pack of <b>wild dogs</b>, locked them inside a <b>lidded crock</b>, and wrapped the whole thing up in a silk <b>scarf</b> to present to the dogcatcher.",
 			"e": "類人猿 유인원 antropoid ape",
-			"lv": ["","1급(특급)"],
-			"ex": ["유인원","類人猿"]
+			"lv": ["","1급(특급)"]
 		},
 		{
 			"q": "初",
@@ -88,9 +80,8 @@ const L18_1 =
 			"k": "처음",
 			"m": "initial, *first time",
 			"d": "In order to make clothes (<b>cloak</b>), you must <b>first</b> start <b>cutting</b> cloth.",
-			"e": "初級 초급 primary/elementary grade",
-			"lv": ["중학용","5급(4급)"],
-			"ex": ["초","初"]
+			"e": "初 초 beginning; 初級 초급 primary/elementary grade",
+			"lv": ["중학용","5급(4급)"]
 		},
 		{
 			"q": "巾",
@@ -99,8 +90,7 @@ const L18_1 =
 			"m": "towel, kerchief",
 			"d": "The basic meaning of this primitive is a bolt of cloth, from which we derive the meaning of a towel.",
 			"e": "手巾 수건 towel",
-			"lv": ["","1급(특급)"],
-			"ex": ["수건","手巾"]
+			"lv": ["","1급(특급)"]
 		},
 		{
 			"q": "布",
@@ -109,8 +99,7 @@ const L18_1 =
 			"m": "cotton cloth, *linen; spread out",
 			"d": "The maid, <b>towels by her side</b>, distributes the <b>linen</b>. ",
 			"e": "分布 분포 distribution; 瀑布 폭포 waterfall",
-			"lv": ["중학용","4급II(3급II)"],
-			"ex": ["분포","分布"]
+			"lv": ["중학용","4급II(3급II)"]
 		},
 		{
 			"q": "帆",
@@ -118,9 +107,8 @@ const L18_1 =
 			"k": "돛",
 			"m": "sail",
 			"d": "A <b>sail</b> made of a <b>towel</b> makes a <b>mediocre</b> vessel.",
-			"e": "帆船 범선 sailboat, sailer",
-			"lv": ["","1급(특급)"],
-			"ex": ["출범","出帆"]
+			"e": "出帆 출범 launch; 帆船 범선 sailboat, sailer",
+			"lv": ["","1급(특급)"]
 		},
 		{
 			"q": "幅",
@@ -128,9 +116,8 @@ const L18_1 =
 			"k": "폭,너비,넓이",
 			"m": "piece, strip, breadth, *hanging scroll",
 			"d": "A hanging scroll is one of the many traditional ways to display and exhibit Chinese painting and calligraphy. The painting surface of the paper or silk can be mounted with decorative brocade silk borders. Hanging scrolls are art, they are NOT towels of the wealthy. You may find a hanging scroll hanging like a towel in a wealthy persons bathroom but don't dry yourself with it.",
-			"e": "",
-			"lv": ["고등용","3급(2급)"],
-			"ex": ["폭넓다","幅 넓다"]
+			"e": "幅넓다 폭넓다 wide, broad",
+			"lv": ["고등용","3급(2급)"]
 		},
 		{
 			"q": "帽",
@@ -139,8 +126,7 @@ const L18_1 =
 			"m": "cap",
 			"d": "Because of the <b>risk</b> involved (of getting the <b>sun</b> in one’s <b>eyes</b>), one puts together a makeshift <b>cap</b> out of a dirty old <b>towel</b>. ",
 			"e": "帽子 모자 cap",
-			"lv": ["","2급(1급)"],
-			"ex": ["모자","帽子"]
+			"lv": ["","2급(1급)"]
 		},
 		{
 			"q": "幕",
@@ -148,9 +134,8 @@ const L18_1 =
 			"k": "장막",
 			"m": "curtain, screen, tent",
 			"d": "A dirty <b>towel</b> draped over the entrance to the old <b>graveyard</b> is painted to look like the <b>curtain</b> of death that leads to the other world.",
-			"e": "幕間 막간 intermission; 開幕 개막 raising of the curtain, start of performance",
-			"lv": ["고등용","3급II(2급)"],
-			"ex": ["자막","字幕"]
+			"e": "字幕 자막 subtitles; 幕間 막간 intermission; 開幕 개막 raising of the curtain, start of performance",
+			"lv": ["고등용","3급II(2급)"]
 		},
 		{
 			"q": "幌",
@@ -166,9 +151,8 @@ const L18_1 =
 			"k": "비단",
 			"m": "brocade",
 			"d": "A strip of <b>white towel</b> and some scraps of metal have the makings of a primitive kind of <b>brocade</b>.",
-			"e": "錦江 금강 Geum River",
-			"lv": ["고등용","3급II(2급)"],
-			"ex": ["금상첨화","錦上添花"]
+			"e": "錦上添花 금상첨화 icing on the cake; 錦江 금강 Geum River",
+			"lv": ["고등용","3급II(2급)"]
 		},
 		{
 			"q": "市",
@@ -176,9 +160,8 @@ const L18_1 =
 			"k": "저자",
 			"m": "market",
 			"d": "Dressed in nothing but a bath <b>towel</b> and <b>top hat</b>, one sets off to the <b>market</b>place in search of a bargain or two",
-			"e": "市場 시장 market",
-			"lv": ["중학용","7급II(6급)"],
-			"ex": ["도시","都市"]
+			"e": "都市 도시 city; 市場 시장 market",
+			"lv": ["중학용","7급II(6급)"]
 		},
 		{
 			"q": "姉/姊",
@@ -187,8 +170,7 @@ const L18_1 =
 			"m": "elder sister",
 			"d": "Of all the <b>women</b> of the family, it is the <b>elder sister</b> who has the duty to go to <b>market</b> to do the shopping. ",
 			"e": "姊妹 자매 sisters; 姊兄 자형 elder sister's husband",
-			"lv": ["중학용","4급(3급)"],
-			"ex": ["자매","姊妹"]
+			"lv": ["중학용","4급(3급)"]
 		},
 		{
 			"q": "肺",
@@ -197,8 +179,7 @@ const L18_1 =
 			"m": "lungs",
 			"d": "One is surprised, strolling through the <b>market</b>, to find among the <b>meats</b> hung out for sale a slab marked: <b>lungs</b>.",
 			"e": "肺炎 폐렴 pneumonia, inflammation of the lungs",
-			"lv": ["고등용","3급II(2급)"],
-			"ex": ["폐렴","肺炎▽"]
+			"lv": ["고등용","3급II(2급)"]
 		},
 		{
 			"q": "帀/匝",
@@ -214,9 +195,8 @@ const L18_1 =
 			"k": "띠",
 			"m": "belt, band, zone, *sash",
 			"d": "The buckle of the sash is represented pictorially by the first 5 strokes.",
-			"e": "一帶 일대 while area/district; 熱帶 열대 tropics",
-			"lv": ["고등용","4급II(3급II)"],
-			"ex": ["휴대폰","携帶 phone"]
+			"e": "携帶폰 휴대폰 cell phone; 一帶 일대 while area/district; 熱帶 열대 tropics",
+			"lv": ["고등용","4급II(3급II)"]
 		},
 		{
 			"q": "滞/滯",
@@ -225,8 +205,7 @@ const L18_1 =
 			"m": "block up, obstruct. *stagnant",
 			"d": "People that have been “sashed” to something (whether their mother’s apron strings or a particular job) for too long become like water that has stopped moving: they start to stagnate.",
 			"e": "延滯 연체 delay, procrastination, arrears",
-			"lv": ["고등용","3급II(2급)"],
-			"ex": ["연체","延滯"]
+			"lv": ["고등용","3급II(2급)"]
 		},
 		{
 			"q": "刺",
@@ -235,8 +214,7 @@ const L18_1 =
 			"m": "stab, prick, *thorn",
 			"d": "Thorns grow on a bush here that has wrapped itself around a <b>tree</b> like a <b>belt</b>, cutting into the poor <b>tree</b> like little <b>sabers</b>.",
 			"e": "刺戟 자극 stimulus, stimulation, irritation",
-			"lv": ["고등용","3급II(2급)"],
-			"ex": ["자극","刺戟"]
+			"lv": ["고등용","3급II(2급)"]
 		},
 		{
 			"q": "制",
@@ -245,8 +223,7 @@ const L18_1 =
 			"m": "*system, overpower",
 			"d": "This kanji show a unique <b>system</b> for leading <b>cows</b> to the slaughterer’s <b>saber</b>: one ties a <b>belt</b> about their waist and fixes that <b>belt</b> to an overhead cable, pulling the <b>cow</b> up into the air where it hangs suspended, helpless against the fate that awaits it.",
 			"e": "制度 제도 system, institution; 強制 강제 compulsion, coercion; 節制 절제 moderation, temperance, continence",
-			"lv": ["고등용","4급II(3급II)"],
-			"ex": ["강제","強制"]
+			"lv": ["고등용","4급II(3급II)"]
 		},
 		{
 			"q": "製",
@@ -255,8 +232,7 @@ const L18_1 =
 			"m": "make, produce, *made in",
 			"d": "A label indicating that a <b>garment</b> was made in U.S.A. or Taiwan or Japan is itself a symbol for the <b>systematization</b> of the <b>garment</b> industry.",
 			"e": "製作 제작 manufacture, production",
-			"lv": ["중학용","4급II(3급II)"],
-			"ex": ["제작","製作"]
+			"lv": ["중학용","4급II(3급II)"]
 		},
 		{
 			"q": "云",
@@ -265,8 +241,7 @@ const L18_1 =
 			"m": "say, refer, *rising cloud",
 			"d": "This primitive is meant to depict in graphic fashion a cloud of something or other rising upwards, like vapor or smoke or dust.",
 			"e": "云云 운운 and so on, and the like; 云云하다 운운하다 say such and such",
-			"lv": ["중학용","3급(2급)"],
-			"ex": ["운운","云云"]
+			"lv": ["중학용","3급(2급)"]
 		},
 		{
 			"q": "転/轉",
@@ -275,8 +250,7 @@ const L18_1 =
 			"m": "shift, move, *revolve",
 			"d": "As the wheels of the <b>car</b> revolve, they kick up small <b>rising clouds</b> of dust and debris behind them.",
 			"e": "運轉 운전 driving",
-			"lv": ["고등용","4급(3급)"],
-			"ex": ["운전","運轉"]
+			"lv": ["고등용","4급(3급)"]
 		},
 		{
 			"q": "芸/藝",
@@ -294,8 +268,7 @@ const L18_1 =
 			"m": "rain, *weather",
 			"d": "The top line is the sky, the next 3 strokes a pair of clouds, and the final 4 dots the rain collected there and waiting to fall.",
 			"e": "雨傘 우산 umbrella",
-			"lv": ["중학용","5급II(4급II)"],
-			"ex": ["우산","雨傘"]
+			"lv": ["중학용","5급II(4급II)"]
 		},
 		{
 			"q": "雲",
@@ -303,9 +276,8 @@ const L18_1 =
 			"k": "구름",
 			"m": "cloud",
 			"d": "Here is the full character for cloud from which the primitive for a rising cloud derives. Clouds begin with vapors rising up in small clouds from the surface of the earth, and then gathering to make clouds that eventually dump their rain back on the earth. ",
-			"e": "風雲 풍운 wind and clouds",
-			"lv": ["중학용","5급II(4급II)"],
-			"ex": ["성운","星雲"]
+			"e": "星雲 성운 nebula; 風雲 풍운 wind and clouds",
+			"lv": ["중학용","5급II(4급II)"]
 		},
 		{
 			"q": "曇",
@@ -322,9 +294,8 @@ const L18_1 =
 			"k": "우레(≒천둥)",
 			"m": "thunder",
 			"d": "The full rumble and roar and terror of <b>thunder</b> is best felt not with your head tucked under your pillow safe in bed, but out in an open <b>rice field</b> where you can get the real feel of the <b>weather</b>.",
-			"e": "魚雷 어뢰 torpedo",
-			"lv": ["고등용","3급II(2급)"],
-			"ex": ["기뢰","機雷"]
+			"e": "機雷 기뢰 sea mine; 魚雷 어뢰 torpedo",
+			"lv": ["고등용","3급II(2급)"]
 		},
 		{
 			"q": "霜",
@@ -332,9 +303,8 @@ const L18_1 =
 			"k": "서리",
 			"m": "*frost, crystallized, candied",
 			"d": "Think of <b>frost</b> as a cooperative venture, an <b>inter</b>-action of the malevolent forces of <b>weather</b> that sit around a conference table and finally decide to allow a very light amount of moisture to fall just before a short and sudden freeze.",
-			"e": "風霜 풍상 wind and frost",
-			"lv": ["중학용","3급II(2급)"],
-			"ex": ["설상가상","雪上加霜"]
+			"e": "雪上加霜 설상가상 to make matters worse; 風霜 풍상 wind and frost",
+			"lv": ["중학용","3급II(2급)"]
 		},
 		{
 			"q": "冫/ ⺀",
@@ -350,9 +320,8 @@ const L18_1 =
 			"k": "겨울",
 			"m": "winter",
 			"d": "<b>Walking legs</b> slipping on the <b>ice</b> are a sure sign of <b>winter</b>.",
-			"e": "冬服 동복 winter clothes, winter wear;  春夏秋冬 춘하추동 the four seasons",
-			"lv": ["중학용","7급(6급)"],
-			"ex": ["동계","冬季"]
+			"e": "冬季 동계 winter season; 冬服 동복 winter clothes, winter wear;  春夏秋冬 춘하추동 the four seasons",
+			"lv": ["중학용","7급(6급)"]
 		},
 		{
 			"q": "天",
@@ -361,8 +330,7 @@ const L18_1 =
 			"m": "sky, *heavens",
 			"d": "This character is meant to be a pictograph of a great man, said to represent the Lord of the Heavens.",
 			"e": "天國 천국 Paradise, 天障 천장 ceiling",
-			"lv": ["중학용","7급(6급)"],
-			"ex": ["천국","天國"]
+			"lv": ["중학용","7급(6급)"]
 		},
 		{
 			"q": "喬",
@@ -371,8 +339,7 @@ const L18_1 =
 			"m": "tall, lofty, proud, *angel",
 			"d": "The sense of the primitive, <b>angel</b>, derives from the primitive for heavens replacing the top hat in the character for <b>tall</b>.",
 			"e": "喬木 교목 tall tree, arbor",
-			"lv": ["","1급(특급)"],
-			"ex": ["교목","喬木"]
+			"lv": ["","1급(특급)"]
 		},
 		{
 			"q": "橋",
@@ -380,9 +347,8 @@ const L18_1 =
 			"k": "다리",
 			"m": "bridge",
 			"d": "The bridge shown here is made of <b>trees</b> in their natural form, except that the trunks have been carved into the forms of <b>angels</b>, a sort of “Ponte degli Angeli.”",
-			"e": "大橋 대교 big bridge",
-			"lv": ["중학용","5급(4급)"],
-			"ex": ["육교","陸橋"]
+			"e": "陸橋 육교 pedestrian overpass; 大橋 대교 big bridge",
+			"lv": ["중학용","5급(4급)"]
 		},
 		{
 			"q": "嬌",
@@ -391,8 +357,7 @@ const L18_1 =
 			"m": "attractive",
 			"d": "Associating a particularly attractive woman you know with an <b>angel</b> should be no problem.",
 			"e": "愛嬌 애교 charms, attractiveness",
-			"lv": ["","1급(특급)"],
-			"ex": ["애교","愛嬌"]
+			"lv": ["","1급(특급)"]
 		}
 	]
 };

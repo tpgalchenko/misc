@@ -8,8 +8,7 @@ const L52 = {
       "m": "molar tooth, *tusk",
       "d": "The kanji looks like an elephant with tusks. the box is the elephant's eye. The final stroke is the tusk.",
       "e": "齒牙 치아 teeth; 牙城 아성 inner citadel, stronghold",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["치아","齒牙"]
+      "lv": ["고등용","3급II(2급)"]
     },
     {
       "q": "芽",
@@ -18,8 +17,7 @@ const L52 = {
       "m": "sprout, shoot, *bud",
       "d": "Buds while they're still small tend to be tusk-shaped.",
       "e": "發芽 발아 germination, sprouting, budding; 胚芽 배아 bud",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["발아","發芽"]
+      "lv": ["고등용","3급II(2급)"]
     },
     {
       "q": "邪",
@@ -27,9 +25,8 @@ const L52 = {
       "k": "간사할",
       "m": "wrong, evil, *wicked",
       "d": "The wicked queen builds her city walls out of menacing tusks.",
-      "e": "奸邪하다 간사하다 to have no priciples; 妖邪 요사 capricious, treacherous, weird, wicked, vicious",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["사시","邪視"]
+      "e": "邪視 사시 squint; 奸邪하다 간사하다 to have no priciples; 妖邪 요사 capricious, treacherous, weird, wicked, vicious",
+      "lv": ["고등용","3급II(2급)"]
     },
     {
       "q": "雅",
@@ -37,9 +34,8 @@ const L52 = {
       "k": "바를",
       "m": "elegant, gracious",
       "d": "Picture an elephant nearly stepping on a turkey. The elephant elegantly retracts its leg. 'Good gracious, I'm terribly sorry, old chap.' To which the turkey graciously responds, 'Think nothing of it, my dear sir, nothing at all.' Short version: The elephant was elegant, while the turkey was gracious.",
-      "e": "優雅하다 우아히다 elegant, graceful",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["우아하다","優雅 하다"]
+      "e": "優雅하다 우아하다 elegant; 優雅하다 우아히다 elegant, graceful",
+      "lv": ["고등용","3급II(2급)"]
     },
     {
       "q": "釆",
@@ -57,8 +53,7 @@ const L52 = {
       "m": "elucidate, *interprete; release",
       "d": "Her droppings 釆 had been spied on (睪) by a hidden camera in the bathroom. When she discovered what her husband was doing, she demanded that he explain 釋.",
       "e": "解釋 해석 interpretation, explanation; 釋放 석방 release, discharge, liberation",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["해석","解釋"]
+      "lv": ["고등용","3급II(2급)"]
     },
     {
       "q": "番",
@@ -67,8 +62,7 @@ const L52 = {
       "m": "a turn, a time",
       "d": "The famers take it in turns to watch out for any animal tracks on their rice field.",
       "e": "番 번 alternation, change, shift, time; 낮番 낮번 day shift; 番號 번호 (ordinal) number",
-      "lv": ["중학용","6급(5급)"],
-      "ex": ["번","番"]
+      "lv": ["중학용","6급(5급)"]
     },
     {
       "q": "審",
@@ -77,8 +71,7 @@ const L52 = {
       "m": "examine, investigate, judge; *hearing",
       "d": "In the house of law, both sides take turns during the hearing.",
       "e": "審判 심판 judgement, decision, verdict; 審問 심문 trial, inquiring, hearing, interrogation",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["심판","審判"]
+      "lv": ["고등용","3급II(2급)"]
     },
     {
       "q": "翻",
@@ -87,8 +80,7 @@ const L52 = {
       "m": "upset, capsize, flip over",
       "d": "It's your turn to flip the chicken wings on grill.",
       "e": "翻覆/飜覆 번복 change, reverse, upset; 翻譯/飜譯 번역 translation",
-      "lv": ["","특급(-)"],
-      "ex": ["번역","飜譯/翻譯"]
+      "lv": ["","특급(-)"]
     },
     {
       "q": "藩",
@@ -105,9 +97,8 @@ const L52 = {
       "k": "터럭",
       "m": "hair, *fur, feathers",
       "d": "This character simply reverses the direction of the final stroke of hand to produce fur. If you reverse your hand and put its palm down, you will have the side on which fur grows.",
-      "e": "毛布 모포 (fur) blanket",
-      "lv": ["중학용","4급II(3급II)"],
-      "ex": ["모발","毛髮"]
+      "e": "毛髮 모발 hair; 毛布 모포 (fur) blanket",
+      "lv": ["중학용","4급II(3급II)"]
     },
     {
       "q": "耗",
@@ -116,8 +107,7 @@ const L52 = {
       "m": "consume, use up; waste, squander; *decrease",
       "d": "Real fur coats and real christmas trees are dereasing the last couple of years. Plastic chrismas trees and fake fur it is nowadays.",
       "e": "消耗 소모 consumption, exhaustion, waste, use up",
-      "lv": ["","1급(특급)"],
-      "ex": ["소모","消耗"]
+      "lv": ["","1급(특급)"]
     },
     {
       "q": "尾",
@@ -125,9 +115,8 @@ const L52 = {
       "k": "꼬리",
       "m": "tail",
       "d": "A dog waves its furry tail like a flag.",
-      "e": "交尾 교미 copulation, mating, coition; 尾行하다 미행히다 to follow up, to shadow, to trail",
-      "lv": ["중학용","3급II(2급)"],
-      "ex": ["어미","語尾"]
+      "e": "語尾 어미 ending (grammar); 交尾 교미 copulation, mating, coition; 尾行하다 미행히다 to follow up, to shadow, to trail",
+      "lv": ["중학용","3급II(2급)"]
     },
     {
       "q": "乇",
@@ -144,9 +133,8 @@ const L52 = {
       "k": "댁/집",
       "m": "residence, dwelling, home",
       "d": "At home, all the drains in my house are clogged up with locks of hair.",
-      "e": "宅 댁 home, house; 住宅 주택 house, residence",
-      "lv": ["중학용","5급II(4급II)"],
-      "ex": ["택배","宅配"]
+      "e": "宅配 택배 parcel delivery; 宅 댁 home, house; 住宅 주택 house, residence",
+      "lv": ["중학용","5급II(4급II)"]
     },
     {
       "q": "託",
@@ -155,8 +143,7 @@ const L52 = {
       "m": "entrust, rely on, *consign",
       "d": "Jane Austen-esque scene: He consigns to her a lock of his hair, she gives him her word she will love him for ever.",
       "e": "付託 부탁 request, favor, solicitation; 結託 결탁 conspiracy",
-      "lv": ["","2급(1급)"],
-      "ex": ["부탁","付託"]
+      "lv": ["","2급(1급)"]
     },
     {
       "q": "𠃌+灬",
@@ -173,8 +160,7 @@ const L52 = {
       "m": "do, handle, act",
       "d": "One overcome three mountains ユ and caught the wicked vulture by its tail. This was a a great deed!",
       "e": "爲하다 위하다 do for the good/benefit of; 行爲 행위 act, action, deed",
-      "lv": ["중학용","4급II(3급II)"],
-      "ex": ["행위","行爲"]
+      "lv": ["중학용","4급II(3급II)"]
     },
     {
       "q": "偽/僞",
@@ -183,8 +169,7 @@ const L52 = {
       "m": "falsehood",
       "d": "Everything that Chuck Norris does is for the good of mankind. Anyone who says otherwise is telling a falsehood.",
       "e": " 僞造 위조 forgery, counterfeiting",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["위조","僞造"]
+      "lv": ["고등용","3급II(2급)"]
     },
     {
       "q": "-+𧘇",
@@ -201,8 +186,7 @@ const L52 = {
       "m": "fear, dread, awe, *apprehensive",
       "d": "She was very apprehensive about losing her hairpin in the ricefield.",
       "e": "敬畏 경외 awe, dread",
-      "lv": ["고등용","3급(2급)"],
-      "ex": ["경외","敬畏"]
+      "lv": ["고등용","3급(2급)"]
     },
     {
       "q": "長",
@@ -210,9 +194,8 @@ const L52 = {
       "k": "길",
       "m": "long",
       "d": "The Geisha with <b>long</b> hair uses an ornate lacquered hairpin to bundle it all up.",
-      "e": "家長 가장 the head of a family, patriarch; 社長 사장 president of a company, head; 長期 장기 long term, perio",
-      "lv": ["중학용","8급(6급II)"],
-      "ex": ["부장","部長"]
+      "e": "部長 부장 department head; 家長 가장 the head of a family, patriarch; 社長 사장 president of a company, head; 長期 장기 long term, perio",
+      "lv": ["중학용","8급(6급II)"]
     },
     {
       "q": "張",
@@ -220,9 +203,8 @@ const L52 = {
       "k": "베풀",
       "m": "stretch, lengthen",
       "d": "In desperation, after the Geisha broke the string on her bow, she lengthened out one of her own hairs and strung the bow with it.",
-      "e": "誇張 과장 exaggeration; 主張 주장 insistence, assertion, opinion",
-      "lv": ["고등용","4급(3급)"],
-      "ex": ["긴장","緊張"]
+      "e": "緊張 긴장 tension; 誇張 과장 exaggeration; 主張 주장 insistence, assertion, opinion",
+      "lv": ["고등용","4급(3급)"]
     },
     {
       "q": "帳",
@@ -230,9 +212,8 @@ const L52 = {
       "k": "장막",
       "m": "tent, screen; *notebook",
       "d": "In ancient China books were rolled-up scrolls of paper. So notebooks were nothing more than long towels.",
-      "e": "揮帳 휘장 curtain, screen;  帳幕 장막 tent, pavilion; 練習帳 연습장 excercise book, workbook",
-      "lv": ["고등용","4급(3급)"],
-      "ex": ["통장","通帳"]
+      "e": "通帳 통장 bankbook; 揮帳 휘장 curtain, screen;  帳幕 장막 tent, pavilion; 練習帳 연습장 excercise book, workbook",
+      "lv": ["고등용","4급(3급)"]
     },
     {
       "q": "脹",
@@ -241,8 +222,7 @@ const L52 = {
       "m": "swell, inflate, expand, *dilate",
       "d": "Your pupils will dilate if you look at the moon for too long.",
       "e": "膨脹 팽창 swelling, inflation, expansion, dilation",
-      "lv": ["","1급(특급)"],
-      "ex": ["팽창","膨脹"]
+      "lv": ["","1급(특급)"]
     },
     {
       "q": "髪/髮",
@@ -250,9 +230,8 @@ const L52 = {
       "k": "터럭",
       "m": "hair of the head",
       "d": "Japanese teenage girls consider the style of the <b>hair</b> 彡 of the head very important. If a particular style is trendy, soon they all want their own <b>hair</b> 彡 of the same <b>length</b> 镸 as that of their <b>friends</b> up to the smallest touch.",
-      "e": "假髮 가발 wig",
-      "lv": ["고등용","4급(3급)"],
-      "ex": ["이발","理髮"]
+      "e": "理髮 이발 haircut; 假髮 가발 wig",
+      "lv": ["고등용","4급(3급)"]
     },
     {
       "q": "展",
@@ -261,8 +240,7 @@ const L52 = {
       "m": "unfold",
       "d": "<b>Unfold</b> <b>flag</b>, take out the <b>salad</b>, pin the flag down with <b>hairpins</b> and have a picnic.",
       "e": "展開 전개 spread, expand, unfolding, development; 發展 발전 expansion, extension, development, growth",
-      "lv": ["중학용","5급II(4급II)"],
-      "ex": ["전개","展開"]
+      "lv": ["중학용","5급II(4급II)"]
     },
     {
       "q": "喪",
@@ -270,9 +248,8 @@ const L52 = {
       "k": "잃을",
       "m": "mourning, funeral; *to miss",
       "d": "Here the dearly departed has been buried in the ground, with her favourite hairpin in place of a gravestone, and two mourners stand around crying with open mouths.",
-      "e": "初喪 초상 (a period of) mourning; 喪服 상복 mourning dress, funeral garments",
-      "lv": ["중학용","3급II(2급)"],
-      "ex": ["문상","問喪"]
+      "e": "問喪 문상 condolence call; 初喪 초상 (a period of) mourning; 喪服 상복 mourning dress, funeral garments",
+      "lv": ["중학용","3급II(2급)"]
     }
   ]
 };

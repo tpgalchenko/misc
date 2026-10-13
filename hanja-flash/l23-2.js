@@ -16,8 +16,7 @@ const L23_2 = {
       "m": "grind, rub, *polish",
       "d": "Grinding two stones one against another.",
       "e": "硏究 연구 research",
-      "lv": ["중학용","4급II(3급II)"],
-      "ex": ["연구","硏究"]
+      "lv": ["중학용","4급II(3급II)"]
     },
     {
       "q": "戒",
@@ -25,9 +24,8 @@ const L23_2 = {
 	  "k": "경계할",
       "m": "warn, admonish; *commandment",
       "d": "As the jews held an exuberant fiesta, Moses came up, raised two hands to call their attention and warned them and reminded about the commandments they oversook.",
-      "e": "戒律 계율 commandments, reglious precepts",
-      "lv": ["고등용","4급(3급)"],
-      "ex": ["경계","警戒"]
+      "e": "警戒 경계 vigilance, guard; 戒律 계율 commandments, reglious precepts",
+      "lv": ["고등용","4급(3급)"]
     },
     {
       "q": "械",
@@ -36,8 +34,7 @@ const L23_2 = {
       "m": "instruments, *contraption",
       "d": "The ten commandments were heavy. So to help carry them, Moses made a wooden contraption; the ark of the covenant.",
       "e": "機械 기계 instrument, apparatus, appliance",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["기계","機械"]
+      "lv": ["고등용","3급II(2급)"]
     },
     {
       "q": "鼻",
@@ -45,9 +42,8 @@ const L23_2 = {
 	  "k": "코",
       "m": "nose",
       "d": "An Egyptian embalmer reaching both hands into the dead pharaoh's nose and yanking out handfuls of brain.",
-      "e": "鼻炎 비염 nasal inflammation, rhinitis",
-      "lv": ["중학용","5급(4급)"],
-      "ex": ["이비인후과","耳鼻咽喉科"]
+      "e": "耳鼻咽喉科 이비인후과 ENT clinic; 鼻炎 비염 nasal inflammation, rhinitis",
+      "lv": ["중학용","5급(4급)"]
     },
     {
       "q": "刑",
@@ -55,9 +51,8 @@ const L23_2 = {
 	  "k": "형벌",
       "m": "punish",
       "d": "Punishment for thiefs is cutting the both hands off.",
-      "e": "火刑 화형 burning to death at the stake",
-      "lv": ["중학용","4급(3급)"],
-      "ex": ["사형","死刑"]
+      "e": "死刑 사형 death penalty; 火刑 화형 burning to death at the stake",
+      "lv": ["중학용","4급(3급)"]
     },
     {
       "q": "型",
@@ -65,9 +60,8 @@ const L23_2 = {
 	  "k": "모형",
       "m": "pattern, model, *mould",
       "d": "The punishment that was assigned to a prisoner was forced work of making mud bricks using a mould.",
-      "e": "模型 모형 model, pattern",
-      "lv": ["","2급(1급)"],
-      "ex": ["소형","小型"]
+      "e": "小型 소형 small size; 模型 모형 model, pattern",
+      "lv": ["","2급(1급)"]
     },
     {
       "q": "才",
@@ -76,8 +70,7 @@ const L23_2 = {
       "m": "talent, ability, *genius",
       "d": "Whatever one is particularly adept at—one’s special “genius”—one can do very easily, “with one finger” as the phrase goes. This kanji is a pictograph of that one finger.<br>The primitive meaning, genie, derives from the roots of the word genius. Use the <b>genie</b> out in the open when the primitive appears to the right of or below its relative primitive; in that case it also keeps its same form. At the left, the form is altered to c, and the meaning becomes a <b>genie in the bottle</b>.",
       "e": "英才 영재 talent, genious; 才能 재능 ability, talent",
-      "lv": ["중학용","6급II(5급II)"],
-      "ex": ["재능","才能"]
+      "lv": ["중학용","6급II(5급II)"]
     },
     {
       "q": "財",
@@ -85,9 +78,8 @@ const L23_2 = {
 	  "k": "재물",
       "m": "property",
       "d": "If you're a money genius, you can afford a lot of property.",
-      "e": "財產 재산 property, possessions",
-      "lv": ["중학용","5급II(4급II)"],
-      "ex": ["재산","財産"]
+      "e": "財産 재산 property, fortune; 財產 재산 property, possessions",
+      "lv": ["중학용","5급II(4급II)"]
     },
     {
       "q": "材",
@@ -95,9 +87,8 @@ const L23_2 = {
 	  "k": "재목",
       "m": "material; *lumber",
       "d": "It doesn't take a genius to know that lumber comes from trees. A lumbersexual genie.",
-      "e": "木材 목재 wood, timber, lumber",
-      "lv": ["중학용","5급II(4급II)"],
-      "ex": ["재료","材料"]
+      "e": "材料 재료 material, ingredient; 木材 목재 wood, timber, lumber",
+      "lv": ["중학용","5급II(4급II)"]
     },
     {
       "q": "存",
@@ -105,9 +96,8 @@ const L23_2 = {
 	  "k": "있을",
       "m": "exist, *suppose",
       "d": "Children believe genies exist.",
-      "e": "存在 존재 existence; 依存 의존 reliance, dependence",
-      "lv": ["중학용","4급(3급)"],
-      "ex": ["기존","旣存"]
+      "e": "旣存 기존 existing; 存在 존재 existence; 依存 의존 reliance, dependence",
+      "lv": ["중학용","4급(3급)"]
     },
     {
       "q": "在",
@@ -115,9 +105,8 @@ const L23_2 = {
 	  "k": "있을",
       "m": "to be at/in/on, consist in",
       "d": "The bottle containing the <b>genie</b> rests hidden under<b>ground</b>.",
-      "e": "存在 존재 existence; 在日 재일 staying/resident in Japan",
-      "lv": ["중학용","6급(5급)"],
-      "ex": ["현재","現在"]
+      "e": "現在 현재 present, now; 存在 존재 existence; 在日 재일 staying/resident in Japan",
+      "lv": ["중학용","6급(5급)"]
     },
     {
       "q": "乃",
@@ -125,9 +114,8 @@ const L23_2 = {
 	  "k" : "이에",
       "m": "then, after all; *from",
       "d": "<b>FROM</b> a pictograph of a fist with a thumb up. ",
-      "e": "終乃 종내 finally, at last",
-      "lv": ["중학용","3급(2급)"],
-      "ex": ["내지","乃至"]
+      "e": "乃至 내지 from... to, or; 終乃 종내 finally, at last",
+      "lv": ["중학용","3급(2급)"]
     },
     {
       "q": "携",
@@ -135,9 +123,8 @@ const L23_2 = {
 	  "k": "이끌",
       "m": "carry, *portable",
       "d": "Such a fat and heavy turkey that one cannot carry it gripped in a fist and has to use another hand to support it from below.",
-      "e": "携帶 휴대 carrying, portable",
-      "lv": ["고등용","3급(2급)"],
-      "ex": ["휴대폰","携帶 phone"]
+      "e": "携帶폰 휴대폰 cell phone; 携帶 휴대 carrying, portable",
+      "lv": ["고등용","3급(2급)"]
     },
     {
       "q": "及",
@@ -146,8 +133,7 @@ const L23_2 = {
       "m": "extend, *reach",
       "d": "丿(삐침 별) + 乛(구결자 야) + 又(또 우). As a primitive, this shall stand for <i>outstretched hands</i>.",
       "e": "言及 언급 reference, mention",
-      "lv": ["중학용","3급II(2급)"],
-      "ex": ["언급","言及"]
+      "lv": ["중학용","3급II(2급)"]
     },
     {
       "q": "吸",
@@ -156,8 +142,7 @@ const L23_2 = {
       "m": "inhale, *suck",
       "d": "A nursing baby stretchs his hands out towards mommy breasts and rounds his mouth, he is eager to suck the milk.",
       "e": "呼吸 호흡 breath, respiration",
-      "lv": ["고등용","4급II(3급II)"],
-      "ex": ["호흡","呼吸"]
+      "lv": ["고등용","4급II(3급II)"]
     },
     {
       "q": "扱",
@@ -166,8 +151,7 @@ const L23_2 = {
       "m": "*handle, treat",
       "d": "How do we handle a disgusting, stinky bag of trash? We take it by fingertips and carry out with hands streched out as far as possible.",
       "e": "取扱 취급 treatment, reception, handling",
-      "lv": ["","1급(특급)"],
-      "ex": ["취급","取扱"]
+      "lv": ["","1급(특급)"]
     },
     {
       "q": "/ + \\",
@@ -183,8 +167,7 @@ const L23_2 = {
       "m": "*length; man",
       "d": "The length whose measure this kanji depicts extends from the tip of one hand to the tip of the other with arms at full length - japan 'sazhen'.",
       "e": "丈母 장모 mother-in-law",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["장모","丈母"]
+      "lv": ["고등용","3급II(2급)"]
     },
     {
       "q": "史",
@@ -193,8 +176,7 @@ const L23_2 = {
       "m": "history",
       "d": "The <b>history</b> tells us about Kant that he walked to the university with a textbook <b>tucked under his arm</b> and that he opened his <b>mouth</b> only at lectures.",
       "e": "歷史 역사 history",
-      "lv": ["중학용","5급II(4급II)"],
-      "ex": ["역사","歷史"]
+      "lv": ["중학용","5급II(4급II)"]
     },
     {
       "q": "吏",
@@ -203,8 +185,7 @@ const L23_2 = {
       "m": "government official, *officer",
       "d": "One officer, namely Napoleon, changed the course of history. ",
       "e": "官吏 관리 government official",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["관리","官吏"]
+      "lv": ["고등용","3급II(2급)"]
     },
     {
       "q": "更",
@@ -213,8 +194,7 @@ const L23_2 = {
       "m": "correct, fix; more, again; *grow late",
       "d": "It's starting to <b>grow late</b>, so God will take the <b>sun</b>, and <b>tuck it under his arm</b>, and walk away. In the morning, he'll bring it back, so don't worry.",
       "e": "變更 변경 change, amendment",
-      "lv": ["중학용","4급(3급)"],
-      "ex": ["변경","變更"]
+      "lv": ["중학용","4급(3급)"]
     },
     {
       "q": "硬",
@@ -222,16 +202,15 @@ const L23_2 = {
 	  "k": "단단할",
       "m": "hard, firm, *stiff",
       "d": "Your joints become <b>stiff</b> like <b>stone</b>, when your days are <b>growing late</b>.",
-      "e": "強硬 강경 firmness, resoluteness, stubborness",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["경직","硬直"]
+      "e": "硬直 경직 stiffness, rigidity; 強硬 강경 firmness, resoluteness, stubborness",
+      "lv": ["고등용","3급II(2급)"]
     },
     {
       "q": "又",
       "s": "우,유",
 	  "k": "또",
       "m": "and, also, *or again",
-      "d": "Like the several abbreviations in Roman script to indicate “and” (+, &amp;, etc.), this short two-stroke kanji is used for the similar meaning of or again.<br>As a primitive, it will mean crotch, as in the crotch of the arm.<b>Cross you legs, or again I'll see your crotch.",
+      "d": "Like the several abbreviations in Roman script to indicate “and” (+, &amp;, etc.), this short two-stroke kanji is used for the similar meaning of or again.<br>As a primitive, it will mean crotch, as in the crotch of the arm.<br>Cross your legs, or again I'll see your <b>crotch</b>.",
       "e": "",
       "lv": ["중학용","3급(2급)"]
     },
@@ -241,9 +220,8 @@ const L23_2 = {
 	  "k": "두",
       "m": "pair",
       "d": "The animals boarding Noah's Ark all came in <b>pairs</b> – but Noah had to carefully check the two crotches in each pair to ensure that the animals were of different sexes and thus able to further their species after the flood.",
-      "e": "無雙하다 무쌍하다 peerless, matchless",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["쌍","雙"]
+      "e": "雙 쌍 pair, couple; 無雙하다 무쌍하다 peerless, matchless",
+      "lv": ["고등용","3급II(2급)"]
     },
     {
       "q": "桑",
@@ -260,9 +238,8 @@ const L23_2 = {
 	  "k": "외짝",
       "m": "single, lone; *vessel counter",
       "d": "The lower part of a vessel body looks similar to birds' body, just look at the ducks. Birds do not have crotch, neither do vessels.",
-      "e": "",
-      "lv": ["","2급(1급)"],
-      "ex": ["척","隻"]
+      "e": "隻 척 counter for ships",
+      "lv": ["","2급(1급)"]
     },
     {
       "q": "護",
@@ -270,9 +247,8 @@ const L23_2 = {
 	  "k": "도울",
       "m": "protect, guard",
       "d": "Words and Flowers are exchanged between sailors and their wives before they board the vessel to safeguard the world.",
-      "e": "保護 보호 protection, safeguard",
-      "lv": ["고등용","4급II(3급II)"],
-      "ex": ["간호사","看護師"]
+      "e": "看護師 간호사 nurse; 保護 보호 protection, safeguard",
+      "lv": ["고등용","4급II(3급II)"]
     },
     {
       "q": "獲",
@@ -280,9 +256,8 @@ const L23_2 = {
 	  "k": "얻을",
       "m": "obtain, *seize, capture",
       "d": "A group of police dogs are used to sniff out some opium flowers on a cargo vessel. The drugs are then seized by the authorities.",
-      "e": "捕獲 포획 capture, seizure",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["획득","獲得"]
+      "e": "獲得 획득 acquisition; 捕獲 포획 capture, seizure",
+      "lv": ["고등용","3급II(2급)"]
     },
     {
       "q": "奴",
@@ -290,9 +265,8 @@ const L23_2 = {
 	  "k": "종",
       "m": "slave, servant; *guy",
       "d": "'Crotch woman' = sexual <b>slave</b>.",
-      "e": "奴婢 노비 male and female servants, slaves; 奴隸 노예 slave",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["노예","奴隷"]
+      "e": "奴隷 노예 slave; 奴婢 노비 male and female servants, slaves; 奴隸 노예 slave",
+      "lv": ["고등용","3급II(2급)"]
     },
     {
       "q": "怒",
@@ -301,8 +275,7 @@ const L23_2 = {
       "m": "angry",
       "d": "This woman is angry because of the guys in the previous frame who pay more attention to her crotch than her heart.",
       "e": "憤怒 분노 anger, rage, fury; 震怒 진노 wild rage, wrath, fury",
-      "lv": ["중학용","4급II(3급II)"],
-      "ex": ["분노","憤怒"]
+      "lv": ["중학용","4급II(3급II)"]
     },
     {
       "q": "友",
@@ -310,9 +283,8 @@ const L23_2 = {
 	  "k": "벗",
       "m": "friend, companion",
       "d": "A friend is always on your side - again and again and again.",
-      "e": "朋友 붕우 friend, companion; 學友 학우 schoolmate",
-      "lv": ["중학용","5급II(4급II)"],
-      "ex": ["우정","友情"]
+      "e": "友情 우정 friendship; 朋友 붕우 friend, companion; 學友 학우 schoolmate",
+      "lv": ["중학용","5급II(4급II)"]
     },
     {
       "q": "抜/拔",
@@ -320,9 +292,8 @@ const L23_2 = {
 	  "k": "뽑을",
       "m": "uproot, pull out; *slip out",
       "d": "Don't let good friends slip out between your fingers or enemies to pull them out.",
-      "e": "選拔 선발 selection, choice, picking out",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["해발","海拔"]
+      "e": "海拔 해발 above sea level; 選拔 선발 selection, choice, picking out",
+      "lv": ["고등용","3급II(2급)"]
     }
   ]
 };

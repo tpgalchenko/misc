@@ -8,8 +8,7 @@ const L49 = {
       "m": "family name",
       "d": "Looks a bit like Ft: Family title = Family name.",
       "e": "姓氏 성씨 family name, surname; 氏 씨 Mr., Ms., Miss",
-      "lv": ["중학용","4급(3급)"],
-      "ex": ["씨","氏"]
+      "lv": ["중학용","4급(3급)"]
     },
     {
       "q": "紙",
@@ -17,9 +16,8 @@ const L49 = {
       "k": "종이",
       "m": "paper",
       "d": "Spiderman doesn't have a single paper with his family name on it (because he doesn't want to reveal his identity).",
-      "e": "便紙/片紙 편지 letter; 表紙 표지 cover, binding",
-      "lv": ["중학용","7급(6급)"],
-      "ex": ["지갑","紙匣"]
+      "e": "紙匣 지갑 wallet; 便紙/片紙 편지 letter; 表紙 표지 cover, binding",
+      "lv": ["중학용","7급(6급)"]
     },
     {
       "q": "婚",
@@ -27,9 +25,8 @@ const L49 = {
       "k": "혼인할",
       "m": "marriage",
       "d": "<b>Marriage</b> is the <b>day</b> in this <b>woman</b>'s life where she gets a new <b>family name</b>.",
-      "e": "婚姻 혼인 marriage",
-      "lv": ["중학용","4급(3급)"],
-      "ex": ["결혼","結婚"]
+      "e": "結婚 결혼 marriage; 婚姻 혼인 marriage",
+      "lv": ["중학용","4급(3급)"]
     },
     {
       "q": "氐",
@@ -47,8 +44,7 @@ const L49 = {
       "m": "low, to lower",
       "d": "Chuck Norris travels to Japan and knows he must bow <b>low</b> when presenting his <b>business card</b> 氐.",
       "e": "低級 저급 low grade, low class",
-      "lv": ["중학용","4급II(3급II)"],
-      "ex": ["저급","低級"]
+      "lv": ["중학용","4급II(3급II)"]
     },
     {
       "q": "抵",
@@ -57,8 +53,7 @@ const L49 = {
       "m": "resist",
       "d": "Most japanese find it impossible to resist pushy businessmen in Japan when they push their damned business cards into your fingers.",
       "e": "抵抗 저항 resistance, opposition",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["저항","抵抗"]
+      "lv": ["고등용","3급II(2급)"]
     },
     {
       "q": "底",
@@ -66,9 +61,8 @@ const L49 = {
       "k": "밑",
       "m": "bottom, underneath",
       "d": "I put all those useless business cards at the bottom of a cave.",
-      "e": "基底 기저 base, basis, foundation",
-      "lv": ["고등용","4급(3급)"],
-      "ex": ["도저히","到底 히"]
+      "e": "到底히 도저히 (not) at all; 基底 기저 base, basis, foundation",
+      "lv": ["고등용","4급(3급)"]
     },
     {
       "q": "民",
@@ -76,9 +70,8 @@ const L49 = {
       "k": "백성",
       "m": "people",
       "d": "Once they'd learned to properly utilize their mouths to form a language, the people of the world all adopted family names, regardless of their race, culture etc..",
-      "e": "民族 민족 race, nation, people, nationality",
-      "lv": ["중학용","8급(6급II)"],
-      "ex": ["시민","市民"]
+      "e": "市民 시민 citizen; 民族 민족 race, nation, people, nationality",
+      "lv": ["중학용","8급(6급II)"]
     },
     {
       "q": "眠",
@@ -86,9 +79,8 @@ const L49 = {
       "k": "잠잘",
       "m": "sleep",
       "d": "People close their eyes to sleep.",
-      "e": "休眠 휴면 dormancy; 冬眠 동면 winter sleep, hibernation",
-      "lv": ["중학용","3급II(2급)"],
-      "ex": ["수면제","睡眠劑"]
+      "e": "睡眠劑 수면제 sleeping pill; 休眠 휴면 dormancy; 冬眠 동면 winter sleep, hibernation",
+      "lv": ["중학용","3급II(2급)"]
     },
     {
       "q": "甫",
@@ -106,8 +98,7 @@ const L49 = {
       "m": "catch",
       "d": "Its easy to catch a dog if it has dog tags because you can just use your fingers to take it by the collar.",
       "e": "逮捕 체포 arrest, apprehension, capture",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["체포","逮捕"]
+      "lv": ["고등용","3급II(2급)"]
     },
     {
       "q": "哺",
@@ -116,8 +107,7 @@ const L49 = {
       "m": "*suckle",
       "d": "This mom of a dozen babies put dog tags on the ones whose mouthes she had already allowed to suckle her.",
       "e": "哺乳類 포유류 the mammals",
-      "lv": ["","1급(특급)"],
-      "ex": ["포유류","哺乳類"]
+      "lv": ["","1급(특급)"]
     },
     {
       "q": "浦",
@@ -126,8 +116,7 @@ const L49 = {
       "m": "bank of river, shore, *bay",
       "d": "The water of the bay washes all the dog tags up after the battle.",
       "e": "浦口 포구 inlet, estuary, creek, harbor",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["포구","浦口"]
+      "lv": ["고등용","3급II(2급)"]
     },
     {
       "q": "蒲",
@@ -136,8 +125,7 @@ const L49 = {
       "m": "bullrush",
       "d": "Bullrush are flowers of the bay.",
       "e": "菖蒲 창포 an iris, a sweet rush",
-      "lv": ["","1급(특급)"],
-      "ex": ["창포","菖蒲"]
+      "lv": ["","1급(특급)"]
     },
     {
       "q": "舗/鋪",
@@ -146,8 +134,7 @@ const L49 = {
       "m": "spread out, arrange; *shop, store",
       "d": "Normal cottages 舎 don't have tags advertising their names, but shops do.",
       "e": "鋪裝 포장 pavement, paving; 店鋪 점포 shop, store",
-      "lv": ["","2급(1급)"],
-      "ex": ["점포","店鋪"]
+      "lv": ["","2급(1급)"]
     },
     {
       "q": "補",
@@ -156,8 +143,7 @@ const L49 = {
       "m": "mend, fix; *supplement",
       "d": "The name and number printed on a soldier's cloak is a supplement to his main ID tag, his dog-tag, in helping identify the soldier.",
       "e": "候補 후보 candidacy, candidate; 補完 보완 supplementation, complement",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["보완","補完"]
+      "lv": ["고등용","3급II(2급)"]
     },
     {
       "q": "⻏/邑",
@@ -165,9 +151,8 @@ const L49 = {
       "k": "우부방",
       "m": "area, district, city, state; *city walls",
       "d": "On the left, and rather more pressed in its form, this element meant the high spot of a village, or its pinnacle. On the right side, in the form shown here, it means the lowest part of the city, around which its walls rise up as a protection against invaders. Hence we nickname this element: city walls.",
-      "e": "",
-      "lv": ["중학용","7급(6급)"],
-      "ex": ["읍","邑"]
+      "e": "邑 읍 town",
+      "lv": ["중학용","7급(6급)"]
     },
     {
       "q": "邸",
@@ -175,9 +160,8 @@ const L49 = {
       "k": "집",
       "m": "residence",
       "d": "So fed up am I, I've finally built city walls around my residence to keep these Japanese from soliciting me with their business cards.",
-      "e": "邸宅 저택 residence, mansion",
-      "lv": ["","1급(특급)"],
-      "ex": ["관저","官邸"]
+      "e": "官邸 관저 official residence; 邸宅 저택 residence, mansion",
+      "lv": ["","1급(특급)"]
     },
     {
       "q": "郭",
@@ -186,8 +170,7 @@ const L49 = {
       "m": "outer part (of a city); *enclosure",
       "d": "Even the tall kids can't get out of the enclosure that is the city walls.",
       "e": "城郭/城廓 성곽 castle, fortress; 外郭/外廓 외곽 the outer wall, the contour",
-      "lv": ["고등용","3급(2급)"],
-      "ex": ["성곽","城郭/城廓"]
+      "lv": ["고등용","3급(2급)"]
     },
     {
       "q": "郡",
@@ -196,8 +179,7 @@ const L49 = {
       "m": "county",
       "d": "You can take the good old boy out of county (and into the city walls), but you can't take the county out of the good old boy. Is that how the saying goes?",
       "e": "郡 군 county, district; 郡守 군수 county headman/governor",
-      "lv": ["중학용","6급(5급)"],
-      "ex": ["군","郡"]
+      "lv": ["중학용","6급(5급)"]
     },
     {
       "q": "郊",
@@ -206,8 +188,7 @@ const L49 = {
       "m": "suburbs, *outskirts",
       "d": "The city folks don't like to mingle with people from the outskirts. That's why they built such big city walls.",
       "e": "郊外 교외/近郊 근교 suburbs, outskirts",
-      "lv": ["고등용","3급(2급)"],
-      "ex": ["근교","近郊"]
+      "lv": ["고등용","3급(2급)"]
     },
     {
       "q": "部",
@@ -216,8 +197,7 @@ const L49 = {
       "m": "part, *section",
       "d": "Within the city walls, this section of town was so noisy that we had to muzzle them up.",
       "e": "部分 부분 part, portion, section",
-      "lv": ["중학용","6급II(5급II)"],
-      "ex": ["부분","部分"]
+      "lv": ["중학용","6급II(5급II)"]
     },
     {
       "q": "都/都",
@@ -226,8 +206,7 @@ const L49 = {
       "m": "metropolis, capital",
       "d": "In a metropolis people are just puppets inside city walls, there is no individuality if you live so close together.",
       "e": "都市 도시 town; 首都 수도 capital",
-      "lv": ["중학용","5급(4급)"],
-      "ex": ["도시","都市"]
+      "lv": ["중학용","5급(4급)"]
     },
     {
       "q": "郵",
@@ -236,8 +215,7 @@ const L49 = {
       "m": "mail, post office",
       "d": "The drooping citywalls was generating a lot of angry mail for the city officials.",
       "e": "郵便 우편 mail/postal service, mail; 郵票 우표 (postage) stamp",
-      "lv": ["고등용","4급(3급)"],
-      "ex": ["우표","郵票"]
+      "lv": ["고등용","4급(3급)"]
     },
     {
       "q": "邦",
@@ -245,9 +223,8 @@ const L49 = {
       "k": "나라",
       "m": "nation, state, (home) country",
       "d": "He reminisced about his home country: 'Ah, back in my home country, the bushes grew so high that they covered the city walls!'",
-      "e": "東邦 동방 an eastern country; 聯邦 연방 federation of states, confederation",
-      "lv": ["고등용","3급(2급)"],
-      "ex": ["우방","友邦"]
+      "e": "友邦 우방 ally; 東邦 동방 an eastern country; 聯邦 연방 federation of states, confederation",
+      "lv": ["고등용","3급(2급)"]
     },
     {
       "q": "那",
@@ -256,8 +233,7 @@ const L49 = {
       "m": "*interrogative",
       "d": "If you arrive with two swords at the city walls, expect some interrogatives before they'll let you in.",
       "e": "刹那 찰나 moment, instant, trice; 那落/奈落 나락 Hell, Hades",
-      "lv": ["고등용","3급(2급)"],
-      "ex": ["찰나","刹那"]
+      "lv": ["고등용","3급(2급)"]
     },
     {
       "q": "郷/鄕",
@@ -266,8 +242,7 @@ const L49 = {
       "m": "country, village; *hometown",
       "d": "Your hometown is where you broke out of your cocoon (born), and where you left when your hair was silver (died), your whole life was spent inside the city walls.",
       "e": "故鄕 고향 one's home, hometown/village",
-      "lv": ["중학용","4급II(3급II)"],
-      "ex": ["고향","故鄕"]
+      "lv": ["중학용","4급II(3급II)"]
     },
     {
       "q": "響",
@@ -276,8 +251,7 @@ const L49 = {
       "m": "make sound, *echo",
       "d": "The sound of your hometown always echoes in your ear when you travel abroad.",
       "e": "反響 반향 echo, reverberation, response, reaction; 影響 영향 influence, effect",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["영향","影響"]
+      "lv": ["고등용","3급II(2급)"]
     },
     {
       "q": "郎/郞",
@@ -286,8 +260,7 @@ const L49 = {
       "m": "gentlement, young man, *son",
       "d": "Just like a daughter (娘) is good woman, son is good too, and stays safely inside city walls so as not to give his parents reason to worry.",
       "e": "新郞 신랑 a bridegroom, a newlywed husband",
-      "lv": ["중학용","3급II(2급)"],
-      "ex": ["신랑","新郞"]
+      "lv": ["중학용","3급II(2급)"]
     },
     {
       "q": "廊",
@@ -295,8 +268,7 @@ const L49 = {
       "k": "사랑채",
       "m": "corridor",
       "d": "Your son plays in the corridor pretending he's exploring a cave.",
-      "e": "舍廊 사랑 reception room for men (male guests); 畫廊 화랑 art/picture gallery",
-      "ex": ["행랑","行廊"]
+      "e": "行廊 행랑 servants' quarters; 舍廊 사랑 reception room for men (male guests); 畫廊 화랑 art/picture gallery"
     }
   ]
 };

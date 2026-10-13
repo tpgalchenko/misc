@@ -17,9 +17,8 @@ const L16 =
 			"k": "법",
 			"m": "style",
 			"d": "Take style in its sense of some fashion design or model. Then let the element arrow and craft stand for the well-known style of shirts known as “Arrow shirts” because of the little arrow sewn on each one.",
-			"e": "方式 방식 formula, manner, mode",
-			"lv": ["중학용","6급(5급)"],
-			"ex": ["결혼식","結婚式"]
+			"e": "結婚式 결혼식 wedding; 方式 방식 formula, manner, mode",
+			"lv": ["중학용","6급(5급)"]
 		},
 		{
 			"q": "試",
@@ -28,8 +27,7 @@ const L16 =
 			"m": "test, try",
 			"d": "When a manufacturer produces a new style for the market, the first thing that is done is to run a test on consumers, asking them to speak their opinions frankly about the product.",
 			"e": "試驗 시험 examination, test",
-			"lv": ["중학용","4급II(3급II)"],
-			"ex": ["시험","試驗"]
+			"lv": ["중학용","4급II(3급II)"]
 		},
 		{
 			"q": "弌/一",
@@ -37,9 +35,8 @@ const L16 =
 			"k": "한",
 			"m": "one, *quiver",
 			"d": "This primitive is easy to remember as depicting something used to bring all one’s arrows together into <b>one</b> handy place: the quiver.",
-			"e": "",
-			"lv": ["중학용","8급(6급II)"],
-			"ex": ["만일","萬一"]
+			"e": "萬一 만일 if, in case",
+			"lv": ["중학용","8급(6급II)"]
 		},
 		{
 			"q": "弐/貳",
@@ -47,9 +44,8 @@ const L16 =
 			"k": "두",
 			"m": "II (two)",
 			"d": "We use the Roman numeral II here to stress that this kanji is an older form of the kanji for two. Think of two arrows in a quiver, standing up like the numeral ii.",
-			"e": "",
-			"lv": ["","2급(1급)"],
-			"ex": ["이","二/貳"]
+			"e": "二/貳 이 two",
+			"lv": ["","2급(1급)"]
 		},
 		{
 			"q": "戈",
@@ -66,9 +62,8 @@ const L16 =
 			"k": "지경",
 			"m": "district, region, *range",
 			"d": "An area/zone -> a range -> a grazing land where cowboys roam and do whatever it is they do with cows. When the herds have all been driven to market, there is a great homecoming fiesta like that pictured here. As soon as the cowboys come home, home on the <b>range</b>, the first thing they do is kiss the <b>ground</b> (the <b>mouth</b> on the <b>floor</b>), and then get on with the <b>fiesta.</b>",
-			"e": "地域 지역 area, region, district",
-			"lv": ["고등용","4급(3급)"],
-			"ex": ["구역","區域"]
+			"e": "區域 구역 area, zone; 地域 지역 area, region, district",
+			"lv": ["고등용","4급(3급)"]
 		},
 		{
 			"q": "賊",
@@ -76,9 +71,8 @@ const L16 =
 			"k": "도둑",
 			"m": "thief, traitor, *burglar",
 			"d": "From a burglar’s point of view, a fiesta is an occasion to take out the old lockpicking needle and break into the unattended safe filled with the family shells (the old form of money)",
-			"e": "海賊 해적 sea pirate",
-			"lv": ["고등용","4급(3급)"],
-			"ex": ["도적","盜賊"]
+			"e": "盜賊 도적 thief, bandit; 海賊 해적 sea pirate",
+			"lv": ["고등용","4급(3급)"]
 		},
 		{
 			"q": "土 + 戈",
@@ -94,8 +88,7 @@ const L16 =
 			"m": "cultivate, plant(*ation)",
 			"d": "Ten trees of the plantation are used to make spears.",
 			"e": "栽培 재배 cultivation, growing",
-			"lv": ["중학용","3급II(2급)"],
-			"ex": ["재배","栽培"]
+			"lv": ["중학용","3급II(2급)"]
 		},
 		{
 			"q": "載",
@@ -103,9 +96,8 @@ const L16 =
 			"k": "실을",
 			"m": "load",
 			"d": "One loads bales on a wagon or cart in preparation for the great Hay Ride that follows the Thanksgiving dinner each year.",
-			"e": "搭載 탑재 loading, embarkation",
-			"lv": ["고등용","3급II(2급)"],
-			"ex": ["게재","揭載"]
+			"e": "揭載 게재 publication; 搭載 탑재 loading, embarkation",
+			"lv": ["고등용","3급II(2급)"]
 		},
 		{
 			"q": "戊",
@@ -123,8 +115,7 @@ const L16 =
 			"m": "overgrown",
 			"d": "The sense of the key word overgrown is of something growing luxuriously, though not necessarily in excess — in this case a whole parade of weeds (outcast flowers). By way of exception, the flowers take their normal place over the enclosure.",
 			"e": "茂盛하다 무성하다 thick, dense, rampant",
-			"lv": ["중학용","3급II(2급)"],
-			"ex": ["무성하다","茂盛 하다"]
+			"lv": ["중학용","3급II(2급)"]
 		},
 		{
 			"q": "成",
@@ -132,9 +123,8 @@ const L16 =
 			"k": "이룰",
 			"m": "completed, *turn into",
 			"d": "Let the phrase “turn into” suggest some sort of a magical change. What happens here is that the parade marching down main street turns into a dagger-throwing bout between competing bands.",
-			"e": "形成 형성 formation, evolution",
-			"lv": ["중학용","6급II(5급II)"],
-			"ex": ["성공","成功"]
+			"e": "成功 성공 success; 形成 형성 formation, evolution",
+			"lv": ["중학용","6급II(5급II)"]
 		},
 		{
 			"q": "城",
@@ -142,9 +132,8 @@ const L16 =
 			"k": "재",
 			"m": "castle",
 			"d": "a mound of dirt that is being turned into a castle (the way you may have done as a child playing on the beach).",
-			"e": "城郭 성곽 castle, fortress",
-			"lv": ["중학용","4급II(3급II)"],
-			"ex": ["안성맞춤","安城 맞춤"]
+			"e": "安城맞춤 안성맞춤 perfect fit; 城郭 성곽 castle, fortress",
+			"lv": ["중학용","4급II(3급II)"]
 		},
 		{
 			"q": "誠",
@@ -153,8 +142,7 @@ const L16 =
 			"m": "sincerity",
 			"d": "The sure sign of sincerity is that one’s mere words are turned into deeds.",
 			"e": "誠實 성실 sincerity, fidelity, devotion",
-			"lv": ["중학용","4급II(3급II)"],
-			"ex": ["성실","誠實"]
+			"lv": ["중학용","4급II(3급II)"]
 		},
 		{
 			"q": "戌",
@@ -171,9 +159,8 @@ const L16 =
 			"k": "위엄",
 			"m": "pomp, power, dominate, *intimidate",
 			"d": "Here we see a march of women demonstrating on behalf of equal rights, something extremely intimidating to the male chauvinist population.",
-			"e": "威嚴 위엄 dignity, majesty",
-			"lv": ["중학용","4급(3급)"],
-			"ex": ["권위","權威"]
+			"e": "權威 권위 authority; 威嚴 위엄 dignity, majesty",
+			"lv": ["중학용","4급(3급)"]
 		},
 		{
 			"q": "滅",
@@ -182,8 +169,7 @@ const L16 =
 			"m": "exterminate, *destroy",
 			"d": "Picture a <b>march</b> of <b>flames</b> demonstrating against the Fire Department for their right to destroy, but being doused with water by the police riot squads. ",
 			"e": "滅亡 멸망 extinction, collapse, destruction",
-			"lv": ["고등용","3급II(2급)"],
-			"ex": ["멸망","滅亡"]
+			"lv": ["고등용","3급II(2급)"]
 		},
 		{
 			"q": "減",
@@ -192,8 +178,7 @@ const L16 =
 			"m": "decrease, *dwindle",
 			"d": "A group of unquenchable mouths sets out on a march across the country, drinking water wherever they find it until the water supply has dwindled to a trickle, triggering a national disaster.",
 			"e": "減少 감소 decrease",
-			"lv": ["중학용","4급II(3급II)"],
-			"ex": ["감소","減少"]
+			"lv": ["중학용","4급II(3급II)"]
 		},
 		{
 			"q": "㦮/戔",
@@ -219,8 +204,7 @@ const L16 =
 			"m": "money, *coin",
 			"d": "Those special gold-colored tokens minted each year for the Mardi Gras and thrown into the crowds from people on the <b>floats</b> give us the kanji for coins. ",
 			"e": "換錢 환전 currency exchange",
-			"lv": ["중학용","4급(3급)"],
-			"ex": ["환전","換錢"]
+			"lv": ["중학용","4급(3급)"]
 		},
 		{
 			"q": "浅/淺",
@@ -229,8 +213,7 @@ const L16 =
 			"m": "shallow",
 			"d": "An entourage of <b>floats</b> going from one town to the next must always seek a shallow place to cross the water. Try to picture what happens if they don’t.",
 			"e": "日淺하다 일천하다 recent",
-			"lv": ["중학용","3급II(2급)"],
-			"ex": ["일천하다","日淺 하다"]
+			"lv": ["중학용","3급II(2급)"]
 		}
 	]
 };

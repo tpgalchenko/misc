@@ -8,8 +8,7 @@ const L42 = {
       "m": "*gate, door",
       "d": "Pictograph for gates, door. As a primitive we shall use also 'swinging doors'.",
       "e": "窓門 창문 window",
-      "lv": ["중학용","8급(6급II)"],
-      "ex": ["창문","窓門"]
+      "lv": ["중학용","8급(6급II)"]
     },
     {
       "q": "問",
@@ -18,8 +17,7 @@ const L42 = {
       "m": "question",
       "d": "A mouth on the Gates of Hell says: 'Answer me these questions three, or thru the gates ye soon will be'.",
       "e": "問題 문제 question, problem",
-      "lv": ["중학용","7급(6급)"],
-      "ex": ["문제","問題"]
+      "lv": ["중학용","7급(6급)"]
     },
     {
       "q": "閲/閱",
@@ -27,9 +25,8 @@ const L42 = {
       "k": "셀",
       "m": "*review, examine",
       "d": "A little devil at the gates of hell reviews your record to see if you're evil enough to get in.",
-      "e": "閱覽 열람 reading, perusal, inspection",
-      "lv": ["고등용","3급(2급)"],
-      "ex": ["열람실","閱覽室"]
+      "e": "閱覽室 열람실 reading room; 閱覽 열람 reading, perusal, inspection",
+      "lv": ["고등용","3급(2급)"]
     },
     {
       "q": "閥",
@@ -38,8 +35,7 @@ const L42 = {
       "m": "clique, powerful and influential group",
       "d": "You set a guard at the gate to fell intruders not of your clique.",
       "e": "財閥 재벌 financial combine, plutocracy",
-      "lv": ["","2급(1급)"],
-      "ex": ["재벌","財閥"]
+      "lv": ["","2급(1급)"]
     },
     {
       "q": "間",
@@ -47,9 +43,8 @@ const L42 = {
       "k": "사이",
       "m": "interval",
       "d": "The interval between star systems (suns) was too large, so the stargates were created to travel between them.",
-      "e": "空間 공간 space, room",
-      "lv": ["중학용","7급II(6급)"],
-      "ex": ["간식","間食"]
+      "e": "間食 간식 snack; 空間 공간 space, room",
+      "lv": ["중학용","7급II(6급)"]
     },
     {
       "q": "闇",
@@ -66,9 +61,8 @@ const L42 = {
       "k": "대쪽/간략할",
       "m": "simplicity",
       "d": "The simplicity of bamboo plant is in all its joints being at equal intervals.",
-      "e": "簡略 간략 simplicity, conciseness; 簡單 간단 simplicity, brevity, shortness, conciseness",
-      "lv": ["고등용","4급(3급)"],
-      "ex": ["간단히","簡單 히"]
+      "e": "簡單히 간단히 simply; 簡略 간략 simplicity, conciseness; 簡單 간단 simplicity, brevity, shortness, conciseness",
+      "lv": ["고등용","4급(3급)"]
     },
     {
       "q": "開",
@@ -77,8 +71,7 @@ const L42 = {
       "m": "open",
       "d": "To open the gate, use your both hands.",
       "e": "開發 개발 development, exploitation; 公開 공개 open (to the public)",
-      "lv": ["중학용","6급(5급)"],
-      "ex": ["개발","開發"]
+      "lv": ["중학용","6급(5급)"]
     },
     {
       "q": "閉",
@@ -87,8 +80,7 @@ const L42 = {
       "m": "closed",
       "d": "The gates are too big to be closed by man. Only a genie can. 'Close sesame!'",
       "e": "閉鎖 폐쇄 closing, closure, shutdown",
-      "lv": ["중학용","4급(3급)"],
-      "ex": ["폐쇄","閉鎖"]
+      "lv": ["중학용","4급(3급)"]
     },
     {
       "q": "閣",
@@ -96,9 +88,8 @@ const L42 = {
       "k": "집",
       "m": "*tower; chamber, pavilion",
       "d": "There is a tower on each side of the gate, they are posts for archers.",
-      "e": "樓閣 누각 palace, tower, tall building; 鐘閣 종각 pavilion for a bell",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["사상누각","沙上樓閣"]
+      "e": "沙上樓閣 사상누각 house of cards; 樓閣 누각 palace, tower, tall building; 鐘閣 종각 pavilion for a bell",
+      "lv": ["고등용","3급II(2급)"]
     },
     {
       "q": "閑",
@@ -106,9 +97,8 @@ const L42 = {
       "k": "한가할/막을",
       "m": "*leisure; fence, barrier",
       "d": "Imagine the gates the Garden of Eden, the ultimate land of leisure. You're not allowed in, but if you peek through you can see trees.",
-      "e": "閑暇 한가 leisure, spare time;",
-      "lv": ["중학용","4급(3급)"],
-      "ex": ["한가하다","閑暇 하다"]
+      "e": "閑暇하다 한가하다 free, idle; 閑暇 한가 leisure, spare time;",
+      "lv": ["중학용","4급(3급)"]
     },
     {
       "q": "聞",
@@ -117,8 +107,7 @@ const L42 = {
       "m": "hear",
       "d": "Press your ear to the gates and see if you can hear what is going on inside.",
       "e": "新聞 신문 newspaper; 所聞 소문 rumor, report, hearsay",
-      "lv": ["중학용","6급II(5급II)"],
-      "ex": ["신문","新聞"]
+      "lv": ["중학용","6급II(5급II)"]
     },
     {
       "q": "潤",
@@ -126,9 +115,8 @@ const L42 = {
       "k": "불을/윤택할",
       "m": "wet",
       "d": "Forgetting about the moat, the king stepped out of his gate and landed in the water. Needless to say he got wet.",
-      "e": "潤澤 윤택 gloss, luster, richness, affluence, wealth; 潤氣 윤기 gloss, luster, polish, shine",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["윤","潤"]
+      "e": "潤 윤 gloss, luster; 潤澤 윤택 gloss, luster, richness, affluence, wealth; 潤氣 윤기 gloss, luster, polish, shine",
+      "lv": ["고등용","3급II(2급)"]
     },
     {
       "q": "欄",
@@ -137,8 +125,7 @@ const L42 = {
       "m": "railing, balustrade, *column",
       "d": "A king haunted by insomnia gets off his bed. He walks in his empty palace built of wood among the columns, then leans on the railing watching thru' the gates the sun rise behind the forest at the East.",
       "e": "欄干/欄杆 난간 handrail, railing, balustrade; 空欄 공란 blank column, space, margin",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["난간","欄干/欄杆"]
+      "lv": ["고등용","3급II(2급)"]
     },
     {
       "q": "闘/鬪",
@@ -146,9 +133,8 @@ const L42 = {
       "k": "싸울",
       "m": "fight",
       "d": "Through the gates of the saloon, you can see the aftermath of the fight- the table (豆) needs to be glued back together.",
-      "e": "戰鬪 전투 battle, fight",
-      "lv": ["고등용","4급(3급)"],
-      "ex": ["권투","拳鬪"]
+      "e": "拳鬪 권투 boxing; 戰鬪 전투 battle, fight",
+      "lv": ["고등용","4급(3급)"]
     },
     {
       "q": "倉",
@@ -157,8 +143,7 @@ const L42 = {
       "m": "*godown, granary",
       "d": "Imagine a godown (dockside warehouse) where you can meet girls who will godown on you with their mouth. To keep the place a bit of a secert, they only have one gate.",
       "e": "倉庫 창고 storehouse, warehouse; 穀倉 곡창 grain elevator, granary, cornloft",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["창고","倉庫"]
+      "lv": ["고등용","3급II(2급)"]
     },
     {
       "q": "創",
@@ -166,9 +151,8 @@ const L42 = {
       "k": "비롯할/다칠",
       "m": "*genesis, establish, create; knife cut",
       "d": "In the story of Genesis Adam and Even were kicked out of the Garden of Eden. They had to <b>go down</b> out of the garden and the entrace was guarded with sabers to prevent their return.",
-      "e": "創造 창조 creation; 創意 창의 originality, creativity",
-      "lv": ["고등용","4급II(3급II)"],
-      "ex": ["창작","創作"]
+      "e": "創作 창작 creation; 創造 창조 creation; 創意 창의 originality, creativity",
+      "lv": ["고등용","4급II(3급II)"]
     },
     {
       "q": "非",
@@ -176,9 +160,8 @@ const L42 = {
       "k": "아닐/비방할",
       "m": "not, non, un-, *jail cell",
       "d": "This key word, a negating prefix, is a doodle of a heavy iron pole with bars extending in both directions, to create the picture of a jail cell. From there to “un-” is but a short step.",
-      "e": "非行 비행 misconduct, misdeed, malpractice, wrongdoing",
-      "lv": ["중학용","4급II(3급II)"],
-      "ex": ["비난","非難"]
+      "e": "非難 비난 criticism, blame; 非行 비행 misconduct, misdeed, malpractice, wrongdoing",
+      "lv": ["중학용","4급II(3급II)"]
     },
     {
       "q": "俳",
@@ -187,8 +170,7 @@ const L42 = {
       "m": "actor; *haiku",
       "d": "Chuck Norris was such a bad actor, they threw him in jail where all he could do was write haiku.",
       "e": "俳優 배우 actor, actress",
-      "lv": ["","2급(1급)"],
-      "ex": ["배우","俳優"]
+      "lv": ["","2급(1급)"]
     },
     {
       "q": "排",
@@ -196,9 +178,8 @@ const L42 = {
       "k": "밀칠",
       "m": "*repudiate",
       "d": "When ordered to go to the jail cell, the defendant gave the judge the finger and said he repudiated all that the legal system stood for if they were going to send an innocent man like him to jail.",
-      "e": "排斥 배척 rejection, expulsion",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["배구","排球"]
+      "e": "排球 배구 volleyball; 排斥 배척 rejection, expulsion",
+      "lv": ["고등용","3급II(2급)"]
     },
     {
       "q": "悲",
@@ -207,8 +188,7 @@ const L42 = {
       "m": "sad",
       "d": "Stuck in a jail cell with his heart crying out to see his family again, the prisoner has never felt so sad.",
       "e": "慈悲 자비 mercy, compassion; 悲劇 비극 tragedy",
-      "lv": ["중학용","4급II(3급II)"],
-      "ex": ["비극","悲劇"]
+      "lv": ["중학용","4급II(3급II)"]
     },
     {
       "q": "罪",
@@ -216,9 +196,8 @@ const L42 = {
       "k": "허물",
       "m": "guilt",
       "d": "He is guilty! you can see it in his eyes.. Throw that man into a jail cell!",
-      "e": "犯罪 범죄 offense, crime, guilt",
-      "lv": ["중학용","5급(4급)"],
-      "ex": ["죄송하다","罪悚 하다"]
+      "e": "罪悚하다 죄송하다 sorry; 犯罪 범죄 offense, crime, guilt",
+      "lv": ["중학용","5급(4급)"]
     },
     {
       "q": "輩",
@@ -227,8 +206,7 @@ const L42 = {
       "m": "generation; *comrade",
       "d": "Comerade! We are here to free you from the jail cell, get in the car!",
       "e": "先輩 선배 senior, elder",
-      "lv": ["고등용","3급II(2급)"],
-      "ex": ["선배","先輩"]
+      "lv": ["고등용","3급II(2급)"]
     },
     {
       "q": "扉",
@@ -254,8 +232,7 @@ const L42 = {
       "m": "marquis",
       "d": "Chuck Norris was hired to assassinate the marquis by throwing a dart through his keyhole.",
       "e": "諸侯 제후 feudal lord; ",
-      "lv": ["고등용","3급(2급)"],
-      "ex": ["제후","諸侯"]
+      "lv": ["고등용","3급(2급)"]
     },
     {
       "q": "喉",
@@ -263,9 +240,8 @@ const L42 = {
       "k": "목구멍",
       "m": "throat",
       "d": "I think of 'clearing your throat'. Some stuffy guy opens his mouth to clear his throat so the marquis can speak.",
-      "e": "喉頭 후두 larynx",
-      "lv": ["","2급(1급)"],
-      "ex": ["이비인후과","耳鼻咽喉科"]
+      "e": "耳鼻咽喉科 이비인후과 ENT clinic; 喉頭 후두 larynx",
+      "lv": ["","2급(1급)"]
     },
     {
       "q": "候",
@@ -274,8 +250,7 @@ const L42 = {
       "m": "wait, expect; *climate",
       "d": "The marquis moves to a warmer climate after he gets old enough to need a walking stick to get around.",
       "e": "氣候 기후 climate; 症候 증후 symptom, sign",
-      "lv": ["고등용","4급(3급)"],
-      "ex": ["기후","氣候"]
+      "lv": ["고등용","4급(3급)"]
     },
     {
       "q": "夬",
@@ -293,8 +268,7 @@ const L42 = {
       "m": "decide",
       "d": "They decided to drown him in water instead of using the guillotine.",
       "e": "決斷 결단 definite decision, determination; 決心 결심 determination, resolution",
-      "lv": ["중학용","5급II(4급II)"],
-      "ex": ["결심","決心"]
+      "lv": ["중학용","5급II(4급II)"]
     },
     {
       "q": "快",
@@ -302,9 +276,8 @@ const L42 = {
       "k": "쾌할",
       "m": "quick; *cheerful",
       "d": "A large crowd in a cheerful state of mind applaude each criminal as they become victims of the guillotine.",
-      "e": "快速 쾌속 high speed; 快하다 쾌하다 happy, delightful",
-      "lv": ["중학용","4급II(3급II)"],
-      "ex": ["불쾌","不快"]
+      "e": "不快 불쾌 displeasure; 快速 쾌속 high speed; 快하다 쾌하다 happy, delightful",
+      "lv": ["중학용","4급II(3급II)"]
     },
     {
       "q": "韋",
@@ -321,9 +294,8 @@ const L42 = {
       "k": "클",
       "m": "great, *admirable",
       "d": "Chuck Norris doesn't wear medaillons. A warrior shouldn't have any sentimental attachments. Many aspiring martial artists think this admirable. On the other hand, these very martial artists all wear a medaillon with Chuck's portrait inside.",
-      "e": "偉大 위대 greatness, grandeur",
-      "lv": ["중학용","5급II(4급II)"],
-      "ex": ["위대하다","偉大 하다"]
+      "e": "偉大하다 위대하다 great; 偉大 위대 greatness, grandeur",
+      "lv": ["중학용","5급II(4급II)"]
     },
     {
       "q": "違",
@@ -332,8 +304,7 @@ const L42 = {
       "m": "disobey, *difference",
       "d": "A gang controls this part of town, they wear leather jackets and golden lockets to indicate their community. They control the roads and punish every one who disobey their claims.",
       "e": "違反 위반 violation, breach",
-      "lv": ["고등용","3급(2급)"],
-      "ex": ["위반","違反"]
+      "lv": ["고등용","3급(2급)"]
     },
     {
       "q": "緯",
@@ -342,8 +313,7 @@ const L42 = {
       "m": "horizontal",
       "d": "Spiderman buys a locket for Mary Jane because he wants to get horizontal with her.",
       "e": "緯度 위도 latitude; 經緯 경위 longitude and latitude; details, particulars",
-      "lv": ["고등용","3급(2급)"],
-      "ex": ["경위","經緯"]
+      "lv": ["고등용","3급(2급)"]
     },
     {
       "q": "衛/衞",
@@ -351,8 +321,7 @@ const L42 = {
       "k": "지킬",
       "m": "defense",
       "d": "One way used in the old days to defend your locket when on the boulevard was to partially cover it with a towel.",
-      "e": "衞星 위성 satellite; 衞生 위생 sanitation, hygiene",
-      "ex": ["위생","衛生"]
+      "e": "衛生 위생 hygiene; 衞星 위성 satellite; 衞生 위생 sanitation, hygiene"
     },
     {
       "q": "韓",
@@ -361,8 +330,7 @@ const L42 = {
       "m": "Korea",
       "d": "This character represents the flag of South Korea: a locket (circular taegeuk) in the middle of the mist (white background). ",
       "e": "韓國 한국 Korea; 韓方 한방 Korean medecine",
-      "lv": ["중학용","8급(6급II)"],
-      "ex": ["한국","韓國"]
+      "lv": ["중학용","8급(6급II)"]
     }
   ]
 };
