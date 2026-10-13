@@ -516,64 +516,31 @@ function showLastQuestion() {
 	}
 }
 
-function cjkWord(s) {
-	const m = String(s).match(/^[\u3400-\u9fff\uf900-\ufaff\u{20000}-\u{2fa1f}]+/u);
-	return m ? m[0] : "";
-}
-
-function normalizeWord(s) {
-	return String(s).replace(/\s+/g, "");
-}
-
 function splitExamples(e) {
 	return String(e || "").split(";").map(s => s.trim()).filter(s => s.length > 0);
 }
 
-function getSelectedExample() {
-	return currentCard && currentCard['ex'] ? currentCard['ex'] : null;
-}
-
-function findExampleForWord(word) {
-	const target = normalizeWord(word);
-	if(target.length === 0) return null;
-
-	const current = splitExamples(currentCard['e']);
-	for(const seg of current) {
-		const w = cjkWord(seg);
-		if(w && normalizeWord(w) === target) return seg;
-	}
-
-	for(let k = 0; k < DATA.length; ++k) {
-		const cards = DATA[k].cards;
-		for(let q = 0; q < cards.length; ++q) {
-			for(const seg of splitExamples(cards[q]['e'])) {
-				const w = cjkWord(seg);
-				if(w && normalizeWord(w) === target) return seg;
-			}
-		}
-	}
-	return null;
-}
-
 function buildExamples() {
-	const parts = splitExamples(currentCard['e']);
-	const selected = getSelectedExample();
-	if(!selected) return parts.join("; ");
+	return splitExamples(currentCard['e']).join("; ");
+}
 
-	const ko = selected[0];
-	const hj = selected[1];
-	const hjWord = cjkWord(hj) || hj;
-	const target = normalizeWord(hjWord);
+function showVariant(id, value) {
+	const el = document.getElementById(id);
+	const span = el.querySelector(".a_variant_char");
+	if(value) {
+		renderClickableHanja(span, value);
+		el.style.display = 'inline';
+	} else {
+		span.replaceChildren();
+		el.style.display = 'none';
+	}
+	return !!value;
+}
 
-	let chosen = findExampleForWord(hjWord);
-	if(!chosen) chosen = ko ? (hj + " " + ko) : hj;
-
-	const rest = parts.filter(seg => {
-		const w = cjkWord(seg);
-		return !(w && normalizeWord(w) === target);
-	});
-	rest.unshift(chosen);
-	return rest.join("; ");
+function showVariants() {
+	const hasSm = showVariant("a_sm", currentCard['sm']);
+	const hasJp = showVariant("a_jp", currentCard['jp']);
+	document.getElementById("a_variants").style.display = (hasSm || hasJp) ? 'block' : 'none';
 }
 
 function showAnswer() {
@@ -586,9 +553,10 @@ function showAnswer() {
 
 	document.getElementById("a_spell").innerText = "[ " + currentCard['s'] + " ]";
 	document.getElementById("a_mean").innerText = currentCard['m'];
+	showVariants();
 	document.getElementById("a_desc").innerHTML = currentCard['d'];
 	document.getElementById("a_example").innerText = buildExamples();
-	document.getElementById("answer").style.display = 'block';
+	document.getElementById("answer").style.display = 'flex';
 
 	document.getElementById("a_ko").innerText = currentCard['k'] ? currentCard['k'] : "";
 
@@ -951,7 +919,7 @@ function onLoad() {
 		}
 		#card {
 			width: 100%;
-			height: 70vh;
+			min-height: 70vh;
 			text-align: center;
 			border: 1px solid;
 			margin: 1em;
@@ -997,12 +965,12 @@ function onLoad() {
 			light-height: 8vh;
 		}
 		#answer {
+			/* fills the card; the card grows (and the page scrolls) when the content does not fit */
 			width: 100%;
-			height: 100%;
-			display: flex;
+			align-self: stretch;
 			flex-direction: column;
-			justify-content: center;
-			align-items: center;
+			padding: 7.5vh 2vh 2vh 2vh;
+			box-sizing: border-box;
 		}
 		#a_line0 {
 			font-size: 4.5vh;
@@ -1019,17 +987,43 @@ function onLoad() {
 		.a_mean {
 			color: red;
 		}
+		#a_variants {
+			font-size: 3.5vh;
+		}
+		.a_variant {
+			margin: 0 1.5vh;
+		}
+		.a_variant_label {
+			font-size: 2.2vh;
+			color: #fff;
+			background: #888;
+			border-radius: 0.4em;
+			padding: 0.1em 0.4em;
+			vertical-align: middle;
+		}
+		.a_variant_char {
+			color: #444;
+			vertical-align: middle;
+		}
 		.a_desc, .a_example {
 			font-size: 2.75vh;
 			vertical-align: middle;
 			width:100%;
 		}
 		#a_grid {
+			/* free space is shared evenly between the rows; rows keep a minimal gap when space runs out */
 			width: 100%;
-			height: 100%;
-			display: grid;
+			flex: 1;
+			display: flex;
+			flex-direction: column;
+			justify-content: space-evenly;
 			align-items: center;
+			row-gap: 1.5vh;
 			padding: 0;
+		}
+		#a_grid > div {
+			width: 100%;
+			overflow-wrap: anywhere;
 		}
 		#toolbar {
 			width: 100%;
@@ -1070,9 +1064,6 @@ function onLoad() {
 		input[type="button"] {
 			font-size: 2vh;
 			padding: 20px;
-		}
-		#a_line1 {
-			display: table-cell;
 		}
 		#status-line {
 			font-size: 2vh;
@@ -1233,6 +1224,10 @@ function onLoad() {
 				<div id="a_grid">
 					<div id="a_line0">
 						<span id="a_char" class="a_char"></span>  <span id="a_spell" class="a_spell"></span>  <span id="a_mean" class="a_mean"></span>  <span id="a_ko" class="a_ko"></span>
+					</div>
+					<div id="a_variants">
+						<span id="a_sm" class="a_variant"><span class="a_variant_label">简</span> <span class="a_variant_char"></span></span>
+						<span id="a_jp" class="a_variant"><span class="a_variant_label">日</span> <span class="a_variant_char"></span></span>
 					</div>
 					<div id="a_line1"><span id="a_desc"></span></div>
 					<div id="a_line2"><span id="a_example"></span></div>
