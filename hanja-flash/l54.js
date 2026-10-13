@@ -3,6 +3,7 @@ const L54 = {
   "cards" : [
     {
       "q": "馬",
+      "sm": "马",
       "s": "마",
       "k": "말",
       "m": "horse",
@@ -12,6 +13,7 @@ const L54 = {
     },
     {
       "q": "駒",
+      "sm": "驹",
       "s": "구",
       "k": "망아지",
       "m": "colt; *pony",
@@ -20,7 +22,9 @@ const L54 = {
       "lv": ["","1급(특급)"]
     },
     {
-      "q": "験/驗",
+      "q": "驗",
+      "sm": "验",
+      "jp": "験",
       "s": "험",
       "k": "시험",
       "m": "test, examine, inspect; *verify",
@@ -30,6 +34,7 @@ const L54 = {
     },
     {
       "q": "騎",
+      "sm": "骑",
       "s": "기",
       "k": "말 탈",
       "m": "equestrian",
@@ -39,6 +44,7 @@ const L54 = {
     },
     {
       "q": "駐",
+      "sm": "驻",
       "s": "주",
       "k": "머무를",
       "m": "to stop, parking",
@@ -47,7 +53,9 @@ const L54 = {
       "lv": ["","2급(1급)"]
     },
     {
-      "q": "駆/驅",
+      "q": "驅",
+      "sm": "驱",
+      "jp": "駆",
       "s": "구",
       "k": "몰",
       "m": "spur a horse on; expel, drive away",
@@ -56,7 +64,9 @@ const L54 = {
       "lv": ["고등용","3급(2급)"]
     },
     {
-      "q": "駅/驛",
+      "q": "驛",
+      "sm": "驿",
+      "jp": "駅",
       "s": "역",
       "k": "역",
       "m": "station",
@@ -65,7 +75,9 @@ const L54 = {
       "lv": ["고등용","3급II(2급)"]
     },
     {
-      "q": "騒/騷",
+      "q": "騷",
+      "sm": "骚",
+      "jp": "騒",
       "s": "소",
       "k": "떠들",
       "m": "harass, bother; *boisterous",
@@ -74,7 +86,9 @@ const L54 = {
       "lv": ["고등용","3급(2급)"]
     },
     {
-      "q": "駄/馱",
+      "q": "馱",
+      "sm": "驮",
+      "jp": "駄",
       "s": "태",
       "k": "실을",
       "m": "a horse load, carry on back, *burdensome",
@@ -84,6 +98,7 @@ const L54 = {
     },
     {
       "q": "驚",
+      "sm": "惊",
       "s": "경",
       "k": "놀랄",
       "m": "frighten, surprise, *wonder",
@@ -93,6 +108,7 @@ const L54 = {
     },
     {
       "q": "篤",
+      "sm": "笃",
       "s": "독",
       "k": "도타울",
       "m": "deep, true, sincere, *fervent",
@@ -102,6 +118,7 @@ const L54 = {
     },
     {
       "q": "罵",
+      "sm": "骂",
       "s": "매/마",
       "k": "꾸짖을",
       "m": "accuse, blame, curse, *insult",
@@ -111,6 +128,7 @@ const L54 = {
     },
     {
       "q": "騰",
+      "sm": "腾",
       "s": "등",
       "k": "오를",
       "m": "gallop, run; prance, rise, *inflation",
@@ -137,6 +155,7 @@ const L54 = {
     },
     {
       "q": "虜",
+      "sm": "虏",
       "s": "로/노",
       "k": "사로잡을",
       "m": "captive",
@@ -145,6 +164,7 @@ const L54 = {
     },
     {
       "q": "膚",
+      "sm": "肤",
       "s": "부",
       "k": "살갗",
       "m": "skin",
@@ -153,7 +173,9 @@ const L54 = {
       "lv": ["","2급(1급)"]
     },
     {
-      "q": "虚/虛",
+      "q": "虛",
+      "sm": "虚",
+      "jp": "虚",
       "s": "허",
       "k": "빌",
       "m": "false, *void",
@@ -162,7 +184,9 @@ const L54 = {
       "lv": ["중학용","4급II(3급II)"]
     },
     {
-      "q": "戯/戲",
+      "q": "戲",
+      "sm": "戏",
+      "jp": "戯",
       "s": "희",
       "k": "놀",
       "m": "theatrical play, show, *frolic",
@@ -181,6 +205,7 @@ const L54 = {
     },
     {
       "q": "慮",
+      "sm": "虑",
       "s": "려/여",
       "k": "생각할",
       "m": "be concerned, worry about; *prudence",
@@ -190,6 +215,7 @@ const L54 = {
     },
     {
       "q": "劇",
+      "sm": "剧",
       "s": "극",
       "k": "심할",
       "m": "drama",
@@ -235,6 +261,7 @@ const L54 = {
     },
     {
       "q": "薦",
+      "sm": "荐",
       "s": "천",
       "k": "천거할",
       "m": "offer, *recommend",
@@ -244,6 +271,7 @@ const L54 = {
     },
     {
       "q": "慶",
+      "sm": "庆",
       "s": "경",
       "k": "경사",
       "m": "congratulate, celebrate, *jubilation",
@@ -253,6 +281,7 @@ const L54 = {
     },
     {
       "q": "麗",
+      "sm": "丽",
       "s": "려/여",
       "k": "고울",
       "m": "beautiful, magnificent, elegant, *lovely",
@@ -280,6 +309,7 @@ const L54 = {
     },
     {
       "q": "態",
+      "sm": "态",
       "s": "태",
       "k": "모습",
       "m": "bearing, attitude",

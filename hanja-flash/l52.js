@@ -47,7 +47,9 @@ const L52 = {
       "lv": ["","특급(-)"]
     },
     {
-      "q": "釈/釋",
+      "q": "釋",
+      "sm": "释",
+      "jp": "釈",
       "s": "석",
       "k": "풀",
       "m": "elucidate, *interprete; release",
@@ -66,6 +68,7 @@ const L52 = {
     },
     {
       "q": "審",
+      "sm": "审",
       "s": "심",
       "k": "살필",
       "m": "examine, investigate, judge; *hearing",
@@ -138,6 +141,7 @@ const L52 = {
     },
     {
       "q": "託",
+      "sm": "托",
       "s": "탁",
       "k": "부탁할",
       "m": "entrust, rely on, *consign",
@@ -154,7 +158,9 @@ const L52 = {
       "e": ""
     },
     {
-      "q": "為/爲",
+      "q": "爲",
+      "sm": "为",
+      "jp": "為",
       "s": "위",
       "k": "할",
       "m": "do, handle, act",
@@ -163,7 +169,9 @@ const L52 = {
       "lv": ["중학용","4급II(3급II)"]
     },
     {
-      "q": "偽/僞",
+      "q": "僞",
+      "sm": "伪",
+      "jp": "偽",
       "s": "위",
       "k": "거짓",
       "m": "falsehood",
@@ -190,6 +198,7 @@ const L52 = {
     },
     {
       "q": "長",
+      "sm": "长",
       "s": "장",
       "k": "길",
       "m": "long",
@@ -199,6 +208,7 @@ const L52 = {
     },
     {
       "q": "張",
+      "sm": "张",
       "s": "장",
       "k": "베풀",
       "m": "stretch, lengthen",
@@ -208,6 +218,7 @@ const L52 = {
     },
     {
       "q": "帳",
+      "sm": "帐",
       "s": "장",
       "k": "장막",
       "m": "tent, screen; *notebook",
@@ -217,6 +228,7 @@ const L52 = {
     },
     {
       "q": "脹",
+      "sm": "胀",
       "s": "창",
       "k": "부을",
       "m": "swell, inflate, expand, *dilate",
@@ -225,7 +237,9 @@ const L52 = {
       "lv": ["","1급(특급)"]
     },
     {
-      "q": "髪/髮",
+      "q": "髮",
+      "sm": "发",
+      "jp": "髪",
       "s": "발",
       "k": "터럭",
       "m": "hair of the head",
@@ -244,6 +258,7 @@ const L52 = {
     },
     {
       "q": "喪",
+      "sm": "丧",
       "s": "상",
       "k": "잃을",
       "m": "mourning, funeral; *to miss",

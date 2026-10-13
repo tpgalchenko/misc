@@ -2,7 +2,9 @@ const L53_2 = {
   "name" : "L53-2",
   "cards" : [
     {
-      "q": "属/屬",
+      "q": "屬",
+      "sm": "属",
+      "jp": "属",
       "s": "속",
       "k": "무리",
       "m": "class, category; *belong",
@@ -11,7 +13,9 @@ const L53_2 = {
       "lv": ["고등용","4급(3급)"]
     },
     {
-      "q": "嘱/囑",
+      "q": "囑",
+      "sm": "嘱",
+      "jp": "嘱",
       "s": "촉",
       "k": "부탁할",
       "m": "order, tell, instruct, *entrust",
@@ -92,6 +96,7 @@ const L53_2 = {
     },
     {
       "q": "岡",
+      "sm": "冈",
       "s": "강",
       "k": "산등성이",
       "m": "mountain ridge, *Mount",
@@ -100,6 +105,7 @@ const L53_2 = {
     },
     {
       "q": "鋼",
+      "sm": "钢",
       "s": "강",
       "k": "강철",
       "m": "steel",
@@ -109,6 +115,7 @@ const L53_2 = {
     },
     {
       "q": "綱",
+      "sm": "纲",
       "s": "강",
       "k": "벼리",
       "m": "heavy rope, hawser",
@@ -118,6 +125,7 @@ const L53_2 = {
     },
     {
       "q": "剛",
+      "sm": "刚",
       "s": "강",
       "k": "굳셀",
       "m": "hard, tough, rigid, *sturdy",
@@ -152,7 +160,9 @@ const L53_2 = {
       "e": ""
     },
     {
-      "q": "揺/搖",
+      "q": "搖",
+      "sm": "摇",
+      "jp": "揺",
       "s": "요",
       "k": "흔들",
       "m": "wag, shake, *swing",
@@ -161,7 +171,9 @@ const L53_2 = {
       "lv": ["고등용","3급(2급)"]
     },
     {
-      "q": "謡/謠",
+      "q": "謠",
+      "sm": "谣",
+      "jp": "謡",
       "s": "요",
       "k": "노래",
       "m": "sing, folksong, *Noh chanting",
@@ -171,6 +183,7 @@ const L53_2 = {
     },
     {
       "q": "鬱",
+      "sm": "郁",
       "s": "울",
       "k": "답답할/울창할",
       "m": "moody; *gloom",
@@ -206,6 +219,7 @@ const L53_2 = {
     },
     {
       "q": "懇",
+      "sm": "恳",
       "s": "간",
       "k": "간절할",
       "m": "sincere, earnest, cordial, *sociable",
@@ -215,6 +229,7 @@ const L53_2 = {
     },
     {
       "q": "墾",
+      "sm": "垦",
       "s": "간",
       "k": "개간할",
       "m": "cultivate, to farm land; *groundbreaking",
@@ -240,7 +255,8 @@ const L53_2 = {
       "e": "免하다 면하다 escape, be saved from, evade; 免許 면허 permission, license"
     },
     {
-      "q": "兎/兔",
+      "q": "兔",
+      "jp": "兎",
       "s": "토",
       "k": "토끼",
       "m": "rabbit, hare",
@@ -259,6 +275,7 @@ const L53_2 = {
     },
     {
       "q": "晚",
+      "jp": "晩",
       "s": "만",
       "k": "늦을",
       "m": "night, evening, later, *nightfall",

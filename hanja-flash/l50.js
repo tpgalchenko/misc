@@ -38,6 +38,7 @@ const L50 = {
     },
     {
       "q": "脈",
+      "sm": "脉",
       "s": "맥",
       "k": "혈맥",
       "m": "blood vessel, vein",
@@ -47,6 +48,7 @@ const L50 = {
     },
     {
       "q": "衆",
+      "sm": "众",
       "s": "중",
       "k": "무리",
       "m": "masses",
@@ -55,7 +57,9 @@ const L50 = {
       "lv": ["중학용","4급II(3급II)"]
     },
     {
-      "q": "逓/遞",
+      "q": "遞",
+      "sm": "递",
+      "jp": "逓",
       "s": "체",
       "k": "갈마들",
       "m": "hand over, *parcel post; substitute",
@@ -74,6 +78,7 @@ const L50 = {
     },
     {
       "q": "鍛",
+      "sm": "锻",
       "s": "단",
       "k": "불릴",
       "m": "forge",
@@ -127,6 +132,7 @@ const L50 = {
     },
     {
       "q": "詞",
+      "sm": "词",
       "s": "사",
       "k": "말",
       "m": "words. phrase, expression; *parts of speech",
@@ -136,6 +142,7 @@ const L50 = {
     },
     {
       "q": "飼",
+      "sm": "饲",
       "s": "사",
       "k": "기를",
       "m": "raise animals, feed; domesticate",
@@ -199,6 +206,7 @@ const L50 = {
     },
     {
       "q": "盤",
+      "sm": "盘",
       "s": "반",
       "k": "소반",
       "m": "*tray, plate, dish",
@@ -226,6 +234,7 @@ const L50 = {
     },
     {
       "q": "艦",
+      "sm": "舰",
       "s": "함",
       "k": "싸움배",
       "m": "warship",

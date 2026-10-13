@@ -20,7 +20,9 @@ const L36_2 = {
       "lv": ["고등용","3급II(2급)"]
     },
     {
-      "q": "総/總",
+      "q": "總",
+      "sm": "总",
+      "jp": "総",
       "s": "총",
       "k": "합할",
       "m": "collect, overall, *general",
@@ -30,6 +32,7 @@ const L36_2 = {
     },
     {
       "q": "綿",
+      "sm": "绵",
       "s": "면",
       "k": "솜",
       "m": "cotton",
@@ -39,6 +42,7 @@ const L36_2 = {
     },
     {
       "q": "絹",
+      "sm": "绢",
       "s": "견",
       "k": "비단",
       "m": "silk",
@@ -48,6 +52,7 @@ const L36_2 = {
     },
     {
       "q": "繰",
+      "sm": "缲",
       "s": "소",
       "k": "고치 켤",
       "m": "to reel silk from cocoons, *winding",
@@ -56,7 +61,9 @@ const L36_2 = {
       "lv": ["","1급(특급)"]
     },
     {
-      "q": "継/繼",
+      "q": "繼",
+      "sm": "继",
+      "jp": "継",
       "s": "계",
       "k": "이을",
       "m": "continue, maintain; *inherit",
@@ -65,7 +72,9 @@ const L36_2 = {
       "lv": ["고등용","4급(3급)"]
     },
     {
-      "q": "緑/綠",
+      "q": "綠",
+      "sm": "绿",
+      "jp": "緑",
       "s": "록/녹",
       "k": "푸를",
       "m": "green",
@@ -74,7 +83,9 @@ const L36_2 = {
       "lv": ["중학용","6급(5급)"]
     },
     {
-      "q": "縁/緣",
+      "q": "緣",
+      "sm": "缘",
+      "jp": "縁",
       "s": "연",
       "k": "인연",
       "m": "hem, margin; *affinity",
@@ -84,6 +95,7 @@ const L36_2 = {
     },
     {
       "q": "網",
+      "sm": "网",
       "s": "망",
       "k": "그물",
       "m": "net, *netting, web",
@@ -93,6 +105,7 @@ const L36_2 = {
     },
     {
       "q": "緊",
+      "sm": "紧",
       "s": "긴",
       "k": "긴할",
       "m": "tight, *tense",
@@ -111,6 +124,7 @@ const L36_2 = {
     },
     {
       "q": "縛",
+      "sm": "缚",
       "s": "박",
       "k": "묶을",
       "m": "to tie, *truss",
@@ -119,7 +133,9 @@ const L36_2 = {
       "lv": ["","1급(특급)"]
     },
     {
-      "q": "縄/繩",
+      "q": "繩",
+      "sm": "绳",
+      "jp": "縄",
       "s": "승",
       "k": "노끈",
       "m": "string, cord, *straw rope",
@@ -146,6 +162,7 @@ const L36_2 = {
     },
     {
       "q": "後",
+      "sm": "后",
       "s": "후",
       "k": "뒤",
       "m": "behind, after",
@@ -164,6 +181,7 @@ const L36_2 = {
     },
     {
       "q": "幾",
+      "sm": "几",
       "s": "기",
       "k": "조짐",
       "m": "how many; *abacus",
@@ -173,6 +191,7 @@ const L36_2 = {
     },
     {
       "q": "機",
+      "sm": "机",
       "s": "기",
       "k": "틀",
       "m": "machine, *mechanism",
@@ -227,6 +246,7 @@ const L36_2 = {
     },
     {
       "q": "擁",
+      "sm": "拥",
       "s": "옹",
       "k": "낄",
       "m": "hug",
@@ -272,6 +292,7 @@ const L36_2 = {
 	},
     {
       "q": "係",
+      "sm": "系",
       "s": "계",
       "k": "맬",
       "m": "bind, tie up, *person in charge",
@@ -281,6 +302,7 @@ const L36_2 = {
     },
     {
       "q": "孫",
+      "sm": "孙",
       "s": "손",
       "k": "손자",
       "m": "grandchild",
@@ -289,7 +311,9 @@ const L36_2 = {
       "lv": ["중학용","6급(5급)"]
     },
 	{
-		"q": "県/縣",
+		"q": "縣",
+		"sm": "县",
+		"jp": "県",
 		"s": "현",
 		"m": "county, district, *prefecture",
 		"d": "The all-seeing eye 目 of the prefecture has got all the little 小 people down below hooked 乚 into obeying the laws.<br>The modern character for prefecture traces its lineage back to this the old one 県.",
@@ -298,6 +322,7 @@ const L36_2 = {
 	},
     {
       "q": "懸",
+      "sm": "悬",
       "s": "현",
       "k": "달",
       "m": "suspend",
@@ -307,6 +332,7 @@ const L36_2 = {
     },
     {
       "q": "遜",
+      "sm": "逊",
       "s": "손",
       "k": "겸손할",
       "m": "modest",

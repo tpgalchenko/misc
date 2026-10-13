@@ -43,7 +43,8 @@ const L28 = {
       "e": ""
     },
     {
-      "q": "併/倂",
+      "q": "倂",
+      "jp": "併",
       "s": "병",
 	  "k": "아우를",
       "m": "combine, *join",
@@ -61,7 +62,8 @@ const L28 = {
       "lv": ["중학용","3급II(2급)"]
     },
     {
-      "q": "瓶/甁",
+      "q": "甁",
+      "jp": "瓶",
       "s": "병",
 	  "k": "병",
       "m": "jug, bottle, *flower pot",
@@ -71,6 +73,7 @@ const L28 = {
     },
     {
       "q": "宮",
+      "sm": "宫",
       "s": "궁",
 	  "k": "집",
       "m": "palace, temple, *shinto shrine",
@@ -79,7 +82,9 @@ const L28 = {
       "lv": ["고등용","4급II(3급II)"]
     },
     {
-      "q": "営/營",
+      "q": "營",
+      "sm": "营",
+      "jp": "営",
       "s": "영",
 	  "k": "경영할",
       "m": "manage, operate; encampment; *occupation",
@@ -133,7 +138,7 @@ const L28 = {
       "lv": ["","4급II(3급II)"]
     },
     {
-      "q": "塚/冢",
+      "q": "塚",
       "s": "총",
 	  "k": "무덤",
       "m": "cemetry, tomb; *hillock",
@@ -152,6 +157,7 @@ const L28 = {
     },
     {
       "q": "幣",
+      "sm": "币",
       "s": "폐",
 	  "k": "화폐",
       "m": "cash",
@@ -179,6 +185,7 @@ const L28 = {
     },
     {
       "q": "喚",
+      "sm": "唤",
       "s": "환",
 	  "k": "부를",
       "m": "call, invite; *yell",
@@ -188,6 +195,7 @@ const L28 = {
     },
     {
       "q": "換",
+      "sm": "换",
       "s": "환",
 	  "k": "바꿀",
       "m": "exchange, *interchange",

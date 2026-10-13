@@ -12,6 +12,7 @@ const L47 = {
     },
     {
       "q": "組",
+      "sm": "组",
       "s": "조",
       "k": "짤",
       "m": "class, section, department; *association",
@@ -91,7 +92,9 @@ const L47 = {
       "lv": ["고등용","3급(2급)"]
     },
     {
-      "q": "畳/疊",
+      "q": "疊",
+      "sm": "叠",
+      "jp": "畳",
       "s": "첩",
       "k": "겹쳐질",
       "m": "repeat, duplicate; *tatami mat",
@@ -100,7 +103,9 @@ const L47 = {
       "lv": ["","1급(특급)"]
     },
     {
-      "q": "並/竝",
+      "q": "竝",
+      "sm": "并",
+      "jp": "並",
       "s": "병",
       "k": "나란히",
       "m": "in a row, side by side; *row",
@@ -119,6 +124,7 @@ const L47 = {
     },
     {
       "q": "譜",
+      "sm": "谱",
       "s": "보",
       "k": "족보",
       "m": "register, list, *musical score",
@@ -127,7 +133,9 @@ const L47 = {
       "lv": ["고등용","3급II(2급)"]
     },
     {
-      "q": "湿/濕",
+      "q": "濕",
+      "sm": "湿",
+      "jp": "湿",
       "s": "습",
       "k": "젖을",
       "m": "wet, moist, *damp",
@@ -136,7 +144,9 @@ const L47 = {
       "lv": ["고등용","3급II(2급)"]
     },
     {
-      "q": "顕/顯",
+      "q": "顯",
+      "sm": "显",
+      "jp": "顕",
       "s": "현",
       "k": "나타날",
       "m": "manifest, display, evident, *appear",
@@ -145,7 +155,9 @@ const L47 = {
       "lv": ["고등용","4급(3급)"]
     },
     {
-      "q": "繊/纖",
+      "q": "纖",
+      "sm": "纤",
+      "jp": "繊",
       "s": "섬",
       "k": "가늘",
       "m": "fine, delicate, *slender",
@@ -154,7 +166,9 @@ const L47 = {
       "lv": ["","2급(1급)"]
     },
     {
-      "q": "霊/靈",
+      "q": "靈",
+      "sm": "灵",
+      "jp": "霊",
       "s": "령/영",
       "k": "신령",
       "m": "spirits",
@@ -164,6 +178,7 @@ const L47 = {
     },
     {
       "q": "業",
+      "sm": "业",
       "s": "업",
       "k": "업",
       "m": "profession",
@@ -173,6 +188,7 @@ const L47 = {
     },
     {
       "q": "撲",
+      "sm": "扑",
       "s": "박",
       "k": "칠",
       "m": "pound, beat, strike, *slap",
@@ -182,6 +198,7 @@ const L47 = {
     },
     {
       "q": "僕",
+      "sm": "仆",
       "s": "복",
       "k": "종",
       "m": "slave, servant, I",
@@ -209,6 +226,7 @@ const L47 = {
     },
     {
       "q": "異",
+      "sm": "异",
       "s": "이",
       "k": "다를",
       "m": "different, unusual, *uncommon",
@@ -285,6 +303,7 @@ const L47 = {
     },
     {
       "q": "選",
+      "sm": "选",
       "s": "선",
       "k": "가릴",
       "m": "choose, select, *elect",

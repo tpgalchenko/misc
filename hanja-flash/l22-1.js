@@ -47,7 +47,9 @@ const L22_1 =
       "lv": ["중학용","4급(3급)"]
     },
     {
-      "q": "国/國",
+      "q": "國",
+      "sm": "国",
+      "jp": "国",
       "s": "국",
 	  "k": "나라",
       "m": "country",
@@ -57,6 +59,8 @@ const L22_1 =
     },
     {
       "q": "專",
+      "sm": "专",
+      "jp": "専",
       "s": "전",
 	  "k": "오로지",
       "m": "monopolize; gather; speciality",
@@ -65,7 +69,9 @@ const L22_1 =
       "lv": ["고등용","4급(3급)"]
     },
     {
-      "q": "団/團",
+      "q": "團",
+      "sm": "团",
+      "jp": "団",
       "s": "단",
 	  "k": "둥글",
       "m": "ball, mass, lump, *group",
@@ -93,6 +99,7 @@ const L22_1 =
     },
     {
       "q": "園",
+      "sm": "园",
       "s": "원",
 	  "k": "동산",
       "m": "*park, garden, orhard",
@@ -111,6 +118,7 @@ const L22_1 =
     },
     {
       "q": "壇",
+      "sm": "坛",
       "s": "단",
 	  "k": "단(壇), 제단(祭壇)",
       "m": "*podium, altar, arena",
@@ -137,6 +145,7 @@ const L22_1 =
     },
     {
       "q": "庫",
+      "sm": "库",
       "s": "고",
 	  "k": "곳집",
       "m": "armory, treasury, *storehouse",
@@ -154,7 +163,8 @@ const L22_1 =
       "lv": ["중학용","6급II(5급II)"]
     },
     {
-      "q": "悳/德",
+      "q": "德",
+      "jp": "徳",
       "s": "덕",
 	  "k": "클/덕",
       "m": "ethics, morality, virtue",
@@ -164,6 +174,8 @@ const L22_1 =
     },
     {
       "q": "聽",
+      "sm": "听",
+      "jp": "聴",
       "s": "청",
 	  "k": "들을",
       "m": "hear, listen",
@@ -172,7 +184,9 @@ const L22_1 =
       "lv": ["중학용","4급(3급)"]
     },
     {
-      "q": "庁/廳",
+      "q": "廳",
+      "sm": "厅",
+      "jp": "庁",
       "s": "청",
 	  "k": "관청",
       "m": "hall, central room; *government office",
@@ -236,6 +250,7 @@ const L22_1 =
     },
     {
       "q": "認",
+      "sm": "认",
       "s": "인",
 	  "k": "알",
       "m": "recognize, *acknowledge",
@@ -263,6 +278,7 @@ const L22_1 =
     },
     {
       "q": "誌",
+      "sm": "志",
       "s": "지",
 	  "k": "기록할",
       "m": "write down, magazine, *document",

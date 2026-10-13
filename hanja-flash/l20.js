@@ -21,7 +21,8 @@ const L20 =
 			"lv": ["고등용","4급(3급)"]
 		},
 		{
-			"q": "賓/賓",
+			"q": "賓",
+			"sm": "宾",
 			"s": "빈",
 			"k": "손님",
 			"m": "guest, visitor; VIP",
@@ -29,7 +30,9 @@ const L20 =
 			"e": "國賓 국빈 state guest; 貴賓 귀빈 an honored/important guest"
 		},
 		{
-			"q": "歳/歲",
+			"q": "歲",
+			"sm": "岁",
+			"jp": "歳",
 			"s": "세",
 			"k": "해",
 			"m": "year (of age)",
@@ -38,7 +41,9 @@ const L20 =
 			"lv": ["중학용","5급II(4급II)"]
 		},
 		{
-			"q": "県/縣",
+			"q": "縣",
+			"sm": "县",
+			"jp": "県",
 			"s": "현",
 			"k": "매달/고을",
 			"m": "county, district, *prefecture",

@@ -12,6 +12,7 @@ const L46 = {
     },
     {
       "q": "紺",
+      "sm": "绀",
       "s": "감",
       "k": "감색",
       "m": "dark/deep/navy blue",
@@ -30,6 +31,7 @@ const L46 = {
     },
     {
       "q": "謀",
+      "sm": "谋",
       "s": "모",
       "k": "꾀",
       "m": "plan, scheme, *conspire",
@@ -146,6 +148,7 @@ const L46 = {
     },
     {
       "q": "貴",
+      "sm": "贵",
       "s": "귀",
       "k": "귀할",
       "m": "expensive, *precious",
@@ -156,6 +159,7 @@ const L46 = {
    
     {
       "q": "遺",
+      "sm": "遗",
       "s": "유",
       "k": "남길",
       "m": "leave, *bequeath",
@@ -174,6 +178,7 @@ const L46 = {
     },
     {
       "q": "潰",
+      "sm": "溃",
       "s": "궤",
       "k": "무너질",
       "m": "flooding river; militarily defeat; *defile",
@@ -183,6 +188,7 @@ const L46 = {
     },
     {
       "q": "無",
+      "sm": "无",
       "s": "무",
       "k": "없을",
       "m": "no/not. have no, *nothingness",
